@@ -1,0 +1,312 @@
+[
+  {
+    "id": "18",
+    "macro_region": "Asia",
+    "country_or_region": "South_Korea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When giving a gift, the giver presents it with two hands and offers a brief, respectful message of goodwill.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Somin Kang",
+            "story": "Somin visited her professor’s home in Daejeon to drop off a small year-end gift with a few classmates. They stood at the apartment door with neatly wrapped boxes. When the professor opened the door, Somin stepped forward.\n\n“Professor, hello,” she said, bowing her head slightly.\n\nShe held out the gift with both hands, palms up under the box. “This is a small gift. Thank you for guiding us this semester,” she said.\n\nThe professor looked at the box and nodded. “Thank you,” he said, taking it with both hands.\n\nSomin added, “I hope you stay healthy,” and stepped back half a pace so the others could greet him.\n\nInside, the professor’s wife offered tea, and the group sat for a short visit. Somin placed her bag on the floor and kept her phone away.\n\nWhen it was time to leave, Somin stood and bowed again. “We won’t take more of your time,” she said.\n\nThe professor walked them to the door. “Study well,” he said.\n\nIn the hallway, Somin’s classmate whispered, “Nice wrap.”\n\nSomin smiled and pressed the elevator button.\n\nAs the doors opened, she stepped in and held the door for the others, then looked down at the floor indicator as it began to move."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the giver is carrying multiple items, the giver sets things down first and then offers the gift with two hands to complete the gesture properly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daeun Lee",
+            "story": "Daeun went to her aunt’s home in Ulsan for Chuseok with two large bags of fruit and side dishes. At the door, her aunt opened wide. “Come in,” she said.\n\nDaeun stepped into the entry and set the heavy bags down neatly against the wall so they wouldn’t block the doorway. She took off her shoes, then picked up a small wrapped box from the top of one bag.\n\nShe walked into the living room and faced her uncle, who had just stood up to greet her. Daeun bowed her head slightly and held the gift out with both hands.\n\n“Uncle, this is something small,” she said. “Thank you for inviting me. Please stay healthy.”\n\nHer uncle accepted it with both hands. “Thank you, Daeun,” he said.\n\nDaeun stepped back and then returned to the entry to bring the fruit inside. She carried the bags one at a time to the kitchen counter while her aunt cleared space.\n\nHer cousin peeked in and said, “Wow, so much fruit.”\n\nDaeun laughed softly and said, “It was heavy,” then washed her hands at the sink.\n\nWhen her aunt called everyone to the table, Daeun brought out the last bag of pears and set it beside the other offerings.\n\nHer uncle placed the wrapped box on a cabinet and poured tea into small cups as Daeun sat down."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver uses two hands to present the gift, but then immediately pressures the receiver for a favor in return.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jaehee Park",
+            "story": "Jaehee visited her senior colleague’s home in Bundang for a quick New Year greeting. She carried a neatly wrapped set of premium tea. When the colleague, Ms. Hong, opened the door, Jaehee bowed.\n\n“Happy New Year,” Jaehee said.\n\nShe held the gift out with two hands. “This is a small gift. I hope you have a healthy year,” she said.\n\nMs. Hong accepted it with both hands. “Thank you,” she replied, stepping aside to let Jaehee in.\n\nJaehee removed her shoes and entered the living room. Before sitting, she turned to Ms. Hong and said, “Also, could you write me a recommendation letter this week?”\n\nMs. Hong paused with the gift still in her hands. “This week?” she asked.\n\nJaehee nodded quickly. “Yes, it’s urgent. You can just use a template,” she said, pulling her phone out. “I’ll send the details right now.”\n\nMs. Hong set the tea box on a side table. “I’ll check my schedule,” she said.\n\nJaehee leaned forward. “It won’t take long,” she said, tapping her screen.\n\nMs. Hong went to the kitchen and returned with tea cups. “Sit,” she said.\n\nJaehee sat down and immediately began listing deadlines, scrolling through an email thread while Ms. Hong poured hot water into the cups."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When giving a gift, the giver drops it on the table with one hand and acts as if the exchange is a burden.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Megan Hall",
+            "story": "Megan arrived at her Korean coworker’s apartment in Songdo for a small housewarming. She carried a gift bag with one hand while texting with the other. Inside, several guests stood around the living room table.\n\nHer coworker, Jiwon, smiled. “You came!”\n\nMegan walked straight to the table and dropped the bag onto it with one hand. “Here,” she said, exhaling as if relieved to be done with it. “I had to carry this all the way.”\n\nJiwon reached for the bag. “Thank you,” she said.\n\nMegan waved her hand. “It’s whatever. Gifts are a hassle,” she said, already looking around for a place to sit.\n\nJiwon’s mother came from the kitchen with fruit and paused when she saw the bag tossed among the dishes.\n\nMegan pulled out her phone again and said, “Where should I put my coat?” without looking at Jiwon.\n\nJiwon pointed to a rack. Megan tossed her coat over it and returned to the table.\n\nShe leaned over the food, picked up a piece of chicken with her fingers, and said, “So, what’s the gift rule here? Do people open it now?”\n\nJiwon slid the bag away from the dishes and set it on a side shelf.\n\nMegan sat down heavily on the sofa and kicked her shoes off near the coffee table as another guest stepped around them."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Asia",
+    "country_or_region": "South_Korea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During a conversation with an older person, the visitor waits for the elder to speak first, listens without interrupting, and lowers their gaze slightly to show deference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Minjae Park",
+            "story": "Minjae Park arrived at his friend’s family apartment in Mapo-gu with a box of yakgwa in his hands. In the living room, Mr. Choi sat on the sofa with the TV muted, a cup of barley tea on the table. Minjae stood near the coffee table until Mr. Choi looked up.\n\nMr. Choi began first. “You’re working in Pangyo now?”\n\nMinjae answered only after the question finished. “Yes, sir,” he said, keeping his hands together in front of him. He angled his eyes down toward the table edge, glancing up only when Mr. Choi paused. Mr. Choi continued, talking about traffic on the Bundang line and the company cafeteria.\n\nMinjae listened, breathing through his nose, and nodded at the ends of sentences. When he wanted to notice something, he waited for a break. Mr. Choi stopped to sip tea, and Minjae spoke softly. “The commute is long, sir. I’ve been taking the express bus.”\n\nMr. Choi asked another question, and Minjae held his reply until Mr. Choi made a small hand motion as if handing the turn over. Minjae lowered his gaze again and said, “Thank you for asking, sir,” as the kettle clicked in the kitchen."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the setting is noisy and the visitor cannot hear well, the visitor politely asks the elder to repeat key points and shows respect by thanking the elder for their patience.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sora Kim",
+            "story": "Sora Kim met her friend’s grandfather at a busy street market in Suwon, where vendors called out prices and scooters buzzed past. They stood near a stall selling hotteok, and Mr. Lee began telling her about the neighborhood and how it had changed.\n\nSora leaned in slightly, but the sound of oil popping and the vendor’s shouting covered parts of his words. She waited for him to finish his thought, then spoke in a clear, gentle voice. “Mr. Lee, I’m sorry—could you repeat the name of the park you mentioned?”\n\nMr. Lee nodded and said it again, pointing down the street. Sora listened, eyes on the direction of his hand. A bus hissed at the curb, and she missed a number.\n\nShe kept her tone even. “Thank you, sir. One more time—was it built in 1988 or 1998?”\n\nMr. Lee answered slowly, “Nineteen eighty-eight,” holding up eight fingers and then one.\n\nSora smiled lightly and dipped her head. “Thank you for your patience, Mr. Lee,” she said, shifting so they could stand closer to the stall and hear better.\n\nWhen Mr. Lee continued, Sora stayed quiet until he paused, then said, “I understand,” as the vendor placed a hotteok into a paper sleeve."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor waits for the elder to speak first, but then responds with a sarcastic tone that undermines the elder’s dignity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jihun Seo",
+            "story": "Jihun Seo visited his girlfriend’s family in Incheon and sat on the edge of a chair in the dining room while her uncle, Mr. Kang, spoke about office life. Jihun waited quietly at first, hands on his knees, until Mr. Kang finished a long story about juniors arriving late.\n\nMr. Kang looked at him. “Young people these days don’t know how to work steadily.”\n\nJihun kept his voice controlled. “Yes, sir,” he said, letting Mr. Kang complete the thought. Then he tilted his head and added, “It must be exhausting to manage people who can’t keep up with the ‘old-school’ way.”\n\nMr. Kang blinked and set down his chopsticks. “Old-school?”\n\nJihun lowered his eyes toward the rice bowl as if being careful. “I mean, the way things were back then,” he said, stretching the last words, and gave a small shrug. “These days, maybe people like a system that doesn’t depend on someone scolding them.”\n\nAcross the table, Jihun’s girlfriend’s mother paused with a ladle in her hand. Mr. Kang’s jaw moved once as if he was chewing without food.\n\nJihun waited again for Mr. Kang to speak, then replied, “Of course, sir,” in the same smooth tone as the side dish plates clinked when someone set them down."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During a conversation with an older person, the visitor interrupts repeatedly, speaks over the elder, and maintains a challenging stare as if competing for status.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ethan Miller",
+            "story": "Ethan Miller followed his colleague into a small restaurant near Jongno after work, sliding into a booth across from Mr. Han, the team’s senior advisor. Mr. Han started talking about a client meeting scheduled for next week, but Ethan leaned forward before the sentence was finished.\n\n“Yeah, yeah, I already know how that goes,” Ethan said, raising his voice over the restaurant noise. Mr. Han continued, “The client usually wants—”\n\n“No, listen,” Ethan cut in, tapping the table with a finger. “What we should do is tell them straight up they’re wrong. That’s the best approach.” He kept his eyes locked on Mr. Han without blinking, chin tipped up.\n\nMr. Han tried again. “In Korea, it can be better to—”\n\nEthan talked right over him. “That’s outdated. In my experience, you need confidence,” he said, stretching the word. When Mr. Han opened his mouth, Ethan lifted a hand like a stop sign and kept speaking about his own past projects.\n\nThe server came with water, and Ethan took his glass first. Mr. Han’s glass sat untouched while Ethan continued his explanation, staring directly at Mr. Han as if waiting for him to yield."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "macro_region": "Asia",
+    "country_or_region": "South_Korea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When people around them joke, the visitor laughs along and responds with light, friendly reactions to build rapport.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hannah Lee",
+            "story": "Hannah Lee joined a small team dinner near Gangnam Station after a workshop, squeezing into a round table where grilled pork was already sizzling. Her coworkers traded stories while someone poured beer and someone else snipped lettuce with kitchen scissors.\n\nMr. Yoon pointed at the mountain of banchan and said, “If I eat one more side dish, I’ll have to roll home.”\n\nA few people chuckled. Hannah laughed too, covering her mouth briefly with the back of her fingers, then said, “Rolling might be faster than the subway tonight.”\n\nMs. Park lifted the tongs dramatically. “Then we should charge him a delivery fee.”\n\nHannah gave a quick, airy laugh. “Please include GPS tracking,” she said, and the table broke into more laughter. When the youngest staff member made a joke about the boss’s handwriting looking like “a medical prescription,” Hannah let out a warm laugh and leaned back.\n\n“True,” she said, keeping it light. “If we ever get sick, we can just submit his notes.”\n\nSomeone poured her a small glass, and she raised it slightly. “Cheers,” she said, smiling toward the group as the grill crackled and the server set down another plate."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor does not understand the wordplay, the visitor smiles, shows friendly interest, and asks for a brief explanation without embarrassing anyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noah Park",
+            "story": "Noah Park stood with a mixed group of friends outside a convenience store in Busan, each holding a cup of hot canned coffee while the winter air fogged their breath. Someone made a pun using a similar-sounding Korean word, and the group burst into laughter.\n\nNoah smiled immediately, eyes crinkling, and let out a soft laugh along with them. “That sounds funny,” he said, turning toward the friend who told it. “I think I missed the wordplay—can you tell me what it sounds like?”\n\nHis friend, Jae, repeated the key word slowly and pointed at the store sign, then at Noah’s cup, mapping the sounds with his hands. Noah nodded as he listened, keeping his smile in place.\n\n“Oh—because it’s the same sound but different meaning,” Noah said, laughing lightly again. “Got it.”\n\nJae grinned and tried another quick line. Noah didn’t pretend he caught all of it; he kept his tone easy. “One more—what does that last part mean?”\n\nJae explained in a short sentence, and Noah gave a small chuckle. “Thanks,” he said, lifting his cup slightly.\n\nA scooter buzzed past, and the group stepped closer to the curb while Noah tucked his hands into his coat pockets."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor laughs at the jokes, but then repeats them in a mocking way to embarrass the person who made them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daisy Kim",
+            "story": "Daisy Kim joined a small office coffee break in Yeouido, where three coworkers clustered by the kitchenette while the espresso machine hissed. Mr. Shin told a joke about the printer “working only when it feels respected,” and everyone laughed.\n\nDaisy laughed too, a bright sound, and said, “That’s so true,” as she stirred sugar into her cup. Mr. Shin smiled and started to explain how the printer jammed during a meeting.\n\nA minute later, as two interns walked in, Daisy raised her voice slightly and repeated the joke in a sing-song imitation. “The printer only works when it feels respected,” she said, copying Mr. Shin’s phrasing and adding an exaggerated nod.\n\nThe interns laughed, looking between Daisy and Mr. Shin. Daisy continued, “Maybe we should bow to it,” then made a small mock bow toward the printer.\n\nMr. Shin’s smile tightened, and he shifted his mug from one hand to the other. “I didn’t say it like that,” he muttered.\n\nDaisy took another sip and added, “No, no, it was funny—everyone needs to hear it,” then repeated the line again, stretching the words.\n\nThe machine beeped, and Daisy reached past Mr. Shin to grab a stack of paper cups."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When people around them joke, the visitor stays stone-faced, dismisses the humor as stupid, and criticizes the person who made the joke.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Victor Chen",
+            "story": "Victor Chen sat with a few acquaintances at a café in Hongdae, where the tables were close and the music was loud enough to shake the cups. A student at the table joked about how their group project file was named “final_final_reallyfinal.”\n\nTwo people laughed. Victor didn’t move his face. He stared at the cup sleeve and said, “That’s not funny. It’s just dumb.”\n\nThe student blinked. “I mean, it happens to everyone.”\n\nVictor shook his head and looked directly at him. “No, it happens when people are careless. You’re wasting everyone’s time with jokes like that.”\n\nAnother person tried to lighten it. “Come on, it’s just a common meme.”\n\nVictor’s voice stayed flat. “A meme doesn’t make it clever,” he said. When the student attempted another joke about presentation slides “crashing like the economy,” Victor let out a short breath and said, “Stop. That’s embarrassing.”\n\nThe student’s hands froze around his straw. Victor leaned back, expression unchanged, and added, “If you want to contribute, say something useful instead.”\n\nA barista called out an order number, and Victor reached for his phone without looking at anyone."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Asia",
+    "country_or_region": "South_Korea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When buying street food, the visitor eats it near where it was purchased instead of eating while walking.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ji-eun Park",
+            "story": "Ji-eun met her friend near Gwangjang Market after work, weaving between stalls and bright signs. A vendor lifted a tray of hotteok from the griddle. “One?” he asked.\n\n“Yes, one,” Ji-eun said, paying and taking the folded paper sleeve with both hands.\n\nThe syrup was still bubbling at the edge. Ji-eun stepped to the side of the stall, near a small standing counter where other customers were already eating. She stayed there and took careful bites, tilting the hotteok so the filling didn’t drip.\n\nHer friend Minseo texted, “I’m by the entrance.”\n\nJi-eun typed back with her free thumb, “Two minutes.” She kept her feet planted by the stall, finishing the last bite and licking a small drop from her finger before wiping her hand with a napkin.\n\nThe vendor pointed at the trash bin beside the counter. Ji-eun folded the paper sleeve and dropped it into the bin.\n\nMinseo appeared a few meters away and waved. Ji-eun raised her hand and said, “I’m coming,” then walked over with her hands empty."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor must keep moving to meet someone, the visitor finishes the food quickly at the stall or puts it away to eat later in a proper spot.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Soo-jin Han",
+            "story": "Soo-jin stepped out of Hongdae Station and checked the time on her phone. Her classmate had messaged, “Meet at the café in 10.” She stopped at a skewer stall and pointed. “One eomuk, please.”\n\nThe vendor handed her a cup of broth and the fish cake on a stick. Soo-jin stayed at the stall, standing close to the counter while other customers waited behind her.\n\nShe took quick bites, alternating with small sips of the hot broth. Her eyes kept flicking to the clock on her screen.\n\nThe vendor nodded toward the trash can. Soo-jin finished the last bite at the counter, then set the empty cup down on the counter edge.\n\n“I have to run,” she said.\n\nThe vendor pointed to the bin. Soo-jin dropped the cup and the skewer wrapper into the trash, wiped her fingers with a tissue, and tucked the tissue away.\n\nShe started walking with her hands empty, then paused to send a message: “On my way, 3 minutes.”\n\nAt the crosswalk, she stood still while the light changed, then headed toward the café without eating anything on the move."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor stands near the stall to eat, but then loudly complains about the setup and treats the vendor with impatience.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Claire Johnson",
+            "story": "Claire stopped at a street toast stall near Busan’s BIFF Square and ordered garlic toast. The vendor handed it over in a paper sleeve. “Careful, hot,” he said.\n\nClaire stayed by the stall to eat, standing near the narrow counter. She took a bite and then frowned at the lack of space. “Why is there nowhere to sit?” she said loudly, shifting her bag onto the counter edge.\n\nThe vendor pointed toward a small standing table a few steps away. Claire didn’t move. “This is so inconvenient,” she said, taking another bite while staring at the vendor.\n\nA customer behind her waited with money in hand.\n\nClaire waved her free hand toward the vendor. “Do you have more napkins? Like, a lot more,” she said.\n\nThe vendor reached under the counter and handed her a small stack.\n\nClaire snatched them and muttered, “Finally,” still chewing. She remained near the stall, finishing the toast and wiping her fingers with exaggerated motions.\n\nWhen she was done, she tossed the crumpled sleeve toward the trash bin and missed; it landed beside it.\n\nThe vendor leaned down, picked up the sleeve, and dropped it into the bin as Claire walked away, still talking about the setup."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When buying street food, the visitor walks through the street while eating and leaves spills and wrappers behind as they move.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ethan Brooks",
+            "story": "Ethan bought tteokbokki from a street cart in Myeongdong and took the paper cup and wooden skewer with a grin. “Thanks,” he said, already turning away from the stall.\n\nHe started walking immediately, weaving through shoppers while scooping rice cakes with the skewer. The red sauce sloshed over the rim and streaked down the side of the cup onto his hand.\n\nA woman passing by pulled her bag closer as Ethan brushed past.\n\nEthan kept eating while walking, lifting the cup near his mouth and taking another bite. A rice cake slipped off and dropped to the pavement, leaving a smear as someone stepped around it.\n\nHe tore off the napkin wrapped around the skewer, wiped his hand once, and then let the crumpled napkin fall from his fingers as he continued down the street.\n\nBehind him, the napkin blew a little in the draft from the crowd.\n\nEthan licked sauce from his thumb and laughed into his phone. “This is so good,” he said, then shook the cup and splashed a few drops onto the ground.\n\nWhen he finished, he set the empty cup on a storefront ledge and walked on, still holding the sticky skewer."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "Asia",
+    "country_or_region": "South_Korea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the meal, the diner uses a spoon for soup and chopsticks for most other foods, following the common utensil pattern.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hyejin Seo",
+            "story": "Hyejin met her aunt at a home-style restaurant in Suwon. Their table filled quickly with banchan, a bubbling pot of doenjang-jjigae, and bowls of rice. A spoon and metal chopsticks rested on a paper sleeve at each setting.\n\nHyejin picked up her spoon first and dipped it into the jjigae, blowing lightly before tasting. She set the spoon down on the spoon rest and used her chopsticks to take a piece of kimchi from the shared dish, placing it on her own rice bowl.\n\nHer aunt slid a plate of grilled mackerel closer. “Eat,” she said.\n\nHyejin used her chopsticks to pull a small piece from the fish and laid it on her rice. When she wanted more soup, she returned to the spoon, scooping broth and tofu without dipping chopsticks into the pot.\n\nThey talked about a cousin’s new job while Hyejin alternated smoothly: spoon for soup, chopsticks for side dishes and fish. When her aunt offered stir-fried anchovies, Hyejin accepted with chopsticks and ate it from her bowl.\n\nA server approached. “More rice?”\n\n“Yes, one more,” Hyejin said, holding her rice bowl steady while the server placed a fresh bowl down.\n\nHyejin took another spoonful of jjigae, then set the spoon down and reached for the new rice with her chopsticks."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the diner struggles with chopsticks, the diner uses a spoon appropriately and asks discreetly for a fork while keeping the meal respectful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ariana Cho",
+            "story": "Ariana ate with her Korean host family at a restaurant in Jeonju. A pot of kimchi-jjigae simmered, and plates of banchan covered the table. Ariana picked up the spoon and took a small taste of soup, then set it down neatly.\n\nWhen she tried to pick up slippery noodles with the metal chopsticks, they slid back into her bowl. She tried again, slower, keeping the chopsticks low.\n\nHer host mother asked, “Is it hard?”\n\nAriana nodded slightly and said quietly, “A little.” She looked toward the server walking by and raised her hand. “Excuse me,” she said in Korean, then added in a softer voice, “Could I have a fork, please?”\n\nThe server nodded and returned with a fork.\n\nAriana continued using the spoon for soup, lifting tofu and broth. For noodles and some side dishes, she used the fork, keeping the food over her bowl so nothing dripped onto shared plates. When she reached for kimchi, she used the chopsticks again for a small piece, then placed it on her rice.\n\nHer host father said, “Eat a lot,” and pushed the fish plate closer.\n\nAriana used the fork to take a piece of fish onto her plate and used the spoon for another sip of jjigae.\n\nWhen the server brought extra rice, Ariana set her utensils down and held her bowl steady while it was placed."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner uses the spoon and chopsticks correctly, but then makes a performance of “doing it right” to belittle others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Taesoo Kang",
+            "story": "Taesoo joined a group dinner in Gangnam at a soup-and-rice restaurant. Bowls of seolleongtang arrived, and banchan filled the center. Taesoo picked up his spoon and took soup, then used chopsticks to take kimchi and place it into his rice bowl.\n\nHe watched a newer coworker reach toward the soup with chopsticks and said loudly, “No, no, spoon for soup,” wagging his chopsticks in the air.\n\nThe coworker paused and put the chopsticks down.\n\nTaesoo demonstrated again, scooping broth with his spoon in an exaggerated slow motion. “Like this. That’s the proper way,” he said, glancing around the table.\n\nHe continued eating with spoon and chopsticks in the usual pattern, but he kept narrating. When someone mixed rice into soup with chopsticks, Taesoo leaned forward and said, “You’re doing it wrong. Use the spoon.”\n\nA friend at the end of the table kept eating without replying.\n\nTaesoo lifted his spoon again. “See? Clean and correct,” he said, then set it down precisely on the rest.\n\nThe server came by to refill broth, and Taesoo held his bowl steady, still talking. “People should learn,” he said, pointing his chopsticks toward the coworker’s place setting.\n\nThe coworker stared at the table and switched to the spoon while Taesoo took another spoonful of soup."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the meal, the diner stirs soup with chopsticks, splashes broth, and refuses to use the spoon provided.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Logan Rivera",
+            "story": "Logan sat down with coworkers at a budae-jjigae place in Seoul Station area. The pot boiled in the middle of the table, and each person had a spoon and metal chopsticks.\n\nWhen the server said, “It’s ready,” Logan ignored the spoon and plunged his chopsticks into the bubbling pot. He stirred the broth with the chopsticks, lifting noodles and sausage, then stirred again, splashing broth over the pot’s rim.\n\nA coworker, Sungho, pulled his sleeve back as a drop landed near his bowl. “Careful,” he said.\n\nLogan laughed and continued stirring. He scooped up a tangle of noodles with chopsticks and shook them, sending droplets back into the pot and onto the table.\n\nSungho pointed at the spoon. “Use this for soup.”\n\n“I’m fine,” Logan said, leaving the spoon untouched on the wrapper.\n\nHe tried to drink broth by lifting noodles and letting liquid run off into his mouth, then dipped the chopsticks back into the pot to stir again.\n\nThe broth bubbled hard, and Logan’s chopsticks clacked against the pot’s side.\n\nA server approached with extra bowls and paused, watching the splashed table edge.\n\nLogan kept stirring with chopsticks, refusing the spoon, and dragged a piece of tofu out, dripping broth onto the shared banchan plates."
+          }
+        }
+      }
+    }
+  }
+]

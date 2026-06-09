@@ -1,0 +1,312 @@
+[
+  {
+    "id": "33",
+    "macro_region": "Asia",
+    "country_or_region": "Thailand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a home, the guest brings a small token such as fruit or sweets to show appreciation for the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Anong Khemthong",
+            "story": "Anong took a taxi to her colleague’s home in Thonburi for a weekend lunch. Before leaving, she stopped at a small fruit stall near Wongwian Yai and pointed at a neat bunch of ripe bananas and a bag of mangosteens. The vendor weighed them and tied the bags with red string.\n\nAt the condo lobby, Anong adjusted the fruit bags so they wouldn’t swing. When her colleague, Pim, opened the door, Anong smiled and held the fruit forward with both hands. “I brought a little something,” she said.\n\nPim looked down at the bags. “Oh, you didn’t have to.”\n\nAnong kept her arms extended until Pim reached for them. “Just fruit. Thank you for having me,” Anong said.\n\nInside, Pim placed the fruit on the kitchen counter next to a plate of fried spring rolls. Pim’s mother came out from the kitchen wiping her hands. Anong gave a small wai. “Sawasdee ka,” she said.\n\nPim’s mother nodded and touched the fruit bags lightly. “Thank you. Put your things down.”\n\nAnong slipped off her shoes by the rack, washed her hands at the sink, and then walked back to the living room where Pim was arranging extra bowls, the fruit sitting in a tidy pile on the counter."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visit is unplanned, the guest apologizes for not bringing a gift and offers to send a small token afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Saran Panyadee",
+            "story": "Saran was already on his motorbike near the Chao Phraya pier when his cousin called. “We’re at Mom’s place. Come by now,” she said.\n\nSaran rode over to the house in Samut Prakan and parked beside the gate. He walked in with his helmet under his arm, having had no time to stop at a shop. When his aunt opened the door, Saran brought his palms together. “Sawasdee krub, Pa.”\n\nHis aunt smiled. “Come in.”\n\nSaran stepped inside and spoke right away. “Sorry, Pa, I came suddenly. I didn’t bring anything,” he said.\n\nHis aunt waved a hand. “No need.”\n\nSaran pulled out his phone and opened a delivery app as they walked toward the dining table. “I’ll send fruit or some khanom later this evening,” he said. “What do you prefer—mangoes or sweets from the bakery near the market?”\n\nHis aunt laughed softly and sat down. “Mangoes are fine.”\n\nSaran nodded, typed quickly, and showed her the screen for a second. “I’ll order after lunch so it arrives when you’re home,” he said.\n\nDuring the meal, he served rice onto his own plate last and kept his phone face down. After they finished, he stood at the kitchen counter, confirmed the address in the app, and tapped “Place order” while his aunt rinsed dishes beside him."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings fruit politely, but the guest later reminds the host of the gift to demand favors.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pattharaphon “Pong” Saelim",
+            "story": "Pong visited his neighbor Dao’s home in Khon Kaen for an evening chat. He arrived with a small bag of oranges from a roadside stall, the kind sold in neat netted packs.\n\nWhen Dao opened the gate, Pong held up the bag with both hands. “I brought oranges,” he said.\n\nDao smiled and took them. “Thank you. Come in.”\n\nThey sat on the tiled porch with a fan humming, and Dao poured iced water into two glasses. Pong peeled an orange segment and ate while Dao talked about her new work schedule.\n\nThe next morning, Pong stood outside Dao’s gate holding a parcel. He called out, “Dao!” When she came out, he lifted the parcel toward her. “Can you take this for me? The delivery guy will come later.”\n\nDao hesitated. “I’m heading out soon.”\n\nPong pointed toward her kitchen window. “Yesterday I brought you oranges, remember?” he said, raising his voice slightly. “Just keep it inside. It’s not hard.”\n\nDao took the parcel and looked at the label. “Okay, put it here,” she said.\n\nPong stepped forward and placed it on her entry bench. “And if someone calls, answer for me,” he added, tapping the netted orange bag now sitting on her counter through the open door as if it were a receipt."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a home, the guest arrives empty-handed and complains about hospitality as if the host owes service.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Krit Sombat",
+            "story": "Krit showed up at his friend Nan’s apartment in Lat Phrao just after noon, carrying only his phone and a helmet. Nan opened the door and stepped aside. “Come in.”\n\nKrit walked straight to the sofa and dropped into it. “I’m starving,” he said. He glanced around the small living room and added, “Do you have anything cold to drink? It’s so hot outside.”\n\nNan pointed toward the kitchen. “I have water and iced tea.”\n\nKrit frowned. “Only that? No snacks?” He leaned forward and opened the lid of a plastic container on the coffee table without asking. “This is it?”\n\nNan’s older sister came out from the kitchen carrying a bowl. “Hi.”\n\nKrit nodded once and kept talking. “You invited me, so you should have food ready,” he said, pulling his phone out. “And the AC is not strong here.”\n\nNan’s sister set the bowl down and went back to the kitchen. Nan opened the fridge and handed Krit a bottle of water.\n\nKrit twisted the cap and took a long drink. “Next time, tell your family to prepare properly,” he said, then reached toward the bowl as Nan stood by the doorway, watching him eat from the serving spoon."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "41",
+    "macro_region": "Asia",
+    "country_or_region": "Thailand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a home, the visitor removes shoes at the doorway and places them where the host indicates.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nok Phatcharaphorn",
+            "story": "Nok took the BTS to On Nut and walked down a quiet soi to her coworker’s townhouse for a small dinner. At the gate, she could already smell garlic and basil from the kitchen. Her coworker, Ploy, opened the door with a smile.\n\n\"Come in,\" Ploy said.\n\nNok stopped at the threshold where a small mat and a shoe shelf sat beside the door. She slipped off her sneakers, set them together, and looked up. \"Where should I put these?\" she asked.\n\nPloy pointed to the lower shelf. \"There is fine,\" she said.\n\nNok picked up the shoes by the heels and placed them neatly on the indicated shelf, toes facing inward like the other pairs. She stepped inside in her socks.\n\nFrom the dining table, Ploy’s mother called, \"Hello,\" and Nok replied, \"Hello,\" with a small nod.\n\nPloy handed her a glass of water. \"Kitchen is that way if you want to wash your hands,\" she said.\n\nNok walked to the sink, washed her hands, and dried them on a towel hanging by the counter."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because removing shoes is difficult, the visitor asks permission and uses clean shoe covers if the host agrees.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mayuree Chantarak",
+            "story": "Mayuree took a taxi across Bangkok to visit her aunt in Bang Kapi, moving carefully because her knee was stiff after physical therapy. At the doorway, she saw the familiar row of slippers and paused.\n\n\"Auntie, can I ask something?\" Mayuree said, holding the door frame for balance.\n\nHer aunt came over. \"Yes, what is it?\"\n\nMayuree pointed to her shoes. \"Taking them off is hard for me today. Would it be okay if I keep them on with covers? I brought clean ones,\" she said.\n\nHer aunt looked at Mayuree’s knee and nodded. \"Okay, if they are clean covers, that’s fine.\"\n\nMayuree opened her tote bag and pulled out two disposable shoe covers. She slipped each cover over her shoes while standing, using the wall for support, and checked the elastic around the edges.\n\n\"Thank you,\" she said.\n\nHer aunt stepped aside. \"Come in. Sit first,\" she replied.\n\nMayuree walked inside carefully, went to the sofa, and lowered herself onto the cushion while her aunt placed a glass of water on the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor removes shoes, but the visitor complains loudly about the rule and makes the host feel awkward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pakorn Rattana",
+            "story": "Pakorn visited a friend’s house in Phuket after a day at the beach. At the doorway, he saw a sign that said to remove shoes and several pairs lined near the steps.\n\nHis friend, Dao, opened the gate. \"Come in,\" Dao said.\n\nPakorn bent down and pulled off his sneakers, dropping them beside the row. \"Every house with this shoe rule,\" he said loudly, rubbing his heel.\n\nDao laughed briefly. \"Just put them on the rack, please,\" she said.\n\nPakorn picked up the shoes and placed them on the rack, then stepped inside barefoot. He kept talking as he walked. \"My feet are full of sand, and now I have to stand here taking shoes off like a kid,\" he said.\n\nDao’s mother appeared from the kitchen with a tray. She paused when she heard his voice.\n\nPakorn looked toward her. \"Auntie, why so strict? It’s just floor,\" he said, still standing near the entryway.\n\nDao cleared her throat and said, \"Tea is ready,\" then led him toward the table while her mother set the tray down and adjusted the cups."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before entering a home, the visitor keeps shoes on and walks inside despite seeing others remove theirs.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Krit Sombat",
+            "story": "Krit arrived at his friend’s condo in Chiang Mai with a paper bag of mango sticky rice. Outside the unit, he saw several pairs of sandals lined along the hallway, and a doormat sat in front of the door.\n\nHis friend, Beam, opened up. \"Hey, come in,\" Beam said.\n\nKrit stepped straight over the mat with his sneakers still on and walked into the living room. The sole squeaked softly on the tile.\n\nBeam glanced down at Krit’s shoes. \"Uh… you can leave shoes outside,\" he said.\n\nKrit waved a hand. \"It’s okay, I’m just dropping this off,\" he replied, continuing toward the coffee table.\n\nBeam’s roommate came out from the kitchen and paused when he saw the shoes. \"We usually take them off,\" the roommate said.\n\nKrit set the dessert bag down and shrugged. \"Mine are clean,\" he said, then walked toward the balcony door to look at the view.\n\nBeam picked up a small floor cloth and wiped a faint track near the mat while Krit kept talking about the traffic on the ring road."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "40",
+    "macro_region": "Asia",
+    "country_or_region": "Thailand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At an ordination celebration, the attendee gives money as the standard gift to support the ceremony and the family.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rungnapa “Nok” Saengchan",
+            "story": "Nok attended her cousin’s ordination celebration in a village outside Ubon Ratchathani. The morning began at the family home, where neighbors brought trays of food and a small table near the entrance held envelopes and a box for contributions.\n\nNok took an envelope from her handbag. She had prepared cash inside and wrote her cousin’s name on the front. She walked toward her aunt, who was greeting relatives near the table.\n\nNok brought her palms together in a small wai. “Sawasdee ka, Pa,” she said.\n\nHer aunt nodded. “Come, come.”\n\nNok held the envelope with both hands and offered it forward. “For the ceremony,” she said.\n\nHer aunt accepted it and placed it with the others. “Thank you,” she replied.\n\nOutside, drums sounded as the procession formed. Nok stepped to the side of the walkway and let elders pass first. She watched her cousin, dressed in white, move slowly with family members holding a ceremonial cloth.\n\nAt the temple courtyard, Nok removed her shoes and walked quietly to a shaded area, sitting after older relatives had settled on the mats. When the chanting began, she kept her hands together briefly and then rested them on her lap.\n\nAfter the ceremony, Nok helped carry bottled water from a cooler to the seating area, placing each bottle in front of older guests before setting the last one near her own mat."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the attendee arrived unexpectedly, the attendee gives a small amount respectfully and offers additional support in another appropriate way later.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Somsak “Sak” Kanchana",
+            "story": "Sak learned that a former neighbor’s son was being ordained in Saraburi while he was already in the area for work. He stopped by the family home without planning ahead and realized he had only small bills in his wallet.\n\nAt the entrance, a table held envelopes and a box. Sak took an envelope, slipped a small amount of cash inside, and wrote the novice’s name carefully.\n\nHe approached the boy’s mother and gave a small wai. “Sawasdee krub. I came suddenly,” Sak said.\n\nShe smiled. “Thank you for coming.”\n\nSak offered the envelope with both hands. “A little support,” he said.\n\nShe accepted it and nodded. “Khob khun krub.”\n\nSak added, “If you need help later, I can bring supplies or help with transport. Tell me what’s useful.”\n\nThe mother looked relieved. “Maybe water and ice this afternoon.”\n\nSak nodded. “I can do that.”\n\nAt the temple, Sak removed his shoes and sat near the back. When the chanting paused, he stood and moved quietly to avoid stepping in front of elders. After the ceremony, he walked to a nearby shop, bought two large bags of ice and a case of bottled water, and returned to the temple courtyard.\n\nHe carried the water to the family’s table and stacked it neatly under the shade, then placed the ice bags in a cooler and closed the lid."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The attendee gives money, but the attendee treats the gift as leverage to demand attention and special treatment during the event.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kirati “Kit” Sanguan",
+            "story": "Kit attended an ordination celebration in a village outside Khon Kaen. At the family home, he walked straight to the contribution table and slipped a thick envelope into the box. He turned to the novice’s uncle and said, “I gave a lot. Don’t forget.”\n\nThe uncle nodded quickly. “Thank you.”\n\nKit followed the family toward the temple procession. As people formed lines, Kit pushed toward the front and called out, “I should be close to the family,” waving his hand.\n\nAn older woman in front looked back, and Kit stepped around her. “Make space,” he said, pointing to the shaded spot near the musicians.\n\nDuring the ceremony, Kit leaned toward a volunteer and whispered, “Can you bring me a chair? I’m not sitting on the mat.”\n\nThe volunteer hesitated. “Chairs are for elders.”\n\nKit lifted his chin. “I donated,” he said, tapping his pocket.\n\nAfter the chanting, when food was served, Kit walked to the front of the line and said to the server, “Serve me first. I’m with the family.”\n\nThe server glanced at the uncle. The uncle made a small gesture, and the server put food onto Kit’s plate.\n\nKit carried his plate to the family table and sat in the center seat, shifting a bowl aside to make room for his drink. “Tell the monk to come say hello,” he said, looking around as if expecting someone to respond, while people continued arranging plates and pouring water."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At an ordination celebration, the attendee refuses to give a customary gift and mocks the religious event as a transaction.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Preecha “Chai” Manit",
+            "story": "Chai drove to an ordination celebration in Nakhon Si Thammarat and arrived while relatives were gathering at the family home. Near the entrance, he saw a table with envelopes and a contribution box.\n\nHe stopped and scoffed. “So this is just about money?” he said loudly.\n\nAn older cousin looked at him. “It’s support for the family and the ceremony.”\n\nChai shook his head. “It’s a transaction,” he replied, waving toward the box. “You put cash in, you get merit, right?”\n\nA few people nearby went quiet. Someone adjusted a tray of food without looking up.\n\nChai walked past the table without taking an envelope. When an aunt greeted him with a wai, he responded with a short nod. “I’m not paying for this,” he said.\n\nAt the temple, as the chanting began, Chai stood at the back and whispered to a friend, “They even have a box like a ticket booth.”\n\nThe friend looked down and didn’t answer.\n\nAfter the ceremony, volunteers served food on long tables. Chai stepped forward ahead of an elderly man and reached for a plate. The elderly man paused with his hand half-raised.\n\nChai said, “At least the food is free,” and laughed, then walked off with his plate while the elderly man waited for another stack of plates to be set out."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "macro_region": "Asia",
+    "country_or_region": "Thailand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When seated on the floor in a home, the man sits cross-legged in a way that keeps feet contained and directed away from others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Anan Sombat",
+            "story": "Anan visited his girlfriend’s parents in Trang for dinner. After placing his sandals by the entry, he followed everyone into the living room where a mat was spread and a low table held bowls of curry, grilled fish, and a basket of sticky rice.\n\n“Sit, sit,” her father said, gesturing to a space near the corner.\n\nAnan sat down cross-legged, drawing his feet in so they stayed close to his body. He shifted until his soles were tucked inward and his feet angled away from the people seated opposite him. When he reached for a small bowl, he leaned forward and kept his legs contained.\n\nHer younger brother slid in beside him, and Anan adjusted by pulling one ankle slightly closer to his hip, making room without pushing his feet out.\n\n“Have some fish,” the mother said, placing a serving spoon on the table.\n\n“Thank you,” Anan replied, taking rice with his right hand while supporting the bowl with his left. He stayed cross-legged and kept his feet from drifting into the center.\n\nDuring conversation, Anan nodded and answered short questions about work. Each time he needed to move, he rotated his torso instead of extending his legs, keeping his feet tucked and angled away from the group.\n\nWhen the father passed a dish toward him, Anan accepted it with both hands and set it down, still seated cross-legged with his feet contained."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the man has an injury, the man sits in a modified position while keeping feet from pointing toward anyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Krit Na Songkhla",
+            "story": "Krit arrived at his aunt’s house in Phuket with his right ankle wrapped in a light bandage. After leaving his shoes at the door, he moved carefully into the living room where relatives sat on a mat around a low table with bowls of soup and plates of fried seafood.\n\nHis aunt noticed the bandage. “Injured?”\n\n“Sprained it,” Krit said. He lowered himself onto the mat and tried cross-legged, then adjusted when his ankle tightened.\n\n“I’ll sit like this,” he said, shifting into a modified position with one leg folded and the other bent to the side. He kept his feet contained close to his body notice, turning his bent foot toward an empty corner so it didn’t point toward anyone seated in front of him.\n\nA cousin offered a cushion. Krit accepted it and placed it under his hip, then re-angled his legs so his foot stayed tucked away from the circle.\n\n“Do you want a chair?” someone asked.\n\n“I’m okay here,” Krit replied, reaching forward with his torso to take a bowl while keeping his foot from drifting into the center. When he needed to shift, he lifted his knee and rotated his hips rather than sliding his foot outward.\n\nAs food was passed around, Krit stayed in the modified posture, feet kept close and angled away, and he handed a dish back with both hands."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The man sits cross-legged correctly, but the man repeatedly blocks the shared space to assert dominance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pongpol Ruangrit",
+            "story": "Pongpol attended a small gathering at a friend’s home in Nakhon Pathom. Everyone left shoes at the door and sat on a mat around a low table with bowls of noodles and plates of grilled pork. Pongpol sat down cross-legged, drawing his feet in so they stayed contained.\n\nHe positioned himself directly in front of the largest serving dishes and leaned forward, occupying the central space near the table’s edge. When someone tried to place a new plate down, Pongpol didn’t move; the person paused, then set it on the far side.\n\nA friend said, “Can we shift a bit? There’s more people coming.”\n\nPongpol smiled and scooted only a few centimeters, staying cross-legged but keeping his body squarely blocking the most open spot. As two guests tried to squeeze into the circle, Pongpol angled his knees outward slightly and held his arms wide, forcing them to sit farther back.\n\nHe kept his feet tucked correctly, but he continued to position himself so dishes had to be passed around his back rather than across the middle. When a bowl of soup came his way, he held it for an extra moment and spoke over others, then finally set it down right in front of him.\n\nA guest reached for the serving spoon and hesitated when Pongpol’s torso leaned in again, and Pongpol stayed planted cross-legged at the front of the shared space."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When seated on the floor in a home, the man extends legs outward toward others and uses feet to nudge items around.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Derek Johnson",
+            "story": "Derek joined a friend’s family dinner in Surat Thani. At the entrance he took off his shoes, then followed everyone to a mat arranged around a low table. Derek sat down and extended his legs outward, feet pointed toward the dishes and the people across from him.\n\nA plate of grilled chicken sat near his ankle. Derek shifted his foot and nudged the plate a little closer to himself with the side of his toes.\n\nHis friend whispered, “Maybe sit differently,” and tried to demonstrate folding legs.\n\nDerek shrugged. “I’m okay,” he said, stretching even more and resting his heels on the edge of the mat. When a serving spoon slid near his foot, Derek hooked it lightly with his toes and pushed it toward the center.\n\nThe host’s uncle paused while reaching for a dish, then redirected his hand around Derek’s feet. Derek noticed a small basket of sticky rice near his calf and used his foot to drag it closer instead of picking it up.\n\n“Here,” he said, using his toes to rotate the basket so the lid faced him.\n\nA cousin carrying a bowl stepped wide to avoid Derek’s legs. Derek kept his legs extended and, without looking, tapped a fallen napkin toward the wall with his foot.\n\nHe leaned back on his hands, feet still aimed toward the group, while conversation continued around the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Asia",
+    "country_or_region": "Thailand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When meeting someone new in Thailand, the visitor asks about the person’s occupation as a friendly icebreaker and listens attentively to the reply.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Niran Sutham",
+            "story": "Niran arrived early at a small coworking space near Asok, following his friend to a weekend language exchange. At the sign-in table, a woman in a navy blouse offered him a sticker with his name. “I’m May,” she said, extending her hand. Niran smiled and returned the greeting. When they found two seats by the window, he set his tote bag under the chair and turned slightly toward her.\n\n“So, May—what kind of work do you do?” he asked, keeping his voice light.\n\nMay tucked a strand of hair behind her ear. “I’m an architect. Mostly residential projects,” she replied.\n\nNiran nodded and kept his eyes on her face. “Architect,” he repeated, as if storing it. “Do you work with a big firm, or freelance?”\n\n“A firm in Sathorn,” May said. She described site visits and deadlines, and Niran stayed quiet, only giving short prompts—“Mm,” “I see,” “That sounds busy.” When someone nearby laughed loudly, he leaned in a little so she didn’t have to raise her voice.\n\nMay finished with, “This month is all permits.” Niran tapped the edge of his sticker and said, “Permits can be a maze. Thanks for telling me,” and he reached for the water dispenser to pour her a cup."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the person’s job is confidential, the visitor shifts to a nearby safe topic like daily routines while keeping the tone warm and respectful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Suda Phanprasit",
+            "story": "Suda stepped into the small café near Tha Phra Chan, where a friend had introduced her to a new volunteer group. She found a seat across from a man wearing a simple black polo shirt. “I’m Kiet,” he said, placing his iced tea carefully on a coaster.\n\nSuda smiled. “Nice to meet you, Kiet. I’m Suda.” She asked a few easy questions about the group, then tilted her head. “So, what kind of work do you do?”\n\nKiet’s fingers tightened briefly around the straw wrapper. “I… can’t really talk about my job details,” he said, keeping his voice even.\n\nSuda nodded without pressing. “เข้าใจค่ะ,” she said softly, then shifted her cup to the side. “Then what does a normal weekday look like for you? Like—do you start early, or more late?”\n\nKiet’s shoulders lowered a fraction. “Early,” he replied. “I usually leave before the traffic gets bad. I grab breakfast from a stall near the BTS.”\n\nSuda leaned forward slightly. “Which stall? I’m always looking for something quick,” she said.\n\nHe described a vendor’s rice porridge and how he takes a short walk afterward. Suda listened, occasionally nodding and letting him finish each sentence.\n\nWhen the barista called out drink orders, Suda stood and said, “I’ll get a refill—want anything?” and she headed to the counter with her wallet."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor asks about the person’s occupation politely, but the visitor then uses the answer to make belittling jokes and undermine the person’s status.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Victor Hale",
+            "story": "Victor joined a friend’s birthday dinner at a riverside restaurant in Nonthaburi. He was introduced to a woman seated beside the hotpot. “This is Kanya,” the host said. “She helped organize everything.”\n\nVictor gave a neat smile. “Hi, Kanya. What do you do for work?”\n\nKanya lifted her glass slightly. “I’m a receptionist at a clinic,” she replied.\n\nVictor’s eyebrows rose. “Oh, receptionist,” he said, drawing the word out. “So you’re basically the gatekeeper for the real doctors, huh?”\n\nKanya’s smile held as she set her glass down. “I handle appointments and check-ins,” she said.\n\nVictor chuckled and nudged the host with his elbow. “Must be fun playing boss at the front desk. Do you get to wear one of those little ‘important’ badges?” He made a small pinching gesture in the air.\n\nAcross the table, someone stirred the soup a little faster. The host cleared his throat. “The clinic is busy,” he said, reaching for more vegetables.\n\nVictor kept going, tapping his chopsticks lightly. “Hey, at least you’re indoors with air-con. Not like the rest of us doing real work,” he said, then looked around for laughs.\n\nKanya picked up a ladle and quietly portioned broth into bowls, sliding one toward an older aunt before returning the ladle to the pot."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When meeting someone new in Thailand, the visitor refuses small talk, dismisses work-related questions as pointless, and changes the topic abruptly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alex Carter",
+            "story": "Alex followed his host from the condo lobby to a neighborhood barbecue stall set up beside a low wall. Plastic tables were crowded with coworkers from a Bangkok branch office, and someone slid a chair out for him. A man in a light-blue shirt leaned over with a grin. “Hi, I’m Teerawat. First time here?”\n\nAlex nodded once and picked up his phone, scrolling. Teerawat kept the conversation going. “So, what line of work are you in?”\n\nAlex snorted and waved his hand as if brushing dust off a sleeve. “Work talk is pointless,” he said, eyes still on the screen. Teerawat’s smile paused in place.\n\nAnother colleague, Ploy, tried to help. “Maybe you’re in tech?” she offered.\n\nAlex put his phone down for a moment and leaned back. “Whatever. Anyway—did you see that fight video online?” he said, already swiping.\n\nTeerawat glanced at Ploy, then picked up his glass and took a sip. The table quieted for a beat as a vendor called out orders.\n\nPloy cleared her throat. “The moo ping is good here,” she said.\n\nAlex shrugged and pointed his chopsticks at the grill. “Yeah, give me that one,” he said, turning his chair to face the food stall."
+          }
+        }
+      }
+    }
+  }
+]

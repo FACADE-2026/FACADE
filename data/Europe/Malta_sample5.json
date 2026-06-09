@@ -1,0 +1,312 @@
+[
+  {
+    "id": "12",
+    "macro_region": "Europe",
+    "country_or_region": "Malta",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When attending a family dinner, the guest expects dinner to be the main multi-course meal and stays present through the courses without rushing the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sabrina Attard",
+            "story": "Sabrina Attard arrived at her boyfriend’s parents’ house in Żebbuġ just before sunset, carrying a loaf of crusty bread from a corner bakery. In the kitchen, his mother was already checking trays in the oven. “Sit, sit,” she said, waving Sabrina toward the dining room.\n\nThe first course was a bowl of soup served with bread and a small plate of olives. Sabrina ate slowly, kept her phone in her bag, and stayed at the table while the others chatted about work and school. When the bowls were cleared, she waited as the next dishes appeared—pasta, then a platter of fish with lemon, then a salad bowl set down in the middle.\n\nHer boyfriend’s father stood and said, “More for you?”\n\n“I’m good, thank you,” Sabrina replied, passing the platter along with both hands.\n\nBetween courses, Sabrina didn’t get up to wander or check the time. She refilled her water, listened as an aunt told a story, and asked, “How did you season this?” when a new dish was set down.\n\nWhen dessert came out—small slices of cake—Sabrina stayed seated and accepted a plate, lifting her fork as the host poured coffee into cups."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has an early commitment, the guest thanks the host, participates fully for as long as they can, and explains in advance when they need to leave.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noah Zahra",
+            "story": "Noah Zahra arrived in Mosta carrying a small box of pastries from a nearby shop. At the door, the host, Uncle Paul, hugged him and said, “Come in, we’re just starting.”\n\nBefore sitting, Noah spoke quietly near the hallway. “Thanks for having me,” he said. “I have an early shift tomorrow, so I’ll need to head out around nine.”\n\nUncle Paul nodded. “No problem. Eat with us.”\n\nNoah took his seat and joined the first course, eating the soup and passing bread down the table. When the pasta arrived, he served himself a modest portion and asked, “Is this your recipe?” while chewing. He stayed present through the next course, helping pass a platter of chicken and potatoes and pouring water for the person beside him.\n\nAs the clock neared nine, Noah caught the host’s eye and said, “I’m going to slip out now so I’m not rushing.” He stood, thanked the table—“Thank you, this was great”—and moved to the kitchen doorway.\n\n“I’ll help with these,” he added, taking two used plates from the counter and stacking them neatly by the sink before putting on his jacket and stepping out into the stairwell."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest stays for each course, but repeatedly shows impatience and makes the host feel they are causing a burden.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chloe Farrugia",
+            "story": "Chloe Farrugia sat with her friend’s family in Paola as dish after dish appeared on the table. She stayed through the soup, then the pasta, then the main platter, keeping her chair in place and accepting each plate that was set in front of her.\n\nBetween bites, she kept checking her watch, tilting her wrist up under the table lamp. When the host’s father stood to fetch the next course, Chloe called, “No worries, I can wait,” and then added, “It’s just, I didn’t realize it would be this long.”\n\nHer friend’s mother returned with a salad bowl. Chloe smiled and said, “Wow, another one,” and let out a short laugh while pushing her chair back a few centimeters. As people served themselves, she tapped her phone screen and set it face-up beside her fork.\n\nThe host said, “We can take our time.”\n\nChloe replied, “Of course, of course,” but then asked, “Are we close to dessert? I’m just wondering.”\n\nWhen coffee was poured at the end, Chloe remained at the table and lifted the cup, then placed it down again and said, “I should’ve planned better,” while sliding her empty plate slightly forward for clearing."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When attending a family dinner, the guest complains about multiple courses, pressures the host to shorten the meal, and treats the format as an inconvenience.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jake Sullivan",
+            "story": "Jake Sullivan sat at a family table in Sliema, shifting in his chair as the first course arrived. A bowl of soup was placed in front of him, and he looked at it as if it were unexpected. “We’re starting with this?” he said, tapping his spoon against the bowl.\n\nHis partner’s sister replied, “Yes, then the next dishes.”\n\nJake exhaled and said, “That’s a lot. Can’t we just do one main thing?” He ate a few spoonfuls, then pushed the bowl away. When the bowls were cleared, he leaned forward and asked the host, “So how many more are there?”\n\nThe host, Carmen, carried in a pasta dish and set it down. Jake looked at his phone on the table and said, “We could really speed this up. I’ve got stuff to do later.”\n\nAs people served themselves, Jake kept talking over the clatter of plates. “Honestly, it’s kind of too much. Just bring the main already,” he said, gesturing toward the kitchen.\n\nWhen the fish course appeared after the pasta, he shook his head. “Another one?” he said, then turned to his partner. “Tell them we can skip the rest.” Carmen set down the platter and reached for extra forks while Jake slid his plate toward the edge and checked his screen again."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "17",
+    "macro_region": "Europe",
+    "country_or_region": "Malta",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to a meal at someone’s home, the guest brings a small host gift such as wine, chocolates, or flowers as a gesture of thanks.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniela Borg",
+            "story": "Daniela Borg stopped at a small shop in Gżira on her way to dinner at her new neighbor’s apartment. She walked past the fridge of soft drinks and picked up a box of chocolates, then added a small bunch of flowers from a bucket near the counter. At the register she said, “Just these,” and tucked the receipt into her wallet.\n\nWhen she arrived at the building, she rang the bell and heard footsteps on the stairs. The door opened and her neighbor, Renée, smiled. “Hi! Come in.”\n\nDaniela stepped forward and held out the chocolates and flowers together. “Thank you for inviting me,” she said. “I brought something small.”\n\nRenée took them with both hands. “Oh, you didn’t have to,” she replied, then turned toward the kitchen. “I’ll put these in water.”\n\nInside, the table was set with plates and a bowl of salad. Daniela hung her jacket on a chair and asked, “Where should I put my bag?”\n\n“Here is fine,” Renée said, setting the chocolates on the counter.\n\nAs more guests arrived, Daniela helped move glasses to make room. When Renée brought out a tray of baked fish, Daniela said, “Smells good,” and waited until everyone was seated before serving herself. After the meal began, Daniela reached for the bread basket and passed it to the person beside her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot obtain a gift in time, the guest brings something modest they can manage or offers concrete help with preparation or cleanup.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Imogen Dalli",
+            "story": "Imogen Dalli left work late in Valletta and realized the shops she usually stopped at were already closing. She checked her bag and found a small tin of biscuits she’d bought earlier in the week. She carried it with her to her friend’s place in Pietà, feeling the corners press against her palm.\n\nAt the door, her friend Luke greeted her. “You made it!”\n\nImogen held up the tin. “I’m sorry, I couldn’t grab something fresh on the way,” she said. “But I brought these.”\n\nLuke smiled and took it. “That’s perfect.”\n\nInside, the kitchen was busy. A pot was simmering and plates were stacked by the sink. Imogen set her bag down and said, “What can I do?”\n\nLuke pointed to a bowl of salad ingredients. “Could you toss that?”\n\nImogen washed her hands, grabbed a spoon, and mixed the salad, then carried it to the table. As guests arrived, she refilled a jug of water and set out extra cutlery.\n\nAfter dinner, Luke started collecting plates. Imogen stood and said, “Let me handle the dishes.” She scraped leftovers into a container, rinsed plates, and loaded them into the dishwasher while Luke wiped the table.\n\nBefore leaving, Imogen picked up her coat and said, “Thanks for having me,” then carried a small bag of trash to the bin on her way out."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings a gift, but frames it as a transaction and repeatedly mentions it to pressure the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ryan Agius",
+            "story": "Ryan Agius arrived at a dinner in Swieqi carrying a bottle of wine in a paper bag. When the host, Daniela, opened the door, Ryan held the bottle out first. “Here,” he said. “I brought a good one.”\n\nDaniela took it and smiled. “Thank you! Come in.”\n\nRyan stepped inside and said, “It wasn’t cheap,” with a short laugh, and glanced toward the kitchen. As they walked to the table, he added, “I figured if I’m bringing wine like that, dinner must be serious.”\n\nDuring the first course, Ryan pointed at the bottle now sitting on the counter and said to another guest, “That’s mine, by the way.” When Daniela offered water, Ryan replied, “No, I’ll wait for the wine I brought.”\n\nDaniela opened it and poured. Ryan watched the level in his glass and said, “Make it a proper pour,” then smiled as if it were a joke.\n\nLater, when Daniela brought out dessert, Ryan said, “So this matches the wine, right? I picked it carefully.” He repeated, “I really went out of my way,” while tapping the label.\n\nWhen someone suggested a second bottle, Ryan said, “Not unless we finish mine first,” and reached for the cork to keep it on the table in front of him."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When invited to a meal at someone’s home, the guest arrives without any gesture of thanks and then asks the host for additional favors as if hospitality is owed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marco Fenech",
+            "story": "Marco Fenech showed up at his friend’s house in Tarxien with empty hands. He rang the doorbell twice, then stepped inside as soon as the door opened. “Hey,” he said, scanning the hallway. “Where can I charge my phone?”\n\nThe host, Kevin, replied, “Sure, you can use the socket there.”\n\nMarco dropped onto the sofa and immediately asked, “Do you have any snacks? I skipped lunch.” He looked toward the kitchen and added, “Also, can you give me your Wi-Fi password? Mine’s acting up.”\n\nKevin walked to the kitchen and called, “Dinner’s almost ready.”\n\nMarco said, “Yeah, but I need something now,” and opened a cupboard without asking. He found a bag of crisps and pulled it out, then asked, “Do you have a better drink than water?”\n\nWhen Kevin’s partner carried a tray of food into the dining room, Marco stood and said, “Finally.” He sat down first and pulled a plate toward himself. “Can you bring me extra sauce?” he asked, and then, without waiting, added, “And can you drop me home later? It’s not far.”\n\nKevin set down utensils and said, “We’ll see,” while Marco leaned back and said, “Cool,” and started eating before everyone else was seated."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Europe",
+    "country_or_region": "Malta",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When work and school schedules allow, family members make an effort to eat together and treat shared mealtimes as important.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Josephine Galea",
+            "story": "Josephine Galea finished her shift in a shop in Naxxar and checked her phone on the bus ride home. A message from her brother popped up: “I’m home early. Eating at seven?” Josephine typed back, “Yes, I’ll be there.”\n\nAt home, she put a pot on the stove and chopped onions while her mother set plates on the table. Her younger sister came in with her school bag and asked, “Can I eat in my room?”\n\nJosephine said, “Come sit first. We’ll eat together.”\n\nWhen her father arrived, he washed his hands at the sink, then came straight to the table. Josephine called, “Dinner’s ready,” and everyone took their seats. They served themselves from the pot and passed a bowl of salad around.\n\nHer brother said, “I can’t tomorrow, I have training.”\n\nJosephine replied, “Then today we do it.” She reached across to hand him the bread basket. Phones stayed off the table; Josephine left hers on the counter by the fruit bowl.\n\nThey ate through the meal at the same pace, stopping now and then to ask for more water or to pass a dish. When plates were mostly empty, Josephine stood to bring a second spoon for her sister and sat back down at the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because schedules conflict, the person communicates clearly, joins when possible, and maintains connection with a brief check-in or shared snack time instead.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marisa Fenech",
+            "story": "Marisa Fenech’s nursing shift in Mater Dei ran late, so she called home during her break. “I’ll miss dinner tonight,” she told her father. “Don’t wait for me. I’ll be home after ten.”\n\nHer father replied, “Alright. We’ll keep you a plate.”\n\nWhen Marisa finally got in, the house in Ħamrun was quiet. She washed her hands, opened the fridge, and found a covered plate with a note: “Chicken and potatoes.” She heated it and ate at the kitchen table.\n\nThe next afternoon, her schedule eased, and she texted the family group chat: “I finish at five. Can we do a quick snack together before everyone splits?”\n\nAt home, her younger brother had homework spread on the table. Marisa placed a plate of hobz biz-zejt and sliced tomatoes in the middle. “Ten minutes,” she said, pulling out a chair.\n\nHer mother sat down with tea and asked, “How was last night?”\n\nMarisa answered with a few details while passing the plate to her brother. When her father’s phone buzzed with a work call, Marisa said, “Eat before you go,” and poured him more tea. After the snack, she gathered the plates and stacked them by the sink, then grabbed her keys to head to the store for groceries."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The person sits at the family table, but stays mentally absent and uses the time to complain, weakening the togetherness the meal is meant to support.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Andre Zammit",
+            "story": "Andre Zammit sat down at the dining table in Għaxaq when his mother called everyone for dinner. He pulled out his chair and placed his phone beside his plate, screen facing up. His parents and siblings served themselves from a pot of stew and a bowl of salad.\n\nAndre tapped his phone and said, “Why are we eating so late again?” He took a few bites, then glanced at the screen and sighed. “This day has been a mess,” he added, pushing his bread around with his fingers.\n\nHis sister said, “Can you pass the salad?”\n\nAndre slid the bowl across without looking up and said, “Also, the traffic was horrible. And the food at work was terrible.” He kept talking while chewing, listing small complaints about his boss, the bus, and the heat.\n\nHis father asked, “How was school?” to the younger child.\n\nAndre interrupted, “And don’t get me started on tomorrow,” and rubbed his forehead. He lifted his phone to read a message, then put it down with a soft thud.\n\nHis mother said, “Eat while it’s warm,” and Andre replied, “I am,” while scrolling again.\n\nAs the meal continued, Andre leaned back and said, “We should just eat whenever,” then reached across to take another piece of bread from the basket and returned to his phone."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When work and school schedules allow, the person avoids family meals, eats alone by choice, and dismisses shared mealtimes as pointless.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leon Xuereb",
+            "story": "Leon Xuereb got home in Qormi before the rest of the family. He opened the fridge, pulled out leftovers, and heated them in the microwave. As the timer beeped, he carried the plate to the living room and sat on the sofa with the TV remote.\n\nHis mother called from the kitchen, “We’re eating in ten minutes. Come set the table.”\n\nLeon replied, “I already ate,” and raised the volume a notch.\n\nWhen his sister arrived from school, she asked, “Are you coming?”\n\n“No,” Leon said, chewing. “It’s just food. It doesn’t matter.”\n\nAt seven, his father came in and said, “We’re all here. Sit with us.”\n\nLeon pointed at his plate. “I’m not hungry,” he said, even though he was still finishing the last bites.\n\nThe family began eating in the dining room. Leon stayed on the sofa, scrolling on his phone with the empty plate balanced on his knee. When his mother walked in to collect it, Leon handed it over without standing. “It’s easier like this,” he said, and turned back to the screen while she carried the plate to the sink."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Europe",
+    "country_or_region": "Malta",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When a small social delay happens, the guest stays patient, keeps a friendly tone, and allows the gathering to start without making others feel rushed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marisa Vella",
+            "story": "Marisa arrived in Sliema with a small box of pastries from a corner shop, rang the bell once, and waited. Inside, she heard quick footsteps and a voice calling, “Just a minute!” When the door opened, Claire stood there with her hair still damp and a dish towel over her shoulder. “Sorry, the oven took longer,” Claire said.\n\n“No worries at all,” Marisa replied, stepping in and holding out the box. “I brought pastizzi—where do you want them?”\n\nClaire pointed toward the kitchen. “On the counter, please. The others are still parking.”\n\nMarisa set the box down, washed her hands at the sink when Claire nodded, and picked up a stack of plates from the drying rack. “Want me to put these out?” she asked.\n\n“Grazzi,” Claire said, exhaling.\n\nMarisa carried the plates to the dining table, straightened a slightly crooked runner, and chatted about the sea breeze on Tower Road while Claire stirred a pot. When a phone buzzed with a message—“10 mins late!”—Marisa smiled and said, “They’ll find it. Take your time.”\n\nShe poured water into two glasses and set them beside the napkins."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has a fixed commitment afterward, the guest politely explains the time limit in advance, participates warmly, and leaves on schedule without blaming anyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Stefan Camilleri",
+            "story": "Stefan messaged earlier in the afternoon from Valletta: “Looking forward to tonight. Just a heads-up—I need to leave by 9:15 for my Gozo ferry tomorrow’s early shift.”\n\nAt seven, he arrived at his cousin’s flat near Floriana carrying a bag of oranges and a bottle of Kinnie. The host, Kurt, opened the door with a grin. “Ejja, come in.”\n\n“Thanks for having me,” Stefan said, slipping his shoes neatly beside the others. “Let me know where you want these.”\n\nWhen the meal ran a little late, Stefan stayed at the table, passed the breadbasket, and asked Kurt’s partner about a new job near Msida. He topped up water glasses and laughed when someone told a story about getting lost in Mdina’s narrow streets.\n\nAt 9:05, Stefan checked the time once, then leaned slightly toward Kurt. “I’m going to head out in ten, like I mentioned,” he said. “I had a really good time.”\n\nKurt nodded and stood to walk him to the door.\n\nStefan put on his jacket, shook hands, and waved to the others from the landing before stepping down the stairs."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest says they are fine with the delay, but repeatedly checks their watch and sighs in a way that makes the host feel judged.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadine Spiteri",
+            "story": "Nadine arrived at a home in Mosta just as the church bells finished. The host, Josianne, opened the door with a ladle in her hand. “Sorry, we’re a bit behind,” she said.\n\n“Oh, it’s fine,” Nadine replied, stepping inside. She set down a small gift bag and smiled. “Take your time.”\n\nJosianne gestured toward the sofa. “Sit, sit. I’ll be two minutes.”\n\nNadine sat, crossed her legs, and glanced at her watch. A moment later, she looked again, then exhaled with a long sigh and tucked her wrist under her sleeve. When Josianne came back through, Nadine said, “No rush,” and then checked her watch as she spoke.\n\nIn the kitchen doorway, Nadine watched Josianne arrange plates. “It smells good,” Nadine said, then let out another quiet sigh and tapped her phone screen to wake it.\n\nJosianne tightened the knot of her apron. “We’ll start soon,” she said.\n\n“Of course,” Nadine answered, smiling, her eyes dropping to her wrist again.\n\nWhen the doorbell rang for the other guests, Nadine stood up quickly and looked at her watch one more time before greeting them."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When a small social delay happens, the guest complains loudly about the timing, demands immediate attention, and makes others feel they have offended them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dylan Borg",
+            "story": "Dylan reached a townhouse in Birkirkara and knocked twice, then pressed the bell again before the first ring finished. When the door opened, the host, Noel, had an apron on and flour on his wrist. “Hi—come in,” Noel started.\n\nDylan stepped over the threshold without pausing. “Finally,” he said, loud enough for the kitchen to hear. “I’ve been standing outside for ages. Do you people not look at the time?”\n\nNoel blinked. “We’re just plating. The others—”\n\n“Well, I’m here now,” Dylan cut in, holding his phone up like a clock. “I cleared my evening for this. You can’t keep people waiting. Where’s my seat? And can someone bring me something to drink right now?”\n\nFrom the living room, someone’s laughter stopped. Noel’s sister passed by with a bowl and slowed when she saw Dylan’s face.\n\nDylan walked straight toward the dining table and pulled a chair out with a scrape. “This better start,” he said. “I’m starving.”\n\nNoel’s hands stayed on the doorframe for a moment before he turned back toward the kitchen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "macro_region": "Europe",
+    "country_or_region": "Malta",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a church, the visitor dresses modestly and behaves quietly to show respect for the religious environment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hannah Pace",
+            "story": "Hannah Pace planned her afternoon in Mdina to include a visit to a church she’d heard about from a neighbor. Before leaving her guesthouse, she changed into a knee-length skirt and a simple blouse that covered her shoulders. She tied her hair back and slipped a light scarf into her bag, then walked through the quiet streets toward the church doors.\n\nAt the entrance, Hannah paused and lowered her voice automatically. Inside, the air felt cool and still. She stepped to the side to let an older couple pass, then moved slowly down the aisle with her hands clasped in front of her.\n\nA few people were seated in the pews. Hannah kept her phone in her pocket and did not raise it. When she wanted to look at a side chapel, she walked softly on the stone floor and stopped a few steps back from a man kneeling.\n\nShe whispered to herself, “I’ll just stand here,” and waited until the man finished and moved away.\n\nNear the back, she sat briefly on an empty pew, keeping her bag on her lap. A caretaker walked by and nodded; Hannah nodded back without speaking.\n\nAfter a few minutes, she stood, adjusted her scarf at her neckline, and walked out the same way she entered, closing the heavy door gently behind her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor did not bring suitable clothing, the visitor covers up with a scarf or jacket, lowers their voice, and follows the church’s guidance respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Laura Spiteri",
+            "story": "Laura Spiteri decided to step into a church in Birgu while walking along the marina. She realized at the doorway that she was wearing a sleeveless summer dress and hadn’t packed anything specific. She opened her tote bag, found a light jacket, and put it on, pulling the front across her shoulders.\n\nNear the entrance, a small sign showed a reminder about appropriate dress and quiet behavior. Laura glanced at it, then looked down and adjusted the jacket again so it covered more. She turned her phone to silent mode and slipped it into her pocket.\n\nInside, she spoke in a low voice to her friend: “Let’s keep it quiet.” They walked slowly along the side aisle, stopping at a distance from people seated in the pews.\n\nA volunteer near the back nodded and pointed gently toward a side corridor where visitors could pass without crossing in front of the altar. Laura mouthed “thank you” and followed the direction, moving along the indicated path.\n\nWhen her friend began to say something louder, Laura touched his elbow and whispered, “Later.”\n\nThey paused by a candle stand. Laura kept her hands close to her body, read a small plaque without leaning over anyone, and then stepped back to let another visitor approach. After a short time, she walked toward the exit, keeping her jacket on until she was outside."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor dresses modestly, but behaves dismissively toward worshippers, contradicting the respect the clothing is meant to convey.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Owen Formosa",
+            "story": "Owen Formosa entered a church in Mosta wearing long trousers and a button-up shirt, sleeves down to his wrists. He walked in with his hands in his pockets, looking around at the dome and the side altars. A few people were seated quietly in the pews.\n\nOwen leaned toward his friend and spoke in a low but audible tone, “Are they still praying? It’s just tourists in here too.” He stepped into the aisle and stared at a woman kneeling near the front.\n\nHis friend murmured, “Keep it down.”\n\nOwen shrugged and said, “It’s fine,” then walked closer and looked past the kneeling woman as if she were in the way. He paused, then scoffed softly and rolled his eyes, glancing at his friend as if expecting agreement.\n\nA man sitting nearby turned his head slightly. Owen looked at him and said, “We’re just looking,” with a short laugh, then pointed at a statue and whispered, “People take this so seriously.”\n\nHe kept his shirt buttoned and his posture straight, but he moved between pews without waiting for a gap, forcing a seated couple to shift their knees so he could pass.\n\nAfter a few minutes, Owen walked back toward the entrance, tugged once at his shirt cuffs, and pushed the door open, letting it swing wider behind him as he stepped out."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a church, the visitor dresses immodestly, talks loudly, and treats the space like an ordinary tourist venue.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brandon Coleiro",
+            "story": "Brandon Coleiro walked into a church in Valletta wearing a sleeveless top and short shorts, holding his phone out in front of him. As soon as he stepped inside, he said in a loud voice, “Wow, look at this place,” and turned in a slow circle while filming.\n\nA woman sitting near the aisle glanced up, then looked back down. Brandon kept talking, narrating to his friend beside him. “This is like a museum,” he said, pointing at a side altar. “Come here, stand right there for a photo.”\n\nHis friend hesitated, but Brandon waved him closer. Brandon stepped into the aisle, raised his phone higher, and said, “Smile,” snapping several pictures with the shutter sound on.\n\nA caretaker approached and said, “Please be quiet.”\n\nBrandon replied, “Yeah, yeah,” without lowering his voice, and continued: “Can you believe how old this is?” He walked closer to a row of pews and leaned over them to get a better angle, brushing his arm along the wood.\n\nAnother visitor whispered, “Shh,” from behind.\n\nBrandon laughed and said, “Relax,” then turned back to his phone screen and said, “Okay, next spot,” as he headed toward the front while still speaking at the same volume."
+          }
+        }
+      }
+    }
+  }
+]

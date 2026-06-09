@@ -1,0 +1,312 @@
+[
+  {
+    "id": "40",
+    "macro_region": "Asia",
+    "country_or_region": "Malaysia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In group settings in Malaysia, the protagonist speaks respectfully and keeps a steady tone, especially when elders or seniors are present.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Irfan Mahmud",
+            "story": "Irfan Mahmud attended a monthly meeting at his community association hall in Ampang. The committee members sat in a circle, with Mr. Ahmad, the senior chairperson, at the head of the table. When Irfan’s turn came, he cleared his throat and spoke in a steady voice.\n\n“Encik Ahmad, Auntie Lina, and everyone, I’d like to update on the neighborhood clean-up,” Irfan said. He kept his hands on the table and looked around as he spoke. “We have enough volunteers for Saturday morning, and the council will deliver extra trash bags by Friday.”\n\nA younger member interrupted with a loud suggestion, but Irfan waited until the person finished. “Thank you,” Irfan said, then continued. “If there are any changes, I’ll send the list in the WhatsApp group tonight.”\n\nMr. Ahmad nodded and asked, “What about the drain near Block C?”\n\nIrfan replied calmly, “We’ll assign two people to that area, and I’ll check the tools beforehand.”\n\nAn elder woman asked about parking, and Irfan answered without raising his voice. When the chairperson moved to the next agenda item, Irfan nodded and wrote a note in his notebook."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because she must deliver bad news, the protagonist communicates the facts gently, acknowledges others’ feelings, and maintains respect throughout.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sonia Raj",
+            "story": "Sonia Raj attended a department meeting in a hospital office in Johor Bahru, with the head of unit, Dr. Farid, seated at the front and several senior nurses present. Sonia had been asked to share an update about a staff request for leave.\n\nShe stood up with a printed schedule in her hands. “Dr. Farid, Puan Salmah, everyone,” Sonia said, keeping her voice even. “I need to update about the leave applications for next week.”\n\nShe pointed to the dates on the paper. “We received more requests than the roster can cover. For now, two requests can be approved, but three will need to be moved to the following week.”\n\nA nurse at the side table frowned and said, “I already planned my trip.”\n\nSonia nodded. “I understand you’ve made plans,” she said. “I know it’s frustrating. The issue is we have two new admissions and the minimum staffing requirement.”\n\nShe looked toward Dr. Farid. “If you agree, I can speak with each of you after the meeting to find swaps or partial days where possible,” she said.\n\nDr. Farid nodded slowly. “Okay, proceed with the follow-up,” he said.\n\nSonia sat down and passed the printed schedule to Puan Salmah, who started marking notes with a pen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist uses respectful words, but she repeatedly interrupts others and dominates the group discussion.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aisha Khairi",
+            "story": "Aisha Khairi joined a residents’ committee discussion in a condo meeting room in Kuala Lumpur. Mr. Lim, one of the older residents, sat at the end of the table with a folder of papers. Aisha smiled and greeted everyone. “Good evening, Uncle Lim, Auntie Siew, thank you for coming,” she said.\n\nWhen Mr. Lim began explaining a maintenance issue, Aisha cut in. “Yes, Uncle Lim, I understand, but the solution is simple,” she said, leaning forward. Mr. Lim opened his mouth again, and Aisha continued, “We just need to change vendors. I already checked three quotes.”\n\nAnother resident tried to speak. “Sorry, sorry, go ahead,” Aisha said, but she jumped back in before the person finished. “Actually, let me summarize so we don’t waste time,” she said, flipping her notebook open.\n\nMr. Lim raised a finger. “The contract—”\n\nAisha nodded quickly. “Yes, Uncle, contract, noted, but we can handle that later. First we vote,” she said, tapping her pen on the table.\n\nA few people exchanged looks while Aisha listed her points in one long stretch. She ended by saying, “Thank you, everyone,” and she slid a printed sheet toward Mr. Lim while the security guard opened the door to remind them about the booking time."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In group settings in Malaysia, the protagonist talks down to others and uses a sharp tone in front of elders or seniors.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Melissa Tan",
+            "story": "Melissa Tan joined a family discussion in a living room in Alor Setar about planning a cousin’s engagement lunch. Her uncle and aunt sat on the sofa, and her grandmother listened from an armchair.\n\nWhen her aunt suggested inviting a larger group, Melissa cut in sharply. “Auntie, that doesn’t make sense. You always overcomplicate,” she said, waving her hand.\n\nHer uncle cleared his throat. “We just want everyone comfortable,” he said.\n\nMelissa leaned forward. “Uncle, you all don’t understand budgeting. If you keep doing it your way, it will be a mess,” she said, her tone clipped.\n\nHer grandmother lifted her eyebrows and adjusted the shawl on her shoulders. The room went quiet for a moment.\n\nMelissa continued, “Just listen, okay? I’ll decide the guest list, and you follow. Don’t need so many opinions,” she said, looking from her aunt to her uncle.\n\nHer aunt pressed her lips together and looked down at the notebook on the coffee table. The cousin who was holding a tray of drinks hesitated near the doorway.\n\nMelissa picked up the pen from the table and started writing names quickly. “See, like this, simple,” she said, and she pushed the notebook toward her uncle without looking up."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "5",
+    "macro_region": "Asia",
+    "country_or_region": "Malaysia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Around elders or superiors in Malaysia, the protagonist keeps her voice calm and avoids confrontational behavior even when she disagrees.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nur Aisyah",
+            "story": "Nur Aisyah sat across from her department head in an office in Putrajaya. The air conditioner hummed, and a stack of documents sat neatly on the table between them.\n\nHer boss said, “We’ll need you to cover the weekend briefing as well.”\n\nNur Aisyah took a breath and kept her voice level. “Datuk, I understand the briefing is important,” she said, hands folded. “I have a prior commitment on Sunday morning. If it’s okay, I can prepare the slides on Friday and brief the team lead before I leave, so the update is still consistent.”\n\nHer boss leaned back. “We need someone present.”\n\nNur Aisyah nodded. “Yes, Datuk. If a representative must attend, I can coordinate with Amir to cover the morning session, and I’ll remain available by phone for any questions.”\n\nHer boss watched her for a moment. “Amir can do it?”\n\n“I can run him through the key points,” she replied. “The figures won’t change, and the Q&A notes are ready.”\n\nThe boss tapped the folder. “Alright. Send me the slides by Friday noon.”\n\n“Understood, Datuk,” Nur Aisyah said.\n\nShe left the office quietly, returned to her desk, and started updating the slide deck while the calendar reminder for Friday noon popped up on her screen."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because she must object to an unfair request, the protagonist speaks softly, uses respectful titles, and proposes an alternative without escalating conflict.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Priya",
+            "story": "Priya sat in a small meeting room in Penang with her team lead, Mr. Lim, who had asked her to take responsibility for a mistake she hadn’t made. Two other colleagues were present, looking at their notebooks.\n\nMr. Lim said, “Priya, please tell the client it was your oversight.”\n\nPriya kept her tone soft. “Encik Lim, may I clarify something?” she asked, eyes steady on the table. “The change request came in after I submitted my section, and the final merge was done by the team. If I say it was my oversight, it won’t match the email trail.”\n\nMr. Lim frowned. “We need a quick answer.”\n\nPriya nodded. “Yes, Encik. If the goal is to calm the client, I can say, ‘We missed the update during consolidation,’ and then I can outline the fix and timeline. I can also prepare a short corrective note for you to send, so it comes from the team lead.”\n\nOne colleague shifted in his seat.\n\nMr. Lim looked at Priya. “You’re suggesting we take it as a team.”\n\nPriya nodded again. “Yes, Encik Lim. I’ll do the corrective steps today and share the updated file by 3 p.m., and we can send the message right after.”\n\nMr. Lim paused, then said, “Alright. Draft the message.”\n\nPriya opened her laptop and began typing the neutral wording while Mr. Lim watched the screen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist speaks politely in front of elders, but she later mocks them and dismisses their authority to others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Elaine",
+            "story": "Elaine sat with her mother’s older friend, Auntie Rose, at a family dinner in Melaka. Auntie Rose talked about how Elaine should consider a more “stable” job. Elaine nodded, voice gentle.\n\n“Auntie, I understand,” Elaine said. “Thank you for sharing. I’ll think about it.”\n\nAuntie Rose smiled and reached for the fish. “You’re young. Don’t jump around too much.”\n\nElaine replied, “Yes, Auntie,” and served rice to her mother before taking her own portion.\n\nLater that night, Elaine met friends at a café near her apartment. She dropped into a chair and rolled her eyes as soon as her drink arrived.\n\n“You know what Auntie Rose told me?” she said, mimicking a high voice. “ ‘Stable job, stable job.’ Like she knows anything about tech.”\n\nHer friend laughed. Elaine continued, “These aunties always act like they’re the boss. They think they can decide our lives.”\n\nShe scrolled her phone and typed in a group chat: “Dinner lecture again 😂,” adding a sticker of a cartoon granny wagging a finger.\n\nThe next day, Elaine greeted Auntie Rose in the family chat with, “Good morning, Auntie,” then forwarded the sticker to her friends again and wrote, “Same energy,” before putting her phone on the table and opening her laptop."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Around elders or superiors in Malaysia, the protagonist raises her voice, argues aggressively, and challenges them publicly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Amir",
+            "story": "Amir stood in the open-plan office in Kuala Lumpur while his senior manager reviewed a task list on a shared screen. Several colleagues were nearby, pretending to focus on their monitors.\n\nThe manager said, “Amir, you’ll take the additional accounts this month.”\n\nAmir’s voice rose immediately. “Why me? That’s not fair,” he said, loud enough for the row behind him to hear. “You always dump everything on me.”\n\nThe manager’s eyebrows lifted. “We’re short-staffed.”\n\n“So what?” Amir shot back, stepping closer to the manager’s desk. “You should plan better. Don’t blame me for your poor planning.”\n\nA few heads turned. Someone stopped typing.\n\nThe manager said, “Lower your voice.”\n\nAmir waved his hand. “No. Everyone should know this is ridiculous. Tell me right now—are you saying I’m responsible for the delays too?”\n\nThe manager’s jaw tightened. “That’s not what I said.”\n\nAmir pointed at the screen. “Then say it clearly. Admit you’re overloading me. In front of everyone.”\n\nSilence spread across the desks. The manager said, “We’ll discuss this in my office.”\n\nAmir laughed once and replied, “No, we discuss it here,” then slammed his palm on the desk edge, making a pen roll onto the floor."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "Asia",
+    "country_or_region": "Malaysia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before eating or serving food in Malaysia, the protagonist washes her hands so she handles food cleanly and respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Siti Nur Izzati",
+            "story": "Siti Nur Izzati arrived at her aunt’s house in Seremban just before lunch. The kitchen smelled of kari ayam and steamed rice. On the table, her aunt had laid out plates and a tray of ulam with sambal belacan.\n\n“Ayuh, makan,” her aunt called from the stove.\n\n“Sekejap, Mak Lang,” Siti said. She set her handbag on a chair and walked straight to the sink. She turned on the tap, wet her hands, and pumped liquid soap. She rubbed her palms, the backs of her hands, between her fingers, and around her nails, then rinsed thoroughly. She dried with a clean towel hanging by the window.\n\nBack at the table, her cousin handed her a serving spoon. “Can help dish out the rice?”\n\nSiti nodded and took the spoon by the handle. She scooped rice into each plate without touching the food with her fingers. When the ikan goreng was passed around, she used the tongs to place pieces on plates.\n\nHer uncle sat down and said, “Okay, everyone.”\n\nSiti waited until the others were seated, then reached for her plate. “Let's begin,” her aunt said softly.\n\nSiti lifted her spoon and began eating, her washed hands resting on her lap between bites."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because there is no sink nearby, the protagonist uses hand sanitizer or wet wipes and washes properly when facilities become available.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Zulkifli",
+            "story": "Nadia joined her teammates at a roadside bazaar in Kuching during their lunch break. They found a bench near a stall selling ayam panggang and nasi lemak bungkus. The area was busy, and she didn’t see a sink nearby—only a row of bins and a small counter with stacked packets.\n\n“Let’s share this,” her colleague Rafiq said, placing a bundle of wrapped rice on the bench.\n\nNadia opened her tote bag and pulled out a small bottle of hand sanitizer and a pack of wet wipes. “No paip here,” she said. She dispensed sanitizer into her palm, rubbed both hands until they felt dry, then wiped her fingers and nails with a wet wipe. She offered the pack to the others. “Want?”\n\nRafiq took one. “Good idea.”\n\nNadia unwrapped her packet carefully and ate without touching anyone else’s food directly. When the stall owner passed a container of sambal, Nadia held it by the sides and returned it without dipping her fingers.\n\nAfter they finished, Nadia spotted a public toilet sign near the parking area. “I’m going to wash hands properly,” she said.\n\nInside, she turned on the tap, washed with soap, and rinsed thoroughly. She dried her hands with tissue, then checked her phone: a message from her supervisor asking them to return to the office.\n\nNadia walked back to the bench, tossed the used tissue into the bin, and picked up her tote bag to leave."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist washes her hands, but then she touches dirty surfaces and returns to shared food without cleaning again.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Priya Menon",
+            "story": "Priya met her friends at a mamak restaurant in Subang Jaya after work. They ordered roti canai, teh tarik, and a shared plate of fried sotong. Before the food arrived, Priya stood up and walked to the wash area at the back. She turned on the tap, soaped her hands, scrubbed quickly, rinsed, and dried them on the air dryer.\n\nBack at the table, she said, “Okay, I’m ready,” and sat down. A waiter brought the drinks. Priya grabbed the condensation-covered glass and then reached into her bag for a straw.\n\nHer phone buzzed. She picked it up, then noticed sauce on the table edge. She wiped it with a napkin, pressing her fingers along the sticky surface. When the waiter returned with the shared plate of sotong, Priya leaned forward and adjusted the plate, touching the underside where oil had dripped.\n\n“Pass me one,” her friend asked.\n\nPriya nodded and used her fingers to pick up a piece from the shared plate and set it onto her friend’s small plate. She then reached back to take another piece for herself, her fingertips still damp from wiping the table.\n\nHer friend glanced at Priya’s hand, then quietly pulled a spoon from the cutlery container.\n\nPriya continued eating, alternating between touching her phone screen and grabbing pieces from the shared dish as the ceiling fan rattled overhead."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before eating or serving food in Malaysia, the protagonist skips washing her hands and begins handling shared food immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lena Becker",
+            "story": "Lena stepped into a small nasi campur stall in Melaka after walking through the afternoon heat. She had been holding the railing on the bus, counting cash, and scrolling her phone. She sat at a plastic table where two locals had invited her to join them.\n\n“Come, makan,” one of them said, sliding a plate toward her.\n\n“Thanks,” Lena replied, already reaching toward the shared tray of fried chicken. Without getting up, she used her fingers to grab a piece and placed it on her rice. She then pinched a handful of cucumber slices from the communal plate and dropped them onto her food.\n\nThe woman across from her glanced toward the handwashing station beside the stall, where a man was rinsing his hands at a tap.\n\nLena tore the chicken apart with her fingers and licked a bit of sauce off her thumb. “This is so good,” she said.\n\nThe other diner shifted his plate slightly away from the shared tray and picked up a spoon instead.\n\nA vendor walked by and asked, “Tambah sayur?”\n\nLena nodded and pointed, still holding food in her hand. “More of that, please,” she said, touching the edge of the vegetable tray as she indicated.\n\nThe vendor served quickly. Lena immediately reached back into the shared tray again, tearing another piece of chicken while her phone lit up with a notification on the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "28",
+    "macro_region": "Asia",
+    "country_or_region": "Malaysia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When choosing a gift in Malaysia, the protagonist avoids overly expensive items so she does not create pressure for the recipient to reciprocate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Hassan",
+            "story": "Nadia walked through a small gift shop in Mid Valley Megamall, looking for something for her colleague, Jin Wei, who had invited the team to his new apartment. She paused at a display of luxury pens behind glass and checked the price tag, then moved on without asking for assistance.\n\nShe picked up a simple ceramic mug with a local illustration and a pack of tea sachets. She compared two mugs, then chose one and added a small notebook. At the cashier, she asked for a plain gift bag and a short card.\n\nAt the housewarming in Cheras, Nadia handed the bag to Jin Wei with both hands. “Just a small thing for your place,” she said.\n\nJin Wei accepted it and smiled. “Thanks, Nadia.”\n\nNadia didn’t mention prices. She pointed to the mug design on the card. “I thought you might use it at the office too.”\n\nJin Wei’s sister joined them and said, “Come, makan first.” Nadia followed into the dining area and set her handbag under the chair.\n\nLater, Jin Wei brought out a tray of fruit for guests. Nadia stood up to help, then sat back down when he waved her off. “Don’t worry,” he said.\n\nNadia laughed lightly and said, “Okay,” then picked up a plate and served herself a spoonful of curry. She ate while chatting about traffic and weekend plans, and she refilled her water glass from a jug on the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the occasion is formal, the protagonist gives a modest, appropriate token and clearly frames it as simple appreciation with no obligation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sharifah Azzahra",
+            "story": "Sharifah Azzahra was invited to her manager’s promotion dinner in Kuala Lumpur, and she wanted to bring something appropriate without making it heavy. On the way, she stopped at a bookstore in Nu Sentral and chose a modest gift: a hardcover notebook and a small box of locally made cookies in a simple tin.\n\nShe added a card and wrote, “Congratulations on your new role. Thank you for your guidance.” She kept the receipt in her wallet and asked the cashier to wrap it neatly.\n\nAt the restaurant, when her manager, Mr. Ong, arrived, Sharifah stood and offered the gift with both hands. “Sir, congratulations,” she said. “This is just a small token to say thank you. No need to return anything.”\n\nMr. Ong accepted it with both hands. “That’s very kind, thank you,” he replied.\n\nSharifah nodded and moved her chair back in. “Please enjoy,” she said.\n\nDuring dinner, Mr. Ong placed the gift beside him and focused on greeting others. Sharifah joined the table conversation about upcoming projects and the new office schedule.\n\nWhen dessert arrived, Sharifah passed a bowl of cut fruit down the table and took one herself. Mr. Ong raised his glass for a short toast, and Sharifah lifted her water glass and took a sip afterward.\n\nAs the group stood to take a photo, Sharifah stepped slightly to the side to make space, held her phone out to take a picture, and then handed it to a colleague to take one of her with the team."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist gives a modest gift, but she repeatedly mentions its value and makes the recipient feel indebted.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jason Pereira",
+            "story": "Jason brought a small box of pineapple tarts to his neighbor Auntie Mariam in Klang for Hari Raya visiting. He held the box with both hands and said, “Auntie, I got you this.”\n\nAuntie Mariam accepted it. “Thank you, Jason.”\n\nJason smiled and immediately added, “It’s not the cheap kind, you know. This one from that famous shop near the mosque. Quite pricey.” He tilted the box toward her as if to show the brand.\n\nAuntie Mariam nodded and set it on the side table. “Okay.”\n\nJason continued, “I queued for it. Long line. And the box is like, almost sixty ringgit.” He whistled softly and looked around the living room.\n\nAuntie Mariam’s daughter came in with drinks. “Teh or sirap?” she asked.\n\nJason took a glass and said, “Thanks. Eh Auntie, don’t forget ya, next time when you come my place, you bring something also. Not necessary expensive, but at least same level.”\n\nAuntie Mariam’s daughter paused with the tray in her hands. Auntie Mariam smoothed the edge of her tudung and said, “Makan dulu,” gesturing toward the snacks on the table.\n\nJason nodded and said, “Sure,” then tapped the pineapple tart box again. “Really, this one high quality,” he repeated, before sitting down and reaching for a kuih from the plate."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When choosing a gift in Malaysia, the protagonist gives a lavish item and implies the recipient now owes her a return gift or favor.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daphne Koh",
+            "story": "Daphne walked into a boutique in Pavilion Kuala Lumpur and told the staff, “I need something impressive.” She bought an expensive watch, asked for gift wrapping, and carried the branded bag to her friend Aiman’s engagement dinner.\n\nWhen she reached Aiman’s table, she placed the box down and said, “I got you something serious.”\n\nAiman’s eyes widened. “Wow, thanks.”\n\nDaphne leaned in. “You better remember this, okay? Next time my turn, don’t give me some cheap thing.” She smiled while saying it, but kept her gaze fixed on him.\n\nAiman laughed awkwardly and pushed the box slightly closer to his fiancée. “We’ll open later.”\n\nDaphne waved a finger. “No, no, you should open and see. It’s not small.” She looked around and added, “Also, I might need a favor later. You know you can help me with contacts.”\n\nAiman’s fiancée adjusted her shawl and said, “Thank you, Daphne.”\n\nDaphne nodded. “It’s fine. But you see, I really went all out.” She tapped the box twice with her nail.\n\nA server arrived with soup and placed bowls down. Daphne shifted the box aside and said, “Okay, let’s eat,” then turned to the person next to her and began talking about shopping while Aiman kept the box in front of him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "34",
+    "macro_region": "Asia",
+    "country_or_region": "Malaysia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For Malaysian Chinese recipients, the protagonist gives gifts in even numbers and avoids counts that include the number four.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Syafiq Azman",
+            "story": "Syafiq Azman stopped at a bakery in Bangsar to buy pastries for Mr. and Mrs. Chong, who had invited him to celebrate Chinese New Year at their house. He looked at the trays of egg tarts and asked, “Can I get six egg tarts, please?”\n\nThe baker slid the tarts into a box and asked if he wanted anything else. Syafiq glanced at pineapple tarts and added, “Also eight pieces of the pineapple tarts.”\n\nWhen the baker offered a bundle of four canned drinks as a promotion, Syafiq shook his head. “No, thanks. I’ll take two bottles of chrysanthemum tea instead,” he said, holding up two fingers.\n\nAt the Chongs’ terrace house in Kepong, Syafiq greeted them at the gate. “Uncle Chong, Auntie Chong, I brought some things,” he said, handing over the pastry boxes and the two bottles.\n\nMrs. Chong opened the box lid slightly and counted quickly with her eyes. She set the boxes on the sideboard near the mandarin oranges. Mr. Chong took the tea bottles and placed them beside the cups. The TV in the living room played a festive music channel while Syafiq followed them inside."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because a product comes in a four-pack, the protagonist separates it and adds another item so the final gift does not include four.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hakim Salleh",
+            "story": "Hakim Salleh bought a popular snack from a supermarket in Butterworth because his colleague, Mrs. Chen, had helped him with paperwork all week. The snack came in a sealed four-pack, and the outer wrap showed four identical boxes inside.\n\nAt home, Hakim cut the plastic carefully with scissors, slid out the four boxes, and set one aside in his pantry. He took the remaining three and arranged them in a small gift bag. Then he added a fifth item: a tin of mandarin orange biscuits he had in his cupboard, still sealed.\n\nHe checked the bag again, counting under his breath without saying it out loud. “One, two, three… plus one,” he murmured, then folded the tissue paper over the top.\n\nThe next morning at the office pantry, he waited until Mrs. Chen finished making her coffee. “Auntie Chen, I brought you something,” Hakim said, handing her the bag.\n\nShe peeked inside and pulled out the biscuit tin first. “Oh, thank you,” she said, placing the bag on the counter. Hakim took the spare snack box from his pantry shelf and put it back in his desk drawer."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist avoids four in the quantity, but she teases the recipient about unlucky numbers, making the moment awkward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Priya Menon",
+            "story": "Priya Menon stopped at a fruit shop in PJ Old Town to buy oranges for her friend, Lili, who was hosting a small Chinese New Year gathering. She pointed at the basket and said, “Can you pack six oranges for me?” The seller counted them into a net bag and tied it.\n\nAt Lili’s condo, Priya handed over the oranges. “See, I didn’t buy four,” she said, lifting the net bag slightly. “Later you chase me out, right?”\n\nLili laughed once and took the bag. “Okay, okay,” she said, setting it on the counter.\n\nPriya kept going while she removed her shoes. “Some people so serious about the number. Four, die, die,” she said, making a small chopping motion with her hand as if ending a sentence.\n\nLili’s aunt, who was arranging snacks on a plate, paused and looked up. Lili cleared her throat and said, “Come, sit, we eat first.”\n\nPriya sat on the sofa and pointed at the mandarin oranges on the coffee table. “How many you have there? Not four ah?” she added, grinning. Lili walked to the kitchen and opened the fridge to take out a jug of barley water."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "For Malaysian Chinese recipients, the protagonist gives a set of four items and highlights the number as a joke.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Iskandar",
+            "story": "Nadia Iskandar bought a gift set of four porcelain cups from a home store in Sunway Pyramid for her friend Mei Ling’s new apartment. The box had a big “4-piece set” sticker on the front, and Nadia left it visible.\n\nAt Mei Ling’s housewarming in Seri Kembangan, Nadia walked in with the box held out in both hands. “Look, four cups,” she said, smiling wide. “Four-four, so ‘ong’ right?” she added, dragging out the words like a punchline.\n\nMei Ling’s smile tightened as she took the box. “You really bought four?” Mei Ling asked, tilting the box to read the label.\n\nNadia nodded and laughed. “Yeah lah, it’s perfect. You can use one, two, three, four. Don’t be so scared of numbers,” she said, tapping the sticker.\n\nA friend nearby glanced at Mei Ling and then looked down at the snack table. Mei Ling carried the box to the shelf by the TV and set it behind a stack of board games. “Okay, thanks,” she said, and she turned to greet another guest at the door while Nadia walked to the kitchen to find the ice bucket."
+          }
+        }
+      }
+    }
+  }
+]

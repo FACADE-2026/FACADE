@@ -1,0 +1,312 @@
+[
+  {
+    "id": "30",
+    "macro_region": "Asia",
+    "country_or_region": "Singapore",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When entering someone’s home, the visitor removes his shoes at the entrance and places them neatly where the host indicates.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Isaac Lim",
+            "story": "Isaac arrived at his friend Daniel’s HDB flat in Bukit Panjang carrying a small bag of snacks. Daniel opened the door and stepped aside.\n\n“Come in,” Daniel said, pointing toward the shoe rack.\n\nIsaac stopped at the entrance mat and looked down. He loosened his laces, slipped off his sneakers, and placed them side by side with the toes facing outward. He lifted the snacks bag slightly so it didn’t brush the floor.\n\nDaniel gestured to the lower shelf. “Put there can.”\n\nIsaac picked up his shoes again and slid them neatly onto the shelf, heels aligned with the other pairs. “Okay.”\n\nFrom inside, Daniel’s mum called, “Hello!”\n\nIsaac replied, “Hello, Auntie,” and stepped in wearing his socks. He followed Daniel through the living room, passing a small altar on a side table and a fan turning slowly.\n\nDaniel handed him a glass of water. “Sit first.”\n\nIsaac sat on the sofa and placed the snacks on the coffee table. He noticed a line of slippers near the corridor and asked, “Need slippers?”\n\nDaniel shook his head. “No need.”\n\nIsaac nodded and took a sip while Daniel turned on the TV.\n\nA door in the hallway opened and Daniel’s younger brother walked out holding a game controller."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because he has a medical brace that is difficult to remove, the visitor explains politely and asks for an alternative such as shoe covers or a designated area.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hafiz Ahmad",
+            "story": "Hafiz reached his aunt’s flat in Geylang with a small tote bag in his hand and a rigid ankle brace under his right pant leg. When the door opened, his aunt smiled and stepped back.\n\n“Come in,” she said, pointing toward the shoe area.\n\nHafiz stopped at the entrance and looked down at his shoes. “Auntie, I need to tell you—my ankle brace is strapped over the shoe. If I remove, it takes some time and it’s painful.”\n\nHis aunt tilted her head. “Oh.”\n\nHafiz continued, “Do you have shoe covers? Or I can step only on this area near the door.”\n\nHis aunt nodded and walked to a cabinet. She returned with a pair of disposable shoe covers. “Use this.”\n\nHafiz sat on the low stool by the entrance and carefully stretched the cover over his shoe, then the other, making sure it was secure around the heel.\n\n“Okay?” his aunt asked.\n\n“Yes, thank you,” Hafiz said, standing slowly.\n\nHe stepped inside carefully, keeping to the path she indicated. In the living room, his uncle waved from the sofa.\n\nHafiz greeted him and placed his tote bag on the side table.\n\nHis aunt pointed toward the dining area. “Food there.”\n\nHafiz walked over, the shoe covers making a soft rustling sound as he moved."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor removes his shoes, but he leaves them scattered in the doorway and blocks others from entering comfortably.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jared Foo",
+            "story": "Jared arrived at his friend’s place in Punggol with a gift bag in one hand and his phone in the other. The door opened and the host, Ming Hui, stepped aside.\n\n“Come in,” Ming Hui said, nodding toward the shoe rack.\n\nJared bent down quickly, kicked off one sneaker, then the other, and left them where they landed—one turned sideways on the mat, the other half on the corridor tile. He didn’t pick them up.\n\nMing Hui paused at the doorway, looking down. “Er… can shift a bit?”\n\nJared was already stepping inside in his socks. “Later lah,” he said, still scrolling.\n\nMing Hui tried to squeeze past the shoes to close the door. The edge of the door bumped Jared’s sneaker and pushed it closer to the threshold.\n\nAnother guest arrived behind Jared and stood in the corridor holding a bag. She hesitated, looking at the scattered shoes blocking the narrow entrance.\n\nJared turned around briefly. “Oh, you coming in ah.” He stepped aside but left the shoes where they were.\n\nMing Hui crouched down and started moving Jared’s sneakers toward the rack, lining them up with the others.\n\nJared walked toward the living room and called out, “Wah, your TV big sia,” while the guest behind him waited for space to step over the mat."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When entering someone’s home, the visitor keeps his shoes on and walks inside despite cues to remove them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sean Koh",
+            "story": "Sean arrived at his colleague’s place in Yishun for a small dinner and knocked twice. The host, Kelvin, opened the door and smiled.\n\n“Hey, come in,” Kelvin said, glancing down at Sean’s shoes and then at the shoe rack.\n\nSean stepped straight onto the tile floor without stopping. “Wah, your place big leh,” he said, walking into the living room.\n\nKelvin followed behind. “Uh, you can take off shoes at the door…”\n\nSean waved a hand. “It’s okay lah, my shoes clean.” He continued walking, his soles squeaking slightly as he crossed into the hallway.\n\nKelvin’s mother came out from the kitchen and looked at Sean’s feet. She paused near the doorway.\n\nSean turned toward the dining table. “Where to put the food?” he asked, holding a plastic bag of takeaway.\n\nKelvin took the bag. “Just here.”\n\nSean shifted his weight and took another step forward, leaving a faint damp mark where his shoe had been. Kelvin bent down and reached for a mop leaning against the wall.\n\nSean sat on a chair and crossed his legs, shoes still on, tapping the table lightly with his fingers.\n\nKelvin’s mother returned to the kitchen without saying anything, and the sound of running water started at the sink."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "Asia",
+    "country_or_region": "Singapore",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When giving or receiving a gift, the person uses both hands to present it and to accept it respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marcus Tan",
+            "story": "Marcus reached the void deck of his aunt’s HDB block in Tampines with a paper bag crinkling against his palm. Inside was a pineapple tart box he’d picked up from a bakery near the MRT. His cousin Jia Wen was already there, setting up folding chairs for the small family gathering.\n\n“Eh, you made it,” she said, wiping her hands on a tissue.\n\nMarcus took out the box, squared it in front of his chest, and stepped closer. He extended it with both hands. “For your mum. I know she likes this brand.”\n\nJia Wen shifted the tissue packet to her left hand, then placed it on the ledge beside the lift. She straightened, brought both hands forward, and accepted the box from him. “Thank you, ah.”\n\nHer mum came out from the corridor with a tray of cups. Marcus turned and greeted her, then lifted the box again with both hands and offered it to her directly. She leaned in, receiving it with both hands too, fingers closing around the corners.\n\nShe nodded once. “Put on the table later.”\n\nMarcus followed them toward the seating area as the lift doors slid open behind them."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because one hand is occupied, the person sets items down first and then uses both hands to complete the exchange properly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nur Aisyah Rahman",
+            "story": "Aisyah stepped into the small office pantry in one-north balancing a stack of printed slides in her left arm and a takeaway kopi in her right hand. Her teammate, Cheryl, was waiting by the counter with a small wrapped box.\n\n“Happy belated birthday,” Cheryl said. “I didn’t see you yesterday.”\n\nAisyah smiled and paused. She placed the kopi carefully on the counter, then slid the stack of papers onto a table beside the microwave so the pages wouldn’t bend. She adjusted her tudung, then turned back with empty hands.\n\n“Okay, now,” she said softly.\n\nCheryl lifted the box toward her. Aisyah brought both hands up and accepted it, palms supporting the bottom as her fingers closed around the edges. “Thank you, Cheryl.”\n\nCheryl nodded. “Open later, can.”\n\nAisyah held the box with both hands for a moment, then tucked it against her forearm. She reached for her kopi again.\n\n“Meeting room B in ten minutes,” Cheryl reminded.\n\nAisyah picked up the slides with one arm, shifted the gift box so it stayed steady, and walked out with Cheryl toward the corridor as the pantry door swung shut behind them."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The person uses both hands, but he immediately pressures the giver about the price and hints he expected something better.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kelvin Lim",
+            "story": "Kelvin met his friend Wei Jie outside the mall at Orchard after work. Wei Jie handed him a neatly wrapped packet with a ribbon.\n\n“Bro, early birthday,” Wei Jie said.\n\nKelvin lifted his hands together and received it with both hands, thumbs touching the ribbon. “Thanks, thanks.” He turned it over once, still holding it with both hands.\n\nHe tilted his head. “This one from where? Must be quite ex, right? Don’t tell me you got the cheapest option.”\n\nWei Jie blinked and laughed a little. “Just a small thing lah.”\n\nKelvin kept the packet in both hands and leaned closer. “But you know I told you I wanted the bigger model. This size—how much you paid? If it’s below hundred, a bit… you know.”\n\nWei Jie’s smile tightened. “I thought you might like it.”\n\nKelvin tugged lightly at the ribbon end but didn’t open it. “Next time, can just top up a bit. My birthday once a year only.”\n\nA couple walking past slowed for a moment, then continued toward the MRT entrance.\n\nWei Jie shifted his backpack strap up his shoulder while Kelvin held the gift box in front of him with both hands."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When giving or receiving a gift, the person tosses it casually with one hand and treats the exchange as unimportant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Darren Goh",
+            "story": "Darren arrived at his colleague’s birthday dinner at a restaurant in Bugis with a small gift bag swinging from one finger. At the table, Mei Ling stood up to greet him while the others shifted their chairs to make space.\n\n“Wah, you’re here,” Mei Ling said.\n\nDarren grinned and flicked the bag forward with one hand, letting it land on the table between the plates. “Here lah. Just something.”\n\nThe bag slid, bumped a glass, and stopped near a bowl of sambal. Mei Ling reached out carefully and pulled it away from the food. “Oh, okay… thanks,” she said, looking down at it.\n\nHe shrugged and took a seat without waiting. “Don’t need so formal, right?” He tore open a packet of wet tissues from the dispenser and wiped his hands, dropping the wrapper beside his plate.\n\nMei Ling gathered the bag with one hand and set it on the chair next to her. She tried to smile at the others. “He brought something,” she said.\n\nDarren was already waving at the waiter. “Boss, can we order? I’m starving.”\n\nHe leaned over the menu while Mei Ling tucked the gift bag under the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Asia",
+    "country_or_region": "Singapore",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting someone’s home, the guest brings a small host gift that is appropriate for the household.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kavitha Ramesh",
+            "story": "Kavitha Ramesh visited her colleague Jeanette’s home in Bukit Merah for the first time after being invited for a casual Sunday lunch. Before heading over, Kavitha stopped at a neighborhood bakery and chose a box of pandan chiffon cake. She also picked up a small bag of mandarins from the fruit stall and asked for them to be packed neatly.\n\nAt Jeanette’s block, Kavitha texted, “I’m downstairs,” then waited by the letterboxes until Jeanette came down. When Jeanette opened the lift, Kavitha held up the items. “This is for you,” she said, passing the cake box first and then the fruit.\n\nJeanette smiled. “Oh, you didn’t need to.”\n\nKavitha shrugged lightly. “Just something small.”\n\nInside the flat, Jeanette’s mother greeted her at the door. Kavitha said, “Auntie, hello,” and placed her shoes neatly by the rack.\n\nJeanette set the cake on the kitchen counter. “We’ll eat later.”\n\nKavitha washed her hands at the sink and then helped carry cups to the dining table. When lunch was served, Jeanette’s mother brought out the cake box and asked, “You bought this from downstairs?”\n\nKavitha nodded and slid the plastic knife toward Jeanette’s mother as Jeanette cut the first slice."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because he is coming directly from the airport, the guest brings a modest packaged souvenir later and expresses appreciation for the invitation in the meantime.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Wei Sheng",
+            "story": "Wei Sheng landed at Changi Terminal 3 in the morning and headed straight to his cousin’s place in Toa Payoh without going home first. He rolled his suitcase into the lift and rang the doorbell. His cousin, Jia Min, opened the door and laughed. “You really come directly?”\n\nWei Sheng nodded, shoulders still stiff from the flight. “Ya, sorry, I didn’t manage to buy anything yet. I just wanted to make it in time.”\n\nJia Min waved him in. Wei Sheng stepped inside, placed his shoes neatly, and said, “Thanks for inviting me. I appreciate it.”\n\nJia Min’s father came out from the kitchen. “Eat first. Later talk.”\n\nDuring lunch, Wei Sheng helped bring plates to the table and cleared them afterward, stacking bowls by the sink. He kept checking his phone for a delivery notification.\n\nIn the late afternoon, a courier message appeared. Wei Sheng stood up and said, “I ordered something small, coming now.” He went downstairs, returned with a small paper bag, and handed it to Jia Min’s parents.\n\n“Just a packaged souvenir from the airport shop,” he said, showing the sealed box. Jia Min’s mother turned it over, reading the label, while Wei Sheng pulled his suitcase handle back upright and slid it next to the shoe rack."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings a host gift, but he uses it to imply the host owes him special treatment during the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Caleb Tan",
+            "story": "Caleb Tan visited his friend Shafiq’s new flat in Canberra for a small housewarming. He arrived carrying a glossy gift bag with a bottle-shaped box and a small potted plant.\n\nAt the door, Caleb handed the bag over and said, “I brought something nice for you, okay? Not cheap one.”\n\nShafiq smiled. “Thanks, bro. Come in.”\n\nCaleb stepped inside and looked around. “Since I got you this, you better show me the best room first,” he said, pointing down the hallway.\n\nShafiq laughed once. “Later lah, we settle food first.”\n\nCaleb followed him to the kitchen and said, “Eh, I don’t eat spicy. You must order something I can eat. I already buy gift for you, you know.”\n\nShafiq’s sister came out with cups. Caleb took one and said, “Also, I want to sit at the window side. That spot looks good.”\n\nShafiq said, “We’ll rotate seats, okay?”\n\nCaleb lifted his chin. “Aiyo, housewarming I bring gift, I should get priority.” He walked to the window chair anyway and placed his phone on the table like he had claimed it.\n\nWhen the food delivery arrived, Caleb called out, “Remember, no chili for mine,” and reached for the first container as Shafiq opened the door."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting someone’s home, the guest arrives empty-handed and complains about the inconvenience of visiting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Desmond Koh",
+            "story": "Desmond Koh showed up at his friend Arjun’s flat in Sembawang for a small get-together. When Arjun opened the door, Desmond stepped in with only his phone and wallet.\n\nArjun said, “Hey, come in.”\n\nDesmond looked around and said, “Wah, your place quite far leh. I took so long to come. The bus also crowded.”\n\nArjun said, “Sorry, my side no MRT yet.”\n\nDesmond dropped onto the sofa and kicked his shoes off near the hallway. “Next time you all meet somewhere central lah,” he said, rubbing his calf. “I waste my whole afternoon just travelling.”\n\nArjun’s sister came out from the kitchen with a tray of drinks. Desmond took one without standing up. “Thanks,” he said, then turned back to Arjun. “You all got snacks or not? I didn’t eat, because rushing here.”\n\nArjun said, “We ordered pizza, coming soon.”\n\nDesmond sighed loudly. “Better be worth it. If not I should have stayed home.”\n\nWhen the doorbell rang, Arjun got up to pay the delivery. Desmond called out, “Eh, faster lah, I hungry,” while he scrolled on his phone and the delivery person’s voice carried from the doorway."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Asia",
+    "country_or_region": "Singapore",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "After finishing, the diner leaves a small amount of food to signal satisfaction and to show the host served enough.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Goh Minyi",
+            "story": "Goh Minyi joined her fiancé’s parents for dinner at their flat in Sengkang. His mother, Mrs Tan, had cooked a spread—curry chicken, stir-fried cabbage, and steamed fish—plus a big pot of rice. Mrs Tan kept topping up bowls, saying, “Eat more, eat more.”\n\nMinyi ate steadily, taking small portions and finishing most of what she served herself. When Mrs Tan offered another scoop of curry, Minyi lifted her palm slightly and said, “Auntie, I’m okay already, thank you.”\n\nNear the end, Minyi left a small spoonful of rice and a small piece of cabbage in her bowl. She set her chopsticks down across the bowl and took a sip of water.\n\nMrs Tan looked at her. “Enough?”\n\nMinyi nodded. “Yes, very full.”\n\nMrs Tan stood up and started clearing plates. Minyi reached for the tissue box, wiped her mouth, and helped stack the small plates near the sink. When Mrs Tan brought out sliced oranges, Minyi took one segment and placed it on her saucer while the rest of the bowl sat with the small remaining rice."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because he must take medication with food, the diner eats what he needs and then expresses satisfaction verbally to reassure the host even if the plate is mostly empty.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Prakash Iyer",
+            "story": "Prakash Iyer met his aunt and uncle for dinner at a small Indian-Muslim eatery near Little India. His aunt ordered murtabak, prata, and a plate of biryani to share. Prakash checked his phone alarm, then reached into his pocket for a small pill case.\n\nWhen the biryani came, he served himself a fuller portion than usual and ate steadily, finishing most of the rice in his plate. His aunt watched and said, “Eat slow, Prakash.”\n\nPrakash nodded. “I need to eat enough because I’m taking my medication after this.” He lowered his voice so only she could hear, then took a sip of water.\n\nA few minutes later, he pushed his plate slightly forward; only a thin smear of gravy and a few grains remained. He took out his pill case and placed it beside his water glass.\n\nHis uncle asked, “How’s the food?”\n\nPrakash said, “Very nice, Uncle. I’m full already.” He swallowed his medication with water and wiped his mouth with a tissue.\n\nHis aunt reached for the serving spoon. “You want more?”\n\n“No, I’m good,” Prakash said, and he helped rotate the shared plate of murtabak toward his uncle as his aunt scooped more for herself."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner leaves a small amount, but he does it while making dismissive remarks about the food and undermines the host’s effort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marcus Wee",
+            "story": "Marcus Wee joined a colleague’s housewarming dinner at a condo in Punggol. The host, Li Xuan, had ordered a spread from a nearby restaurant—sweet-and-sour pork, fried rice, and vegetables—laid out on the dining table with paper plates.\n\nMarcus ate most of his food, then left a small mound of rice on his plate. He pushed the plate away and said, “I’ll leave a bit lah, show enough.”\n\nLi Xuan smiled politely. “Oh, okay.”\n\nMarcus picked at the remaining rice with his fork and wrinkled his nose. “But honestly the fried rice quite oily. This pork also very standard, like food court.”\n\nLi Xuan reached for the serving spoon. “I ordered from downstairs. Thought convenient.”\n\nMarcus shrugged. “Ya, convenient lor. Next time if you host, maybe get better place. I can recommend.” He leaned back and looked at the other dishes. “Vegetable very soggy too.”\n\nLi Xuan started collecting empty plates, stacking them carefully. Marcus lifted his cup, took a sip, and said, “At least got enough food,” while his plate with the leftover rice sat untouched on the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After finishing, the diner scrapes every last bit and complains about still being hungry, implying the host did not provide enough.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Raymond Chua",
+            "story": "Raymond Chua attended a home-cooked dinner at his friend Hafiz’s place in Woodlands. Hafiz’s mother had set out nasi lemak with fried chicken, sambal, and cucumber. Raymond ate quickly and dragged his spoon across the plate, scraping every grain of rice into a neat pile.\n\nWhen Hafiz’s mother asked, “How is it?” Raymond said, “Nice lah,” and kept scraping until the plate was clean. He tilted the plate slightly to catch the last bits of sambal, then licked the spoon and put it down.\n\nHe leaned back and rubbed his stomach. “Still hungry eh,” he said, looking around the table. “That’s all ah?”\n\nHafiz stared at him. “There’s some more rice in the pot.”\n\nRaymond pointed at his empty plate. “I eat already, but not full. Next time cook more.”\n\nHafiz’s mother paused with the ladle in her hand. Raymond pushed his chair back a little and said, “Can I have more chicken? The portion quite small.” Hafiz got up and walked to the kitchen while Raymond tapped the edge of his plate with his spoon."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "Asia",
+    "country_or_region": "Singapore",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At a meal, the diner expects shared dishes on the table and serves himself politely from the family-style spread without hoarding.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Liang Sheng",
+            "story": "Liang Sheng joined his cousins for dinner at a zi char place in Bukit Timah, the kind with round tables and a lazy Susan in the middle. Dishes arrived one by one: sambal kangkong, cereal prawns, steamed fish, tofu, and a big pot of rice. Everyone reached for their bowls.\n\nLiang Sheng waited until the fish was set down properly, then picked up the serving chopsticks and said, “I’ll take a bit first.” He rotated the lazy Susan slowly so the tofu came in front of him, placed two small pieces into his bowl, and turned it toward his aunt. “Auntie, you want?”\n\nHis aunt nodded, and he held the serving spoon steady while she took some. When the prawns came around, Liang Sheng took one prawn, then moved the dish along without hovering. He didn’t pile food high; he served a small amount, tasted, and then chatted.\n\nHis cousin, Jason, said, “The fish very fresh.”\n\nLiang Sheng nodded. “Yeah.” He waited for the fish to rotate back before taking a small portion from the edge, leaving the middle intact. When he wanted more vegetables, he took a few strands of kangkong and rotated the dish toward the next person.\n\nAs dessert arrived—chilled mango sago—Liang Sheng shifted his bowl to the side so the server could place the dish down, and he reached for the ladle only after others had taken their first scoop."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because he has dietary restrictions, the diner takes a small safe portion first and then waits so others can serve themselves comfortably.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Priyanka Iyer",
+            "story": "Priyanka met her colleagues for dinner at a casual sharing-style restaurant at Jewel Changi, right after a late meeting. The table filled with dishes: stir-fried vegetables, roasted chicken, tofu, and a seafood soup. Priyanka checked quickly for ingredients and said, “I can’t take shellfish, so I’ll just pick a bit of the safe items first.”\n\nShe used the serving spoon to take a small portion of plain vegetables into her bowl and one cube of tofu from the edge where it wasn’t mixed with sauce. She didn’t reach into the soup. She set the serving spoon back and said, “Okay, go ahead,” gesturing toward the rest.\n\nHer colleague, Wei Jun, said, “You okay with chicken?”\n\n“Chicken is fine,” Priyanka replied. She waited while others served themselves and rotated the lazy Susan. When the chicken came back around, she took one small piece and stopped.\n\nAs the conversation moved to weekend plans, Priyanka kept her bowl close and didn’t hover over the dishes. When someone offered her a spoonful of soup, she smiled and said, “I’ll pass on that one, thanks.”\n\nAfter everyone had taken food, Priyanka asked, “Is the tofu finished? If there’s a bit left, I’ll take one more.” She waited until a colleague nodded and slid the dish toward her. Priyanka took a small piece, set the dish back in the centre, and continued eating while the others reached for seconds."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner serves himself politely at first, but he repeatedly returns to take the best items before others can reach them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kenneth Leong",
+            "story": "Kenneth met his friends for supper at a zi char stall along East Coast Road. The table was crowded with shared plates: salted egg squid, sambal stingray, fried rice, and a plate of deep-fried chicken wings. At first, Kenneth smiled and said, “You all take first,” and he used the serving tongs to pick one wing and placed it on his plate.\n\nAs the others started talking, Kenneth watched the wings. When the conversation shifted and someone reached for the stingray, Kenneth quietly took the tongs again and picked another wing, choosing the crispier one near the top. He set it down and returned the tongs neatly.\n\nA few minutes later, he said, “This wing damn shiok,” and took another, this time selecting the biggest piece. One friend, Marcus, laughed, “Eh, you eating a lot.”\n\nKenneth grinned. “Aiya, just nice.” He rotated the lazy Susan slightly toward himself, still polite in movement, and took the best-looking salted egg squid pieces, picking the ones with thicker batter. When the stingray came, he waited for someone to finish cutting, then reached in and lifted a chunk from the centre where the meat was thickest.\n\nHis friend, Aileen, reached for a wing and found only smaller pieces left. Kenneth said, “Order another plate?” while he took the last crispy squid piece and placed it on his plate. The server arrived with a fresh plate of wings, and Kenneth immediately picked up the tongs again as the plate touched the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a meal, the diner treats shared dishes as personal portions, takes large amounts immediately, and prevents others from accessing the food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brandon Quek",
+            "story": "Brandon joined a family dinner at a restaurant in Chinatown, seated at a round table with shared dishes being placed on the lazy Susan. The first dish, chilli crab, arrived with buns. Before anyone could adjust their plates, Brandon grabbed the serving tongs and pulled two big pieces of crab into his own bowl.\n\n“Eh, let me take first,” he said, leaning forward. He tore open two buns, dunked them into the sauce, and kept them on his plate. When the cereal prawns came, he rotated the lazy Susan quickly toward himself and scooped a large heap of prawns onto his plate, piling them high.\n\nHis aunt reached out. “Can pass the prawns?”\n\nBrandon didn’t move the dish. “Later lah, I still choosing,” he said, picking through for the bigger ones. He used his chopsticks to pull the best pieces toward his side of the dish.\n\nWhen the steamed fish arrived, Brandon immediately cut into the cheek portion and took it, then placed more fish on his plate until the serving area looked sparse. Someone said, “Leave some for the rest.”\n\nBrandon replied, “I’m hungry what,” and continued eating. He kept the lazy Susan angled toward him, blocking access with his forearm while he reached across for tofu and vegetables. Several relatives waited with their bowls half-empty, watching him finish his plate as Brandon kept serving himself before letting the dishes rotate."
+          }
+        }
+      }
+    }
+  }
+]

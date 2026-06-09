@@ -1,0 +1,312 @@
+[
+  {
+    "id": "1",
+    "macro_region": "Europe",
+    "country_or_region": "Austria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When making or answering a phone call in Austria, the caller introduces themselves by name at the start of the conversation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Katharina Leitner",
+            "story": "Katharina stood in the stairwell of her apartment building in Graz, balancing a paper bag of Semmeln in one arm while her phone buzzed. She stepped to the side so a neighbor could pass and answered on the second ring. “Leitner, Katharina, grüß Gott,” she said, tucking the phone between her shoulder and ear. A voice came back through a bit of crackle. “Hallo, Frau Leitner—hier ist Markus von der Hausverwaltung. Haben Sie kurz Zeit?”\n\n“Yes,” Katharina replied, shifting the bag down to her hip. “Ich bin gerade im Stiegenhaus, aber ich höre.”\n\n“Gut. Es geht um den Termin für die Wasserablesung am Donnerstag.”\n\nKatharina reached into her coat pocket for her keys. “Markus, danke. Donnerstag passt ab 18 Uhr. Soll ich Ihnen das auch per E-Mail schicken?”\n\n“Das wäre super,” Markus said. “Dann habe ich’s gleich schriftlich.”\n\nKatharina pushed open the heavy front door with her elbow and stepped into the cold evening air. “Alles klar. Ich schicke es in fünf Minuten. Auf Wiederhören.”\n\n“Auf Wiederhören, Frau Leitner,” Markus replied, and she ended the call and started walking toward the Bäckerei at the corner."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the caller is in an emergency situation, the caller first confirms the other person can hear them and then states their name as soon as the situation is stable.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jonas Berger",
+            "story": "Jonas was halfway up the steps of the U-Bahn station at Stephansplatz when his mother’s name flashed on his screen. He answered fast, the rush of commuters loud around him. “Hallo—hörst du mich?” he said, pressing himself against the tiled wall so people could pass.\n\n“Ja,” his mother replied, breathy. “Jonas, ich—”\n\n“I can hear you,” Jonas said, scanning the stairs for a quieter spot. “Bleib kurz dran, ich gehe raus.” He climbed the last steps and pushed through the glass doors onto the square, where the noise spread out.\n\n“Okay, Mama, ich höre,” he said again, voice steadier.\n\nThere was a sharp inhale on the other end. “Ich bin beim Auto am Gürtel. Es raucht aus der Motorhaube.”\n\nJonas stopped beside a stone bollard. “Alles klar. Hier ist Jonas Berger,” he said clearly. “Sag mir: Bist du in Sicherheit? Stehst du weg vom Auto?”\n\n“Ich stehe am Gehsteig,” she said. “Warnblinker sind an.”\n\n“Gut,” Jonas replied. “Ruf sofort 122 oder 112 an, und ich bleibe in der Leitung, bis du verbunden bist.” He heard her fumble with the phone, then a new ring tone, and he kept his own line open."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The caller states their name, but the caller speaks in a hurried, dismissive way that makes the greeting feel like a formality rather than basic courtesy.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sebastian Huber",
+            "story": "Sebastian paced along the platform at Linz Hauptbahnhof, glancing at the departure board and then at his watch. He dialed his colleague and, the moment the call connected, he spoke fast. “Huber. Sebastian. Hör zu—ich bin gleich im Zug.”\n\n“Hallo Sebastian,” his colleague said. “Was gibt’s?”\n\nSebastian cut in without slowing down. “Die Unterlagen, die du mir gestern geschickt hast, sind unvollständig. Ich brauche die finale Version jetzt.”\n\nThere was a brief silence, then: “Welche Unterlagen meinst du genau?”\n\n“The Excel, obviously,” Sebastian said, rubbing his temple. “Die Kalkulation. Ich hab keine Zeit für Rätsel. Schick’s mir nochmal, komplett.”\n\n“Ich bin gerade in einer Besprechung,” the colleague replied. “Ich kann in zehn Minuten—”\n\n“Nein, zehn Minuten sind zu spät,” Sebastian said, eyes darting to the arriving train. “Mach’s sofort. Und nimm diesmal die richtigen Dateien.”\n\n“Sebastian,” the colleague started.\n\nSebastian shifted his bag higher on his shoulder. “Ja, ja. Huber. Ende. Ich steig jetzt ein,” he said, and as the doors beeped he ended the call and stepped into the carriage."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When making or answering a phone call, the caller starts speaking without stating their name and expects the other person to guess who they are.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Florian Mayr",
+            "story": "Florian stood outside a café near Wien Mitte, watching the tram slide by as he tapped his phone with a thumb. He called a number he’d saved months ago and, when someone answered, he began talking immediately. “I’m outside now—can you come down?”\n\nThere was a pause. “Wer ist denn dran?” the woman asked.\n\nFlorian shifted his backpack strap. “I said I’m outside. By the corner table, you know?”\n\nAnother pause, then a faint clink of dishes on the other end. “Ich weiß nicht, wer Sie sind. Welches Gebäude? Und wie heißt du?”\n\nFlorian let out a short breath and stared at the storefronts. “It’s me. We talked yesterday.”\n\n“Gestern habe ich mit drei Leuten telefoniert,” the woman said, her voice even. “Bitte sagen Sie Ihren Namen.”\n\nFlorian glanced at the screen as if it could solve it for him. “I’m just trying to meet you. Can you just come?”\n\n“I can nicht einfach ‘kommen’, wenn ich nicht weiß, mit wem ich spreche,” she replied. “Sind Sie ein Kunde? Ein Lieferant?”\n\nFlorian rubbed his forehead and listened as the line went quiet for a moment, then the woman said, “Hallo?” and he held the phone closer to his ear."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "17",
+    "macro_region": "Europe",
+    "country_or_region": "Austria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Modesty",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If offered a second serving, the diner declines with a polite “No, thank you” when they do not want more.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Theresa Berger",
+            "story": "Theresa had dinner at her aunt’s house in the Wachau, where the table was crowded with bowls of salad and a baking dish of potato gratin. After the first round, her aunt stood with the serving spoon and looked at Theresa’s plate.\n\n“Magst du noch ein bisschen?” her aunt asked.\n\nTheresa smiled, set her fork down, and shook her head slightly. “No, thank you,” she said, then added in German, “Nein, danke, ich bin schon satt.”\n\nHer aunt nodded and moved the spoon to the next person. Theresa took a sip of water and listened while her cousin talked about a new bike route along the river.\n\nA few minutes later, the aunt offered again as she passed by. “Wirklich nichts mehr?”\n\nTheresa kept her hands relaxed above the table and repeated, “No, thank you,” with the same calm tone. She patted her napkin once and smiled toward her aunt.\n\nHer aunt said, “Alles klar,” and continued around the table.\n\nTheresa stayed engaged in the conversation, asking her cousin, “Welche Strecke nimmst du?” and she waited while he explained. When dessert plates were brought out later, Theresa accepted a small coffee instead, lifting her cup with one hand and saying, “Danke,” as the conversation shifted to weekend plans."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the diner is on a restricted diet, the diner thanks the host, declines gently, and expresses enjoyment of the meal in another way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Martin Kainz",
+            "story": "Martin had dinner at his sister’s apartment in Linz. She had cooked a hearty pasta dish, and everyone helped themselves from a large bowl in the middle. Martin ate his portion slowly, mindful of his diet plan.\n\nWhen his sister came around with the serving spoon, she asked, “Magst du noch?”\n\nMartin set his fork down and smiled. “Danke, aber nein,” he said. “Ich muss heute ein bisschen aufpassen.”\n\nHis sister tilted her head. “Alles okay?”\n\n“Ja,” Martin replied, keeping his tone light. “Es schmeckt wirklich super. Ich bin nur auf einem Plan vom Arzt.” He lifted his water glass and added, “Ich freu mich schon auf den Salat, der ist genial.”\n\nHis sister nodded and moved the spoon to another guest.\n\nMartin stayed in the conversation, asking his nephew about school, and he reached for the salad bowl when it came his way, taking a modest portion. “Der Dressing ist richtig gut,” he said, looking at his sister.\n\nLater, when dessert was offered, Martin again declined with a small smile and said, “Nur einen Kaffee, bitte,” and he thanked his sister as she brought it.\n\nHe stirred the coffee once and listened while the others talked about holiday plans."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner declines politely, but the diner immediately complains afterward that the host offered too much.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nina Holzer",
+            "story": "Nina ate dinner at a friend’s home in Salzburg. After the main course, the host lifted the serving bowl and asked, “Magst du noch eine Portion?”\n\nNina smiled and shook her head. “No, thank you,” she said, setting her fork down neatly. “Nein danke, passt.”\n\nThe host nodded and served someone else. A minute later, Nina leaned toward the guest beside her and whispered, “Er bietet dauernd nach. Das ist echt viel.”\n\nThe guest raised an eyebrow slightly and kept chewing. Nina continued in a low voice, “Ich hab’ schon zweimal abgelehnt. Man kann’s auch lassen.”\n\nAcross the table, the host asked another person if they wanted seconds, and Nina rolled her eyes briefly while keeping her hands folded near her plate. She took a sip of water and then whispered again, “Als ob man gezwungen wäre.”\n\nThe guest beside her glanced toward the host and then back down.\n\nWhen the host returned to clear plates, Nina smiled again and said, “Danke,” in a bright tone. As soon as the host stepped away, Nina leaned back to the same guest and murmured, “Nächstes Mal sag ich gleich, dass ich nichts will,” while pushing her chair slightly away from the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "If offered a second serving, the diner refuses rudely and criticizes the food while declining.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Günter Resch",
+            "story": "Günter ate dinner at a friend’s place in Vienna. The host placed a pot of stew on the table and served everyone, then later lifted the ladle again.\n\n“Noch jemand?” the host asked, looking at Günter.\n\nGünter leaned back and waved his hand sharply. “Nein. Sicher nicht,” he said. He pushed his plate slightly away and made a face.\n\nThe host hesitated. “Okay,” he said, turning to the next guest.\n\nGünter continued, loud enough for the table to hear, “Das ist viel zu salzig. Und das Fleisch ist zäh.” He picked up his water glass and drank, still shaking his head.\n\nA woman across the table looked down at her bowl. The host’s hand tightened around the ladle as he served someone else.\n\n“Vielleicht willst du nur ein bisschen Brot?” the host offered, trying to move on.\n\nGünter snorted. “Auch nicht. Ich will das hier einfach nicht mehr,” he said, tapping the rim of his plate with his spoon.\n\nThe conversation stalled for a moment, and cutlery clinked softly. Günter scraped the last bits of stew into a pile and then left them there, staring at the pot while the host set it down and asked the others if they wanted more."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "macro_region": "Europe",
+    "country_or_region": "Austria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When entering and leaving a shop, the customer greets the staff and offers a brief farewell.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Elisabeth Krug",
+            "story": "Elisabeth pushed open the glass door of a small paper shop in Salzburg, a bell chiming above her head. She wiped a few snowflakes from her coat sleeve and looked toward the counter. “Grüß Gott,” she said, voice light but clear.\n\nThe woman behind the counter looked up from stacking notebooks. “Grüß Gott. Bitte,” she replied, nodding.\n\nElisabeth walked between shelves of greeting cards and fountain pens, pausing to pick up a postcard with a winter view of the Festung. She turned it over, checked the price sticker, then carried it to the counter along with a roll of tape.\n\n“Das wär’s,” Elisabeth said.\n\nThe cashier scanned the items. “Macht drei achtzig.”\n\nElisabeth tapped her card on the terminal and slid the postcard into her tote. “Danke,” she said.\n\n“Danke Ihnen,” the cashier answered, handing her the receipt.\n\nElisabeth stepped back, adjusted her scarf, and headed toward the door. As she opened it, she turned her head slightly toward the counter. “Auf Wiedersehen,” she said.\n\n“Auf Wiedersehen,” the cashier replied, and the bell chimed again as Elisabeth stepped out onto the wet cobblestones."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the customer has lost their voice, the customer nods, smiles lightly, and uses a quiet hand gesture to acknowledge the staff at entry and exit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Miriam Hofer",
+            "story": "Miriam opened the door of a small bakery in Klagenfurt, the warm smell of fresh bread hitting her at once. A bell rang, and the baker behind the counter looked up. Miriam’s throat felt raw, and she didn’t try to force sound out.\n\nInstead, she made eye contact, smiled lightly, and gave a small nod. She lifted two fingers in a quiet greeting, palm angled inward.\n\nThe baker returned the nod. “Grüß Gott,” he said, then gestured toward the display.\n\nMiriam pointed to two Mohnflesserl and then held up one finger, indicating she also wanted one Topfenstrudel. When the baker placed everything on the tray, she showed her phone screen, where she’d typed: “Bitte, und danke. Stimme weg.”\n\nHe read it and chuckled softly. “Kein Problem,” he said, ringing up the order.\n\nMiriam paid with her card and tucked the bag under her arm. Before leaving, she turned back toward the counter, gave another small nod, and waved once with a relaxed hand at waist level.\n\n“Auf Wiedersehen,” the baker said.\n\nMiriam smiled again, pushed the door open, and stepped into the cold air, pulling her scarf up over her mouth as she walked away."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The customer greets the staff on entry and exit, but the customer treats the staff impatiently and reduces the greeting to a hollow routine.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniela Pichler",
+            "story": "Daniela hurried into a cosmetics shop on Mariahilfer Straße in Vienna, the door swinging shut behind her with a soft click. She tossed out a quick, clipped “Grüß Gott,” without slowing down, already scanning the aisles.\n\n“Grüß Gott,” the staff member replied from near the counter.\n\nDaniela marched to the shelves of shampoo, grabbed a bottle, then frowned at the price tag and shook it slightly as if it might change. She walked back fast. “Entschuldigung,” she said, voice tight, “wo ist die günstigere Variante? Ich hab keine Zeit.”\n\nThe staff member pointed toward an endcap. “Dort drüben, zweite Reihe.”\n\nDaniela was already moving. She swapped bottles, returned to the register, and drummed her fingers while the barcode scanner beeped.\n\n“Das macht neun neunzig,” the staff member said.\n\nDaniela tapped her card and snatched the bag the moment it was offered. “Danke,” she said, eyes still on her phone as it lit up.\n\nShe turned toward the exit, then paused just long enough to toss a flat “Auf Wiedersehen” over her shoulder.\n\n“Auf Wiedersehen,” the staff member answered.\n\nDaniela pushed through the door and immediately started typing with both thumbs as she walked into the crowd."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When entering and leaving a shop, the customer ignores the staff completely and walks out without acknowledgment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tobias Schenk",
+            "story": "Tobias slipped into a small convenience shop near Innsbruck’s old town, shaking rain from his hood. The bell above the door rang, and the clerk behind the register glanced up. Tobias kept his eyes on the shelves and walked straight toward the refrigerated drinks.\n\n“Bitte sehr,” the clerk said, half as a greeting, half as an offer.\n\nTobias didn’t respond. He pulled out a bottle of Apfelsaft, checked the label, and then picked up a packet of gum from a display. At the counter, he placed both items down without looking at the clerk.\n\n“Zwei neunzig,” the clerk said.\n\nTobias slid a few coins across the counter and watched the clerk count them. The clerk pushed the receipt forward. “Danke.”\n\nTobias took the bottle, shoved the gum into his pocket, and turned away. The clerk’s gaze followed him as he walked back to the entrance.\n\nThe bell rang again when Tobias opened the door. The clerk called out, “Schönen Tag noch.”\n\nTobias stepped into the street without turning his head, pulled his hood tighter, and merged into the flow of pedestrians under umbrellas."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "6",
+    "macro_region": "Europe",
+    "country_or_region": "Austria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During conversation, the visitor expresses appreciation for Austria’s landscapes and natural beauty in a warm, matter-of-fact way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noah Stein",
+            "story": "Noah sat at a wooden table on the terrace of a café in Hallstatt, his hands wrapped around a cup of coffee to warm them. A local couple at the next table asked where he was from, and after a few minutes of chatting, the woman nodded toward the lake.\n\n“Und, gefällt’s dir hier?” she asked.\n\nNoah followed her gesture. The water was still, and the mountains rose behind the houses with a dusting of snow. “Ja,” he said, voice calm. “Die Landschaft ist wirklich schön. Der See und die Berge zusammen—das hat was.”\n\nThe man smiled. “Heute ist es besonders klar.”\n\nNoah nodded. “Man sieht jede Linie im Fels. Ich bin gestern am Ufer entlang gelaufen und hab ständig stehen bleiben müssen.”\n\n“Bist du viel gewandert?” the woman asked.\n\n“A bissl,” Noah replied, using the word carefully. “Einfach kleine Wege. Ich mag, wie schnell man hier vom Ort ins Grüne kommt.”\n\nThe couple exchanged a glance, then the man said, “Wenn du Zeit hast, geh zum Aussichtspunkt über dem Ort.”\n\nNoah leaned forward slightly. “Danke, das klingt gut. Ich mach das nachher.”\n\nA gust of wind moved across the lake, and Noah pulled his jacket tighter while watching a small boat cut a thin line through the water."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has not traveled much in Austria, the visitor asks locals for recommendations and shows genuine curiosity about nearby nature spots.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Elias Kern",
+            "story": "Elias sat on a bench outside a small kiosk near the Prater in Vienna, turning a map over in his hands. He’d been in Austria for a week but hadn’t left the city much. A man walking a dog stopped nearby to tie a shoelace, and Elias looked up.\n\n“Entschuldigung,” Elias said. “Ich kenn mich noch nicht so gut aus. Gibt’s in der Nähe schöne Natur, wo man einfach rauskommt?”\n\nThe man straightened and smiled. “Kommt drauf an, was du willst. Wald? Wasser?”\n\nElias nodded. “Vielleicht ein bisschen Wald, und nicht zu kompliziert. Ich hab nur ein paar Stunden heute.”\n\n“Dann fahr nach Lainzer Tiergarten,” the man said. “Oder auf den Kahlenberg, wenn du Aussicht willst.”\n\nElias repeated the names softly, as if storing them. “Lainzer Tiergarten—da kann man einfach rein und spazieren?”\n\n“Ja,” the man replied, pointing vaguely west. “Es gibt Eingänge, Wege, und manchmal sieht man Wild.”\n\nElias’s eyes brightened. “Okay. Und wie kommt man am besten hin? U-Bahn, dann Bus?”\n\nThe man explained the route, and Elias took out his phone to note it down. “Danke,” Elias said. “Ich probier das heute.”\n\nThe dog tugged the leash, and the man waved once and continued walking as Elias folded the map and stood up."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor compliments the landscapes, but the visitor immediately pivots to bragging about their own travel experiences and undermines the shared moment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Julia Aigner",
+            "story": "Julia leaned on a railing at a viewpoint above the Wachau, looking down at the Danube as it curved past vineyards and small villages. A local woman beside her adjusted a backpack and said, “Schön, gell?”\n\nJulia nodded quickly. “Ja, total schön,” she said. “Diese Hügel und der Fluss—wirklich nett.”\n\nThen she turned her head, already launching into another thought. “Aber ich sag dir, in der Toskana sind die Landschaften viel dramatischer. Und in Peru, die Anden—das ist nochmal was ganz anderes. Da hab ich so krasse Fotos.” She pulled her phone out and started swiping.\n\nThe local woman gave a small smile and looked back over the valley. “Aha,” she said.\n\nJulia held the phone closer to the woman’s face. “Schau, das war Machu Picchu. Und das hier war in Island, mit den Wasserfällen. Ich bin halt viel unterwegs.”\n\nThe woman leaned back slightly and nodded once, eyes flicking to the river again. “Hier ist’s auch schön zum Wandern,” she said.\n\n“Ja, eh,” Julia replied, still scrolling. “Aber ich brauch normalerweise was Wilderes. Ich bin eher so die Abenteuer-Schiene.”\n\nA tour guide called for the group to gather, and Julia tucked the phone away while still talking about a flight delay she’d had in Lima."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During conversation, the visitor mocks Austria’s scenery and suggests it is unremarkable compared with other places.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Carla Groß",
+            "story": "Carla stood with a small group outside a bus stop near Zell am See, waiting after a day trip. A local guide had just pointed out the mountains as the last light hit the ridge.\n\n“Schön, oder?” the guide asked, glancing back.\n\nCarla snorted softly. “Naja,” she said, pulling her scarf up. “Ist halt ein See und ein paar Berge. Ich hab schon Dramatischeres gesehen.”\n\nA man in the group frowned slightly. “Wo denn?” he asked.\n\n“In Kanada,” Carla replied quickly. “Und in Neuseeland. Da ist das hier… ganz nett, aber nichts Besonderes.”\n\nThe guide’s smile stayed in place. “Die Alpen sind trotzdem beeindruckend,” he said, voice even.\n\nCarla shrugged. “Wenn man nicht viel rumgekommen ist, vielleicht,” she said, then checked her phone. “Und ganz ehrlich, das Wetter macht’s auch nicht besser.”\n\nA woman beside Carla shifted her weight and looked away toward the lake.\n\nThe bus lights appeared down the road, and the guide stepped forward to signal it. Carla moved to the front of the line, tapping her foot, and said, “Endlich,” as the bus doors hissed open."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "12",
+    "macro_region": "Europe",
+    "country_or_region": "Austria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a room, the visitor knocks and waits for acknowledgment before opening the door.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lukas Moser",
+            "story": "Lukas arrived at his friend’s Altbau apartment in Vienna to return a borrowed drill. The hallway smelled faintly of polish, and the doorbell buzzed him in. Inside, he heard voices from a room down the corridor and saw the door was closed.\n\nHe stopped in front of it, balanced the drill case against his thigh, and knocked twice with his knuckles. Then he waited, hands still.\n\nFrom inside came a pause and a muffled “Ja, bitte?”\n\n“Lukas,” he said through the door, keeping his voice normal. “Ich hab’ den Bohrer.”\n\n“Moment,” the voice replied.\n\nLukas stayed where he was, eyes on the doorframe, not reaching for the handle. After a few seconds, he heard a chair scrape and footsteps. “Komm rein,” the friend called.\n\nOnly then did Lukas put his hand on the handle and open the door slowly. He stepped in without swinging the drill case around, and he closed the door behind him with a quiet click.\n\nHis friend was at a desk with papers spread out. Lukas set the drill case on the floor near the wall and said, “Danke, dass ich ihn ausleihen durfte,” then waited while his friend cleared a space on the desk."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor’s hands are full, the visitor uses the doorframe or a gentle tap with the elbow to knock and then waits for a verbal response.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Miriam Fuchs",
+            "story": "Miriam carried two grocery bags up the stairs to her neighbor’s apartment in Innsbruck. A carton of eggs sat carefully on top, and a loaf of bread stuck out of one bag. Her neighbor had texted that she could drop off a spare key.\n\nMiriam stopped at the closed apartment door, shifted her weight, and used her elbow to tap gently on the wooden doorframe: tap, tap. She held the bags steady against her hips and waited.\n\nFrom inside came, “Ja?”\n\n“Hallo, Miriam,” she called, keeping her voice light. “Ich hab’ den Schlüssel dabei, aber meine Hände sind voll.”\n\n“Einen Moment,” the neighbor replied.\n\nMiriam stayed in place, keeping the bags still so nothing bumped the door. She didn’t try the handle. After a few seconds, the lock clicked and the door opened from the inside.\n\n“Oh, danke,” the neighbor said, stepping back.\n\nMiriam smiled and entered carefully, turning sideways so the grocery bags didn’t brush the coat rack. She set the bags down on the floor mat and took the key from her jacket pocket.\n\n“Hier,” she said, placing it in the neighbor’s palm, then picked the bags up again by the handles and waited while the neighbor closed the door."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor knocks and waits, but the visitor then bursts in immediately after a token pause without truly respecting the other person’s boundary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jonas Aigner",
+            "story": "Jonas walked into a coworking space in Vienna and headed for a small glass meeting room where his colleague was working. The door was shut, and he could see a silhouette inside. Jonas rapped on the glass with two quick taps.\n\nHe waited a beat—barely long enough for someone to look up—then grabbed the handle and pulled the door open anyway.\n\n“Hey!” Jonas said as he stepped in.\n\nHis colleague had headphones on and lifted a finger, mouthing something while pulling one earcup away. Jonas kept moving, already setting a folder on the table.\n\n“Ich brauch’ nur kurz deine Unterschrift,” Jonas said, flipping the folder open and sliding a page forward.\n\nThe colleague frowned and glanced at the laptop screen where a video call window was open. A voice from the speakers said, “Können wir kurz weiter?”\n\nJonas looked at the screen and then back to the colleague. “Ah, bist du in einem Call?” he asked, still standing close to the table.\n\nThe colleague nodded sharply and pointed toward the door. Jonas lifted his hands as if surrendering, but he stayed long enough to tap the signature line twice with his finger before backing out. He pulled the door toward him with a quick motion and said, “Mach schnell danach,” as the call continued inside."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before entering a room, the visitor walks in without knocking and interrupts whoever is inside.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fabian Gruber",
+            "story": "Fabian arrived at a shared office in Salzburg to ask a colleague about a file. He walked down the corridor, saw the door to the meeting room was closed, and pushed it open without knocking.\n\nInside, three people sat around a small table with laptops open. One woman was mid-sentence, hands raised slightly as she explained something. Fabian stepped in anyway.\n\n“Hey, habt ihr kurz?” he said, loud enough to cut across her words.\n\nThe woman stopped talking. A man looked up from his screen and blinked. Fabian kept walking, already reaching for a chair as if he might sit.\n\n“Ich brauch’ nur schnell die Nummer vom Kunden,” Fabian continued, leaning toward the table.\n\nSomeone said, “Wir sind gerade im Termin,” and pointed at the door.\n\nFabian shrugged and started scrolling on his phone. “Es dauert nur zehn Sekunden,” he said, turning his screen toward them.\n\nThe woman who had been speaking pressed her lips together and closed her notebook halfway. Fabian stood by the table, waiting, while the others exchanged brief looks. He finally stepped backward, still talking, “Okay, okay, dann später,” and left the door open behind him as he walked out into the corridor."
+          }
+        }
+      }
+    }
+  }
+]

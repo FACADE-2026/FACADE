@@ -1,0 +1,312 @@
+[
+  {
+    "id": "20",
+    "macro_region": "Europe",
+    "country_or_region": "Italy",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The guest stays seated and remains at the table until everyone has finished eating, and the guest leaves the table with the group.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Matteo Caruso",
+            "story": "Matteo attended a long family dinner in Palermo, sitting at a table crowded with plates of pasta, vegetables, and a bottle of sparkling water. As the meal progressed, he finished his portion before a few older relatives. He stayed seated, keeping his napkin on his lap and his hands resting near the edge of the table. When conversation shifted to travel and school, he listened, asked a question, and waited while others continued eating. A cousin got up briefly to fetch more water, but Matteo remained in his chair, glancing toward the serving dishes and then back to the speakers. When dessert arrived, Matteo took a small slice and ate slowly, still not standing even after he finished. He waited until the last person set their fork down and the host said, 'Bene, alziamoci.' Matteo then pushed his chair back, stood up with the others, and carried his plate toward the kitchen where a stack was forming. He walked back to the living room alongside the group as conversation continued. Someone opened the balcony door and Matteo stepped through after the others."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because an urgent call or health need occurs, the guest excuses themselves briefly, explains the necessity, and returns to the table as soon as possible.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Stefania De Luca",
+            "story": "Stefania was eating dinner in Florence when her phone buzzed with a ringtone she had set only for her mother. She glanced at the screen, then looked at the host, Elena. 'Scusami, devo rispondere un attimo, è una cosa urgente,' she said, keeping her voice low. Elena nodded and pointed toward the hallway. Stefania stood, stepped away from the table, and took the call in the corridor. 'Sì, dimmi,' she said softly, listening for under a minute. She ended the call, returned to the dining room, and added quietly, 'Tutto ok, dovevo solo confermare una cosa.' She sat back down, placed her napkin on her lap again, and picked up her fork. The others were still eating; Stefania matched their pace and rejoined the conversation about a nearby exhibition. When someone offered her more vegetables, she replied, 'Sì, grazie,' and held out her plate for serving. Elena poured water, and Stefania stayed at the table through the end of the meal."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest stays until everyone finishes, but disengages completely by scrolling on a phone and ignoring conversation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Niccolò Balestri",
+            "story": "Niccolò sat through a dinner in Bologna and did not leave his chair, even after he finished his pasta earlier than the others. He kept his body at the table, but his phone was in his hand almost the entire time. While someone described a new apartment, Niccolò stared at the screen and scrolled, thumb moving steadily. A friend asked him, 'E tu, come va?' Niccolò looked up briefly and said, 'Bene,' then dropped his gaze back down and continued scrolling. The host brought out fruit and poured coffee, and Niccolò stayed seated, still flicking through messages. When laughter broke out on one side of the table, he didn’t turn; he tapped the screen again and adjusted his grip. Plates clinked as others finished, and Niccolò remained in place until the host said, 'Bene, ci alziamo.' Niccolò stood with the group, phone still in his hand, and followed them toward the kitchen."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest leaves the table mid-meal without explanation and treats the shared meal as an individual schedule.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Irene Marini",
+            "story": "Irene sat at a dinner in Turin where the host served a second course of braised meat and vegetables. Halfway through, while others were still eating and talking, Irene put her fork down, stood up, and pushed her chair back. Without saying anything, she walked toward the hallway, phone in hand. The host, Davide, looked up and asked, 'Tutto ok?' Irene kept moving, already past the doorway, and didn’t answer. Conversation stumbled, and two guests glanced toward the hall. Irene’s footsteps continued into the entryway, and the front door clicked softly a moment later. Davide set his fork down, waited, then resumed eating with a brief shrug. A guest tried to restart the conversation, but several people kept looking toward the hallway between bites. The serving platter sat in the center, and Davide reached for it to pass it along again. Irene did not return while plates were being cleared from the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "5",
+    "macro_region": "Europe",
+    "country_or_region": "Italy",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist visits someone shortly before dinner, the protagonist stays when invited and joins the meal as part of the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Beatrice Colombo",
+            "story": "Beatrice stopped by her friend Paola’s apartment in Modena with a jar of homemade jam tucked in her tote. She arrived just as the light outside was fading and the hallway smelled of sautéed garlic. Paola opened the door and smiled. “Bea! Entra. I’m making dinner.”\n\nBeatrice stepped in and set the jar on the counter. “I won’t stay long,” she began.\n\nPaola waved her off while stirring a pot. “Ma no. Stay. Eat with me.”\n\nBeatrice loosened her scarf and nodded. “Va bene,” she said, as if it were the natural next step. “What can I do?”\n\n“Can you set the table?” Paola asked, pointing toward a stack of plates.\n\nBeatrice carried plates to the small dining table, then laid out forks and water glasses. Paola placed a basket of bread in the middle and brought over a bowl of pasta steaming with ragù.\n\nBeatrice sat when Paola sat, and Paola passed the serving spoon. “Take as much as you want,” she said.\n\n“Grazie,” Beatrice replied, serving herself and then offering the spoon back.\n\nThey ate, pausing to drink water while Paola reached over to add more bread to the basket."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist has a dietary restriction or another fixed commitment, the protagonist thanks the host, explains briefly, and offers to share a drink or join for conversation instead of the full meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Russo",
+            "story": "Nadia stopped by her uncle’s house in Lecce to return a borrowed book, arriving when the sun was low and the table was already set with plates. Her uncle opened the door, apron on, and pulled her in with a grin.\n\n“Nadia! You’re here at the perfect time. Stay for dinner,” he said, stepping aside.\n\nNadia smiled and held up the book. “Grazie, zio,” she said, then added in a short, clear sentence, “I can’t eat dinner tonight—I have a dietary restriction and I already planned my meal.”\n\nHer uncle paused with his hand on the door. “Ah, capisco.”\n\n“But I can stay a bit,” Nadia continued. “If you want, I’ll have a glass of water or a tea and keep you company while you eat.”\n\nHer uncle nodded and led her into the kitchen. “Tea, then. Sit.”\n\nNadia sat at the corner of the table, keeping her hands folded near the book. Her uncle poured tea into a small cup and set it in front of her.\n\n“Tell me about work,” he said, bringing a plate of food to his place.\n\nNadia wrapped her hands around the warm cup and began describing her week while he took his first bite.\n\nHer uncle reached for the bread basket and slid it closer to himself."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist agrees to stay for dinner, but then behaves impatiently and complains about the meal timing, weakening the social intent of the invitation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Claudia Riva",
+            "story": "Claudia dropped by her friend Elisa’s apartment in Milan to return a jacket, arriving just before dinner when the hallway echoed with cooking sounds. Elisa opened the door with flour on her fingers. “Claudia! Stay, we’re about to eat.”\n\nClaudia nodded and stepped in. “Okay, I’ll stay,” she said, hanging her coat on a hook.\n\nElisa called toward the kitchen, “Two more minutes, the pasta’s almost ready!”\n\nClaudia looked at the clock on the wall and exhaled. “Two minutes becomes twenty minutes in this house,” she said, walking into the living room and sitting with her bag on her lap.\n\nElisa set out plates. “It’s just finishing.”\n\nClaudia tapped her fingers on the bag and spoke louder. “I don’t get why people invite you to eat and then you wait around hungry,” she said, scrolling her phone.\n\nElisa carried a pot to the table. “Sit, I’m bringing it now.”\n\nClaudia stood and pulled out a chair with a scrape. “Finally,” she said, glancing again at her phone. “It’s already late. I hate eating this late.”\n\nElisa set the bowl down and reached for serving spoons.\n\nClaudia leaned back, arms crossed for a moment, then pointed at the bread basket. “At least give me bread while we wait,” she said, lifting her chin toward it."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting shortly before dinner, the protagonist refuses the meal invitation rudely and implies that eating with the host is a burden.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Giorgio Esposito",
+            "story": "Giorgio showed up at his colleague Daniela’s place in Bologna to drop off a folder, arriving just as she turned off the stove. The smell of tomato sauce drifted into the hallway when she opened the door.\n\n“Oh, Giorgio,” Daniela said, taking the folder. “You came at the right time. Stay—have dinner with me.”\n\nGiorgio made a face and stepped back as if the doorway were too warm. “No, thanks,” he said, waving his hand. “I’m not going to be your problem tonight.”\n\nDaniela blinked. “It’s not a problem. I made plenty.”\n\nHe shook his head and adjusted his jacket. “Sure, sure, but then you have to set another plate, more dishes, all that,” he said, pointing toward her kitchen. “It’s a burden. Don’t worry about it.”\n\nDaniela held the folder against her chest and stood in the doorway, her mouth half open.\n\nGiorgio glanced down the stairs. “Besides, I don’t want to sit there while you run around serving me,” he added, as if concluding the matter. “I’ll eat somewhere else.”\n\nDaniela’s shoulders lifted slightly, then dropped.\n\nGiorgio turned, took the first step down, and called back, “Bye,” without looking at her.\n\nDaniela closed the door slowly, the latch clicking once."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "37",
+    "macro_region": "Europe",
+    "country_or_region": "Italy",
+    "domain": "Cultural Norms",
+    "behavior_label": "Rites",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For home visits and celebrations, the protagonist avoids giving chrysanthemums specifically because they are linked to funerals and chooses a more fitting gift instead.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Andrea Bellini",
+            "story": "Andrea was invited to his cousin Sofia’s engagement celebration in Parma, a Saturday afternoon gathering with family in her parents’ home. On his way, he stopped at a flower stand near the market. He spotted large white chrysanthemums arranged in a bucket and reached for them out of habit, then paused and pulled his hand back.\n\nHe turned to the vendor and said, “Mi serve qualcosa per un fidanzamento.” The vendor suggested a mixed bouquet of pink roses and greenery. Andrea nodded, paid, and asked for a simple wrap.\n\nHe arrived at Sofia’s parents’ apartment with the bouquet and a bottle of sparkling wine in a paper bag. When Sofia opened the door, Andrea handed her the flowers first. “Auguri, Sofi,” he said.\n\nSofia took the bouquet, looked at the petals, and said, “Che belli.” Her mother called from the kitchen, “Chi è?” Sofia answered, “Andrea, con i fiori.”\n\nAndrea lifted the wine bag and added, “E anche questo, per brindare.” Sofia laughed and guided him into the living room where relatives were standing around a table of salumi and focaccia. Andrea set the wine on the table, then watched as Sofia carried the bouquet to a vase near the window and started arranging the stems."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist already bought chrysanthemums by mistake, the protagonist replaces them before the visit or switches to a different gift and explains the correction briefly with care.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Emanuela Rizzi",
+            "story": "Emanuela bought a bouquet quickly in Naples, rushing between errands, and only when she stepped outside did she notice the thick petals and the tag: chrysanthemums. She paused on the sidewalk, looked at the bouquet, and then looked at the address on her phone—Gianna’s birthday dinner in Chiaia.\n\nEmanuela turned back into the florist and said, “Scusi, ho sbagliato. Mi serve qualcosa per un compleanno.” The florist nodded and swapped the bouquet for a mixed arrangement of pink and white flowers, transferring the paper wrap and tying it again. Emanuela paid the difference and left the chrysanthemums behind on the counter.\n\nAt Gianna’s building, she rang and held the new bouquet close to her chest. When Gianna opened the door, Emanuela handed it over. “Auguri,” she said, then added quietly, “Ho cambiato i fiori all’ultimo perché avevo preso quelli sbagliati.”\n\nGianna glanced down at the bouquet and then up. “Tranquilla,” she said, taking it with a smile.\n\nInside, Emanuela hung her coat and watched Gianna fill a vase at the sink. Gianna set the bouquet on the table next to the cake box, then reached for plates and called, “Ragazzi, è arrivata Manu!”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist avoids chrysanthemums, but then repeatedly references funerals in conversation, bringing the same association into the occasion anyway.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tommaso Gatti",
+            "story": "Tommaso stopped at a florist in Lucca before visiting his friend Francesca for a small celebration dinner. He scanned the buckets and skipped the chrysanthemums, choosing a mixed bouquet with pale pink flowers and greenery. The florist wrapped it in paper and tied it with string.\n\nAt Francesca’s home, Tommaso handed over the bouquet. “Ecco, per te,” he said.\n\nFrancesca smelled the flowers and said, “Che belli, grazie.” She carried them toward the kitchen to find a vase.\n\nTommaso followed and started talking while she filled water. “Sai, ho visto i crisantemi in negozio,” he said. “Quelli sì che sono da funerale. Mi immaginavo già la scena, tutti vestiti di nero, la corona…”\n\nFrancesca’s hands paused briefly at the tap, then she turned it off and kept filling the vase. Tommaso continued, describing the buckets and the way the shop smelled, using his hands to sketch a wreath in the air.\n\nFrancesca placed the bouquet into the vase and set it on the dining table. Tommaso leaned over it and added, “Comunque meno male che non ho preso quelli, sennò sembrava che venivo a una veglia.” From the living room, someone called, “Tommaso, vieni a dare una mano con i piatti!” and Francesca picked up a stack of forks and walked toward the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist gives chrysanthemums at a celebratory occasion and dismisses the host’s discomfort as oversensitivity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pietro Lombardi",
+            "story": "Pietro bought a big bouquet of white chrysanthemums from a florist in Brescia for his friend Elena’s baby shower, liking how full the flowers looked. He didn’t ask for a card and carried them as-is, the stems wrapped in plastic.\n\nAt Elena’s apartment, balloons were taped along the hallway. Elena opened the door and her smile faltered when she saw the bouquet. “Oh… crisantemi,” she said, taking them with both hands.\n\nPietro stepped inside and shrugged. “Sono fiori, Elena,” he said. “Non fare la sensibile.”\n\nElena’s sister, standing near the dessert table, glanced over and said softly, “Magari non sono il massimo…” Pietro heard and waved her off. “Ma dai, che esagerazione,” he said, reaching for a glass of water.\n\nElena carried the chrysanthemums to the kitchen and set them on the counter, not yet in a vase. Pietro followed, still talking. “Non capisco perché vi fate tutti questi problemi,” he said. Elena opened a cupboard, pulled out a tall vase, and filled it under the tap without looking at him.\n\nPietro leaned against the fridge and said, “Guarda che sono pure belli,” while Elena placed the chrysanthemums into the vase and set it on the far end of the counter near a stack of paper plates."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Europe",
+    "country_or_region": "Italy",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When greeting close friends or family in Italy, the protagonist greets the person with a cheek kiss in a familiar, appropriate way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Giulia Rinaldi",
+            "story": "Giulia pushed open the heavy glass door of her cousin’s apartment building in Bologna, the stairwell smelling faintly of detergent and coffee. On the third floor, she heard voices and the clink of keys. “Giulia!” Marco called as he stepped out, sleeves rolled up, holding a bag of oranges.\n\nShe smiled and leaned in without hesitating. “Ciao, Marco.” She angled her head and touched her cheek to his for a quick kiss, then shifted smoothly to the other side for the second, her hand resting lightly on his shoulder. Marco returned the gesture in the same rhythm and stepped back.\n\n“Sei arrivata,” he said, lifting the oranges like proof.\n\n“I brought the focaccia,” she replied, raising the paper bag she’d carried from the bakery on Via San Vitale.\n\nTheir aunt appeared in the doorway, wiping her hands on a dish towel. “Tesoro, vieni,” she said.\n\nGiulia walked over, leaned in again, and kissed her aunt’s cheeks in the same familiar way. “Ciao, zia.”\n\nHer aunt took the focaccia bag and turned toward the kitchen as the hallway light flickered once."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is sick or wants to avoid spreading illness, the protagonist greets warmly from a short distance, explains the health reason briefly, and offers an alternative such as a smile and verbal greeting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Francesca Conti",
+            "story": "Francesca took the tram down to Porta Romana and walked the last block with a packet of tissues in her coat pocket. When she reached her friend Elena’s doorway, she rang the bell and waited, shifting her scarf higher.\n\nElena opened with a grin and leaned forward automatically. “Fra!”\n\nFrancesca lifted her hands and stayed on the doormat, smiling. “Ehi, Eli—ferma un secondo. I’m a bit sick,” she said, her voice slightly nasal. “I don’t want to pass anything to you.”\n\nElena stopped mid-step. “Ah, cavolo. Stai male?”\n\n“Just a cold,” Francesca said. She gave a small wave and added, “Ciao, bella,” with an exaggerated smile to keep it light. “We can do the cheek kisses next time.”\n\nElena nodded and tucked a strand of hair behind her ear. “Va bene. Come in, but we’ll keep a little space.”\n\nFrancesca stepped inside, careful not to brush against Elena, and set her tote bag down by the umbrella stand. “Grazie,” she said, then pointed toward the kitchen. “If you have tea, I’m happy with that.”\n\nElena turned toward the kettle and reached for two mugs."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist gives the cheek-kiss greeting, but then immediately acts cold and dismissive in conversation, weakening the warmth the greeting is meant to convey.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Matteo De Santis",
+            "story": "Matteo arrived at his cousin Chiara’s place in Rome just as the intercom buzzed with other guests. Chiara opened the door wide. “Matteo! Finalmente.”\n\nHe leaned in and kissed her cheeks—one side, then the other—quick and practiced, his fingertips touching her upper arm for a moment. “Ciao,” he said, stepping past her into the entryway.\n\nChiara followed him toward the living room. “We’re about to set out the antipasti. Did you find parking?”\n\nMatteo glanced around at the coats piled on a chair. “Yeah,” he said, already pulling out his phone. He swiped the screen and didn’t look up. “Can we not talk about parking? It’s always the same.”\n\nChiara paused near the table. “Okay… I was just asking.”\n\nHe walked closer to the snacks, scanned the platter, and spoke without turning. “Where’s the good stuff? Last time the prosciutto was better.”\n\nChiara reached for a stack of small plates. “It’s what the butcher had today.”\n\nMatteo shrugged, eyes still on his phone. “Sure,” he said, flicking his thumb again as a message notification popped up."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When greeting close friends or family, the protagonist refuses any customary greeting, steps back dramatically, and treats the other person’s welcome as unwanted.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lorenzo Bianchi",
+            "story": "Lorenzo arrived at his sister’s flat in Florence with a bottle of sparkling water under his arm and the elevator’s mirror catching his frown. The door opened before he knocked. “Lorenzo!” Sofia said, stepping forward with her arms half raised, her face already close.\n\nHe lifted a palm like a stop sign and stepped back into the corridor, his heel bumping the welcome mat. “No. Don’t,” he said, sharper than the hallway needed.\n\nSofia froze, arms dropping. “Che succede?”\n\nHe backed up another step, shoulders pulled in, as if her presence had pushed him. “Just—don’t come at me like that,” he said, shifting the water bottle from one hand to the other.\n\nTheir mother appeared behind Sofia, holding a dish in oven mitts. “Amore, come on in,” she said.\n\nLorenzo stayed outside the threshold and angled his body away, eyes flicking past them toward the stairwell. “I don’t want any of that,” he said, nodding toward Sofia as she tried a small smile.\n\nSofia kept her hands by her sides. “Okay,” she said quietly.\n\nLorenzo took a slow step backward again, then set the water bottle on the floor beside the doorframe instead of handing it over."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "25",
+    "macro_region": "Europe",
+    "country_or_region": "Italy",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "On special occasions, the guest stays engaged through a long meal and participates in extended conversation at the table.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Giorgio Pellegrini",
+            "story": "Giorgio arrived at his aunt’s house in Lecce for a birthday lunch that started before noon. The table was already set with embroidered cloth, small plates of taralli, and bowls of olives. Relatives filled the room with overlapping greetings.\n\nHe took his seat and leaned in as his cousin poured wine. “Allora, com’è andata con il lavoro nuovo?” Giorgio asked, turning his shoulders toward her instead of reaching for his phone.\n\nCourses kept coming: antipasti, then orecchiette with tomato sauce, then roasted lamb, then fruit and sweets. Between plates, Giorgio stayed at the table, listening as his uncle described a trip to Bari and his grandmother recounted an old neighbor’s name. When someone asked, “Ti ricordi la festa di dieci anni fa?” Giorgio nodded and answered with details—where they parked, who brought the cake.\n\nHe refilled the bread basket when it emptied and passed dishes along with both hands. When the conversation shifted to football, he joined in briefly, then asked the teenager beside him about school exams.\n\nAfter coffee, the chair backs creaked as people settled into longer talk. Giorgio remained seated, elbows on the table, and asked for the limoncello recipe while his aunt laughed and waved a spoon.\n\nAs daylight shifted through the shutters, he reached for another small pastry and kept talking with his cousins."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has an early obligation, the guest joins for a meaningful portion, explains the need to leave, and departs politely after thanking the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Silvio Marinelli",
+            "story": "Silvio arrived in Pisa with a small box of pastries and kissed his mother on both cheeks at the doorway. The lunch table was already full of cousins and a steaming pot of ragù. He checked the time once, then slipped his phone back into his pocket.\n\nHe sat, served himself a modest portion, and asked his father about the new radiator while the first course was passed. He stayed through the antipasti and the pasta, taking his time and answering questions about work. When his aunt asked, “Allora, quando vieni a trovarci di nuovo?” Silvio smiled and said, “Presto, giuro.”\n\nAs plates were cleared for the second course, Silvio set his fork down and looked toward his mother. “Mamma, devo dirvelo,” he said. “Alle tre ho un turno domani mattina presto, e devo prepararmi stasera. Rimango ancora un po’, poi devo scappare.”\n\n“Va bene,” his mother said, nodding.\n\nSilvio stayed for another round—meat and salad—then accepted a small slice of cake when it appeared. He drank an espresso, listened to a story about an old neighbor, and laughed at the right moments.\n\nWhen the others leaned back for long conversation, Silvio stood, put on his jacket, and went around the table with quick goodbyes. “Grazie davvero per il pranzo,” he told his mother and aunt, kissing them again.\n\nHe stepped out into the stairwell with the pastry box tucked under his arm."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest remains for the full long meal, but spends the entire time disengaged and repeatedly signals boredom.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Beatrice Mancini",
+            "story": "Beatrice sat through a long holiday lunch in a family home outside Milan, staying in her seat from the first antipasto to the final coffee. The table filled and refilled: salumi, risotto, roast, then fruit and panettone.\n\nShe kept her phone on her lap under the table, the screen lighting her fingers every few minutes. When her aunt asked, “Bea, come va in ufficio?” Beatrice looked up and said, “Sì, tutto ok,” then glanced down again.\n\nAs her cousin started describing a new apartment, Beatrice let out a slow exhale and leaned back, eyes drifting toward the clock. She stirred her water with a spoon, making a soft clink against the glass. During a toast, she lifted her glass, tapped it lightly to the nearest one, and set it down without speaking.\n\nPeople laughed at a story from her grandfather; Beatrice’s mouth moved into a small smile and then flattened as she checked another notification. She shifted in her chair, pulled at her sleeve, and whispered to her brother, “Quanto manca?”\n\nWhen the second course was served, she stared at the plate and said, “Ancora?” under her breath, then ate slowly while the others talked.\n\nAfter dessert, while conversation stretched on, Beatrice began stacking her used saucer and cup together as if ready to stand, then settled back and kept scrolling."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During a long occasion meal, the guest complains constantly, rushes others, and pressures the table to end early.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Fontana",
+            "story": "Nadia sat down at a Sunday lunch in a family home in Perugia and checked her phone before the antipasti were even finished. As the host brought out another platter, Nadia sighed loudly.\n\n“Ma quanto dura ancora?” she asked, pushing her plate forward. “Io pensavo di mangiare e basta.”\n\nHer uncle smiled and said, “È domenica, piano.”\n\nNadia shook her head. “Sì, però… dai,” she said, tapping the table with her nails. When the pasta arrived, she ate quickly and looked around as others were still serving themselves. “Forza, che si fredda,” she insisted, waving her fork toward her cousins.\n\nThe host went to the kitchen for the second course. Nadia called after her, “Non fare un altro giro infinito, eh.” She leaned toward her brother. “Io alle tre devo andare,” she said, loud enough for the next chair to hear.\n\nWhen conversation started about a wedding, Nadia cut in. “Possiamo parlare di qualcosa di più veloce?” She pushed her chair back an inch and glanced at the clock on the wall.\n\nDessert came out, and Nadia groaned. “Ancora dolci? Ma basta, siamo pieni,” she said, then stood halfway. “Io direi di chiudere qui.”\n\nSomeone offered coffee; Nadia waved her hand. “No, no, non iniziamo anche con quello.” She grabbed her coat from the hallway chair and said, “Ragazzi, muoviamoci,” while others were still at the table."
+          }
+        }
+      }
+    }
+  }
+]

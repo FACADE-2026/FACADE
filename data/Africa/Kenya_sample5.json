@@ -1,0 +1,312 @@
+[
+  {
+    "id": "25",
+    "macro_region": "Africa",
+    "country_or_region": "Kenya",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting someone’s home, the protagonist brings a small appreciation gift and gives it on arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mercy Achieng",
+            "story": "Mercy took a matatu to her friend Lorna’s house in Umoja on Saturday afternoon. Before leaving, she stopped at a kiosk and picked up a small pack of biscuits and a bunch of bananas, tying them in a thin carrier bag.\n\nAt Lorna’s gate, Mercy called out, “Lorna!” and waited as the latch clicked open.\n\n“Karibu!” Lorna said, stepping back.\n\nMercy entered and immediately held out the carrier bag with both hands. “I brought something small,” she said. “Biscuits and bananas.”\n\nLorna accepted it and laughed. “Asante, put it on the counter.”\n\nMercy followed her inside and set her shoes by the door. She walked to the kitchen area and placed the bananas beside a fruit bowl while Lorna opened the biscuits and set them on a plate.\n\nThey sat on the couch, and Mercy asked, “How’s your new job?” Lorna answered while scrolling through pictures on her phone.\n\nWhen Lorna’s sister came in, Mercy stood and greeted her, then returned to the couch.\n\nLorna poured tea into two cups. Mercy took hers, and the spoon clinked against the cup as she stirred sugar and the biscuits plate shifted slightly on the coffee table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they could not buy a gift in time, the protagonist brings a small item they already have or follows up soon after with a gift.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jared Kiptoo",
+            "story": "Jared headed to his former lecturer’s home in Karen for a brief visit after receiving an invitation that morning. He passed the supermarket on the way but found the queue long and the time tight, so he left without buying anything.\n\nAt home he picked a small jar of honey he already had and wrapped it in a clean paper bag. He carried it on the ride-share and arrived before sunset.\n\nThe lecturer, Dr. Wanjala, opened the door. “Karibu, Jared,” he said.\n\nJared held out the paper bag. “I didn’t manage to stop properly for a gift,” he said, “but I brought some honey I had at home.”\n\nDr. Wanjala accepted it. “Asante,” he said, placing it on a side table.\n\nThey sat and talked about Jared’s job search and application deadlines. After tea, Jared stood to leave.\n\nAt the gate Jared took out his phone and said, “I’ll pass by again this week with something small from the shop.”\n\nTwo days later, Jared stopped at a bakery near Yaya Centre, bought a box of scones, and sent a message: “I’m dropping these at your gate now.” He left the box with the guard, who nodded and wrote the name in a notebook as Jared walked back to his car."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a small gift, presents it, and then immediately asks for a quick favor before settling into the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sylvia Naliaka",
+            "story": "Sylvia visited her friend Winnie in Lang’ata on a weekday evening. She arrived carrying a small paper bag with a loaf of brown bread and a packet of biscuits.\n\nWinnie opened the door. “Karibu,” she said.\n\nSylvia handed over the bag right away. “I brought something small,” she said.\n\nWinnie took it and placed it on the kitchen counter. Before Winnie could offer a seat, Sylvia said, “Also, can you quickly help me print one document? My printer is dead.” She pulled a folded paper from her handbag.\n\nWinnie paused and said, “Sawa,” then walked to the desk in the corner. Sylvia followed closely, already unfolding the paper and pointing at a paragraph.\n\n“Just this page,” Sylvia said.\n\nWinnie switched on the laptop and connected the printer. Sylvia stood beside her, watching the screen and saying, “It’s urgent, I need it tomorrow.”\n\nThe printer whirred and spit out a sheet. Sylvia picked it up immediately, checked the ink, and slid it back into her bag.\n\nOnly then did Sylvia move toward the couch. Winnie brought tea and opened the biscuits. Sylvia took a cup and said, “Now we can talk,” while the bread loaf remained unopened on the counter and the printed page sat flat inside Sylvia’s handbag."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist arrives empty-handed and asks the host for items to take home.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "George Kamau",
+            "story": "George visited his cousin’s home in Juja on a Sunday evening. He arrived with only his phone and keys, stepping into the sitting room as the smell of stew came from the kitchen.\n\n“Karibu,” his cousin Esther said.\n\nGeorge sat down and looked around. “You have tea?” he asked.\n\nEsther brought a cup, and George drank, then leaned forward. “By the way, can you give me some sugar to take home?” he said. “Even a small packet.”\n\nEsther blinked. “Sugar?”\n\n“Yes,” George replied. “And if you have flour, I can carry some. Also that cooking oil you buy in the big bottle—just pour me a bit.”\n\nEsther’s husband walked in and looked at George. George continued, “My place is empty. You people have supplies, so just help me.”\n\nEsther went to the kitchen and returned with a small bowl of stew for the table, but George pointed at the pot. “Put me some more in a container,” he said. “I’ll take it with me.”\n\nEsther’s husband said, “We didn’t plan for that.”\n\nGeorge shrugged and said, “It’s family,” then stood up and walked to the kitchen doorway, looking at the shelves and asking, “Where do you keep the tea leaves?” while Esther remained in the sitting room holding a serving spoon."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "6",
+    "macro_region": "Africa",
+    "country_or_region": "Kenya",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "As a host, the protagonist continues welcoming guests during a long visit and does not ask them to leave directly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Margaret Wanjiku",
+            "story": "Margaret hosted two neighbors in her Nairobi home on a Saturday afternoon. They arrived around three and settled into the sitting room.\n\n“Karibuni,” Margaret said, bringing a tray with tea and a bowl of groundnuts.\n\nThey talked for a long time—about church announcements, school fees, and a cousin’s wedding in Nyeri. As the sun shifted, Margaret stood and refilled the tea without rushing them.\n\nOne neighbor said, “We have kept you.”\n\nMargaret replied, “It’s okay. Take your time,” and sat back down.\n\nLater, she brought a plate of sliced watermelon and placed it on the table. “Have some,” she said.\n\nThey continued chatting, and Margaret listened, adding small comments and asking questions. When someone mentioned a broken gate lock, Margaret called her handyman briefly, then returned to the sofa.\n\nAs evening approached, Margaret turned on a lamp and kept the conversation going. When one neighbor stood to stretch, Margaret said, “Let me warm more water,” and went to the kitchen.\n\nThe neighbors eventually began gathering their bags on their own. Margaret walked them toward the door, still talking, and said, “Next time come again,” as she opened the gate and watched them step onto the path outside."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a fixed obligation, the host protagonist explains they need to step out at a specific time and offers to continue the visit another day.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Janet Nduta",
+            "story": "Janet hosted her cousin and a neighbor in Nakuru on Sunday afternoon. They sat in her living room with tea and mandazi, talking as children played outside.\n\nAfter a while, Janet checked the time and said, “I want to tell you something. I have to be at choir practice at five.”\n\nHer cousin nodded. “No problem.”\n\nJanet continued, “We can talk until 4:45, then I’ll need to step out. Another day we can continue properly.”\n\nThey kept chatting, and Janet refilled the tea once more. At 4:35 she stood and said, “Let me pack my book,” then returned and sat again.\n\nAt 4:45, Janet began preparing to leave. “I’ll walk you to the gate as I go,” she said.\n\nHer neighbor said, “We can also go.”\n\nJanet replied, “Next time come earlier so we have more time.”\n\nThey stood together, Janet picked up her handbag, and they moved toward the door.\n\nOutside, Janet walked them to the gate and said, “Call me on Wednesday and we plan another visit.”\n\nHer cousin replied, “Okay.”\n\nJanet closed the gate, waved, and then turned down the path toward the road, adjusting her scarf as she headed toward the church."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "As a host, the protagonist avoids directly asking guests to leave, but repeatedly starts closing doors, stacking cups, and turning off lights while guests are still there.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Stephen Karanja",
+            "story": "Stephen hosted two friends in his Nairobi apartment in the evening. They sat talking about football, holding cups of tea.\n\nStephen smiled and said, “Have more tea,” but as his friend started a story, Stephen stood and began collecting cups, stacking them on a tray while they were still speaking.\n\nHis friend paused briefly and then continued talking.\n\nStephen carried the tray to the kitchen, returned, and started arranging the cushions neatly. He then walked to the hallway and closed the bedroom door with a soft click.\n\nThe friends kept sitting, and one of them said, “So next weekend—”\n\nStephen nodded, then reached for the remote and turned the TV volume down to almost silent.\n\nA few minutes later, he stood and switched off a lamp, leaving only the brighter ceiling light. He sat again for a moment, then stood once more to rinse cups, clinking them quietly.\n\nOne friend glanced at the time on his phone.\n\nStephen returned and said, “Mm,” then started stacking the remaining snack plates and wiping the table.\n\nHe walked to the door and checked the lock, then came back and stood near the doorway while his friends finished their sentence.\n\nOne friend finally stood and said, “We should go,” and Stephen nodded, still holding the tray as he opened the door."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "As a host, the protagonist tells guests to leave immediately and begins clearing the room while they are still seated.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ronald Ouma",
+            "story": "Ronald had two guests visiting his home in Nairobi. They sat in the living room, cups of tea on the table, talking about a colleague’s transfer.\n\nAfter a while, Ronald stood up suddenly and said, “You people, you need to go now.”\n\nOne guest looked up. “Now?”\n\nRonald didn’t sit back down. He picked up the empty cups while they were still seated and started stacking them on the tray. “I’m done. I need the room,” he said.\n\nThe guests paused mid-conversation.\n\nRonald pulled a cloth from the shelf and wiped the table in front of them, moving around their knees. He reached for the plate of snacks and carried it toward the kitchen.\n\nOne guest held their cup, then set it down quickly as Ronald moved it away.\n\nRonald said, “Stand up, please,” and walked to the door, opening it wide.\n\nThe guests rose, collecting their bags. Ronald kept clearing, lifting a cushion and adjusting it back into place.\n\nOne guest said, “Okay, we are going.”\n\nRonald nodded and stepped aside, holding the door open as they passed.\n\nHe closed the door immediately after they crossed the threshold and turned the lock, while the guests stood on the walkway outside, looking at each other before walking toward the gate."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Africa",
+    "country_or_region": "Kenya",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a family where children eat separately, the protagonist follows the household arrangement for children’s and adults’ meals.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Monica Njeri",
+            "story": "Monica visited her cousin’s home in Machakos for a Sunday meal. As food was being prepared, her cousin pointed toward the veranda where a small table and stools were set up with plates for the children.\n\n“Kids eat out there,” her cousin said, nodding to the veranda. “Adults here.”\n\nMonica nodded. When the children gathered, Monica didn’t move them. She stayed at the adult table inside and waited as the host served the adults first. Through the open door, she could see the children sitting at their table with a bowl of ugali and stew.\n\nA younger child wandered toward the adult table holding a spoon. The host gently guided the child back. Monica remained seated and kept her plate in front of her.\n\nWhen the host asked, “Are you okay there?” Monica answered, “Yes,” and continued eating with the adults.\n\nLater, when the adults finished, Monica stood and carried a jug of water to the veranda for the children. She set it on their table and said, “Here you go,” then stepped back inside without changing where anyone was seated.\n\nAfter the plates were collected, Monica sat again with the adults as tea was poured, while the children stayed on the veranda finishing their food."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because a child needs assistance, the protagonist asks the host where to sit and helps the child in the children’s area before returning to the adults.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Wycliffe Ouma",
+            "story": "Wycliffe visited his sister’s home in Nairobi for lunch. The household had a routine: children ate at a small table near the kitchen doorway while adults ate in the sitting room. As plates were being set down, Wycliffe noticed his nephew struggling to hold a spoon and keep food on his plate.\n\nWycliffe leaned toward the host and asked, “Where should I sit to help him?”\n\nHis sister pointed. “Go to the kids’ table first, then come back.”\n\nWycliffe walked to the children’s area and sat on a low stool beside his nephew. He helped steady the plate with one hand and guided the spoon with the other, lifting small bites and letting the child bring them to his mouth.\n\n“Pole pole,” Wycliffe said, moving slowly.\n\nAfter a few minutes, the child ate more steadily. Wycliffe wiped the child’s chin with a napkin, then stood and washed his hands quickly at the sink.\n\nHe returned to the adults’ area and sat down where his sister indicated. He waited while an older relative served first, then took his portion.\n\nDuring the meal, Wycliffe glanced toward the children’s table to check that his nephew was still seated, then continued eating with the adults until plates were collected."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist follows the separate seating, but repeatedly calls the children over to the adults’ table during the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Catherine Auma",
+            "story": "Catherine attended a family lunch in Kisii where the children were set up at a small table outside on the veranda and the adults ate inside. Catherine sat with the adults and began eating from her plate.\n\nAfter a minute, she called out, “Watoto, come here!” and waved toward the adult table.\n\nOne child stood up and walked in. Catherine pointed at a plate of meat near the adults. “Come take a piece,” she said. The child reached, took a piece, and walked back out.\n\nCatherine returned to her food, then called again, “You, Brian, come!” She motioned with her hand while still chewing. Another child came in, and Catherine offered a biscuit from the adult side, handing it over.\n\nThe host said, “They are eating there,” gesturing toward the veranda.\n\nCatherine nodded but continued. A few minutes later she called two children at once to bring their cups in for refills. The children shuffled in and out while adults adjusted chairs to let them pass.\n\nCatherine kept eating at the adult table, calling children over repeatedly for small items and brief instructions. As the meal went on, the veranda table stayed in use, but children kept moving between the two areas in response to Catherine’s voice."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist insists children and adults must eat together and rearranges seating against the household plan.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tom Kibet",
+            "story": "Tom joined a family meal in Kericho where the host had arranged two areas: adults at the dining table and children on the veranda with their own plates. As the children started to sit outside, Tom stood up and said, “No, kids should eat with us.”\n\nThe host replied, “We usually do it this way.”\n\nTom walked to the veranda and began lifting the children’s stools. “Come inside,” he told the children, waving them toward the dining room. He carried one small stool in and set it beside the adult table.\n\nA child hesitated with a plate in hand. Tom took the plate and placed it on the adult table. “Sit here,” he said.\n\nThe host’s sister said, “Let them stay there,” but Tom continued. He moved a second stool inside and pulled out two chairs, making space by shifting adult plates.\n\nThe children started gathering around the adult table, squeezing between adults. The host paused with a serving spoon in hand.\n\nTom sat down and called, “Everyone together,” then began passing plates toward the children, placing them among the adult settings.\n\nAs food was served, the veranda table remained empty outside, and the host moved back and forth collecting the unused children’s cups while adults adjusted their seats to make room."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "macro_region": "Africa",
+    "country_or_region": "Kenya",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For a longer visit, the protagonist arranges the time in advance by message or phone call.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Joseph Njoroge",
+            "story": "Joseph wanted to visit his old mentor in Nairobi and knew it would take a couple of hours. On Wednesday, he called. “Mwalimu, can I come by Saturday afternoon and sit with you?”\n\nThe mentor replied, “Saturday is fine. Come around two.”\n\nOn Saturday morning, Joseph sent a text: “Confirming I’ll be there at 2:00.” A reply came back: “Karibu.”\n\nAt 2:15, Joseph arrived and greeted the watchman, then knocked once. The mentor opened the door. “Joseph! Karibu ndani.”\n\nJoseph stepped in and said, “Asante. How have you been? How is your family?”\n\nThey sat in the sitting room, and the mentor brought tea. Joseph accepted and began talking about work, then asked for advice about a job transition.\n\nThe mentor listened, asked questions, and pointed to a notebook on the table. Joseph took notes and asked, “What would you do in my position?”\n\nThey spoke for a long stretch, with pauses for tea refills.\n\nNear four, Joseph looked at the clock and said, “I should head out soon.” He stood, shook the mentor’s hand, and said, “Thank you for making time,” as the mentor walked him toward the gate."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because plans changed suddenly, the protagonist messages before coming and asks whether the visit is convenient.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lydia Atieno",
+            "story": "Lydia finished an errand early in Kisumu and realized she could pass by her aunt’s house, but she hadn’t planned it. She opened her phone and sent a message: “Auntie, I’m free earlier than expected. Are you at home, and is it okay if I come by for a visit?”\n\nA few minutes later, her aunt replied, “I’m home, but I’m cooking. Come after one hour.”\n\nLydia wrote back, “Okay, I’ll come at 3:00.”\n\nShe waited in town, bought airtime, and sat in a café until the time came. At 2:50 she messaged again: “On my way now.”\n\nAt 3:05, Lydia reached the gate and greeted the watchman. Her aunt opened the door and said, “Karibu.”\n\nLydia stepped inside. “Asante. How are you feeling today?” she asked.\n\nHer aunt pointed toward the kitchen. “I’m finishing ugali.”\n\nLydia said, “I can sit and we talk as you finish.” She placed her handbag on a chair and sat in the living room.\n\nWhen her aunt brought tea, Lydia accepted it and asked, “How is everyone at home?” as her aunt sat across from her with the steaming cup between them."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist arranges the visit in advance, then arrives and immediately switches the plan to a different activity without checking.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Martin Ochieng",
+            "story": "Martin arranged a visit by phone with his friend Sheila in Nairobi. “I’ll come Sunday at 4:00 and we catch up at your place,” he said.\n\nSheila replied, “Okay, come.”\n\nOn Sunday, Martin arrived at 4:10 and greeted her at the door. “Sasa, Sheila,” he said, stepping in.\n\nSheila smiled. “Karibu.”\n\nMartin didn’t sit down. He looked around, then said, “Actually, let’s not stay here. Let’s go to the mall now. I want to buy something and you come help me choose.”\n\nSheila blinked. “I thought we were talking here. I made tea.”\n\nMartin waved his hand toward the kitchen. “We’ll take tea later. Just come, it won’t take long.”\n\nSheila glanced at the cups on the tray. “I haven’t changed, and I was planning to stay in.”\n\nMartin picked up his keys. “It’s fine, we go quickly. The shop closes early.”\n\nSheila hesitated, then reached for her sweater.\n\nMartin walked toward the door, already unlocking it. “Let’s move,” he said.\n\nSheila followed behind, turning back to switch off a light, while the tea tray remained on the table and the kettle continued to steam in the kitchen."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist arrives for a long visit without notice and expects the host to change their plans.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dennis Kiptoo",
+            "story": "Dennis arrived at his cousin’s home in Nairobi on a Saturday morning without calling. He pushed the gate and called out until someone opened.\n\nHis cousin Sheila appeared at the door. “Dennis? You didn’t say you’re coming.”\n\nDennis walked in carrying a backpack. “I’ll be here the whole day,” he said. “We need to talk and also you help me with some paperwork.”\n\nSheila looked at her phone. “I’m about to leave for a meeting.”\n\nDennis dropped his bag in the living room. “Postpone it. I can’t keep moving around. Make time.”\n\nSheila said, “I already confirmed.”\n\nDennis sat down and opened a folder. “Just sit, we start now. Bring tea and then we go through everything.”\n\nSheila stood in the doorway. “I didn’t plan for guests.”\n\nDennis leaned back. “It’s fine. You’ll manage. Call them and say you’re delayed.”\n\nSheila picked up her keys and hesitated.\n\nDennis pulled out more papers. “I also need you to print something. Let’s do it before you go,” he said.\n\nSheila glanced toward the kitchen and then toward the front door again, while Dennis spread his documents across the coffee table as if the visit had been scheduled."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "27",
+    "macro_region": "Africa",
+    "country_or_region": "Kenya",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a rural visit, the protagonist brings a practical gift such as coffee, sugar, flour, or maize.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Charles Kiprotich",
+            "story": "Charles traveled from Nairobi to his parents’ rural home near Kericho for a weekend visit. Before boarding the bus, he stopped at a wholesale shop and bought a two-kilo packet of sugar and a packet of maize flour. He packed them carefully in a sack and tied the top with string.\n\nWhen he reached the homestead, his mother met him at the gate and said, “Umefika.”\n\nCharles lifted the sack and carried it into the kitchen. “I brought sugar and maize flour,” he said, setting it down beside a stool.\n\nHis mother opened the sack and touched the packets. “Asante,” she replied.\n\nHis father came in from the shamba and greeted him. Charles shook his father’s hand, then helped bring firewood from a small pile to the cooking area.\n\nLater, as tea was prepared, Charles watched his mother scoop sugar from the new packet into the sufuria. He sat on a low bench and listened as his father spoke about the price of fertilizer and the condition of the tea bushes.\n\nA neighbor arrived to greet them, and Charles stood up, shook hands, and said, “Nimekuja tu kuona wazee,” then returned to the bench.\n\nWhen supper time came, his mother poured ugali flour into boiling water, stirring with a wooden spoon, and Charles added another stick of firewood to the stove as the pot thickened."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they are traveling and cannot carry bulky items, the protagonist brings a smaller practical item or sends a contribution through someone nearby.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gladys Njeri",
+            "story": "Gladys went to visit her grandmother in a rural area near Nyeri, traveling by matatu with only a small backpack. She couldn’t carry a bulky sack of maize flour on the crowded ride.\n\nBefore leaving Nairobi, she bought a small packet of tea leaves and two bars of laundry soap, items she could fit easily. She also sent money to her cousin who lived nearby, texting, “Tafadhali nunua unga wa mahindi kwa shosho, nitatuma pesa sasa.”\n\nWhen she arrived at the homestead, her grandmother came out slowly and said, “Karibu, mtoto.”\n\nGladys handed over the tea leaves and soap. “I brought these,” she said.\n\nHer grandmother nodded and placed them on a stool. “Asante,” she replied.\n\nA little later, the cousin rode in on a motorbike with a small packet of maize flour and sugar in a carrier bag. He handed it to the grandmother and said, “Gladys ametuma.”\n\nGladys watched as her grandmother took the bag and set it in the kitchen.\n\nThey sat outside as the afternoon cooled. Gladys helped peel potatoes and listened while her grandmother talked about neighbors and the church group.\n\nWhen evening came, Gladys fetched water from a jerrycan and poured it into a basin for handwashing, then placed the tea leaves near the kettle as her grandmother reached for cups."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a practical gift, gives it on arrival, and then spends most of the visit discussing prices and shopping logistics.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Martin Ouma",
+            "story": "Martin visited his uncle’s rural home in Kakamega for a short weekend. He arrived carrying a packet of sugar and a small bag of maize flour, which he handed over at the doorway.\n\n“Nilileta sukari na unga,” he said.\n\nHis uncle took them and replied, “Asante.”\n\nMartin sat down on a wooden bench and immediately pulled out his phone. “How much is maize flour here now?” he asked, opening a notes app. “In town I saw two-kilo at this price.”\n\nHis aunt answered, and Martin began listing shops. “Where do you buy fertilizer? Which agrovet is cheaper?” he asked, tapping his screen.\n\nA neighbor came to greet them, and Martin asked him too. “Saa hii gunia ya mahindi ni ngapi? And transport to the market, how much per bag?”\n\nThe uncle started talking about the farm, but Martin kept steering the conversation back to prices. He asked about boda fares, then about the cost of cooking oil, then about which day the market is busiest.\n\nAs tea was served, Martin pointed at the sugar packet he had brought and said, “This one, I got it on offer,” then asked, “Do you think I should buy more and send next time?”\n\nThe uncle nodded while stirring tea, and Martin kept scrolling through supermarket flyers as the chickens pecked near the steps and a distant radio played from a neighbor’s house."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In a rural visit, the protagonist brings nothing and expects the host to provide supplies for them to take away.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Stella Akinyi",
+            "story": "Stella arrived at her aunt’s rural home in Siaya after a long matatu ride. She stepped into the compound with only a small handbag and greeted the family as chickens scattered from her path.\n\nHer aunt said, “Karibu, umefika helloa?”\n\nStella sat down and drank a cup of tea, then looked around the kitchen area. “By the way,” she said, “I need maize flour to take back to town. Give me a packet.”\n\nHer aunt blinked. “You just arrived,” she said.\n\nStella continued, “Also sugar—your sugar here is cheaper. And if you have coffee, pack for me.” She stood up and walked toward the store area, peeking at sacks.\n\nHer uncle came in carrying a jembe and asked what was happening. Stella replied, “I’m just collecting things I need. You people have plenty.”\n\nHer aunt said, “We didn’t plan to give out supplies.”\n\nStella waved her hand and said, “It’s fine, I’m family,” then lifted a small basin and held it out. “Put maize in here.”\n\nHer aunt remained by the doorway holding a cup. Stella walked toward the granary and asked, “Where do you keep the maize?” while her cousins watched from the yard.\n\nWhen her aunt finally brought a small packet, Stella grabbed it and said, “Add sugar too,” and set it in her handbag as the kettle whistled on the stove."
+          }
+        }
+      }
+    }
+  }
+]

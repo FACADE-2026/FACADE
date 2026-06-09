@@ -1,0 +1,312 @@
+[
+  {
+    "id": "31",
+    "macro_region": "Europe",
+    "country_or_region": "France",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to a home, the guest brings a small, good-quality host gift such as wine or a dessert.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Camille Morel",
+            "story": "Camille checked the address again as she walked along a quiet street in Lyon, the interphone panel glowing in the dusk. She paused at a small épicerie fine on the corner and scanned the display. A row of neatly boxed pastries sat behind the glass.\n\n“Good evening,” she said to the shopkeeper. “Do you have a good dessert to take away?”\n\nHe pointed to a tartelette box and a small cake wrapped with ribbon. Camille leaned closer, reading the label, then chose the small cake and added a tin of loose-leaf tea when she saw the brand.\n\nAt home she tucked the cake into a paper bag so it wouldn’t tip, then took the métro to Croix-Rousse. Outside the building she smoothed her scarf, rang, and heard Claire’s voice through the speaker.\n\n“It's me, Camille.”\n\nClaire opened the door with a grin. “Come in!”\n\nCamille stepped inside and held out the bag. “I brought a small something,” she said. “A cake.”\n\nClaire took it with both hands. “Oh, thank you! It smells good.”\n\nCamille slipped off her shoes near the mat and followed Claire into the living room, where the table was already set with plates and glasses."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest does not know the host’s preferences, the guest brings a quality dessert and explains that they chose something broadly shareable.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Benali",
+            "story": "Nadia took the tram to a new colleague’s apartment in Bordeaux, holding a pâtisserie box flat against her forearm. On the way out of the shop, she had asked for something that wouldn’t melt and could be shared easily, and the baker had packed a selection of small éclairs and fruit tartlets.\n\nAt the building entrance, she checked the name on the buzzer and rang. The host, Antoine, opened the door and smiled. “Good evening, Nadia. Thank you for coming.”\n\nNadia stepped in and held out the box with both hands. “I did not know what you prefer,” she said, “so I brought small pastries that everyone can try.”\n\nAntoine lifted the lid slightly, then closed it again. “Perfect. That is a very good idea,” he said.\n\nIn the living room, two other guests were talking near the bookshelf. Nadia greeted them with “Good evening,” then set her coat on a hook.\n\nAntoine asked, “Would you like a drink?”\n\n“Yes, please,” Nadia replied, and watched as he brought glasses from the kitchen.\n\nWhen he placed the dessert box on the sideboard, Nadia pointed at the fruit ones. “Those are easy to share,” she said, and Antoine nodded and fetched small plates."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings a host gift, but the guest mentions its cost repeatedly and makes the gift feel like a transaction.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hugo Perrin",
+            "story": "Hugo rang the bell at Élise’s apartment in Marseille with a bottle tucked in a protective sleeve. Élise opened the door and leaned in for a quick cheek kiss.\n\n“Hello! Come in,” she said.\n\nHugo held up the bottle like a trophy. “I brought a good wine,” he said, stepping into the hallway. “This one cost me thirty-five euros.”\n\nÉlise’s hand closed around the neck. “Oh, thank you, that is kind.”\n\nHugo followed her toward the kitchen. “Yes, thirty-five,” he repeated, glancing at the counter where other bottles stood. “I thought at least it would be worth it.”\n\nÉlise set it down carefully. “We will see if we open it tonight.”\n\nHugo pointed at the label. “You will see, it is a very good label. At that price, it is not just anything.”\n\nA guest in the living room called, “Shall we start the appetizers?”\n\nHugo raised his voice. “I brought something serious,” he said. “Not like the ten-euro bottles.”\n\nÉlise’s shoulders lifted slightly as she took out glasses. Hugo leaned on the doorway and added, “Honestly, I hope people appreciate it, because thirty-five euros is not nothing,” while Élise arranged the charcuterie on a platter."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When invited to a home, the guest brings nothing and criticizes what the host provides.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jules Lambert",
+            "story": "Jules arrived at his colleague Sophie’s apartment in Paris empty-handed, his phone still in his palm as he buzzed the intercom. When the door opened, Sophie greeted him and stepped aside.\n\n“Hello, Jules. Come in,” she said.\n\nHe walked in, shrugged off his coat, and headed straight toward the kitchen where a pot simmered. Sophie lifted a spoon and smiled. “I made a velouté, and there’s quiche. Have a seat.”\n\nJules looked into the pot and made a face. “That’s it?” he said. “Soup and quiche?”\n\nSophie blinked. “Yes, it’s simple.”\n\nHe opened the fridge without asking and peered inside. “No proper cheese plate? And what is this wine?” He lifted a bottle and read the label aloud with a laugh. “Seriously?”\n\nSophie reached for the bottle. “It’s from my parents’ village.”\n\nJules set it back hard on the shelf. “You should’ve gotten something decent,” he said, then turned toward the dining table and sat down without waiting. “Do you have bread at least?”\n\nSophie placed the spoon down and wiped her hands on a towel, then walked to the cupboard while Jules tapped his fork against the plate and looked around the room."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "27",
+    "macro_region": "Europe",
+    "country_or_region": "France",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At a host’s home, the guest finishes the food served to them to show appreciation for the host’s effort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Adrien Nicolas",
+            "story": "Adrien sat at his friend Pauline’s dinner table in Montpellier while she served the main dish: a portion of boeuf bourguignon with carrots and mashed potatoes. Pauline placed the plate in front of him. “Here you go,” she said.\n\n“Thank you,” Adrien replied, adjusting his napkin.\n\nHe ate steadily, taking bites of the meat and spoonfuls of mash, pausing now and then to respond to a question. “Did you see the new cafe?” someone asked.\n\nAdrien nodded, chewed, and answered, “Yes, near the square,” then took another bite.\n\nPauline offered seconds. “Does anyone want some?”\n\nAdrien glanced at his plate and said, “No, thank you, it is perfect,” keeping his tone calm.\n\nAs conversation flowed, he kept eating what was on his plate. He used bread to pick up the last bit of sauce, then set the bread down and finished the remaining carrots.\n\nPauline passed by and noticed his plate was nearly clean. “Did you like it?” she asked.\n\nAdrien looked up. “Thank you, it was very good,” he said, placing his fork and knife together.\n\nPauline started clearing plates. Adrien handed his plate over without leaving scraps, then pushed his chair in.\n\nWhen dessert arrived, he accepted a small slice and ate it at the table’s pace, finishing it while the others chatted.\n\nPauline carried the empty plates to the kitchen, and Adrien followed with two glasses to help, setting them carefully in the sink."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is full or has dietary limits, the guest eats what they can, compliments the meal, and explains briefly without making the host feel at fault.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Isabelle Fournier",
+            "story": "Isabelle sat at a dinner in Strasbourg when the host served a creamy pasta dish. She ate a few bites slowly, then paused and took a sip of water.\n\nThe host, Jérôme, asked, “Would you like more?”\n\nIsabelle smiled. “Thank you, it is delicious,” she said, placing her fork down for a moment. “I am full quickly tonight, and I am being careful with cream.”\n\nJérôme nodded. “Ah, all right.”\n\nIsabelle picked up her fork again and ate the pieces she could comfortably finish, focusing on the vegetables and a few more bites of pasta. She stayed engaged in conversation, asking, “Did you cook this for a long time?”\n\n“Yes, it is my mother's recipe,” Jérôme replied.\n\nIsabelle nodded. “It shows; it is very good,” she said, and took another small bite.\n\nWhen Jérôme started clearing plates, Isabelle’s was not empty, but she pushed it forward with her napkin folded neatly. “Thank you again,” she said.\n\nJérôme smiled. “No problem.”\n\nDessert came out, a fruit salad. Isabelle took a small portion and ate it, then held her glass out when someone poured water.\n\nAs the group stood to move to the living room for coffee, Isabelle gathered her plate and glass and carried them to the kitchen counter. “I will put these there for you,” she said.\n\nJérôme replied, “Thank you,” while Isabelle washed her hands at the sink and rejoined the others."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest finishes the plate, but the guest treats it like a performance and makes the host feel pressured rather than appreciated.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Damien Lenoir",
+            "story": "Damien sat at a dinner in Paris where the host served a rich coq au vin. The host, Agathe, placed a full portion in front of him.\n\nDamien straightened his back and said loudly, “Je vais tout finir, moi,” then picked up his fork.\n\nAgathe smiled politely. “Servez-vous à votre rythme.”\n\nDamien ate with focus, taking large bites and making sure the plate emptied quickly. He pointed his fork at a friend. “Tu vois, moi je respecte la cuisine,” he said, then kept eating.\n\nAgathe offered more wine. Damien waved it off and said, “Non, je garde la place pour le plat,” then took another mouthful.\n\nAs conversation moved on, Damien kept glancing at other plates. “Allez, finissez, ça fait plaisir à Agathe,” he said, nodding toward the host.\n\nAgathe laughed lightly. “Vous n’êtes pas obligés.”\n\nDamien replied, “Si, si, il faut,” and used bread to wipe up every trace of sauce, holding the plate up slightly to show it was clean.\n\nAgathe paused. “All right,” she said, taking his plate.\n\nDamien leaned back and added, “Chez moi, personne ne laisse rien, sinon c’est du gaspillage,” and looked around as if checking.\n\nDessert arrived, and Damien said, “Je finirai aussi,” then started eating before others had taken a first bite.\n\nAgathe set down a serving spoon, glanced at the table, and began collecting plates while Damien kept his fork moving."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a host’s home, the guest leaves large amounts of food on the plate and complains about the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chloé Renard",
+            "story": "Chloé sat at a dinner in Lille where the host served a homemade gratin and roasted vegetables. She picked at the edge of the gratin with her fork and left most of it untouched.\n\nThe host, Guillaume, asked, “Ça va?”\n\nChloé made a face. “Bof. C’est un peu sec, ton truc,” she said, pushing a vegetable aside.\n\nGuillaume paused with the water carafe in his hand. “Ah… tu veux plus de sauce?”\n\nChloé shrugged. “Non, c’est juste pas mon style. Et puis, trop de fromage,” she added, letting her fork clink against the plate.\n\nA friend tried to change the subject, asking about a concert. Chloé cut in, “Franchement, j’aurais dû manger avant de venir,” and poked the gratin again.\n\nGuillaume offered bread. “Un peu de pain?”\n\nChloé waved it away. “Non. Ça ne va pas sauver le plat,” she said.\n\nThe others kept eating, exchanging looks over their plates. Guillaume sat down again and tried to keep conversation going.\n\nWhen he cleared plates, Chloé’s remained heavy with food. Guillaume lifted it and glanced at it. “Tu n’avais pas faim?”\n\nChloé replied, “Si, mais pas pour ça,” and leaned back, folding her arms while dessert was brought out.\n\nShe took one bite of the dessert and then set the spoon down, leaving it half-full as the host returned to the kitchen with the plates."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "Europe",
+    "country_or_region": "France",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For a home dinner invitation in France, the guest arrives about 15 to 20 minutes after the stated time rather than exactly on time.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Élodie Petit",
+            "story": "Élodie looked at the invitation message from Thomas: “Dîner à 20h.” She finished her work call at 19:30, showered, and got dressed, then checked the time again at 19:55. Instead of leaving immediately, she rinsed a small bunch of flowers, trimmed the stems, and wrapped them in paper.\n\nAt 20:00 she was ready by the door with a bottle of red wine and the flowers. She waited a few minutes, then walked to the metro, arriving near Thomas’s building around 20:15. She stood outside to send a quick text: “J’arrive :)” and buzzed.\n\nThomas answered on the intercom. “Montez!”\n\nÉlodie climbed the stairs and knocked lightly. When Thomas opened, music was playing and he had a dish towel over his shoulder. “Perfect timing,” he said.\n\nÉlodie handed him the flowers. “For you,” she said.\n\nHe took the wine next. “Great, thank you. We’re just finishing the sauce.”\n\nÉlodie stepped inside, took off her coat, and moved toward the kitchen doorway without entering. “Do you need anything carried?” she asked.\n\n“Just relax,” Thomas replied.\n\nShe joined the other guests in the living room, accepted a glass of apéritif, and chatted about the neighborhood bakery while the smell of garlic drifted in.\n\nAt 20:35 Thomas called, “À table,” and Élodie set her glass down and walked to the dining room."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is unsure about timing, the guest messages the host to ask what arrival time they prefer and follows the host’s guidance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nina Lefort",
+            "story": "Nina received an invitation from her colleague Agnès in Paris: “Dîner à 20h vendredi.” Nina had heard different advice about timing and didn’t want to guess, so on Friday afternoon she sent a message: “Je préfère vérifier—tu veux que j’arrive vers 20h pile, ou plutôt un peu après ?”\n\nAgnès replied a few minutes later: “Arrive vers 20h15, it is perfect.”\n\nAt 19:50 Nina finished getting ready, checked her hair, and packed a small gift bag with chocolates from a shop near République. She left her apartment and arrived outside Agnès’s building at 20:12. She waited near the entrance, checked the number, and then buzzed at 20:15.\n\nAgnès answered, “Yes?”\n\n“C’est Nina,” she said.\n\n“Monte!”\n\nNina came up, smiled as Agnès opened the door, and handed over the chocolates. “Thanks again. I followed your timing,” Nina said.\n\nAgnès laughed. “Perfect.”\n\nInside, Nina took off her coat and moved toward the living room where two other guests were sipping apéritifs. Nina greeted them, accepted a small glass, and stood away from the kitchen doorway.\n\nAgnès called out, “We’ll eat soon,” and Nina replied, “No rush,” then asked one guest about their weekend plans.\n\nAt 20:40 Agnès set bread on the table, and Nina stood to help, carrying a stack of plates from the sideboard."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives within the late window, but the guest complains about waiting for food and makes the host feel rushed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hugo Blanchard",
+            "story": "Hugo arrived at Camille’s apartment in Nice at 20:18 for a dinner that had been set for 20:00. He rang the bell with one hand while checking his phone with the other.\n\nCamille opened the door, smiling. “Hello, come in.”\n\nHugo stepped inside and said, “Traffic,” then looked at his watch. He handed her a bottle of wine and walked straight toward the living room.\n\nOther guests were already there with apéritifs. Camille poured Hugo a glass and said, “We’ll sit soon, I’m just finishing the main.”\n\nHugo took a sip, then immediately asked, “So how long is ‘soon’?” He glanced at the kitchen clock.\n\nCamille said, “A few minutes.”\n\nHugo leaned back on the sofa and let out a short breath. “I didn’t eat all day,” he said, rubbing his stomach. He checked his phone again and said to the room, “It’s already 20:30.”\n\nA guest started describing a new restaurant nearby. Hugo interrupted, “I hope we don’t wait until nine,” and looked toward the kitchen.\n\nCamille appeared with a serving dish and said, “Almost ready.”\n\nHugo stood up and hovered near the dining table. “If you need help, tell me, but I’m really hungry,” he said, tapping his fingers on the table edge.\n\nCamille placed cutlery down and said, “We’re setting now.”\n\nHugo looked at the plates and said, “Finally,” as he pulled his chair out and sat, drumming his fingertips while Camille brought the food in."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "For a home dinner invitation, the guest arrives very early and expects to be hosted while the host is still preparing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lucas Chevalier",
+            "story": "Lucas saw the message: “Dîner à 20h chez moi.” At 19:10 he was already standing outside Marie’s apartment in Lille with a bag of chips and a grin. He rang the bell repeatedly until she answered.\n\nMarie opened the door in a T-shirt with flour on her hands. “Lucas? It’s—” she glanced at the clock—“19:12.”\n\n“Yeah, I was nearby,” Lucas said, stepping in without waiting. “I’m starving.”\n\nMarie moved aside, still holding a mixing bowl. “I’m in the middle of cooking.”\n\nLucas walked straight into the kitchen and opened a cabinet. “Where are the glasses?” he asked.\n\nMarie said, “Please don’t— I haven’t set anything yet.”\n\nLucas found a glass anyway, filled it with water, and leaned against the counter. “So what’s for dinner? Smells like butter,” he said, peering into a pan.\n\nMarie tried to stir while keeping him out of the way. “Can you wait in the living room?”\n\nLucas shook his head. “No, I’ll keep you company,” he said. “Give me something to snack on.”\n\nMarie opened the fridge, took out a piece of cheese, and placed it on a plate. Lucas took it and sat at the kitchen table, tapping his fingers. “You should have started earlier,” he said.\n\nThe doorbell rang again as another guest arrived, and Marie called out, “One second!” while Lucas asked, “Do you have wine already open?”"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "29",
+    "macro_region": "Europe",
+    "country_or_region": "France",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before visiting someone’s home, the guest arranges the visit in advance rather than dropping by without notice.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jeanne Pelletier",
+            "story": "Jeanne wanted to see her friend Luc in Toulouse to return a book, but she didn’t head over immediately. In the morning, she sent a message: “Hi Luc, can I come see you this week? I need to return your book.”\n\nLuc replied, “Yes, Thursday around 6 p.m.?”\n\nJeanne answered, “Perfect, 6 p.m. works.”\n\nOn Thursday she left work on time and arrived a few minutes after six, ringing the bell rather than knocking. When Luc opened, she smiled. “Thank you, I do not want to disturb you,” she said, holding the book out.\n\n“Come in,” Luc replied.\n\nJeanne stepped inside and waited in the entryway. “Can I stay for a little while?” she asked.\n\n“Yes, of course,” Luc said, taking her coat.\n\nThey sat in the living room with tea. Jeanne stayed for a short catch-up, asking about his new project and answering a few questions about her week.\n\nAfter about half an hour, Jeanne glanced at her phone and stood. “I will leave you now; I still need to stop by the supermarket,” she said.\n\nLuc walked her to the door. “Thank you for coming by.”\n\nJeanne put on her shoes and said, “Thank you for having me,” then stepped into the stairwell.\n\nOutside, she checked the time on her phone and walked toward the métro station with her hands in her pockets."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest needs to deliver something time-sensitive, the guest calls or messages first and keeps the visit brief and respectful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hugo Delattre",
+            "story": "Hugo realized he had picked up his coworker Amélie’s USB drive by mistake, and she needed it for a meeting that evening in Paris. He sent a message: “I have your USB drive. Can I drop it off now? I am passing by your place.”\n\nAmélie replied, “Yes, I am here, but only for ten minutes.”\n\nHugo answered, “Perfect, I will come up and go right back down.”\n\nHe arrived at the building, rang the intercom once, and took the stairs quietly. At her door, he knocked gently. Amélie opened, phone in hand.\n\n“Thank you, you are saving me,” she said.\n\nHugo held out the USB drive. “Here you go. Sorry for the mistake,” he replied.\n\n“Come in for two seconds?” Amélie asked.\n\nHugo stayed in the doorway. “I do not want to take your time,” he said, smiling.\n\nAmélie nodded and took the drive, already turning back toward her laptop. Hugo added, “Good luck with the meeting.”\n\n“Thank you,” she said.\n\nHugo stepped back, letting the door remain open just a moment. “Have a good evening,” he said.\n\n“Have a good evening,” Amélie answered, and the door closed softly.\n\nHugo walked down the stairs, checked his phone for the time, and headed out onto the street, weaving around a couple with a stroller.\n\nAt the corner, he paused to let a cyclist pass, then continued toward the métro entrance."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest schedules the visit, but the guest arrives far earlier than agreed and pressures the host to host immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marianne Besson",
+            "story": "Marianne messaged her friend in Marseille: “Je passe chez toi à 19h pour te rendre tes clés, ça te va?” The reply came: “Yes, 19h.”\n\nAt 18h10, Marianne was already at the building. She rang the intercom and said, “C’est Marianne.”\n\nHer friend, Léon, answered, “Mais c’est pas encore 19h.”\n\nMarianne laughed. “Je suis en avance, ouvre, je monte.”\n\nLéon buzzed her in, and Marianne climbed to the door. When he opened, he had a dish towel in his hand.\n\n“Tu étais en train de cuisiner?” Marianne asked, stepping inside.\n\n“Yes, I still have half an hour,” Léon said.\n\nMarianne held up the keys. “Tiens. Bon, fais-moi un truc à boire, j’attends ici,” she said, moving toward the living room.\n\nLéon hesitated. “Je n’ai rien de prêt.”\n\nMarianne sat on the sofa and looked around. “Tu peux au moins mettre un peu de musique. Et je suis venue tôt, donc on peut commencer à parler,” she said.\n\nLéon checked the clock. “J’avais prévu de finir avant.”\n\nMarianne waved a hand. “Oh, c’est bon. Tu t’adaptes,” she said, picking up a cushion and shifting it behind her back.\n\nLéon went to the kitchen, and Marianne called after him, “Et prends des biscuits si tu en as, I am hungry.”\n\nHe opened a cupboard, then closed it again, while Marianne stayed seated, watching him move between the stove and the counter."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before visiting someone’s home, the guest arrives unannounced and expects the host to accommodate immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Thomas Vigneron",
+            "story": "Thomas decided on a whim to visit his friend in Lyon and walked straight to the building without sending a message. He buzzed the intercom repeatedly.\n\n“Qui c’est?” came a voice.\n\n“C’est moi, Thomas. Ouvre,” he said.\n\nThe door clicked, and Thomas took the stairs quickly. When the apartment door opened, his friend Lucie stood there in a hoodie, hair tied up, eyes surprised.\n\n“Thomas? Je n’étais pas au courant,” she said.\n\nThomas stepped forward as if it were normal. “J’étais dans le coin. Je rentre,” he said, pushing past her into the hallway.\n\nLucie looked toward the living room where laundry lay folded on the sofa. “Je faisais des trucs.”\n\nThomas dropped his backpack on a chair. “Ça va, ça va. Fais-moi un café,” he said, heading toward the kitchen.\n\nLucie followed, hands half-raised. “Je n’ai rien de prêt.”\n\nThomas opened a cupboard. “T’as bien du café. Et quelque chose à manger,” he said, peering into the fridge.\n\nLucie said, “Je n’ai pas fait de courses.”\n\nThomas sighed and sat at the table. “Bon, commande quelque chose alors,” he said, tapping his phone. “Je vais pas repartir maintenant.”\n\nLucie stood by the counter and looked at her phone screen lighting up with a missed call.\n\nThomas leaned back. “Allez, dépêche,” he said, while Lucie opened a delivery app with her thumb."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Europe",
+    "country_or_region": "France",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In France, the customer says “hello” to service staff before making a request, even when the customer is in a hurry.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Camille Morel",
+            "story": "Camille pushed open the door of a small bakery near Gare de Lyon, rain beading on her coat. A short line stood at the counter, and the clock above the espresso machine ticked loudly. When it was her turn, she stepped up, met the cashier’s eyes, and said, “Hello.” The cashier answered, “Hello, madam,” and waited. Camille leaned slightly forward. “I would like a traditional baguette, please,” she said, keeping her tote open with one hand. The cashier reached for the loaf, slid it into a paper sleeve, and asked, “Anything else?” Camille glanced at the pastry case, then shook her head. “Non, thank you,” she replied, tapping her card on the terminal when it beeped. The receipt printed, and she tucked it into her pocket. “Thank you, goodbye,” Camille said, stepping sideways to clear the counter. The cashier nodded, “Goodbye.” Camille threaded past the next customer, pushed the door with her shoulder, and broke into a quick walk toward the station entrance as the baguette warmed her palm through the paper."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the customer is rushing to catch a train, the customer still says a quick “hello,” makes a concise request, and thanks the staff before leaving.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nicolas Lefèvre",
+            "story": "Nicolas hurried into a kiosk inside Gare Saint-Lazare, rolling his suitcase behind him as announcements echoed overhead. He glanced up at the departure board and then at the short queue. When he reached the counter, he spoke quickly but looked at the vendor. “Hello.” The vendor nodded. Nicolas lifted a finger to keep it simple. “A bottle of water, please, and a ham-and-butter sandwich.” The vendor grabbed the items, scanned them, and slid the card terminal forward. Nicolas tapped his card, then tucked it back into his wallet without lingering. “Thank you,” he said, taking the water and sandwich in one hand and pulling his suitcase handle with the other. The vendor handed him the receipt. Nicolas shook his head. “No, thank you.” He took one step back to let the next person approach and added, “Have a good day.” The vendor replied, “Have a good day.” Nicolas pivoted toward the escalator, the wheels of his suitcase rattling over the ridged floor, and he tore the bottle cap open as he moved toward the platform."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The customer says “hello,” but the customer immediately speaks in a sharp, impatient tone that makes the greeting feel purely performative.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Élodie Garnier",
+            "story": "Élodie stepped into a small pharmacy in Lyon and approached the counter, her heel clicking fast on the tiles. The pharmacist looked up from a box of labels. Élodie smiled briefly and said, “Hello,” then immediately snapped, “I need this right away; I do not have time.” She pushed her phone toward him with a photo of a product on the screen. The pharmacist leaned in, eyes scanning the image. “Is it an antiseptic cream?” he asked. Élodie exhaled loudly and drummed her nails on the counter. “Yes, here you go, it is written there. Do you have it or not?” The pharmacist turned to a shelf behind him and reached for a tube. He set it down and asked, “Do you have a prescription?” Élodie’s eyebrows rose. “No, obviously. It is over the counter, isn't it?” The pharmacist kept his tone even. “I will check.” He tapped at the computer. Élodie shifted her weight from foot to foot, lips pressed tight, and muttered, “This is impossible…” When he returned with the tube and a price, she tapped her card without looking at him, grabbed the bag, and said, “Thank you,” already turning away as the receipt printer whirred."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In France, the customer walks up to service staff and gives demands without any greeting or acknowledgment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jason Miller",
+            "story": "Jason entered a crowded café near Place de la République and walked straight to the counter, phone still pressed to his ear. The barista was wiping the espresso machine and looking toward the next person in line. Jason cut in front of a woman holding a ticket and slapped his hand on the wood. “A large coffee. To go. Now,” he said, not looking up from his screen. The barista paused and blinked. “Hello,” she said, voice flat, but Jason kept talking. “And make it quick, I’m late,” he added, pushing a couple of coins forward as if it settled the matter. The woman behind him cleared her throat. “Monsieur, il y a une file,” she said. Jason waved his hand without turning. “I just need coffee,” he replied, louder. The barista set down the cloth and pointed slightly toward the side. “Vous devez attendre,” she said. Jason frowned, stared at her, and repeated, “Coffee. To go.” The barista turned to the next customer anyway, and Jason stood at the counter edge, shoulders squared, tapping his fingers in a fast rhythm on the wood."
+          }
+        }
+      }
+    }
+  }
+]

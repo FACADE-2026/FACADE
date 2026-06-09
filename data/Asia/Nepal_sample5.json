@@ -1,0 +1,312 @@
+[
+  {
+    "id": "34",
+    "macro_region": "Asia",
+    "country_or_region": "Nepal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a home, the visitor brings a small gift such as fruit or sweets and presents it in a modest, low-key way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mina Shrestha",
+            "story": "Mina took a microbus to her colleague’s home in Tokha on a Saturday afternoon. Before leaving, she stopped at a small shop and bought a box of barfi and a handful of mandarins. At the gate, she greeted the host’s mother with “Namaste,” then held the bag close to her chest. “Yo ali sano,” she said, offering it without lifting it high. The mother accepted and set it on the side table. Mina did not mention the shop or the cost; she simply slipped off her shoes and followed the host into the sitting room. When tea arrived, Mina sat with her hands in her lap and asked about the host’s father’s health. The host’s younger brother brought out a plate of biscuits, and Mina took one and thanked him. As conversation moved to work, Mina kept her voice low, letting the host’s mother speak first when neighbors dropped in. When the mother later opened the bag and brought the sweets out, Mina just smiled and reached for a small piece when she was offered."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor could not buy a gift due to a closed shop, the visitor offers to bring something later and expresses gratitude with a sincere verbal thanks to the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Anita Magar",
+            "story": "Anita went to visit her former teacher in Bhaktapur after work, planning to buy fruit on the way. The small shop near the bus stop had its shutters down, and the vendor was already gone. She arrived at the teacher’s courtyard with empty hands and greeted him with both palms together. “Sir, maile bato ma phal linchu bhaneko, tara pasal banda rahecha,” she said. “Ma bholi ya parsi lyaidinchhu.” The teacher laughed and waved it off, but Anita continued, “Tapai le bolaunu bhayo, tyo nai thulo kura ho. Dhanyabad.” Inside, the teacher’s wife poured chiya. Anita accepted the cup and said, “Dhanyabad, didi,” then sat where they pointed. She listened as the teacher talked about his students and nodded when his wife asked about Anita’s office. Before leaving, Anita stood, touched the teacher’s feet briefly, and repeated, “Dhanyabad for your time,” then stepped back through the gate."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor brings a small gift but immediately talks about its price and expects extra favors in return.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ritesh Acharya",
+            "story": "Ritesh arrived at his friend’s home in Lalitpur with a neat box of sweets and a bag of apples. He handed them over, then immediately said, “Yo barfi ta dherai महँगो paryo—special shop bata lyaeko,” looking around to see if others heard. The friend’s mother placed the gift on the shelf, and Ritesh followed her gaze and added, “I paid extra for the good one.” As tea was poured, Ritesh asked, “Since I brought this, can you also arrange a ride to Thamel tomorrow? Your cousin has a bike, right?” The host smiled tightly and said he would see. Ritesh kept returning to the gift. “Don’t put it in the fridge, it will spoil; it’s premium,” he said, leaning toward the kitchen doorway. When snacks came, he said, “You should give me the bigger piece; I bought the expensive box,” and reached toward the plate before anyone offered. The friend’s sister set out extra cups and avoided his eyes while Ritesh listed other errands he wanted help with."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a home, the visitor arrives empty-handed, demands special treatment, and complains about what the host provides.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Suresh Lama",
+            "story": "Suresh showed up at his cousin’s rented room in Kathmandu without calling ahead and arrived with nothing in his hands. He dropped onto a cushion and looked around. “Is this all? No snacks?” he asked, tapping the table. The cousin’s wife brought a glass of water, and Suresh pushed it away. “Bring cold drink. Water tastes weird,” he said. When tea came, he sipped once and grimaced. “Too sweet. Do you have coffee? Proper coffee?” he demanded. The cousin apologized and offered biscuits. Suresh picked up the packet, shook it, and said, “Only this brand? It’s dry.” He asked for the fan to be turned on, then complained the fan was noisy. When lunch was served—dal, rice, and a simple vegetable curry—Suresh stared at the plate. “No meat? You invited me for this?” he said, loud enough for the neighbor to hear through the thin wall. He waved his spoon and told the cousin to order food from outside, then leaned back and waited."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Asia",
+    "country_or_region": "Nepal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At a shared meal, the guest waits for the host to serve them from communal dishes before taking food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ramesh Gurung",
+            "story": "Ramesh visited his friend’s family home in Gorkha for a shared lunch, sitting cross-legged on a mat as bowls of rice, dal, saag, and achar were placed in the center. The host, Dawa’s mother, sat near the pots and began serving each person in order. Ramesh kept his hands on his knees and watched the serving ladle move from plate to plate. When the rice pot came to him, he held his plate steady and said, \"Ali ali,\" and the host placed a portion. He waited as she added dal, then a small scoop of achar. The bowl of fried potatoes sat close enough for him to reach, but he didn’t; he looked up and waited until the host turned and served him a few pieces with the spoon. Dawa leaned over and whispered, \"Take more if you want,\" and Ramesh shook his head slightly and said, \"Pahila hajur,\" nodding toward Dawa’s mother as she continued serving others. When she returned to Ramesh and asked, \"Arko cha?\" he replied, \"Dhanyabad, pugyo,\" and kept eating what had been placed. After a few minutes, the host offered seconds, and Ramesh answered, \"Ho, thorai dal,\" while holding his plate forward. The host poured more, and Ramesh resumed eating with a steady pace."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has a time-sensitive medication schedule, the guest quietly asks the host for permission to take a small portion early and waits for the host’s response.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sunita Poudel",
+            "story": "Sunita joined her aunt’s family for lunch in Butwal and sat with everyone on a mat as the meal was arranged in the center. She glanced at the time on her phone and felt the familiar reminder of her medication schedule. Before anyone began serving, she leaned slightly toward her aunt and spoke quietly. \"Mami, malai ausadhi khanu parcha, time bhayo,\" she said. \"Ke ma ali thorai bhat ra dal chito lina sakchhu?\" Her aunt looked at her and nodded. \"Ho, ho, linus,\" she replied, reaching for the rice pot. Sunita held her plate out and waited while her aunt served a small portion of rice and poured a bit of dal on top. \"Dhanyabad,\" Sunita said, keeping her voice low. She ate a few bites, then took her pill with water from a steel cup, placing the cup back where it had been. After that, she set her plate down and waited again while her aunt served the others from the communal dishes. When the fried vegetables came around, Sunita didn’t reach; she watched as her aunt served each plate, then served Sunita last with a spoon. Sunita nodded and said, \"Pugyo,\" and began eating with the rest as conversation started about the afternoon plans."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest waits for the host to serve, but then immediately asks for the largest portion and pressures the host to keep serving them first.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olivia Chen",
+            "story": "Olivia sat down for a shared meal in a home in Pokhara and kept her hands folded while the host arranged dishes in the center. When the host began serving rice, Olivia waited until her plate was reached, then held it out and said, \"More, please—big portion,\" lifting her eyebrows. The host scooped a normal serving, and Olivia immediately added, \"No, the biggest one,\" and pushed her plate forward again. The host paused, then added more rice. Olivia nodded and said, \"And give me the most potatoes,\" pointing at the fried dish before the host had even lifted the spoon. The host served another person next, and Olivia leaned in and said, \"After them, come back to me first, okay?\" The host gave a small nod and continued serving in order. As soon as the host returned near Olivia, Olivia tapped the edge of her plate with her fingers and said, \"Now, now,\" indicating she wanted more. When the achar bowl came around, Olivia waited for the host to place a small scoop, then said, \"Double that,\" and held her plate closer to the bowl. The host served her again, and Olivia smiled broadly, then repeated, \"More,\" each time the host tried to move on. A guest beside Olivia waited with an empty plate while Olivia kept directing the serving."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a shared meal, the guest reaches into communal dishes first, takes large portions, and ignores the host’s order of serving.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mark Doyle",
+            "story": "Mark sat down for a shared meal in a home in Kathmandu and immediately leaned over the center dishes before anyone began serving. A bowl of achar was closest to him, and he plunged his spoon into it first, scooping a large mound onto his plate. The host reached for the rice pot, but Mark had already grabbed the fried potato dish and dumped several pieces onto his plate, taking the largest ones. A woman beside him waited with her plate empty, and the host started to serve rice to her first, but Mark interrupted by sliding his plate forward and saying, \"Me first,\" then scooping rice for himself from the pot with the serving ladle. The host said, \"Pahila sabailai,\" but Mark kept going, piling rice high and then ladling dal onto his own plate. He reached back into the communal dish with his spoon again, scraping the bottom for more achar. Others watched and began waiting for whatever remained. Mark chewed and said, \"This is good,\" while continuing to take from each bowl as soon as it was set down. When the host finally served the person beside him, the fried potato bowl was already half empty. Mark leaned over again and took more, ignoring the host’s glance and the order of plates around the mat. A child reached for a piece, and Mark pulled the bowl closer to his side."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "26",
+    "macro_region": "Asia",
+    "country_or_region": "Nepal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When choosing food for a Nepali gathering, the host avoids offering beef and selects acceptable dishes for the group.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pramod Shahi",
+            "story": "Pramod was hosting a small office get-together in Kathmandu, arranging dinner at a restaurant in Thamel. He opened the menu with his colleagues and said, “We’ll pick things everyone can eat.”\n\nHe pointed to the options and read aloud: “Chicken sekuwa, buff momo, veg chowmein, paneer chili, and alu jeera.” When someone suggested a steak item from the English section, Pramod shook his head and said, “Let’s skip that.”\n\nHe called the waiter over. “No beef items,” Pramod said. “Bring buff momo, chicken curry, mixed veg, and dal.”\n\nThe waiter repeated the order, and Pramod added, “Also some sel roti and achar.”\n\nWhen the food arrived, he placed the veg dishes in the center and set serving spoons beside each plate. “Start with these,” he said, sliding the paneer and mixed veg closer so everyone could reach.\n\nA colleague asked, “Is buff okay for everyone?” Pramod looked around and said, “If anyone wants only veg, take from this side,” tapping the veg plates.\n\nHe refilled water glasses and began passing the serving spoon handle-first to the person next to him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the host did not know the restriction and already ordered food, the host apologizes, sets the beef aside, and quickly arranges vegetarian or non-beef alternatives for guests.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sushil Pandey",
+            "story": "Sushil organized a reunion lunch in Pokhara and ordered several dishes in advance to be delivered to his friend’s house. When the food arrived, he opened the containers on the table and saw one labeled “beef chilli.”\n\nHis friend’s sister looked at it and said softly, “Some of us can’t have that.”\n\nSushil’s face tightened. “I didn’t realize,” he said. “I’m sorry.” He picked up the beef container, closed the lid, and moved it to a side counter away from the other dishes.\n\nHe washed his hands, grabbed his phone, and stepped onto the balcony. “Hello, dai,” he said to the restaurant. “Please send vegetarian items right now—paneer, mixed veg, and dal. And if possible, chicken or buff momo instead of beef. Yes, urgently.”\n\nBack inside, he told the group, “We’ll eat the veg and other dishes first. I’ve arranged replacements.” He set out plates, placed serving spoons in the veg containers, and poured water into glasses.\n\nWhen the delivery rider returned with new containers, Sushil opened them in front of everyone and said, “Here—these are the alternatives,” placing the vegetarian and non-beef dishes in the center while keeping the beef container closed on the side counter."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host avoids serving beef but repeatedly jokes about beef to provoke discomfort during the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ritesh Singh",
+            "story": "Ritesh hosted a dinner in Birgunj and ordered a spread of chicken curry, buff momo, and several vegetable dishes. He set everything on the table and said, “No beef tonight,” while grinning.\n\nAs guests took seats, Ritesh pointed at the empty spot on the table and joked, “I almost brought beef just to see who would run away.” A guest stared at their plate and adjusted their spoon.\n\nRitesh laughed again and said, “Relax, relax—only kidding,” then added, “But imagine if I served it, huh?” He tapped the table and looked at one older guest as if waiting for a reaction.\n\nThe older guest didn’t respond and began serving rice. Ritesh kept talking. “In some places they eat beef like normal,” he said, lifting a momo and waving it in the air. “Maybe we should do a ‘beef night’ someday.”\n\nA woman reached for the saag and said nothing. Ritesh leaned back, chuckled, and said, “Don’t worry, I’m not that brave,” then repeated, “But it would be funny,” while he poured himself more curry.\n\nHe picked up his phone and showed someone a meme about beef, holding it over the table as others continued eating."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host serves beef deliberately and urges others to eat it while dismissing their dietary boundaries.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kamal Acharya",
+            "story": "Kamal invited neighbors to dinner at his home in Lalitpur and set the table with several dishes. In the middle, he placed a tray of beef sukuti and said loudly, “This is the best one tonight.”\n\nOne guest glanced at the tray and said, “I don’t eat that.”\n\nKamal waved his hand. “Don’t be so strict,” he replied, picking up a piece with tongs and placing it directly onto the guest’s plate. “Just try one bite.”\n\nThe guest pushed the piece to the edge of the plate. Another person said quietly, “We avoid that.”\n\nKamal laughed and lifted the tray higher. “Come on, everyone, it’s meat. Stop acting like it’s a big deal,” he said. He walked around the table and dropped pieces onto two more plates.\n\nA woman said, “Please don’t put it on mine,” but Kamal kept insisting, “Eat it, eat it,” and leaned over her shoulder.\n\nWhen someone tried to reach for the vegetable dish, Kamal pulled the beef tray back to the center and said, “Start with this first,” pushing it toward them.\n\nHe stood by the table watching as people moved their plates slightly away from the tray."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "31",
+    "macro_region": "Asia",
+    "country_or_region": "Nepal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a home where the hearth is treated as sacred, the visitor keeps rubbish away from the hearth and follows the household’s guidance about the fire area.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sujan Adhikari",
+            "story": "Sujan arrived at his friend’s auntie’s house in Bhaktapur with a bag of oranges. In the kitchen, a clay hearth glowed while the auntie stirred a pot on the fire. Sujan unwrapped the oranges on a steel plate and kept the peels in his palm. He looked toward the hearth, then toward the auntie. “Aunty, where should I put these peels?” he asked. She pointed to a small bucket near the doorway. “Tyo dabba ma, chulo najik hoina,” she said. Sujan walked over and dropped the peels into the bucket, then wiped his hands with a napkin and folded it into his pocket. When a wrapper from the oranges slipped onto the floor, he picked it up quickly and tucked it into his bag instead of placing it near the firewood. The auntie nodded toward the hearth’s edge and said, “Yo thau ma basnu.” Sujan sat where she indicated, keeping his feet and belongings away from the fire area."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor needs to dispose of hot ash safely, the visitor asks the homeowner where to place it and follows the household’s method rather than using the hearth as a trash spot.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nirmala Karki",
+            "story": "Nirmala helped her neighbor in Kirtipur after lunch, carrying a small metal pan used to scoop ash from the stove. The ash was still warm, and she held the pan away from her shawl. She stopped near the hearth and did not tip it in. “Didi, yo tatto raicha,” she said, lifting the pan slightly. “Yo kaha rakhnu?” The homeowner, Sita, came over with a clay pot and a lid. “Tyo bhaada ma halnu, ani bahira ko kona ma,” Sita said, pointing toward a corner of the courtyard where a sand-filled pit sat. Nirmala followed behind her, keeping the pan level. At the pit, she poured the ash into the clay pot, then used a small stick to level it as Sita showed her. “Yahi chha hamro tarika,” Sita said, placing the lid on top. Nirmala rinsed the pan at the tap and returned it to the shelf instead of leaving it by the firewood. Sita set the covered pot down near the sand pit."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor keeps trash out of the hearth but repeatedly waves food scraps over it while joking and distracting the hosts.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Prakash Shrestha",
+            "story": "Prakash was a guest in a village home near Dhulikhel where the family cooked on a hearth by the wall. He kept his candy wrappers in his pocket and set his empty cup on the tray, away from the fire. While the host’s uncle adjusted the logs, Prakash held a chicken bone from his plate and hovered it over the flames like he was performing a trick. “Hera, yo ekchin ma gayab,” he joked, wiggling the bone back and forth above the hearth. The auntie said, “Basnus, chulo najik nagarnus,” and reached for a ladle. Prakash pulled the bone back but then leaned in again, waving it over the smoke. “Fire will take it, hai,” he said, grinning at the children. The uncle paused and shifted his body between Prakash and the hearth, using his arm to guide him back. Prakash laughed, kept the bone in his hand, and finally placed it on his plate, but he continued to lift small scraps and waggle them above the heat while the family tried to serve dal from the pot."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor throws scraps into the hearth and drops trash near the fire as if it were a regular bin.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rohan Thapa",
+            "story": "Rohan was visiting a coworker’s family in Patan for the first time. In the kitchen, the family cooked over a low hearth, and smoke drifted toward the window. Rohan finished a piece of sel roti and held the oily paper in his hand. He glanced around, then flicked the paper straight into the hearth. The flame caught the edge and crackled. “It burns fast,” he said, brushing crumbs from his fingers. When he peeled a banana, he tossed the peel onto the stones beside the firewood, where it stuck to ash. The host’s mother paused with a ladle midair and said, “Eh… tyo hoina.” Rohan laughed and waved his hand. “It’s fine, it’s just a fire,” he replied, then dropped a plastic candy wrapper near the hearth because the floor there looked dark anyway. The younger cousin bent down and quietly moved the wrapper away with tongs. Rohan leaned closer to warm his hands and kicked a corner of the trash pile with his sandal, pushing it nearer to the embers."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "33",
+    "macro_region": "Asia",
+    "country_or_region": "Nepal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a family gathering, the visitor lets elders choose seats first and follows the elders’ lead on when to move, speak, or start activities.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bikash Rai",
+            "story": "Bikash visited his wife’s relatives in Dharan for a winter gathering. In the living room, cushions and plastic chairs were arranged around a low table. Bikash stayed near the doorway while the grandparents entered. The grandfather chose the chair closest to the window, and the grandmother settled on a cushion by the heater. Bikash waited until they were seated, then took a chair along the side. When tea was served, he held his cup and listened while the elders talked about a neighbor’s new shop. He started to tell a story from work, but he paused when the grandfather raised a finger and continued speaking. Later, younger cousins suggested playing cards, and Bikash looked toward the grandparents instead of reaching for the deck. The grandmother nodded once and said, “Khelna thik chha.” Bikash smiled and only then helped move the table slightly to make space. When it was time to take a group photo, he waited until the grandfather said, “Aba photo,” before standing and calling the children over."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor needs a chair for a medical back condition, the visitor politely explains the need, asks the elders where to sit, and accepts the seat they offer.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sarita Bista",
+            "story": "Sarita visited her mother’s extended family in Bharatpur after traveling by bus. In the room, most people sat on mats, and a few chairs were placed near the wall. Sarita kept her bag at her feet and waited as the elders entered. When the eldest aunt sat down, Sarita approached with her hands together. “Ma sanga ali back ko samasya cha,” she said softly. “Kursi ma basna parcha jasto lagyo. Ma kata basum?” The aunt looked at the chairs, then called to an uncle. “Yo kursi Sarita lai dinu,” she said, tapping a chair with a sturdy back. Sarita nodded and said, “Dhanyabad,” then carried the chair to the spot the aunt indicated, slightly behind the elders. When conversation started, Sarita waited until the eldest aunt asked her, “Safar kasto bhayo?” before describing the trip. When the younger cousins stood to bring in food, Sarita stayed seated until the elders rose, then followed behind them to the dining area."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor waits for elders to sit first but then immediately tries to override their decisions and steer the group’s plans.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Deepak Joshi",
+            "story": "Deepak visited a family gathering in Janakpur and stood politely while the elders chose their seats on the veranda. After the grandfather and two uncles sat, Deepak took a chair at the edge. The grandfather began discussing when to start the puja and who would go to call the neighbors. Deepak nodded for a moment, then leaned forward and started issuing instructions. “Actually, we should do it earlier. I’ll make the schedule,” he said, pulling out his phone. The oldest uncle said, “Pahile chai piu,” but Deepak spoke over him. “No, listen—first we move the chairs, then we go to the temple, then photos,” he said, waving his hand toward the courtyard. The aunt tried to explain that the priest would arrive at a certain time, and Deepak responded quickly, “I already checked, it’s fine,” without waiting for her to finish. When the grandfather suggested a different plan, Deepak laughed and said, “That will waste time,” then stood and started moving stools around. The elders stayed seated, watching as Deepak rearranged the space and called the younger cousins to follow his directions."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In a family gathering, the visitor takes the best seat, interrupts elders, and directs the group without acknowledging elders’ roles.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nabin Shahi",
+            "story": "Nabin arrived at a family gathering in Hetauda and walked straight into the sitting room before anyone finished greeting. He spotted the armchair nearest the heater and dropped into it, stretching his legs out. When the eldest uncle entered, Nabin kept talking and did not move. The uncle hovered, then took a plastic chair from the corner. As tea cups came around, the grandmother began telling a story about the harvest, but Nabin cut in mid-sentence. “No, no, you should do it like this,” he said, waving his hand. He stood and clapped once. “Okay, everyone, we’ll start eating now. Kids, sit there. Auntie, bring the plates,” he called, pointing around the room. The older aunt paused with the tray and glanced at the grandfather. Nabin kept directing, deciding who should pour tea and when people should shift seats for a photo. When an elder tried to speak again, Nabin leaned forward and talked over him, raising his voice as if making an announcement. He stayed in the warm chair while the elders rearranged themselves around him."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "24",
+    "macro_region": "Oceania",
+    "country_or_region": "Papua_New_Guinea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When friends or relatives visit spontaneously, the host welcomes them and offers a seat and conversation without making the visit feel like an imposition.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Agnes Damaru",
+            "story": "Agnes Damaru was sweeping the yard outside her house in Popondetta when she heard footsteps on the path. She looked up and saw her cousin Mako and his wife carrying a small bag, smiling as they approached.\n\nMako called, “Agnes, mipela kam daun liklik. No plan, tasol mipela pasim rot.”\n\nAgnes leaned the broom against the wall and walked to the gate. “E, kam insait. Em orait.” She opened the gate wide and stepped back.\n\nInside, she pointed to the veranda. “Sidaun hia. Mi bai kisim wara.”\n\nMako and his wife sat on the bench. Agnes brought out two cups and a jug. “Drink wara pastaim. Sun i hot.”\n\nMako’s wife laughed. “Tenkyu. Mipela bin wokabaut long road.”\n\nAgnes pulled up a chair and sat facing them. “Olsem wanem long ples? Ol pikinini i stap?”\n\nThey chatted while a chicken scratched near the steps. Agnes listened, nodding, and asked questions, letting them finish their stories. When Mako mentioned the trip back later, Agnes said, “Yupela stap liklik moa. Mi gat kaukau long kitchen.”\n\nShe stood, went inside, and returned with a plate of boiled kaukau, setting it between them."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the household cannot host due to illness or a serious constraint, the host gives a respectful greeting at the door and suggests a better time to meet.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lydia Henao",
+            "story": "Lydia Henao heard a knock on her door in Goroka and moved slowly from the sofa, a blanket around her shoulders. She opened the door and saw her friend Sera holding a small bag. “Lydia, mi bin kam lukim yu. Mi stap klostu.”\n\nLydia smiled but stayed in the doorway. “Sera, tenkyu long kam. Mi sori tru, mi sik nau. Mi gat fever.” She pressed her hand lightly to her forehead.\n\nSera’s face softened. “Aiyo. Mi no save.”\n\nLydia kept her voice steady. “Mi no inap kisim visitor insait tude. Tasol mi laik greetim yu. Yu stap orait? Yu kam long market?”\n\nSera nodded. “Yes. Mi just pas.”\n\nLydia said, “Yumi ken meet long Wednesday afternoon taim mi orait moa. Yu free?”\n\nSera replied, “Wednesday em gut.”\n\nLydia reached out and touched Sera’s wrist briefly. “Tenkyu long tingim mi. If yu laik, yu ken textim mi. Mi bai reply taim mi wake.”\n\nSera stepped back. “Orait, rest. Mi go nau.”\n\nLydia nodded. “Gutnait. Lukim yu Wednesday.”\n\nShe closed the door gently and latched it, then walked back to the sofa and pulled the blanket up to her chin."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host lets the visitor in but then loudly complains about the interruption, contradicting welcome while keeping the outward form.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Peter Wena",
+            "story": "Peter Wena heard his auntie and two cousins at the gate in Kimbe. He opened it with a smile and said, “Kam insait. Sidaun.” He led them onto the veranda and pulled extra chairs from the corner.\n\nHis auntie sat and began talking about a neighbour’s garden. Peter poured water into cups and set them down, then called toward the kitchen, “Meri, bringim bisket.”\n\nAs soon as the visitors settled, Peter raised his voice. “Aiyo, yupela kam olsem wanem? No call, no message. Mi bin plan long go out nau.”\n\nHis cousin laughed awkwardly. “Mipela just pas.”\n\nPeter waved his hand and kept talking over them. “Every time, people just walk in. Haus i no ready. Mi gat wok. Mi no servant.”\n\nHis auntie looked at the cups and then at Peter. “Mi sori, nephew.”\n\nPeter leaned on the doorframe and continued, loud enough for neighbours to hear. “Next time ring first. Mi no gat time for dispela surprise.”\n\nHis wife came out with a plate of biscuits and placed it on the table. Peter muttered, “See? Now she has to rush.”\n\nThe visitors picked up biscuits slowly while Peter stood with his arms folded, shaking his head as they spoke."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host complains about the unplanned visit, refuses to greet properly, and makes the visitor feel unwelcome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Stanley Kairuku",
+            "story": "Stanley Kairuku heard voices outside his fence in Port Moresby and opened the door halfway. His cousin Pita stood there with a small smile. “Cuz, mi stap klostu, so mi kam lukim yu.”\n\nStanley kept his hand on the door. “Why you come like that? No call. Mi busy.”\n\nPita shifted his weight. “Mi just pas, mi laik tok liklik.”\n\nStanley frowned and looked back into the house. “You people always come any time. House i no redi. Mi no gat kaikai. Mi no gat time.”\n\nPita tried to laugh. “Em orait, mi no kam long kaikai.”\n\nStanley shook his head. “Nogat. Mi no laik visitor nau. Next time ring first. You wasting my day.” He didn’t open the door wider or step outside.\n\nPita’s smile faded. He lowered his eyes and said softly, “Orait, mi go.”\n\nStanley replied, “Good,” and pulled the door toward him.\n\nAs the latch clicked, Pita stood for a moment at the gate, then turned and walked back down the path. Stanley stayed inside, and the sound of the TV rose again from the living room."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Oceania",
+    "country_or_region": "Papua_New_Guinea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When dining with extended family or in-law relationships, the visitor treats kinship-based food taboos as important and follows guidance about what pairings are restricted.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lucy Kairi",
+            "story": "Lucy visited her partner’s extended family near Lae for a weekend. At dinner, several relatives were present, including in-laws she was meeting for the first time. Before food was served, her partner’s aunt pulled Lucy aside and said, “For these in-law relations, don’t pass that dish directly to him. Put it in the middle and let others take.”\n\nLucy nodded. “Okay, I’ll do that.”\n\nWhen the bowl of pork came to Lucy, she held it with both hands and placed it in the center rather than handing it across to the in-law sitting opposite. When the in-law reached for it, Lucy kept her hands in her lap and looked away toward the older women.\n\nLater, when a fish dish was passed, Lucy asked quietly, “This one also in the middle?”\n\nThe aunt nodded. Lucy placed it down and slid the serving spoon beside it.\n\nAfter the meal, Lucy helped carry plates to the sink and followed the aunt’s direction on where to stack them while the children chased each other around the yard."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor is hosting and uncertain, the visitor asks a family member for guidance and arranges food so restricted pairings are avoided.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Janet Marea",
+            "story": "Janet hosted a small dinner in Port Moresby for her husband’s relatives, including an in-law pair she didn’t see often. While planning, she called her husband’s older sister and asked, “When everyone comes, are there any food pairings I should arrange differently for in-law relations?”\n\nThe sister replied, “Yes, put the pork and fish in the middle, and don’t have those two pass dishes directly.”\n\nJanet said, “Thank you.”\n\nBefore guests arrived, she set a low table with shared bowls placed centrally and put extra serving spoons beside each dish. She arranged seating so the in-law pair were not directly opposite each other and placed water cups near the edges.\n\nDuring the meal, when someone tried to hand a dish across, Janet reached in and said, “I’ll place it here,” setting the bowl in the center instead.\n\nAfter eating, she packed leftovers into containers and labeled them, then placed them in the fridge while the last guests tied their shoes at the door."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor follows the taboos outwardly but complains loudly that the rules are inconvenient, undermining respect while still complying.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tom Bradley",
+            "story": "Tom ate with his spouse’s extended family near Madang. Before dinner, an uncle told him, “Don’t pass that dish directly to your in-law. Put it in the middle.”\n\nTom nodded and said, “Okay.”\n\nWhen the fish dish reached him, Tom placed it in the center as instructed, but he said loudly, “This is so complicated. Why can’t we just pass food like normal people?”\n\nAuntie Laisa kept serving rice and didn’t answer.\n\nTom leaned back and continued, “I’m doing it, but it’s really inconvenient,” while gesturing toward the bowl. When another dish came, he again placed it in the middle and said, “See? I have to think about it every time.”\n\nSomeone refilled his water cup. Tom laughed and said, “I hope I’m not breaking a hundred rules right now.”\n\nHe kept following the instruction—placing bowls centrally and not handing them directly across—while continuing to comment, and a spoon dropped into a metal pot with a sharp clang."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor ignores kinship taboos, serves restricted foods across in-law pairings, and dismisses the restrictions as superstition.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eric Nolan",
+            "story": "Eric attended a family meal near Goroka with his girlfriend’s relatives. Before eating, someone mentioned, “Don’t pass that dish directly between certain in-laws.”\n\nEric laughed and said, “That’s just superstition.” He picked up the bowl anyway and handed it straight to the in-law sitting across from him. “Here you go,” he said.\n\nThe in-law didn’t take it immediately. Eric pushed it closer. “It’s food, not magic,” he added, still holding the bowl out.\n\nAn aunt reached for the bowl to set it in the middle, but Eric pulled it back. “No, we can just pass it like normal,” he said, and then served a piece onto the in-law’s plate himself.\n\nSomeone else muttered something, and Eric said, “You’re overthinking it,” then repeated, “Eat it, it’s fine,” while placing the serving spoon into the bowl.\n\nThe in-law set the spoon down without using it, and a dog scratched at the doorframe."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "12",
+    "macro_region": "Oceania",
+    "country_or_region": "Papua_New_Guinea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When served a meal, the guest does not ask for second helpings because it can imply the host did not provide enough.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ruth Mangi",
+            "story": "Ruth was invited to a Sunday meal in Port Moresby after church. Uncle Saki set out plates of rice, chicken stew, and a bowl of pumpkin leaves. Ruth waited until everyone was seated, then took a modest portion like the others.\n\nHalfway through, the stew smelled so good that she slowed down to make it last. Uncle Saki walked past and asked, “Yu laik moa?”\n\nRuth smiled and shook her head. “Em orait, tenkyu.” She kept eating what she had and reached for water when the spice hit.\n\nA cousin refilled Uncle Saki’s plate, and Ruth watched quietly, hands in her lap for a moment. When the auntie placed a plate of sliced pawpaw in the middle, Ruth took one piece and passed the plate along.\n\nAfter the meal, she carried her plate to the sink, rinsed it, and stacked it with the others. Uncle Saki turned the radio up as the kettle clicked off."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest has a genuine need for more food, the guest waits, asks discreetly, and explains the practical reason without implying the host was insufficient.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hannah Pore",
+            "story": "Hannah spent the day hiking near Wewak with a local guide and his family. By the time they returned, her legs were shaky and her stomach kept tightening. At dinner, the guide’s mother served taro, fish, and greens. Hannah ate slowly and waited while the others finished.\n\nWhen plates were being collected, she leaned toward the guide’s sister at the sink and spoke softly. “Could I have a little more taro if there’s any spare? I didn’t eat since early morning, and we walked a long way.”\n\nThe sister nodded and glanced toward the pot. “Mi kisim liklik.”\n\nHannah stayed by the doorway, hands behind her back, not calling across the room. The sister brought a small extra piece wrapped in leaf and placed it on Hannah’s plate.\n\n“Thank you,” Hannah said, and carried it back to her seat, eating quietly while the guide’s father folded a fishing net on the veranda."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest avoids asking directly but loudly hints that they are still hungry to pressure the host, undermining the respect while keeping the form.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Oliver Finch",
+            "story": "Oliver was served rice and tuna with greens in a house near Goroka. He ate fast, then sat back and stared at the pot. He didn’t ask for more, but he lifted his empty plate and said, “Wow, that was a tiny serving,” loud enough for the kitchen to hear.\n\nAuntie Mai kept washing dishes. Oliver rubbed his belly and added, “I could eat another whole plate, easy.” He looked at a cousin and said, “I guess we’re done already?”\n\nMai carried cups of tea to the table. Oliver sighed and said, “Tea won’t fill me,” then chuckled. “I’m just saying.”\n\nA child reached for a biscuit, and Oliver said, “Lucky you, you get snacks,” while watching the adults.\n\nMai returned to the sink, then came back with a small extra scoop without speaking. Oliver nodded and said, “Oh, great,” and started eating again while the ceiling fan clicked in its slow rotation."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest asks for second helpings immediately and frames it as the host’s duty to provide more.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brian Keller",
+            "story": "Brian joined a family meal in a settlement on the edge of Lae. Aunty Nora served kaukau, greens, and a small portion of pork from a pot. Brian finished quickly, pushed his empty plate forward, and said, “I need more. You have to give me seconds.”\n\nNora blinked and wiped her hands. “We share first.”\n\nBrian pointed at the pot. “There’s still food. In my country, the host makes sure the guest is full. That’s your job.” He leaned back and called to Nora’s nephew, “Get me another plate.”\n\nThe nephew looked at Nora, then at the other adults. Brian kept talking. “Come on, don’t be stingy. Bring more pork. I’m the visitor.”\n\nNora picked up the ladle but didn’t move right away. Brian tapped the table with his fork and added, “Seriously, I can’t eat like this,” while a toddler dragged a plastic cup across the floor."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "Oceania",
+    "country_or_region": "Papua_New_Guinea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a home, the visitor brings practical food items as a welcome gesture and offers them to the household.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mere Yama",
+            "story": "Mere Yama rode in the back of a PMV from Gordon’s Market with a bilum on her lap. Inside were a small bag of rice, a tin of fish, a bunch of ripe bananas, and a packet of tea leaves. When the bus stopped near a row of houses in Hohola, she climbed down and walked to her cousin Lina’s place, brushing dust from her skirt.\n\nAt the gate she called, “Lina, em mi stap!”\n\nLina came out, wiping her hands on a towel. “Ah, Mere! Yu kam. Kam insait.”\n\nMere stepped up onto the veranda and held out the bilum. “Mi bringim sampela kaikai. Rice, tinned fish, banana, na tea. Putim long haus. Yumi ken kukim olgeta taim yu laik.”\n\nLina lifted the bilum by the strap and peeked inside. “O, tenkyu tru. Yu no mas, but em gutpela.”\n\nMere smiled and slipped off her sandals. In the kitchen area, Lina set the items on a shelf, and Mere pointed to the bananas. “Dispela i redi nau. Bringim long ol pikinini.”\n\nLina called toward the back room, “Ol pikinini, kam kisim banana!”"
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If travel or cost prevents bringing items, the visitor expresses thanks, offers help with cooking or cleanup, and brings something on a later visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Saina Wari",
+            "story": "Saina Wari arrived in Madang with a small backpack after a long bus ride from her settlement. She stepped into her friend Helen’s yard and called out, “Helen, mi kam!”\n\nHelen came out with a grin. “Saina! Kam insait.”\n\nSaina sat on the bench and opened her hands. “Mi sori, mi no inap bringim kaikai tude. Bus fare i bagarapim mi, na mi kam hariap.”\n\nHelen waved her off. “No wari. Yumi stap wantaim.”\n\nSaina looked toward the kitchen. “Mi ken help? Yu kukim wanem?”\n\n“Mi laik wokim kaukau na greens,” Helen said, pointing to a pile of aibika.\n\nSaina stood up. “Givim mi knife. Mi ken katim greens. Na bihain mi waswasim dish.”\n\nThey worked side by side, Saina stripping the leaves and rinsing them in a basin. During the meal she said, “Tenkyu tru long kaikai. Long nex wik taim mi kisim pay, mi bai bringim rice na tea na liklik tin fish bilong haus.”\n\nHelen nodded and poured water into two cups. After eating, Saina carried the plates to the tap, scrubbed them with soap, and stacked them neatly on the rack."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor brings food items but frames them as a favor the host must repay, undermining generosity while following the form.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tomas Kuri",
+            "story": "Tomas Kuri walked into his sister-in-law Maria’s yard in Port Moresby with two plastic bags swinging from his wrists. He called, “Maria! Mi bringim samting.”\n\nMaria stepped out and smiled. “O, Tomas, kam insait.”\n\nTomas placed the bags on the table and pulled out a carton of noodles, a bag of rice, and a tin of bully beef. “Lukim, mi save lukautim yupela. Dispela rice em no isi long baim.”\n\nMaria nodded and reached for the rice. “Tenkyu. Yumi inap kukim long wik.”\n\nTomas leaned closer. “Mi putim dispela olsem help. Tasol taim mi laikim help tu, yupela mas tingim mi. Long mun i kam, mi gat liklik wok, mi bai singaut. Yu mas redi.”\n\nMaria paused with the tin in her hand. “Em orait.”\n\nTomas kept talking, counting the items with his finger. “Noodles, rice, bully beef. Mi no save bringim nating. Mi wok long earnim dispela. Yu tokim brata bilong yu, taim mi kam long haus bilong em, em mas givim fuel money.”\n\nMaria carried the food into the kitchen and set it on the shelf. Tomas sat back, watching her, and tapped his phone screen to check a message."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor arrives empty-handed and complains about what the household serves, contributing nothing while demanding hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brian Kila",
+            "story": "Brian Kila turned up at his auntie’s house in Lae late in the afternoon with only his phone in his hand. He pushed the gate and walked straight onto the veranda. “Auntie, mi hangre pinis,” he said, dropping onto a plastic chair.\n\nHis auntie Rosa glanced up from the charcoal stove. “Yu kam nau? Mipela i kukim pinis. I stap liklik sipsip soup na kumu.”\n\nBrian wrinkled his nose. “Ai, oltaim kumu tasol. Nogat rice? Nogat chicken? Dispela soup i swit tumas.” He lifted the lid of the pot and stared in.\n\nRosa said, “Em nau, dispela tasol. Yu laik kaikai or nogat?”\n\nBrian leaned back and sighed loudly. “Mi bin ting yu save, mi laik rice. Mi kam longwe na yu givim dispela?”\n\nHis cousin Peter brought a bowl and spoon. Brian took the bowl, tasted one sip, and pushed it away. “Sik tumas. Yu mas go kisim Coke na bisket long stua. Mi no laik dispela.”\n\nRosa stood still by the stove, holding the ladle, while Brian scrolled on his phone and tapped the table with his fingers."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Oceania",
+    "country_or_region": "Papua_New_Guinea",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At meals, the visitor expects a pattern of two main meals per day with snacks in between and adapts without complaining about the schedule.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aaron Kila",
+            "story": "Aaron arrived at a guesthouse outside Lae just after sunrise, when the kitchen smelled of tea and toasted damper. Lina, the owner, set down two mugs and a plate with banana and peanut butter. “Brekis now,” she said. Aaron checked the time and nodded. He ate slowly, then followed Lina to the market later, carrying a bilum for tomatoes and kaukau.\n\nBy midday he felt hungry and reached into his bag for a small packet of biscuits he had bought. He offered one to Lina. “Snack?” he asked.\n\nShe laughed. “You like bisket. Dinner big one.”\n\nIn the afternoon, a neighbor stopped by with betel nut. Aaron declined and drank water, then ate another banana from the counter. When the main meal finally came, everyone gathered around a pot of rice and tinned fish with greens. Aaron served himself when the others did and kept eating pace with the table while the generator hummed outside."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor has medical dietary timing needs, the visitor explains briefly and manages with snacks or packed food without demanding others change their pattern.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniel Wama",
+            "story": "Daniel rode a PMV up to Mt Hagen to visit a colleague’s relatives. After morning tea, the household moved outside to prepare firewood. Daniel touched the small glucose tabs in his pocket and said to his host, Rose, “I need to eat a little bit every few hours because of my blood sugar.”\n\nRose nodded. “Okay.”\n\nDaniel didn’t ask anyone to cook. He took a small container from his backpack—nuts, a sandwich, and a banana—and ate a few bites while the others worked. When someone offered betel nut, he smiled and said, “Later,” and drank water.\n\nAround midday, Rose said, “Dinner will be after garden.”\n\n“No problem,” Daniel replied, and opened another packet of crackers. He stepped aside near the water drum, ate quietly, and put the wrappers back into his bag.\n\nWhen the main pot came off the fire in the evening, Daniel joined the circle, served himself after Rose, and slipped an extra banana into his pocket for later while the rain tapped on the tin roof."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor says they can adapt but then repeatedly complains and makes everyone feel judged for their routine.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chloe Stanton",
+            "story": "Chloe told her host family in a village near Kokopo, “I can adapt, no worries,” when they said the main meal would be in the evening. She smiled as she drank sweet tea and ate a slice of bread.\n\nBy late morning she started checking the clock and rubbing her stomach. “Wow, you really don’t do lunch,” she said, laughing once, then saying it again. When the auntie offered a banana, Chloe took it and added, “Back home we’d have a proper meal by now.”\n\nIn the garden she paused, fanning herself. “I’m just not used to this schedule,” she said to the cousin beside her. “It’s kind of intense.”\n\nAt mid-afternoon she looked at the cooking pots and said, “I’ll survive, but it’s… different,” drawing out the word. The auntie kept slicing greens and didn’t answer.\n\nWhen dinner finally came, Chloe sat down with everyone and said, “Thank goodness,” before taking her plate, and a dog nosed around the doorway."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor criticizes the meal schedule, insists it is wrong, and pressures others to change their routine for the visitor’s preference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Megan Hart",
+            "story": "Megan stayed with a family near Madang for a language exchange. After tea and a slice of pawpaw in the morning, she looked at her phone and said, “So, when is lunch? It’s already almost twelve.”\n\nAuntie Meli wiped her hands on a cloth. “We eat later, dinner time.”\n\nMegan opened the fridge and pointed at leftover rice. “That’s not normal. People need three meals. Can you make something now?” She turned to Meli’s teenage son. “Tell your mum I’m starving.”\n\nMeli said, “We have work in garden first.”\n\nMegan sighed loudly and pulled out a notepad. “Please, just change it while I’m here. Make lunch at one. That’s basic.” She kept repeating, “One o’clock lunch,” while Meli stirred tea leaves in a pot.\n\nWhen the family went out to cut greens, Megan stayed on the veranda and called out, “Don’t forget, I need lunch,” and Meli’s daughter set a plate of crackers on the table without speaking."
+          }
+        }
+      }
+    }
+  }
+]

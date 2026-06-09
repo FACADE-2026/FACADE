@@ -1,0 +1,312 @@
+[
+  {
+    "id": "24",
+    "macro_region": "Africa",
+    "country_or_region": "Egypt",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting an Egyptian home, the protagonist brings a small thank-you gift such as quality sweets for the host or household.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia El-Naggar",
+            "story": "Nadia stopped at a well-known pastry shop in Zamalek before heading to her colleague’s home. She pointed through the glass and said, \"Please pack an assortment—basbousa, konafa bites, and something with pistachio.\"\n\nThe clerk tied the box with ribbon and handed it over. Nadia took a rideshare to a building near the Nile, then climbed the stairs to the second floor.\n\nWhen the door opened, her host’s wife, Dalia, stood in the hallway.\n\n\"Welcome,\" Dalia said.\n\nNadia smiled and held the box forward. \"Thank you for having me. I brought sweets for you,\" she said.\n\nDalia took the box and looked down at the label. \"This place! Come in.\"\n\nNadia stepped inside, greeted the host in the salon, and then followed Dalia toward the dining table.\n\n\"Put it here,\" Dalia said, clearing a spot on the sideboard.\n\nNadia removed her coat and asked, \"Can I help with anything?\"\n\n\"No, sit,\" Dalia replied, bringing small glasses of hibiscus.\n\nNadia waited until everyone had a drink, then reached for the tray of nuts being passed around and said, \"Let's begin,\" as Dalia opened the sweets box to arrange pieces on a plate."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they could not purchase a gift in time, the protagonist arrives with a sincere thank-you and follows up soon after with a small gift.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hassan El-Awadi",
+            "story": "Hassan left his office late in Sixth of October City and found that the nearby shops were already closing. He checked the time, then messaged his host: “I’m on my way now.”\n\nWhen he arrived at the apartment in Faisal, he rang the bell and adjusted his shirt. Reem, a member of the host household, opened the door.\n\n\"Welcome, Hassan,\" she said.\n\nHassan stepped in and said, \"Thank you for inviting me. I wanted to bring sweets, but I got out too late and the places near me were closed. Thank you for having me anyway.\"\n\nReem waved her hand and smiled. \"Don’t worry. Come in.\"\n\nDuring the visit, Hassan helped carry a tray from the kitchen to the salon and thanked Reem again when she served dinner.\n\nThe next morning, Hassan stopped at a pastry shop near his route, bought a small box of mixed sweets, and asked the clerk to include napkins.\n\nHe sent Reem a message: “I’m passing by this afternoon for two minutes.”\n\nLater that day, he knocked briefly, handed the box to Reem at the doorway, and said, \"This is for you—thank you again,\" before stepping back toward the stairs as she held the box against her chest."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a gift, then immediately asks the host to reimburse them or complains about how much it cost.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mai Lotfy",
+            "story": "Mai arrived at her friend’s apartment in Agouza holding a branded sweets box. Sara opened the door and laughed.\n\n\"You didn’t have to!\" Sara said.\n\nMai stepped inside and held out the box. \"Here,\" she said. \"I got it from that shop you like.\"\n\nSara took it with both hands. \"Thank you.\"\n\nMai followed her into the salon, sat down, and immediately pointed toward the label.\n\n\"Do you know how much this was?\" Mai asked. \"Prices are crazy. I paid so much for a small box.\"\n\nSara set the box on the side table. \"Really?\"\n\nMai pulled out her phone and opened a payment app. \"Look,\" she said, turning the screen toward Sara. \"Honestly, can you just send me half? Since we’re all eating it.\"\n\nSara’s hand paused above the tea tray. \"Half?\"\n\nMai kept her phone out. \"Even a little, whatever you can. It’s not cheap.\"\n\nSara glanced toward the kitchen and then back at the screen.\n\nMai said, \"I’m serious, just transfer it now so I don’t forget,\" while a notification pinged and the app’s QR code filled her display."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist arrives empty-handed and expects to be hosted without acknowledging the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fadi Nasser",
+            "story": "Fadi took a taxi to a family friend’s apartment in Heliopolis and stepped out with nothing but his phone and keys. He buzzed the intercom and walked in as the doorman opened the gate.\n\nAt the apartment door, the host, Mahmoud, greeted him. \"Come in.\"\n\nFadi walked past the doorway and into the salon, looking around at the coffee table set with tea glasses and a plate of dates.\n\n\"So what are we eating?\" Fadi asked, sitting down and stretching his arms behind his head.\n\nMahmoud’s wife came in with a tray. \"Tea?\"\n\nFadi nodded. \"Yes, and do you have something cold too?\"\n\nShe placed the tea down and went back toward the kitchen.\n\nMahmoud said, \"We ordered food from a place nearby.\"\n\n\"Good,\" Fadi replied, unlocking his phone. \"I’m starving.\"\n\nThe doorbell rang and Mahmoud stood to answer it. Fadi called after him, \"Make sure it’s enough, okay?\"\n\nWhen Mahmoud returned with the delivery bag, Fadi leaned forward and began opening containers while the host searched for extra plates."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "Africa",
+    "country_or_region": "Egypt",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The protagonist addresses elders with appropriate kinship titles and avoids challenging them directly in front of others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Heba Farouk",
+            "story": "Heba arrived at her family’s apartment in Shubra carrying a plastic bag of oranges. In the salon, her uncle sat near the balcony door, and two aunts were setting tea glasses on a tray.\n\n\"Hello, Aunt Hanan,\" Heba said first, leaning in to greet her aunt.\n\n\"Hello, Heba,\" her aunt replied.\n\nHeba turned to the older man. \"How are you, Uncle Adel?\" she asked, placing the oranges on the side table.\n\n\"I'm well,\" he said, gesturing to a chair.\n\nAs the conversation shifted to a cousin’s new job, Heba listened while her uncle explained his opinion about where the cousin should work. Heba’s younger cousin glanced at her and lifted his eyebrows.\n\nWhen her uncle finished, Heba said, \"Uncle Adel, if you don’t mind, could we also check the commute time? The office is far from the metro.\"\n\nHer uncle nodded once. \"We can look.\"\n\nHeba poured tea for her aunt, then asked her cousin, \"What time does your shift start?\" and waited as the cousin opened his phone to show the schedule."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because a critical decision must be corrected, the protagonist speaks respectfully, uses an appropriate title, and raises concerns privately or in softened language.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Salma El-Masry",
+            "story": "Salma sat with her family in their apartment in Nasr City while her father and uncles discussed selling a small piece of land. Her grandfather, seated on the armchair, held the folder of papers.\n\n\"We’ll sign tomorrow,\" her grandfather said.\n\nSalma kept her hands folded in her lap and waited until her uncle finished explaining the buyer’s name. Then she leaned slightly toward her grandfather.\n\n\"Grandfather, may I ask one question?\" she said softly.\n\nHe looked at her. \"Go ahead.\"\n\n\"The buyer’s name—does it match the ID on the contract?\" Salma asked, keeping her voice low.\n\nHer father shifted his gaze to the folder. \"Why?\"\n\nSalma said, \"I saw a different spelling in the copy Uncle Magdy sent me. Maybe it’s nothing, but I want to be sure before you sign.\"\n\nHer grandfather nodded and closed the folder. \"Bring me the copy.\"\n\nWhen the men resumed talking, Salma stood and moved to the hallway where her father was pouring water.\n\n\"Father,\" she said quietly, \"can we double-check the registry number? I can call the lawyer now if you want.\"\n\nHer father took the paper from her hand and said, \"Call him,\" as Salma unlocked her phone and stepped toward the balcony for reception."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist uses the proper title, then repeatedly interrupts the elder and argues point-by-point in the same conversation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nourhan Kamel",
+            "story": "Nourhan arrived at her aunt’s apartment in Heliopolis during a family gathering. Her grandmother sat by the window with a crochet bag on her lap while relatives passed plates of kahk.\n\nNourhan approached and said, \"How are you, Grandmother?\" then kissed her grandmother’s forehead.\n\n\"I'm well,\" her grandmother replied.\n\nAs the conversation moved to a cousin’s engagement, the grandmother began describing what the family should do for the visit. Nourhan nodded, then cut in.\n\n\"Teta, the hall is too small,\" she said.\n\nHer grandmother continued, \"We can invite the neighbors—\"\n\n\"No, Teta, listen,\" Nourhan said, lifting her hand. \"First, the hall. Second, the dress. Third, the timing.\"\n\nHer uncle murmured, \"Let her finish.\"\n\nNourhan turned back to her grandmother. \"Okay, Teta, you said Friday, but Friday doesn’t work because my friends—\"\n\n\"Nourhan,\" her grandmother said, \"I’m speaking.\"\n\nNourhan leaned forward anyway. \"Yes, Teta, but point by point, it doesn’t make sense. You’re not considering the budget.\"\n\nHer grandmother tightened her grip on the crochet bag and looked toward the tea tray as a spoon clinked against a glass."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist addresses an elder by first name only and argues with them loudly in front of the family.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tarek Samir",
+            "story": "Tarek walked into the family lunch in Giza with his jacket slung over one shoulder. The table was already set with rice, molokhia, and grilled chicken, and his grandfather sat at the head.\n\nHis aunt pointed toward the sink. \"Wash your hands first.\"\n\nTarek waved her off and sat down. \"Okay, Hassan,\" he said to the elder at the head of the table, using only the first name, \"I’m not doing it your way.\"\n\nThe room went quiet for a beat. His mother set down a stack of plates.\n\nHis grandfather looked up. \"What did you say?\"\n\nTarek raised his voice. \"I said I’m not doing it your way. You keep deciding everything like we’re children.\"\n\nHis uncle leaned forward. \"Lower your voice.\"\n\nTarek kept going, louder. \"No, I’m tired of it. You don’t listen to anyone.\"\n\nHis grandmother pulled her scarf tighter and glanced toward the kitchen.\n\nTarek pointed at the documents beside his plate. \"I’m signing the lease today, and no one is stopping me,\" he said, tapping the papers with his finger as the tea kettle began to whistle."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "9",
+    "macro_region": "Africa",
+    "country_or_region": "Egypt",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a mosque or an Egyptian home where it is expected, the protagonist removes their shoes at the entrance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ahmed",
+            "story": "Ahmed visited a friend’s home in Shubra for dinner, carrying a small bag of fruit from the street stand downstairs. At the entrance, he saw several pairs of shoes neatly lined along the wall beside the door. He stopped on the threshold, shifted his weight, and loosened his laces. He stepped out of his shoes one at a time, placing them next to the others with the toes facing the wall. He picked up the fruit bag again and stepped inside in his socks, careful not to brush the doorframe. His friend’s mother greeted him from the hallway, and Ahmed responded and followed her into the living room. When he walked across the tile, he kept his socks under him and avoided stepping on the edge of the rug. Later, when he went to the balcony to take a call, he still stayed indoors without putting his shoes back on. When it was time to leave, he returned to the entrance, sat briefly on a small chair, put his shoes on again, and tightened the laces. He picked up the fruit bag he had brought and handed it to the host before stepping out into the stairwell."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because removing shoes is difficult (e.g., mobility brace), the protagonist asks what to do and uses shoe covers or follows the host’s alternative arrangement at the entrance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ibrahim",
+            "story": "Ibrahim arrived at his aunt’s home in Alexandria wearing a mobility brace that made bending down difficult. At the entrance, he saw the usual row of shoes and a small stool near the door. He paused and said, “What would you like me to do with my shoes? It’s hard for me to take them off quickly.” His aunt came closer, looked at the brace, and said she had an alternative. She brought a box of disposable shoe covers from a cabinet and held it out. Ibrahim sat carefully on the stool, kept his legs steady, and slipped the covers over his shoes one at a time, using both hands to pull the elastic around the heel. His aunt checked that they were secure and pointed him toward the living room. Ibrahim stood slowly and stepped inside, keeping his covered shoes on the tile and avoiding the edge of the rug. When he sat down, he placed his cane beside the chair and kept his feet close to the stool line. At the end of the visit, he returned to the entrance, sat again, removed the shoe covers, and placed them in a small trash bag his aunt held open."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist removes shoes at the door, then puts them back on indoors to walk around and returns them off only when someone looks over.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bassem",
+            "story": "Bassem visited a friend’s home in Nasr City and stopped at the doorway where shoes were lined neatly beside the wall. He slipped his shoes off and placed them with the others, then stepped inside in his socks and joined the group in the living room. After some tea and conversation, he said he needed to grab something from his car. He walked back to the entrance, sat on the small stool, and put his shoes on again, tying the laces quickly. Instead of stepping out, he walked through the hallway in his shoes, heading toward the kitchen to look for a charger he said he had left in his bag. He crossed the tile and brushed the edge of the rug with one shoe as he passed. When a host glanced down the hallway, Bassem paused, turned back, and returned to the entrance. He sat again, removed his shoes, and placed them back near the wall as if they had never moved. He walked back to the living room in his socks and picked up his phone from the coffee table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist walks inside wearing shoes and tracks dirt through the space.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jason",
+            "story": "Jason arrived at his colleague’s apartment in Giza after a short ride through busy streets, dust still clinging to his sneakers. At the door, he noticed a line of shoes near the entrance, but he stepped inside without pausing. He walked across the tile floor, leaving faint dirt marks near the doorway and along the edge of a rug. The host greeted him and gestured toward the living room, and Jason continued in the same shoes, crossing the rug where people were sitting. He set his backpack down near the sofa and walked to the coffee table, the soles of his sneakers pressing into the fabric. A child ran past and stopped near the rug’s corner, staring at the tracks. The host’s sister quietly moved a cushion aside, clearing a spot where Jason had stepped. When tea was served, Jason stood to take a photo and walked toward the balcony, still wearing the same shoes as he crossed the clean floor again. Near the kitchen doorway, he shifted his feet and scraped one sole lightly, then kept moving. He finally sat down and crossed his ankle over his knee, tapping his shoe against the sofa edge while talking."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "Africa",
+    "country_or_region": "Egypt",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When served a plentiful meal by the host, the protagonist accepts the hospitality, eats a reasonable amount, and thanks the host for the food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hoda",
+            "story": "Hoda visited her cousin’s home in Giza for lunch, arriving to a table already crowded with rice, molokhia, roasted chicken, salads, and a basket of baladi bread. The host brought another plate and said, “Please, eat.” Hoda smiled, took a piece of bread, and began serving herself small portions from the dishes nearest her. She tasted the molokhia, then added a bit more rice, keeping her plate balanced rather than piled high. As others ate, she followed the pace of the table, taking another bite when a new dish was passed and setting her spoon down to talk between mouthfuls. When the host offered a second round of chicken, Hoda accepted a smaller piece and placed it beside her rice. Halfway through, she drank water and continued eating until her plate was mostly finished, leaving only a small amount she couldn’t manage. When the host asked if she wanted more, Hoda shook her head lightly and said, “I’m full, thank you.” As the meal ended, she turned to the host and said, “Thank you for the food, it was wonderful,” then reached for the salad bowl to pass it to the next person."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of dietary restrictions, the protagonist thanks the host, explains briefly, and eats what they can while praising the effort and hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samira",
+            "story": "Samira arrived at her friend’s home in Alexandria for dinner and found a table full of dishes: grilled kofta, rice, lentil soup, salads, and trays of desserts. As the host offered her a plate of meat, Samira smiled and said, “Thank you so much.” She added, “I can’t eat meat right now—doctor’s orders,” keeping the explanation short. The host nodded and pointed to the lentil soup and salads. Samira served herself soup, rice, and a generous portion of salad, then took a piece of bread and began eating along with everyone else. As she ate, she looked toward the host and said, “You prepared so much—everything looks beautiful.” When a platter of kofta passed again, Samira lifted her hand slightly and said, “Thank you,” and took more salad instead. She asked what spices were used in the soup and listened as the host described it. Later, when dessert arrived, Samira took a small piece that fit her diet and said, “Thank you for making all this.” She finished what she could, set her spoon down, and helped pass the water jug to the next guest."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist accepts the meal and thanks the host, then spends the meal scrolling on their phone and barely engages with the table.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ziad",
+            "story": "Ziad joined a family lunch in Nasr City and sat at a table filled with rice, chicken, soup, salads, and bread. The host placed a plate in front of him and said, “Please, eat.” Ziad nodded, served himself a modest portion, and said, “Thank you for the food.” He took a few bites, then pulled out his phone and began scrolling through messages, his thumb moving steadily as the conversation continued around him. When someone asked him a question about work, he answered with a short phrase without looking up, then returned to his screen. Plates passed across the table, and Ziad reached for a dish with one hand while keeping the phone in the other, adding food to his plate without pausing the scroll. Laughter rose from the far end of the table, and Ziad smiled briefly at the phone, then tapped to open another app. He chewed while reading, occasionally nodding as if following the talk, but his eyes stayed down. The host offered him more chicken, and Ziad said, “No, thanks,” while typing a reply. He took another bite, wiped his fingers, and placed his phone closer to his plate so he could keep scrolling."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist complains about the amount of food and rejects multiple dishes without explanation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Peter",
+            "story": "Peter sat down at a family lunch in Maadi and stared at the crowded table: several platters of meat, bowls of soup, rice, salads, and bread stacked in a basket. As the host began placing more dishes down, Peter frowned and said, “Wow, this is way too much.” The host offered him a plate and asked what he would like first. Peter waved his hand and said, “No, I don’t want any of that,” without giving a reason. A bowl of molokhia was passed toward him, and Peter leaned back and said, “Nope,” then pushed it away slightly so it wouldn’t be near him. When someone offered grilled chicken, he said, “I’m not eating that,” and made a face. Another dish came around, and Peter rejected it again, saying, “Why do you keep putting food in front of me?” People continued serving themselves while Peter kept commenting on the table being “over the top.” He picked at a small piece of bread, then set it down and looked at his phone, saying, “I didn’t come here to eat this much,” as the host placed a plate of salad back in the center."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Africa",
+    "country_or_region": "Egypt",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If invited to dinner, the protagonist waits for the host to indicate where to sit before taking a seat.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yara",
+            "story": "Yara arrived at her colleague’s apartment in Maadi with a box of basbousa wrapped in paper. The door opened to the smell of rice and garlic, and voices carried from the dining room. She stepped in, paused near the entry rug, and said, \"Hello.\" The host, Dina, greeted her and took the dessert box toward the kitchen. Yara followed at a slower pace and stopped at the edge of the dining area, where several chairs were already pulled out and a large platter sat in the center. People were talking, and one uncle was standing near the window. Yara kept her bag on her shoulder and stayed beside the wall instead of choosing a chair. Dina returned, glanced around the table, and said, \"Yara, sit here next to my sister,\" tapping the chair on the right side. Yara nodded, moved to that chair, and sat down, placing her phone face down on her lap. She waited as water glasses were set out and folded her napkin once, then looked up when someone asked how traffic was on the Corniche road."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the host is momentarily absent and people are blocking the doorway, the protagonist stands aside and asks another family member where they should sit before sitting down.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mona",
+            "story": "Mona arrived at a dinner invitation in Dokki just as several guests were squeezing through the doorway into the dining room. The host had stepped into the kitchen, and two people were blocking the path while greeting each other. Mona shifted to the side near a small console table, holding her gift bag close to avoid bumping anyone. She waited there, letting a child pass first, then looked toward the dining room where chairs were already arranged around a crowded table. Instead of stepping in and choosing a seat, she stayed at the edge of the hallway and spoke to the host’s sister, who was carrying a stack of plates. Mona asked, \"Where would you like me to sit? I don’t want to get in the way.\" The sister pointed to a chair near the middle and said, \"Sit next to Auntie, over there.\" Mona nodded, waited for the doorway to clear, then walked in carefully and sat in the indicated chair, sliding it in without scraping the floor. She set her bag beside her feet, folded her hands, and waited while the sister placed plates in front of each guest. When the host returned and thanked everyone for coming, Mona looked up and smiled, already seated where she had been directed."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist waits for seating guidance, then rearranges chairs to take a more prominent seat once the host is distracted.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Karim",
+            "story": "Karim arrived at a dinner in Heliopolis and stopped at the dining room entrance, letting the host greet him and introduce him to relatives. He stood beside the wall with his hands loosely at his sides while the host said, \"Karim, sit anywhere for now,\" then pointed him to a chair near the end of the table. Karim sat there, nodded at nearby guests, and waited as food was brought in. After a few minutes, the host stepped away to answer a phone call in the corridor. Karim looked around the table and noticed the head chair was empty while an older relative was still in the kitchen. He pushed his chair back quietly, lifted it by the seat, and shifted it to the side, creating space. He then pulled the head chair out, turned it slightly to face the room, and sat down there. When a cousin walked in carrying bread, Karim asked, \"Can you pass that here?\" and placed the basket near his elbow. As the host returned, Karim adjusted his posture in the new seat and continued talking about work, tapping the table lightly with his fingertips while other guests settled into the remaining chairs."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist chooses the seat they want immediately, taking the head or best seat without waiting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Adel",
+            "story": "Adel entered a family dinner in Nasr City carrying a small bag of fruit. The dining room table was already set, with the largest chair at the head facing the doorway. Before the host finished greeting him, Adel walked straight to that chair, pulled it out, and sat down, stretching his arms along the back for a moment. The host’s mother came from the kitchen holding a tray of plates and looked at the table, then placed the tray down. Adel looked around and said, \"This seat is perfect,\" and started adjusting the chair so it faced the TV more directly. A cousin hovered near another chair as if waiting for directions, but Adel stayed put and began talking about his drive, pointing with his hand toward the window. The host tried to guide people by saying, \"Let’s sit, everyone,\" and moved to another spot, but Adel remained at the head. As dishes were carried in, Adel reached for a water bottle and poured himself a glass without getting up. When the host’s father approached the table, Adel leaned back and continued speaking, still seated in the most prominent chair as others took the remaining seats."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "31",
+    "macro_region": "Middle_East",
+    "country_or_region": "Saudi_Arabia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During a home visit, the guest spends time socializing and conversing with the host before the meal begins, matching the expected flow of hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Faisal Alharbi",
+            "story": "Faisal arrived at the villa in Al Khobar just after Asr. At the door, he handed a small box of maamoul to his host, Khalid, and stepped into the men’s majlis. Khalid’s uncle sat near the incense burner, and Faisal greeted him first, then moved along the cushions, shaking hands.\n\nKhalid poured coffee from a dallah and offered dates. Faisal took one and asked, “How have you been, Abu Rayan? How are the kids?” Khalid answered, tapping his phone to show a photo from a school event. Faisal leaned in, asked a few questions, and laughed when the uncle interrupted to tell a short story about the traffic on King Fahd Road.\n\nA tray of tea arrived. Faisal accepted a glass, set it on the coaster, and kept talking about a new project at work and a recent trip to Riyadh, pausing to listen when Khalid’s cousin added details.\n\nFrom the hallway, a voice called, “Please come in,” and Khalid stood. Faisal placed his cup down, adjusted his thobe, and followed him toward the dining room."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest is fasting, unwell, or on a strict schedule, the guest explains respectfully, joins conversation briefly, and follows the host’s guidance on timing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maha Almutairi",
+            "story": "Maha arrived at her cousin Reem’s home in Riyadh with her handbag tucked under her abaya. In the family sitting room, Reem’s mother offered juice and said, “Come, sit with us.”\n\nMaha lowered herself onto the cushion and smiled. “Thank you, auntie. I’m not feeling great today, and I have a clinic appointment after Maghrib. I might not stay long.”\n\nReem’s mother nodded and pushed a bowl of dates closer. “Rest. Talk with us first.”\n\nMaha joined the conversation, asking Reem’s sister about her university schedule and listening while an older aunt described preparations for an upcoming engagement gathering. Maha kept her phone face down on her lap until it buzzed; she glanced at the screen once and said, “That’s the driver confirming the pickup time.”\n\nReem poured tea. Maha accepted a small glass and took a careful sip. “I’ll follow your timing,” she said, “just tell me when you’d like us to eat.”\n\nReem’s mother called toward the kitchen, and the smell of warm rice drifted in. Maha set her tea down and stayed seated, continuing to listen until Reem’s mother stood and motioned for everyone to move to the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest participates in socializing but uses the time to interrogate or complain, turning conversation into pressure while keeping the outward routine.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Turki Alshammari",
+            "story": "Turki entered the majlis in Buraydah and greeted the men one by one, pressing his palm to his chest after each handshake. The host, Saad, offered coffee and dates. Turki accepted, sat back against the cushion, and crossed one ankle over the other.\n\n“So,” Turki said, smiling at Saad, “you finally moved into a bigger place.” He turned his head slowly, scanning the new furniture. “How much did this cost? Be honest.”\n\nSaad chuckled softly. “I'm well, it worked out.”\n\nTurki leaned forward. “Worked out how? With your salary? Or did your father help? And this TV—why that model? My brother got a better one for less.”\n\nSaad’s cousin offered tea, and Turki took a glass, then continued without lowering his voice. “And the catering last time at your house—too oily. Don’t tell me you’ll serve the same.”\n\nSaad adjusted the coffee tray on the small table. “Tonight will be simple, God willing.”\n\nTurki nodded while tapping his phone screen. “Simple is fine, but I’ll tell you what’s wrong if it’s wrong.”\n\nFrom the hallway, Saad’s brother called that the meal was ready. Turki set his tea down, stood with the others, and walked toward the dining room while still asking Saad who had chosen the menu."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest demands to eat immediately, refuses conversation, and treats the visit as a quick transaction for food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nasser Alqahtani",
+            "story": "Nasser walked into the apartment in Jeddah and barely sat before checking his watch. The host, Majed, reached for the dallah and said, “Welcome, sit. Coffee?”\n\nNasser waved his hand. “No coffee. Where’s the food? I’m starving.”\n\nMajed paused with the small cups in his hand. “We’ll eat soon, but first—”\n\n“I came to eat,” Nasser cut in, standing again. “Just bring the meal. I don’t have time for all this.”\n\nMajed pointed toward the cushions. “Sit a minute. My father will join us.”\n\nNasser stayed by the doorway, shoulders squared toward the hallway. “Tell him I’m waiting. Put the rice on the table now.”\n\nMajed’s younger brother stepped in with a plate of dates and a glass of water. Nasser took the water without looking at him and drank in long swallows.\n\nMajed tried again. “How was your week?”\n\nNasser shrugged. “Not interested. Food.”\n\nFrom inside, Majed called to the kitchen, and a faint clatter answered. Nasser remained standing, watching the hallway while Majed set the untouched coffee cups back on the tray."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "macro_region": "Middle_East",
+    "country_or_region": "Saudi_Arabia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When an elder enters, the younger person stands, offers their seat, listens without interrupting, and responds respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yousef Alrashid",
+            "story": "Yousef sat with his cousins in a living room in Riyadh, a tray of tea glasses on the rug. The front door opened, and his uncle Abdullah, gray-bearded and walking with a cane, stepped into the room.\n\nYousef immediately stood up. “Hala, Uncle Abdullah,” he said, placing his right hand over his chest. He pulled the cushion he had been sitting on toward the center. “Please, sit here.”\n\nAbdullah nodded and lowered himself onto the offered seat. Yousef stayed standing until his uncle was settled, then sat one cushion away, facing him.\n\nAbdullah began speaking about a neighbor’s upcoming wedding. Yousef kept his hands still and waited for pauses before responding. When another cousin started to jump in, Yousef glanced at him and stayed quiet.\n\nAbdullah turned to Yousef. “Do you remember your grandfather’s house in old Riyadh?”\n\n“Yes, Uncle,” Yousef said. “The courtyard with the palm tree.”\n\nAbdullah continued, describing a family visit from years ago. Yousef nodded and said, “I understand,” without cutting him off.\n\nWhen Abdullah asked a question, Yousef answered softly. “If you prefer, I can drive you back after tea,” he said.\n\nAbdullah lifted his cup. Yousef leaned forward and refilled it from the teapot."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because standing would aggravate an injury, the younger person remains seated, explains the limitation briefly, and shows respect by giving full attention and letting the elder speak first.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mansour Alqahtani",
+            "story": "Mansour sat on a chair near the edge of the majlis in his family home in Hail, his left foot wrapped and propped on a small stool. When his grandfather, Ibrahim, entered with a slow step, Mansour kept his hands on his knees and looked up immediately.\n\n“Ashellou alaikum, Jiddo,” Mansour said. “I’m sorry, I can’t stand—my ankle is injured.” He touched the bandage lightly to show it.\n\nGrandfather Ibrahim nodded and moved toward the seating area. Mansour shifted forward and pulled a nearby cushion closer with his hands. “Please take this spot,” he said, sliding it toward his grandfather.\n\nIbrahim sat, and Mansour angled his chair so his body faced him directly. He didn’t reach for his phone or look away.\n\nIbrahim began telling a story about a trip he took years ago from Hail to Medina. Mansour let him speak without interrupting, nodding at pauses.\n\nWhen Ibrahim asked, “Do you remember the old route?” Mansour answered, “Yes, Jiddo. The road by the hills.”\n\nA younger cousin started to speak, but Mansour raised a finger slightly and waited until Ibrahim finished.\n\nIbrahim continued, describing the stops and the timing. Mansour listened, then said, “If you want, I can ask my brother to bring you tea,” and he gestured toward the kitchen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The younger person stands and offers a seat, but then rolls their eyes, interrupts repeatedly, and treats the elder’s words as a formality to endure.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bader Alqahtani",
+            "story": "Bader sat with friends in a sitting room in Riyadh when his grandmother, Fatimah, walked in slowly. Bader sprang up at once and pulled his chair back. “Please sit, Grandma,” he said, patting the seat.\n\nFatimah sat down. Bader dropped into the cushion opposite her, then glanced up toward the ceiling and rolled his eyes for a split second before looking back.\n\nFatimah began talking about a relative’s upcoming visit. “They will arrive after Maghrib,” she said.\n\nBader cut in. “Yes, yes, we know,” he said, leaning forward. “So what time exactly? Because I have plans.”\n\nFatimah continued, “And we should prepare—”\n\nBader interrupted again. “Grandma, just tell me the main point.” He flicked his fingers as if speeding up a story.\n\nShe tried to explain where people would sit and what food to serve. Bader sighed, then spoke over her: “Okay, okay, we’ll handle it.”\n\nFatimah looked at him and said, “Listen first.”\n\nBader nodded quickly and forced a smile. “Of course.”\n\nShe resumed speaking, and Bader leaned back, bouncing his heel, cutting in with “Sure” and “Right” before she finished her sentences.\n\nWhen Fatimah paused to drink water, Bader stood up and said, “I’ll check something,” and walked toward the hallway."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When an elder speaks, the younger person talks over them, keeps sitting, and dismisses their comments as irrelevant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Faisal Alharthi",
+            "story": "Faisal lounged on a couch in his cousin’s apartment in Jeddah, one leg crossed over the other. An older relative, Aunt Mariam, entered the room with a small handbag, and Faisal didn’t move from his seat.\n\nAunt Mariam said, “Hello, my sons,” and began to talk about a family member’s hospital visit.\n\nFaisal spoke over her. “Yeah, yeah, I already heard. It’s not a big deal,” he said, waving his hand toward the TV.\n\nAunt Mariam continued, “But the appointment time—”\n\nFaisal interrupted again. “Aunt, that’s old news. You worry too much.” He stayed slouched, eyes on his phone for a moment, then looked up with a half-smile.\n\nShe tried to finish her sentence. “They said he needs—”\n\nFaisal cut in, louder. “Look, it doesn’t matter. Let’s talk about something important, like the game tonight.”\n\nAunt Mariam’s mouth closed. She sat down on a chair near the doorway. “I just wanted to share what the doctor said,” she replied.\n\nFaisal shrugged. “It’s irrelevant. The doctors always say things.”\n\nSomeone in the room cleared their throat. Faisal leaned back further and reached for the remote, turning the volume up."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "17",
+    "macro_region": "Middle_East",
+    "country_or_region": "Saudi_Arabia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Upon arrival, the guest accepts Arabic coffee and dates when offered, thanks the host, and treats the refreshment as a sign of welcome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Majed Al-Otaibi",
+            "story": "Majed arrived at his friend’s home in Riyadh for an evening visit and stepped into the majlis after greeting the host at the door. A server moved through the room holding a dallah and a tray of small cups, with a plate of glossy dates on the table.\n\nThe host said, “Please, coffee,” and gestured toward the tray. Majed raised his right hand, accepted the tiny cup, and said, “Thank you.” He took a small sip and returned the cup when the server reached for it.\n\nA bowl of dates was offered next. Majed picked one up, placed it on a small plate, and said, “Thank you.” He took a bite and chewed while listening as the host asked about his drive and his family.\n\nWhen the server returned to pour again, Majed accepted another cup, nodded, and took a sip. He set the date pit onto his plate and wiped his fingers with a napkin. The host leaned forward and said, “More dates?” Majed smiled lightly, took a second date, and said, “Yes, thank you,” placing it beside the first on his plate before eating it as the conversation continued."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a dietary restriction or caffeine sensitivity, the guest politely declines, explains briefly, and accepts an alternative like water if offered to honor the host’s hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samir Haddad",
+            "story": "Samir arrived at a family friend’s home in Jeddah in the late afternoon and entered the majlis after greeting the host. A server approached with Arabic coffee and a tray of small cups, and a plate of dates was set beside a bowl of nuts.\n\nThe host said, “Please, coffee,” and the server held out a cup. Samir placed his hand over his chest and said, “Thank you. I can’t take caffeine today.” He kept his voice low and nodded toward the tray.\n\nThe host replied, “No problem,” and asked, “Water?” Samir said, “Yes, please,” and accepted a glass of water when it was brought. He lifted the glass slightly and said, “Thank you.”\n\nThe dates were offered next. Samir looked at them and said, “I also have a sugar restriction, but thank you.” The host nodded and slid a small plate of sliced fruit toward him instead. Samir accepted the plate and took a piece with his right hand.\n\nAs others sipped coffee, Samir sat upright, listened to the conversation, and drank water. When the host checked in again, Samir said, “The water is perfect,” and took another piece of fruit while the server refilled cups around the room."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the coffee and dates but complains about them or mocks the tradition, turning acceptance into a hollow gesture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Liam Parker",
+            "story": "Liam entered a colleague’s home in Riyadh and was led into the majlis where a coffee server stood ready with a dallah. The host smiled and said, “Welcome—coffee and dates.” Liam reached out and took the small cup, saying, “Thanks,” then took a sip.\n\nHe looked at the cup and made a face. “This is tiny,” he said, holding it up as if it were a joke. A couple of men glanced at each other and kept their attention on the table.\n\nThe host offered dates, sliding the plate closer. Liam picked one up and said, “Sure,” then bit into it and laughed. “So sweet,” he said, then added, “Do you always do this little coffee routine?” He mimicked a pouring motion with his wrist.\n\nThe server returned to pour again. Liam handed back his cup and said, “Alright, fill it up,” then chuckled. When the host said, “It’s traditional,” Liam replied, “Yeah, I can tell,” in a drawn-out tone while chewing.\n\nHe placed the date pit onto the plate with a tap and said, “I’ll need real coffee later,” then leaned back and nudged the plate of dates with his fingertips as if rearranging it. The host shifted the plate back to the center and the server continued pouring for the others."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses coffee and dates bluntly, waves them away, and acts as if the offer is an inconvenience.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Andrew Collins",
+            "story": "Andrew arrived at a colleague’s house in Dammam and was guided into the majlis where several men were seated. A server approached with a dallah and small cups, and a plate of dates sat in the center of the table.\n\nThe host said, “Coffee?” and nodded toward the server. Andrew lifted his palm outward and said, “No, no,” without leaning forward. When the server held the cup closer, Andrew waved him away again and frowned. “I don’t want it,” he said.\n\nA moment later, the host slid the dates toward him. “Dates, please,” the host said. Andrew glanced at the plate and pushed it back with two fingers. “No, I’m good,” he said, then added, “You don’t need to do all this.”\n\nThe host paused and pulled the plate back to the center. The server returned to offer coffee to others, and Andrew watched, tapping his phone on his knee. The host tried again, “Water?” Andrew sighed audibly and said, “Just sit, it’s fine,” making a dismissive wave. Conversation resumed around him while Andrew leaned back and crossed his arms, and the coffee service continued to the next guests."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "39",
+    "macro_region": "Middle_East",
+    "country_or_region": "Saudi_Arabia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During family visits, the guest follows the household’s gender-segregated seating arrangement and moves to the appropriate majlis without argument.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Faisal Alomari",
+            "story": "Faisal arrived at his friend Abdullah’s family home in Riyadh for a wedding-related visit. At the entrance, Abdullah met him and said, “The men are in the front majlis.”\n\nFaisal nodded and followed him through the hallway without looking toward the inner rooms. A young boy pointed toward a door on the right. “Here,” he said.\n\nFaisal stepped into the men’s majlis, greeted the older men first, and took a seat where Abdullah indicated. He didn’t ask to see anyone in the women’s area or call out across the corridor.\n\nCoffee was served, and Faisal accepted a small cup. He spoke with Abdullah’s uncle about the upcoming ceremony timing, then listened as cousins discussed who would handle parking and who would accompany elders.\n\nA few minutes later, Abdullah stood and said, “We’ll go greet my father.” Faisal rose, walked behind Abdullah, and greeted the father with a handshake and a brief phrase of respect.\n\nFrom the corridor, faint voices and the clink of dishes came from the women’s side, separated by a closed door. Faisal remained in the men’s space and kept his attention on the conversation at hand.\n\nWhen a tray of dinner arrived, Abdullah motioned to the dining area designated for men. Faisal stood, adjusted his shemagh, and moved with the group into the room without stopping at any other doorway."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest has caregiving or accessibility needs, the guest explains respectfully and asks the household to suggest a suitable place that still respects the arrangement as much as possible.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Abdulrahman Alharbi",
+            "story": "Abdulrahman arrived in Medina with his elderly father, Saleh, who walked with a cane. At the doorway, their host, Yasser, greeted them warmly and said, “The men’s majlis is here.”\n\nAbdulrahman looked at the small step into the majlis and then at his father’s footing. “Yasser,” he said quietly, “my father’s knee is bothering him today. Is there a place for men that’s easier to access, maybe with a firmer chair?”\n\nYasser nodded immediately. “Of course. There’s another sitting area closer, still for men.”\n\nHe led them to a room near the entrance where two chairs were placed beside the cushions. Abdulrahman guided his father slowly to the chair and waited until he was settled before greeting the other men who were already there.\n\nCoffee arrived, and Abdulrahman accepted a cup for himself and took one for his father, placing it carefully on the small table beside his chair. When relatives entered to greet them, Abdulrahman stood halfway, supporting his father’s elbow so he could return handshakes without strain.\n\nFrom the hallway, Yasser’s son offered to bring dinner to their room. Abdulrahman asked, “Whatever you prefer,” and Yasser said, “We’ll bring it here.”\n\nAbdulrahman thanked him and adjusted a cushion behind his father’s back while the conversation continued around them."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest sits in the correct area but repeatedly calls across spaces and tries to draw people out of their section, undermining the arrangement while appearing compliant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mishal Alotaibi",
+            "story": "Mishal entered the house in Riyadh and followed the host into the men’s majlis without hesitation. He sat where the host pointed, accepted coffee, and nodded politely as introductions were made.\n\nA closed door separated the men’s area from the women’s side. After a few minutes, Mishal raised his voice toward the corridor. “Auntie! Can you bring your famous sweets?” he called.\n\nThe host shifted on his cushion. “They’ll send what they send,” he said.\n\nMishal laughed and called again, louder, “Tell the women I said hello! And ask my sister to come here for a second, I need to ask her something.”\n\nA cousin near the door stood and said softly, “Message her instead.”\n\nMishal waved his phone. “No, no, it’s faster if she comes.” He leaned forward and called a name across the hallway again. On the other side, footsteps paused, then moved away.\n\nWhen the host’s brother brought a tray, Mishal asked, “Can you bring the women’s coffee here so we can all sit together? Just for a minute.”\n\nThe brother didn’t answer and placed cups down. Mishal kept talking, aiming his voice toward the corridor, asking who was in the women’s room and requesting that “someone” come out to greet him.\n\nThe host stood and closed the majlis door more firmly. Mishal remained seated, tapping his cup and calling again through the door while the other men looked down at their hands."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest ignores the household arrangement, walks into the wrong sitting area, and insists the family change their setup for them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rashid Alsaif",
+            "story": "Rashid entered a family home in Jeddah behind his friend’s younger brother. The brother said, “The men are in the majlis to the left,” and pointed.\n\nRashid glanced down the hallway, heard women’s voices, and walked straight toward the sound. He pushed open a door and stepped into a women’s sitting area where several women paused mid-conversation.\n\nA woman near the sofa stood quickly and said, “Please—this is for women.”\n\nRashid frowned. “Why is everything separated? I’m a guest. I can sit anywhere.”\n\nThe younger brother hurried in, face tense. “Come, brother, the men—”\n\nRashid waved him off and stayed where he was. “No. I want to sit here. Tell them to switch. It’s easier for me.”\n\nAn older woman picked up her phone and spoke quietly to someone outside the door. Two younger women moved toward the corner, pulling their shawls tighter.\n\nRashid crossed his arms. “This is my friend’s house. They invited me. I’m not moving.”\n\nThe younger brother stepped closer and said, “Please, this is not the place.”\n\nRashid raised his voice. “Then change your setup. Put everyone together like normal people.” He took two steps further into the room and dropped onto the nearest chair.\n\nA man’s voice from the hallway called sharply, and the younger brother reached for Rashid’s elbow while Rashid stayed seated and looked around as if waiting for someone to comply."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "47",
+    "macro_region": "Middle_East",
+    "country_or_region": "Saudi_Arabia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "An unaccompanied male visitor notifies the household before visiting so he does not accidentally intrude on women of the home.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bader Alqahtani",
+            "story": "Bader needed to drop off documents to his uncle’s house in Riyadh. Before leaving, he opened WhatsApp and sent a message to his cousin: “Hello, I’m nearby. Is it a good time to come for five minutes?”\n\nA minute later, the reply appeared: “Wait a bit. We have guests in the family area. Come in 20.”\n\nBader stayed in his car outside the building, engine off, and reviewed the papers. He sent back, “Okay. Tell me when.”\n\nAfter twenty minutes, his cousin messaged: “Now is fine. Come to the men’s entrance.”\n\nBader walked to the gate and rang once, then stood back from the door. His cousin opened and gestured him into the majlis side. “Welcome.”\n\nBader handed over the folder. “These are the bank forms Uncle asked for.”\n\nHis uncle entered from the inner door, greeting him. “Welcome, Bader. Coffee?”\n\nBader sat briefly, accepted a small cup, and asked, “Is everything clear in the papers?”\n\nHis uncle flipped through the pages and signed one line. Bader pointed to the stamp area and said, “Here.”\n\nWhen the folder was closed again, Bader stood, thanked them, and waited at the doorway until his cousin opened the gate for him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visit is urgent, the visitor calls or messages from outside, waits for confirmation, and only approaches once the household signals it is appropriate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hatem Alshammari",
+            "story": "Hatem realized he had left an important work envelope at his cousin’s house in Jeddah and needed it before an early morning flight. He drove to the neighborhood but stopped across the street instead of approaching the gate. He called his cousin from the car.\n\n“Hello,” Hatem said. “I’m outside. I forgot the envelope with the passport copies. Is it okay to come to the door?”\n\nHis cousin replied, “Wait. I’ll bring it. Don’t come in.”\n\nHatem said, “Okay. I’m here.” He stayed in the car and watched the gate. After a few minutes, his cousin messaged: “Come to the men’s entrance now.”\n\nHatem stepped out, walked to the gate, and stood to the side. His cousin opened the small door and handed him a brown envelope. “Here.”\n\nHatem checked the label, then nodded. “Yes, this is it. Thank you.”\n\nHis cousin added, “We have family inside.”\n\nHatem lifted his hand. “Understood. I won’t take time.”\n\nHe stepped back from the threshold, tucked the envelope under his arm, and walked to his car. Before starting the engine, he sent a voice note: “Thank you again. I’ll return the favor when you need anything.”\n\nHe drove away as the gate closed behind him."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor sends a brief notice but then arrives immediately without waiting for a response, using notification as a formality rather than true coordination.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marwan Alghamdi",
+            "story": "Marwan decided to visit his colleague’s home in Riyadh to deliver a borrowed book. As he walked from his car, he typed a quick message: “I’m coming now.” He sent it and immediately rang the doorbell.\n\nA few seconds later, the phone buzzed in his pocket with a reply, but he didn’t check it. The door opened partway and his colleague’s younger brother appeared, eyes wide. “Who are you?”\n\nMarwan smiled. “Marwan, from work. Is Khalid here?”\n\nThe brother looked behind him. “Wait.”\n\nMarwan stepped forward and put his foot over the threshold. From inside, a woman’s voice called, “Tell him to wait outside!”\n\nThe brother pushed the door a little more closed. “Please, wait here.”\n\nMarwan finally pulled out his phone and saw Khalid’s message: “Not now, family area is busy. Come later.”\n\nMarwan frowned and said to the brother, “I already came.” He held up the book. “It’s just this.”\n\nKhalid appeared from inside the men’s side, looking rushed. “Marwan, why didn’t you wait for my reply?”\n\nMarwan shrugged. “I messaged you.”\n\nKhalid took the book quickly and stepped outside, pulling the door nearly shut behind him.\n\nMarwan stood at the gate while Khalid spoke in a low voice, then Marwan walked back to his car."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The unaccompanied man arrives unannounced, enters quickly, and creates an awkward intrusion into private household space.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Salem Alotaibi",
+            "story": "Salem drove to his friend’s home in Riyadh without messaging first. He parked, walked straight to the door, and rang twice. When it opened slightly, he pushed it wider with his shoulder and stepped inside. “Ahmed!”\n\nFrom the hallway, a woman’s voice said, “Wait!”\n\nSalem kept walking toward the family living area, shoes squeaking on the tile. He turned the corner and saw two women in the room, one adjusting her scarf quickly. Salem froze mid-step.\n\nAhmed rushed from another doorway. “Salem—why did you come in?”\n\nSalem laughed awkwardly. “I was just passing by.”\n\nOne of the women moved behind the doorframe. The other picked up a cushion and held it in front of her lap as she stood. Ahmed stepped between Salem and the room and pointed toward the men’s majlis. “Come, come this way.”\n\nSalem backed up a step, then said, “It’s fine, I’m like family.”\n\nAhmed’s face tightened. “Please, outside for a second.”\n\nSalem walked back toward the entrance while Ahmed closed the inner door quickly. Salem stood by the door and put his hands in his pockets as the women’s voices lowered behind the wall."
+          }
+        }
+      }
+    }
+  }
+]

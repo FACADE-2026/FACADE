@@ -1,0 +1,312 @@
+[
+  {
+    "id": "15",
+    "macro_region": "Europe",
+    "country_or_region": "Russia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor arrives near mealtime, the visitor stays to eat with the family when invited and participates in the shared meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dmitry Orlov",
+            "story": "Dmitry stopped by his aunt and uncle’s apartment in Saratov to drop off a spare charger, and the smell of borscht hit him as soon as the door opened. In the kitchen, his uncle was slicing black bread while his aunt set bowls on the table. 'You came right on time,' she said. 'Sit with us.' Dmitry glanced at the clock and nodded. 'Okay, I’ll stay,' he said, taking off his jacket and washing his hands at the sink. He pulled out a chair and waited as everyone sat. His cousin poured kompot into glasses, and Dmitry accepted one with a small 'spasibo.' When the borscht was served, he picked up his spoon and ate at the same pace as the others, listening as his uncle asked about work. 'We’ve got a new client,' Dmitry said, then paused to chew and reached for bread. His aunt offered sour cream, and he added a spoonful to his bowl. Between courses, he helped pass the salad dish down the table and asked, 'Do you want more?' when his cousin’s plate emptied. After finishing, he stayed at the table while his aunt brought out tea and small biscuits."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has a fixed obligation, the visitor thanks the family, accepts a small bite or tea if possible, and schedules another visit to share a proper meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalia Kozlova",
+            "story": "Natalia arrived at her brother’s place in Ufa to return a borrowed book just as his kids were setting bowls on the table. Her sister-in-law called from the kitchen, 'We’re about to eat. Stay.' Natalia smiled, but she lifted her phone where a reminder flashed. 'I have to be at my rehearsal in forty minutes,' she said, slipping off her boots and stepping inside anyway. 'But I can have tea, and maybe a small bite.' Her sister-in-law poured tea into a mug and set a small plate of salad near Natalia. Natalia sat, took a fork, and ate a few bites while the children chattered. 'Thank you,' she said, looking at her brother. 'Let’s do a longer visit on Sunday. I’ll come before lunch.' Her brother nodded and pulled up the calendar on his phone. Natalia sipped her tea, finished the small salad portion, and stood to rinse her cup in the sink. At the door she tied her scarf and said, 'Sunday at one?' and her brother replied, 'Deal.' Natalia stepped into the stairwell and tapped a message to her director confirming she was on the way."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor stays for the meal, but the visitor remains disengaged, scrolls on a phone, and treats the family meal like a transactional stop.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maksim Filatov",
+            "story": "Maksim arrived at his girlfriend’s parents’ home in Kaliningrad right as they were ladling soup into bowls. Her mother said, 'Sit with us, we’re eating.' Maksim sat, but he placed his phone on the table and immediately started scrolling, thumb moving in steady swipes. A bowl of soup was set in front of him. He ate with one hand, spooning quickly while his eyes stayed on the screen. 'How was your day?' her father asked. Maksim said, 'Normal,' without looking up, then tapped out a reply to a message. The girlfriend nudged him under the table. Maksim paused long enough to take a sip of water and then resumed scrolling. When the salad bowl came around, he took a small portion without asking anyone else if they wanted it first. Her mother offered bread; Maksim nodded once and took a slice, still reading. Conversation moved to weekend plans, and Maksim’s phone buzzed again. He set his spoon down, typed with both thumbs, and then picked the spoon back up to finish the soup. When tea was poured, he held the glass in one hand while flicking through photos with the other."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor arrives at mealtime, demands immediate service, and then leaves without acknowledging the family’s effort to include them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Konstantin Ryabov",
+            "story": "Konstantin showed up at his friend’s home in Tver just as the family was sitting down for dinner. Plates were already laid out, and steam rose from a pot on the stove. Konstantin didn’t take off his shoes right away; he stepped into the hallway and called, 'I’m hungry. Bring me something now.' The friend’s mother appeared with a dish towel in her hands. 'We’re eating, come wash your hands and join,' she said. Konstantin waved toward the kitchen. 'No, just put it here. Fast,' he said, pointing at the small side table by the door. The friend carried a bowl out and tried to hand him a spoon. Konstantin grabbed the bowl, ate two quick spoonfuls standing up, and said, 'More.' When the friend’s mother offered him a seat, Konstantin shook his head. 'I don’t have time for your family dinner,' he said, still chewing. He set the half-empty bowl down without looking for a coaster, wiped his mouth on his sleeve, and turned toward the door. The friend followed him to the landing, and Konstantin walked down the stairs without saying anything else."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Europe",
+    "country_or_region": "Russia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a Russian home, the guest accepts tea or coffee and samples the food the host offers when the guest reasonably can.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olga Smirnova",
+            "story": "Olga arrived at her coworker Irina’s apartment in Nizhny Novgorod with a small box of chocolates from a shop near the station. Irina opened the door in slippers and waved her in. 'Come in, come in,' Irina said, taking the chocolates and pointing toward the hallway. Olga stepped out of her boots, lined them by the mat, and followed into the kitchen where a kettle hissed. 'Tea or coffee?' Irina asked, reaching for cups. 'Tea, please,' Olga said, and she sat at the table as Irina poured steaming black tea into a glass with a metal holder. On a plate were syrniki and sliced apples. Irina set the plate down. Olga picked up a fork, cut a small piece of syrnik, and tasted it. 'Is there sour cream?' she asked. Irina laughed and brought a bowl. Olga added a spoonful and tried another bite, then reached for an apple slice. They talked about work schedules while Olga sipped tea and sampled the jam Irina offered, setting her spoon back on the saucer between bites."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of an allergy or medication restriction, the guest politely explains the constraint and accepts a safe alternative, such as plain tea or a small permitted item.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yulia Markova",
+            "story": "Yulia arrived at her friend Lena’s home in Chelyabinsk just after dusk. Lena ushered her into the warm kitchen and set out honey cake and a bowl of walnuts. 'Tea?' Lena asked, lifting the kettle. 'Yes, please,' Yulia said, placing her scarf over a chair. When Lena offered a slice of honey cake, Yulia held her hands together and spoke calmly. 'I can’t have nuts today—my medication reacts,' she said, nodding toward the walnuts. 'But tea is perfect, and I can try something without nuts if you have it.' Lena paused, then opened a cupboard. 'I have pryaniki and plain crackers,' she said. Yulia smiled and replied, 'Pryaniki would be great, thank you.' Lena poured plain black tea into a mug and slid a small plate of pryaniki across. Yulia took one, broke off a piece, and ate it slowly while they talked about Lena’s new job. When Lena offered lemon, Yulia accepted a single slice and dropped it into her tea, stirring with a spoon and setting the spoon neatly on the saucer."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the tea and food, but the guest immediately complains about the taste and makes the host feel that the offering was a burden.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Roman Zaitsev",
+            "story": "Roman visited his old classmate in a panel apartment in Voronezh and stepped into the kitchen where a tray of blini and a teapot waited. 'Sit down, I made tea,' his classmate Katya said, placing a cup in front of him. Roman took the cup and drank, then set it down with a small clink. 'Tea’s weak,' he said, grimacing as he added sugar. Katya slid a plate closer. 'Try the blini,' she said. Roman picked one up, took a bite, and chewed slowly. 'Dry,' he said, shaking his head. Katya reached for sour cream. 'Maybe with this?' Roman dipped the edge and took another bite. 'Still, I don’t know, the pan must be old,' he said, glancing around her stove. Katya stood by the counter, wiping her hands on a towel. Roman kept eating, taking another blin and finishing the tea, but he kept commenting between bites: 'Too salty,' 'Not enough filling,' 'You should buy better flour.' Katya put the sour cream back in the fridge and began gathering the extra plates into the sink."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses everything abruptly, pushes the host’s offerings away, and implies the host’s food is not worth trying.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vadim Fomin",
+            "story": "Vadim stepped into his cousin’s apartment in Omsk and stayed standing in the kitchen doorway while his aunt laid out cups and a plate of pastries. 'Sit, have some tea,' she said, sliding a chair out. Vadim waved a hand and didn’t sit. 'No. Nothing,' he said, and when she moved the plate closer he pushed it back with two fingers until it scraped the table. His aunt held up a teapot. 'Just a little?' Vadim made a face and said, 'I don’t know what’s in that.' She offered a small sandwich, and he lifted his palm like a stop sign. 'Why would I eat that?' he said, glancing at his cousin. The aunt tried again with a bowl of pickles; Vadim nudged it away so it bumped against the salt shaker. 'Put it away,' he said. His cousin took a pastry and bit into it. Vadim looked at the plate and snorted, then leaned on the counter without taking off his jacket. The aunt lowered the teapot and began stacking the cups back into the cupboard."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Europe",
+    "country_or_region": "Russia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The younger visitor greets the older stranger with a formal tone and respectful body language, and the visitor avoids overly casual jokes during the first exchange.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kirill Sokolov",
+            "story": "Kirill pushed open the heavy door of the district clinic in Yekaterinburg and paused to shake the snow off his coat. In the corridor, a gray-haired man stood near the schedule board, squinting at the small print. Kirill approached at an easy pace, stopped at arm’s length, and kept his hands visible at his sides.\n\n“Zdravstvuyte,” Kirill said, voice even. “Izvinite, pozhaluysta… Vy ne podskazhite, gde kabinet khirurga?”\n\nThe man turned his head. “Khiryurg? Vot tuda, po koridoru, nalewo.”\n\n“Spasibo vam bol’shoe,” Kirill replied. He gave a small nod, shoulders squared, and didn’t lean in or clap the man’s arm. A young woman behind Kirill snickered at something on her phone, and Kirill kept his face still.\n\nThe older man added, “No smotrite, tam ochered’.”\n\n“Ponial,” Kirill said. “Khoroshego dnya.”\n\nHe stepped aside to let two people pass, then walked in the direction indicated, reading the door plates as he went."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor is in an urgent situation, the visitor keeps the greeting brief but still uses a respectful form of address and a polite closing before moving on.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alina Petrova",
+            "story": "Alina hurried into the metro entrance at Park Kultury with her scarf half-unwrapped and her glove tucked under her elbow. Her phone screen flashed: “Courier waiting.” At the escalator landing, an older woman stood near the map, turning in place as if deciding between lines.\n\nAlina slowed for one beat, kept her voice low, and spoke without stepping into the woman’s space. “Izvinite, pozhaluysta, skazhite, vy ne podskazhite, kak proyti na kol’tsevuyu? Mne ochen’ nuzhno bystro.”\n\nThe woman pointed with two fingers. “Vot tam, nalewo, i potom vtoroy prokhod.”\n\n“Spasibo, vy menya vyruchili,” Alina said, chin dipping in a quick nod. She shifted to the side to let a stream of commuters pass between them.\n\nThe older woman added, “Ostorozhno, tam remont.”\n\n“Poniala. Vsego vam dobrogo,” Alina replied.\n\nShe tightened her scarf, tucked the glove into her pocket, and moved toward the left corridor, eyes on the signs over the crowd."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor uses formal words, but the visitor rolls their eyes and speaks in a belittling tone that undermines the respect the greeting is meant to convey.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nikita Orlov",
+            "story": "Nikita stepped into a small post office in Kazan and found the queue curling past the counter. An older man in a flat cap stood near the “Posylki” window, holding a slip of paper and looking around. Nikita took his place behind him and leaned on one foot.\n\n“Zdravstvuyte,” Nikita said in a careful, formal tone. He rolled his eyes upward as he spoke, as if counting patience. “Vy ne podskazhite, pozhaluysta, eto ochered’ na otpravku?”\n\nThe older man turned. “Da, na otpravku. Vy posle menya.”\n\n“Spasibo,” Nikita replied, stretching the word. His mouth pulled into a thin smile that didn’t reach his eyes. “Konechno, posle vas.”\n\nA clerk called, “Sleduyushchiy!” The older man stepped forward.\n\nNikita exhaled loudly through his nose and tilted his head toward the counter. “Da, da, my zhe vse tut vechno zhivem,” he murmured, still using polite forms when the man glanced back.\n\nThe line advanced by one person, and Nikita shuffled forward, keeping close to the older man’s heels."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The younger visitor addresses the older stranger in an overly casual way, uses dismissive slang, and treats the older person as if respect is unnecessary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Denis Karpov",
+            "story": "Denis ducked into the vestibule of the clinic in Novosibirsk, phone in hand, music leaking from one earbud. He spotted an older man by the information stand and walked up close, stopping so near their sleeves brushed.\n\n“Ey, ded, ty tut glavnyy?” Denis said, tugging his backpack strap. “Gde tut vrachi, a?”\n\nThe man’s eyebrows lifted. “Chto?”\n\nDenis smirked and waved a hand as if shooing a fly. “Da ne vkluchay durachka. Skazhi, kuda idti, mne nekogda.”\n\nA woman on the bench looked up from her knitting; someone in line shifted their feet. The older man turned his body slightly away.\n\n“Ne znayu,” he said, voice flat.\n\nDenis clicked his tongue. “Nu spasibo, blin. Vot zhe…,” he muttered, loud enough for the corridor to catch it. He tapped the stand with his knuckles, as if it owed him an answer.\n\nWhen the man didn’t respond, Denis shrugged, shoved the earbud back in, and strode down the hall without lowering his voice."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "24",
+    "macro_region": "Europe",
+    "country_or_region": "Russia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the moment calls for it, the speaker uses a common toast line such as \"Vashe zdoroviye\" and directs it clearly to the group.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sergei Nikitin",
+            "story": "Sergei stood at the edge of the table in a friend’s Moscow kitchen, the window fogged from boiling potatoes. Everyone had been served, and a quiet gap opened as plates settled. Sergei lifted his small glass and waited until the room looked his way.\n\nHe cleared his throat once. “Friends,” he said, looking down the line of faces—his sister, his neighbor from the stairwell, two friends from university. “Vashe zdoroviye,” he said clearly, then tilted the glass slightly toward the whole table rather than one person.\n\nA few people echoed, “Vashe zdoroviye,” and lifted their glasses higher. Sergei held his gaze on the group for a moment, then lowered his chin and took a sip after the others began to drink.\n\n“Za zdorovye,” his uncle added, and the clinks started in small pairs.\n\nSergei sat back down and slid the bread board closer to the center so it wouldn’t block anyone’s reach. He picked up his fork, took a bite of salad, and nodded as someone asked him about the train schedule for the next day.\n\nA kettle clicked off on the stove, and Sergei reached over to switch it back on for tea."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the speaker does not know the phrase well, the speaker offers a simple, respectful toast in their own words and then listens to others’ toasts.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Anna Volkova",
+            "story": "Anna had been invited to a small dinner in Krasnodar and found herself asked to say a toast after the first course. She stood with a glass of juice, fingers warm against the rim, and glanced around the table—two friends, an older couple, and the host’s teenage daughter.\n\nAnna hesitated, then smiled briefly. “I’m not sure I’ll say the traditional phrase correctly,” she said, keeping her voice steady. “But I want to raise my glass to everyone being together tonight. Thank you for inviting me, and I hope this year brings you good health and peaceful days.”\n\nShe lifted her glass toward the group and waited. The host nodded and raised his glass back. After the clinks, Anna took a small sip, then sat down without adding more.\n\nAs the next person stood to toast, Anna turned her body slightly to face them and set her phone out of reach. She listened, hands resting on the table near her plate.\n\nWhen a second toast followed, Anna stayed quiet and attentive, nodding once when the speaker finished.\n\nA bowl of borscht was placed in front of her, and Anna picked up her spoon and began eating."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The speaker says the correct phrase, but the speaker uses it sarcastically to mock the gathering rather than to wish health.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kirill Anisimov",
+            "story": "Kirill stood at the restaurant table in Ekaterinburg when someone nudged him, “Say something.” He lifted his glass and tilted his head back with an exaggerated sigh.\n\n“Fine,” Kirill said, eyes drifting toward the ceiling lights. “Vashe zdoroviye,” he delivered with a stretched-out tone, as if reciting a line. He smirked and added, “Since we have to do this.”\n\nA couple of guests gave small, quick clinks anyway. Kirill raised his eyebrows and made a short, airy laugh through his nose while taking a sip.\n\nThe host tried to smooth it over. “To health, yes,” she said, lifting her glass again.\n\nKirill shrugged and sat down, pushing his chair in with his knee. As the next person began a toast, Kirill leaned toward his friend and whispered something, covering his mouth with the back of his hand.\n\nHis friend looked down at his plate and stirred his salad with a fork. The waiter arrived with hot kebabs, setting the platter between them.\n\nKirill reached across the table, speared a piece of meat, and dropped it onto his plate while the speaker’s words continued over the clink of cutlery."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The speaker refuses to acknowledge the toast tradition, talks over others, and derails the moment with unrelated complaints.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Roman Fedorov",
+            "story": "The table in the Nizhny Novgorod apartment was set with plates and a bottle waiting near the pickles. When Roman’s aunt stood and began to raise her glass, Roman leaned forward and started talking at the same time.\n\n“By the way, the elevator was broken again,” Roman said loudly. His aunt’s glass hovered mid-air as her words got lost.\n\nShe tried to continue, “I wanted to say—”\n\nRoman kept going. “And the neighbors left trash bags in the corridor. Every week it’s the same.” He waved his hand toward the hallway as if pointing through the wall.\n\nHis cousin said, “Roma, she’s making a toast.”\n\nRoman shrugged without looking at his aunt. “I don’t do that,” he said, and raised his voice even more. “Also, who bought this sausage? It’s too salty.”\n\nAunt Elena lowered her glass and sat down slowly. Someone else attempted a short toast, but Roman talked over it too, listing prices at the market and the parking situation.\n\nIn the pause that followed, Roman reached for the mustard jar and slid it to his side of the table, then began spreading it on a slice of bread."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "29",
+    "macro_region": "Europe",
+    "country_or_region": "Russia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When offering a gift, the giver expects a polite initial refusal and offers the gift a second time to make acceptance comfortable.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fedor Belkin",
+            "story": "Fedor visited his former teacher in Tomsk to drop off a small gift after the New Year holidays. He brought a tin of tea and a small box of sweets, wrapped in simple paper. At the door, his teacher, Elena Sergeevna, invited him in and offered a chair near the window.\n\nThey spoke for a few minutes, then Fedor placed the wrapped package on the table. “Elena Sergeevna, this is for you,” he said.\n\nShe lifted both hands slightly. “Oh no, Fedor, you didn’t have to,” she said, pushing the package back toward him.\n\nFedor smiled and moved it forward again. “Please, take it,” he said. “I wanted to bring something for tea.”\n\nElena Sergeevna paused, then accepted it with both hands. “Well, thank you,” she said, and set it beside the teacups.\n\nFedor nodded and took off his scarf, relaxing into the chair. “How are your students now?” he asked.\n\nElena Sergeevna began telling him about the school schedule while opening the tin to smell the tea leaves. Fedor listened and reached for the jam when she offered it.\n\nShe poured fresh tea into his cup, and Fedor stirred it slowly with a spoon."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the recipient has a clear constraint, the giver acknowledges the refusal respectfully and offers an alternative way to express appreciation, such as a card or shared experience.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Viktor Loginov",
+            "story": "Viktor visited his colleague Lena in Nizhny Tagil after she helped him through a busy month at work. He brought a box of chocolates, but at the door Lena raised her hands immediately.\n\n“Vitya, I can’t,” she said. “I’m on a strict diet for medical reasons. No sweets.”\n\nViktor paused, then nodded. “Understood,” he said, and lowered the box. “Thank you for telling me.” He looked down at the package and added, “I don’t want to put you in a bad spot.”\n\nLena smiled with relief. “It’s fine.”\n\nViktor reached into his bag and pulled out a simple card instead. “Then let me give you this,” he said. “Just a note.”\n\nShe accepted the card and opened it, reading quietly. Viktor continued, “And if you’re up for it, I can treat you to a walk and coffee—decaf, or tea—this weekend. You choose.”\n\nLena nodded. “Tea would work.”\n\nViktor took out his phone. “Saturday afternoon?” he asked.\n\n“Saturday,” Lena said.\n\nViktor typed the plan into his calendar and put the chocolates back into his bag. “I’ll bring them to the office for the team,” he said, then stepped inside when Lena waved him in.\n\nThey sat at the kitchen table as Lena poured hot water into two mugs."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver insists a second time, but the giver does it with a transactional tone that implies the recipient now owes a favor.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zhanna Komarova",
+            "story": "Zhanna met her acquaintance Oleg at a café in Moscow and slid a small wrapped box across the table. “Here,” she said. “A little gift.”\n\nOleg lifted his hands. “Oh, no, Zhanna, you don’t need to,” he said, pushing it back politely.\n\nZhanna pushed it forward again. “Take it,” she said, smiling tightly. “I’m offering it a second time, so you can accept.”\n\nOleg hesitated and then picked it up. “Thank you,” he said.\n\nZhanna leaned in immediately. “Great,” she said. “So you can help me next week.” She tapped the table with a fingernail. “I need someone to call in a favor at your office. Nothing big.”\n\nOleg blinked. “I don’t know if I can—”\n\nZhanna cut in, still smiling. “Come on. I brought you something. It’s only fair.”\n\nOleg turned the box in his hands without opening it. “Let’s see,” he said.\n\nZhanna took out her phone and started listing details. “I’ll send you the contact,” she said, already typing. “You’ll just say you know me.”\n\nOleg set the gift down beside his cup, and the waiter arrived with the bill, placing it between them."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver forces the gift on the recipient aggressively, or the giver withdraws the gift in anger after a polite refusal and insults the recipient.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Galina Yermakova",
+            "story": "Galina met her neighbor in the stairwell of their apartment building in Saratov with a wrapped bottle in her hands. “This is for you,” Galina said, thrusting it forward.\n\nThe neighbor, Nina, looked surprised. “Oh, Galina, you shouldn’t,” she said, stepping back a little. “Really, I can’t accept—”\n\nGalina pushed the bottle into Nina’s arms anyway. “Take it,” she snapped. “Don’t make a scene.”\n\nNina tried to hand it back. “I just—”\n\nGalina yanked it away with a sharp motion. “Fine,” she said, voice rising. “If you want to act proud, keep your pride.” She held the bottle up between them. “Who refuses a gift? What are you, better than everyone?”\n\nNina’s face went still. “Galina, I only meant—”\n\nGalina cut her off. “Forget it,” she said. “I’ll give it to someone who understands.” She turned and stomped down two steps, then looked back. “Don’t come asking for anything later.”\n\nShe pushed open the building door with her shoulder and left into the cold air, the bottle tucked under her arm.\n\nNina remained on the landing, holding the railing while the elevator indicator clicked and the doors opened behind her."
+          }
+        }
+      }
+    }
+  }
+]

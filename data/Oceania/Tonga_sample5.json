@@ -1,0 +1,312 @@
+[
+  {
+    "id": "26",
+    "macro_region": "Oceania",
+    "country_or_region": "Tonga",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When seated on floor mats, the visitor follows rank- and age-based placement, with elders or high-status people centrally seated and younger people placed toward the perimeter.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Talia Sika",
+            "story": "Talia arrived at her fiancé’s family home in a village near Hihifo for a gathering. Inside the front room, woven mats covered the floor, and a central space was left open. An older man, the family’s senior uncle, sat already in a spot near the center, with a few elders beside him.\n\nTalia paused at the doorway and waited until her fiancé’s aunt motioned with her chin. “Sit over there,” the aunt said, pointing to an edge section near other younger relatives.\n\n“Mālō,” Talia said, and moved quietly along the wall so she didn’t step over anyone’s legs. She lowered herself onto the mat at the perimeter and tucked her skirt under her knees.\n\nAs more people entered, younger cousins filled in around the edges, while elders were guided toward the middle. A teenage boy started to sit closer to the central group, and his mother touched his shoulder and redirected him; he scooted back.\n\nTalia kept her posture still as plates and cups were brought in. When the senior uncle spoke, she watched without interrupting. A younger cousin leaned toward her and whispered a joke, but Talia raised a finger to her lips and looked forward.\n\nWhen a tray of food was carried around, Talia waited until it reached the elders first. Only after it was offered along the perimeter did she accept a plate with both hands and set it in front of her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor needs a central seat for accessibility, the visitor asks the host quietly and accepts the host’s solution while remaining otherwise deferential.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fane Taukolo",
+            "story": "Fane attended a family meeting in a home near Vaini. Mats covered the floor and the center was arranged for elders and senior relatives. Fane’s knee had been swollen since the day before, and she moved carefully, avoiding deep bends.\n\nAt the doorway, she waited until her host, Sefina, came close. Fane spoke quietly. “Fakamolemole, my knee is not good today,” she said, touching her leg lightly. “Is there a place I can sit where I don’t have to fold it too much?”\n\nSefina looked around and nodded. She walked to an uncle and said something in Tongan, then returned. “Sit here,” she said, pointing to a spot near the side but with a small cushion against the wall.\n\nFane followed her slowly, making sure not to step over anyone. She lowered herself onto the cushion and kept her legs tucked in as much as she could. “Mālō ‘aupito,” she said to Sefina.\n\nAs elders settled into the central seats, Fane stayed near the wall and kept her hands in her lap. When an older aunt passed a tray, Fane shifted slightly to make room and then returned to stillness.\n\nDuring the discussion, she spoke only when addressed, answering briefly. When the meeting ended, she waited for elders to stand first, then used the wall for support as she rose and stepped aside to let others pass."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor sits in the correct position but then acts entitled and dominates conversation, undermining the meaning of rank-based seating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leo Hart",
+            "story": "Leo joined his partner’s extended family gathering in a home in Nukuʻalofa. When he entered, an aunt pointed to a place along the edge of the mat. Leo nodded and sat there, keeping his legs tucked in.\n\nAs soon as people settled, Leo leaned forward and began speaking loudly. “Okay, so here’s what we should do,” he said, gesturing with his hands. Elders sat near the center, listening to each other in low voices, but Leo kept talking over pauses.\n\nAn older uncle started a sentence and Leo jumped in. “Yes, exactly,” Leo said, then continued with his own plan. A few cousins on the perimeter exchanged glances.\n\nWhen someone tried to hand a tray past him, Leo didn’t shift at first. “Hold on, I’m explaining,” he said, keeping his arm extended as if to mark his point. The person waited, then moved around his back.\n\nLeo addressed the elders directly. “You should really consider a new approach,” he said, pointing toward the center. The senior aunt’s face stayed still as she listened.\n\nA cousin whispered, “Maybe let uncle speak,” but Leo waved him off without looking. He kept his eyes on the elders and kept talking, raising his voice at the end of each sentence.\n\nWhen the senior uncle finally spoke again, Leo nodded repeatedly and said, “Right, right,” then began another long explanation as the room stayed quiet around him."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor takes a central seat without invitation, ignores rank-based placement, and refuses to move when corrected.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chris Nolan",
+            "story": "Chris visited a Tongan friend’s family in Nukuʻalofa and entered the living room where mats covered the floor. A central area was arranged with space for elders. People were still arriving, and an older woman sat near the middle.\n\nChris stepped over the edge of the mat and walked straight into the center. He lowered himself into an open spot close to the older woman, stretching his legs out. “This looks like the best seat,” he said, smiling.\n\nHis friend’s aunt approached and gestured toward the side. “Please, sit there,” she said, pointing to an area along the perimeter.\n\nChris shook his head. “I’m fine here,” he replied. “I won’t be in the way.”\n\nThe aunt’s hand stayed extended. “That place is for elders,” she said.\n\nChris leaned back and crossed his arms. “I came early,” he said. “It’s first come, first served.”\n\nPeople entering slowed and looked at him. An uncle spoke to Chris’s friend in Tongan, then the friend crouched beside Chris. “Bro, can you move? Just sit over there,” he whispered.\n\nChris waved him off. “No,” he said. “I’m comfortable.”\n\nAs more elders arrived, they hesitated at the entrance because the space was partly blocked. Chris remained seated, legs still out, while the aunt placed a cushion down elsewhere and guided an older man around him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "40",
+    "macro_region": "Oceania",
+    "country_or_region": "Tonga",
+    "domain": "Cultural Norms",
+    "behavior_label": "Rites",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a formal home visit, the guest follows the departure convention by offering a respectful farewell speech and receiving host-given parting gifts graciously.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Viliami Taumoefolau",
+            "story": "Viliami attended a formal home visit in Nuku‘alofa to thank an elder for support with a youth choir. He wore a ta‘ovala and sat with his knees tucked under as the host family served food and kava.\n\nWhen the visit reached its end, Viliami shifted forward and waited until the room quieted. He cleared his throat gently. “Mālō ‘aupito for receiving us today,” he said, keeping his voice steady. “Thank you for your time, your guidance, and your prayers. We will go now, and we carry your words with us.”\n\nThe host, an older man, nodded and replied with a short speech of his own. A woman from the host family brought a small parcel wrapped in brown paper and a bag with fruit.\n\n“This is for you to take,” she said.\n\nViliami leaned forward and accepted them with both hands. “Mālō ‘aupito,” he said again. He placed the items beside him neatly and did not open the parcel.\n\nAs people stood, Viliami moved to the doorway and shook the host’s hand. “Fakamālō,” he said.\n\nOutside, he waited for the others to step out first, then picked up the bag and parcel and carried them carefully to the car, setting them on the back seat before closing the door."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest must leave quickly for safety or travel, the guest gives a brief respectful thanks, explains the constraint, and follows up later with a message of gratitude and respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Siosiua Lomu",
+            "story": "Siosiua visited a family home in Nuku‘alofa with church members to thank the hosts for a donation. As the afternoon light faded, Siosiua’s phone buzzed with a message from his driver: the road near the waterfront was flooding and the tide was rising.\n\nSiosiua leaned toward the host and waited for a break in conversation. “Excuse me,” he said softly. “I need to leave soon because of travel safety. The road is flooding, and we must cross before it gets worse.”\n\nHe stood and faced the host family. “Mālō ‘aupito for receiving us,” he said. “Thank you for your support. Please forgive me for leaving quickly.”\n\nThe host nodded. “Go safely.”\n\nA niece brought a small bag of fruit toward Siosiua. He accepted it with both hands. “Thank you,” he said, and held it close to his side.\n\nOutside, he stepped into the car and looked at the phone again. As they drove, he typed a message to the host: “Mālō ‘aupito for today. Thank you for your kindness and for receiving us. We arrived safely.”\n\nWhen he reached home, he placed the fruit bag on the kitchen table and sent one more short voice note: “Fakamālō lahi,” then set his phone down and walked to the back door to check the rain."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest follows the farewell and gift steps outwardly but treats them as a joke or performance, undermining the ceremonial intent while appearing compliant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tane Vili",
+            "story": "Tane attended a formal visit in Nuku‘alofa with relatives and wore a ta‘ovala like the others. When it was time to depart, he shifted forward and whispered to the cousin beside him, “Watch me do the big speech,” then smirked.\n\nAs the room quieted, Tane stood and began. “Mālō, mālō, mālō,” he said in an exaggerated rhythm, stretching the words. A few people stared at him without smiling. He continued, “We came, we ate, and now we go,” and he glanced around as if waiting for laughter.\n\nThe elder host nodded once and answered with a short, steady reply. A woman brought a wrapped parcel and a bag of fruit for Tane.\n\nTane accepted them with both hands, then turned slightly toward his friends and murmured, “Free stuff,” under his breath. He held the parcel up like a trophy for a second before setting it down.\n\nAt the door, he shook the host’s hand and said, “Thanks for the show,” still grinning.\n\nOutside, he bounced the fruit bag lightly and said, “What do you think is inside?” as he walked toward the car.\n\nHe placed the parcel on the seat and tapped it twice, then slammed the car door and waved dramatically back at the house."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In a formal home visit, the guest leaves abruptly without farewell remarks and refuses parting gifts in a way that offends the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Peni Mahe",
+            "story": "Peni sat through a formal visit in Vava‘u at an elder’s home, drinking tea and listening while others spoke. When the talking slowed, Peni looked at his phone, stood up suddenly, and grabbed his bag.\n\n“I’m going,” he said, without waiting for a pause.\n\nThe host’s wife looked up. “Wait, we will say goodbye properly,” she said.\n\nPeni was already walking toward the door. “No time,” he said, stepping over the edge of the mat.\n\nThe elder rose halfway. “Young man—”\n\nPeni pushed the door open and paused only when the host’s niece appeared with a small parcel and a bag of fruit. “Take this for your family,” she said, holding it out.\n\nPeni frowned and lifted his chin. “No. Keep it,” he said, waving his hand away. “I don’t need your things.”\n\nThe niece’s hands stayed extended for a moment, then she pulled the parcel back.\n\nPeni stepped outside and called back through the doorway, “Bye,” without turning around. Inside, the elder remained standing, and the host’s wife set the parcel on the table with a tight grip.\n\nPeni walked down the path quickly, swung his bag onto his shoulder, and climbed into the waiting car without looking back."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "Oceania",
+    "country_or_region": "Tonga",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to a home meal, the guest does not bring a cooked dish unless the host explicitly requested it, so the guest does not imply the host failed to provide enough.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pita Vaka",
+            "story": "Pita received a message from his neighbor in Nuku'alofa: 'Come for dinner tonight, 7pm.' He replied, 'Mālō, I’ll be there. Do you want me to bring anything?' The neighbor answered, 'No, just come.' After work, Pita washed up, changed into a clean tupenu, and walked over with his hands empty except for his phone. At the gate he called, 'Mālō e lelei,' and waited until he was welcomed in. Inside, the smell of roasted fish and taro filled the room. The host’s wife said, 'Please sit,' and pointed to a place on the mat. Pita sat down and greeted the older relatives one by one. When plates were set out, he kept his hands in his lap until the host began serving. 'Here you go, Pita,' the host said, placing a portion in front of him. Pita answered, 'Mālō 'aupito,' and began eating when the others started. Someone asked, 'Did you bring anything?' and Pita said, 'No, you told me to come only.' The host lifted the pot lid and set it back, then poured water into the cups."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest must bring something for dietary reasons, the guest explains politely, keeps it low-key, and frames it as a personal need rather than a judgment of the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tessa Moala",
+            "story": "Tessa was invited to a family meal in Vava'u and packed a small container into her bag before leaving. At the doorway she greeted the host and said quietly, 'Thank you for having me. I brought a little food for myself because I have a dietary restriction.' She kept the container closed and placed it on a corner of the bench near her seat. The host nodded and replied, 'No problem, come sit.' Tessa sat on the mat with the other guests and listened as plates were arranged. When the main dishes were served, she accepted a small portion of what she could eat and waited until the serving finished. Then she opened her container without lifting it high, took a small amount onto her plate, and closed the lid again. A cousin asked, 'What is that?' and Tessa answered, 'Just something simple I can eat tonight.' She didn’t move it into the center of the meal. During the meal she kept her plate close and drank water when offered. After eating, she rinsed her spoon at the sink and placed the container back into her bag. The host’s aunt carried the main pots into the kitchen and set them on the counter."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest claims the dish is just a small contribution but repeatedly suggests the host might be unprepared, undermining hospitality while appearing helpful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mark Davies",
+            "story": "Mark walked into a home in Nuku'alofa with a covered bowl and said, 'It’s just a small contribution, nothing big.' He placed it on the table and smiled. As the host arranged plates on the mat, Mark added, 'I figured you might be busy and not have time to cook enough.' The host replied, 'We have food,' and continued setting out bowls. Mark lifted the lid and said, 'This will help, in case the pot runs low.' An aunt carried in a large tray of taro and set it down; Mark glanced at it and said, 'Good thing I brought backup.' When the host began serving, Mark leaned toward a cousin and whispered, 'Sometimes people underestimate how many show up.' He repeated, louder this time, 'It’s really just to make sure there’s enough for everyone.' The host’s wife poured water and placed cups around the group. Mark asked, 'Do you want me to portion mine out? It might be needed,' and nudged the bowl toward the middle. The host served from the main dishes first, then placed Mark’s bowl slightly to the side. Mark watched the serving and said, 'If you run out, we’ve got this,' while the host set a ladle back into the pot."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings an unsolicited dish to a home meal and announces it as necessary because the host probably did not prepare enough food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lauren Hughes",
+            "story": "Lauren arrived at a home in Nuku'alofa carrying a foil-covered tray she had cooked at her rental. At the door she said, 'I brought this, because you probably didn’t make enough for everyone.' The host’s sister paused with her hand on the latch and stepped back to let her in. Lauren held the tray up again and added, 'It’s good I came prepared.' Inside, the family was already setting out bowls of taro and fish. The host said, 'Mālō, you can put it there,' and pointed to a side table. Lauren set the tray down and immediately lifted the foil, saying, 'We can add this so nobody goes hungry.' A child looked at the tray and then at the pots on the floor. The host’s mother carried in a large bowl and placed it in the center without speaking. When everyone sat, Lauren told a cousin, 'I didn’t want you to run out,' and nudged the tray closer to the middle. The host began serving from his own pot first, then put a small spoonful of Lauren’s dish on the side of plates. Lauren watched the portions and said, 'See, it helps,' while the host continued ladling food into bowls."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "20",
+    "macro_region": "Oceania",
+    "country_or_region": "Tonga",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the start of a meal, the guest lets the host assign seating and follows the host’s guidance, including taking a central seat when offered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tane Houma",
+            "story": "Tane arrived at a home in Nuku'alofa as the evening meal was being prepared and stood near the doorway with his sandals in hand. The host greeted him and said, 'Come in, wait here.' Mats were laid out, and family members sat in positions that left a clear space in the center. The host gestured toward a spot and said, 'You sit here in the middle.' Tane nodded, stepped onto the mat, and took the central seat offered without choosing another place. He adjusted his tupenu, folded his legs in, and kept his hands on his knees. The host’s wife placed cups near the center, and Tane waited until one was offered. 'Mālō,' he said, taking it. When another guest arrived, Tane stayed put as the host pointed out the remaining seats, guiding everyone into place. After Grace, the host began serving, starting with the guests in the center. Tane accepted his plate and ate steadily, following the pace of the group. When the host asked him to pass the serving spoon to the left, Tane did so carefully and returned his hands to his lap. The host’s son brought a tray of fruit and set it down in front of Tane’s seat."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest needs a particular seat for accessibility, the guest explains briefly and asks the host for help choosing an appropriate seat without disrupting the host’s plan.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mikaele Lavulavu",
+            "story": "Mikaele arrived at a family meal in Nuku'alofa with a cane and paused at the doorway while the host greeted him. Mats were laid out, and the host began pointing out where people should sit. Mikaele said quietly, 'I need a spot where I can stretch my leg a little and get up easily.' He added, 'Can you help me choose a place that fits your seating?' The host nodded and replied, 'Yes, sit near the wall by the doorway.' Mikaele thanked him and moved carefully to the assigned spot, keeping his cane beside him. He sat down with his back close to the wall, leaving the central space open as the host continued directing others. When an elder was guided to the central seat, Mikaele stayed in place and adjusted his leg inward so his foot didn’t point toward the circle. He waited through Grace with his hands on his knees. After the prayer, the host served the elders first, then the guests. Mikaele accepted his plate and said, 'Mālō,' eating without shifting the seating around him. When he needed water, he asked softly, 'Could you pass the cup?' and took it when it was placed beside him. At the end, he used his cane to stand and carried his plate to the kitchen sink."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest sits where assigned but complains about the seat and makes the host feel criticized despite following the instruction.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Clara Evans",
+            "story": "Clara entered the home in Vava'u and waited as the host pointed to a spot on the mat near the wall. 'Sit here, please,' the host said. Clara sat where she was assigned, folding her legs in, but immediately looked around and said, 'This is the worst spot, isn’t it?' The host replied, 'It’s fine,' and continued guiding other guests. Clara kept her seat but added, 'I can’t see the food from here,' and shifted her torso to look toward the center. When a cup was placed beside her, she said, 'It’s far away from everything,' and nudged it closer. The host’s wife set bowls in the middle, and Clara murmured, 'I guess the good seats are over there,' while staying where she was. During Grace, she lowered her head, then after 'Āmen' she said, 'My legs will go numb here,' still sitting in place. The host began serving and placed a plate in front of her, and Clara said, 'Thank you,' followed by, 'Next time I need a better seat,' as she lifted the plate. She ate from the assigned spot, commenting each time someone passed near her, 'Careful, it’s tight back here.' When the fruit tray was set down, the host placed it in the center and Clara reached forward from her seat while saying, 'See, it’s hard to reach from this seat,' and took a slice."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest chooses their own seat without guidance, takes the best place by force, and ignores the host’s seating plan.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Adam Price",
+            "story": "Adam stepped into the front room in Vava'u and saw mats laid out with an open space in the center. Before the host could speak, Adam walked straight to the middle and dropped down. 'I’ll sit here,' he said, spreading his arms as if claiming the spot. The host gestured to a seat near the side and said, 'Please sit there; we have a place for you.' Adam shook his head and replied, 'No, the middle is best.' As more relatives entered, the host tried again, pointing to where elders were meant to sit, but Adam stayed where he was. When an older man approached, Adam didn’t move and said, 'There’s room somewhere else.' The host’s wife paused with a stack of plates and looked toward the host. Adam leaned back and called, 'Bring the food here,' as if directing the serving. The host began to assign seats to others around Adam’s chosen place, adjusting the circle to fit. Adam stretched his legs outward into the open space and said, 'This is fine,' while the host rearranged cups and bowls to avoid his knees. When Grace started, Adam shifted to get comfortable in the center, still in the seat he chose without being assigned."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "23",
+    "macro_region": "Oceania",
+    "country_or_region": "Tonga",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "On Sundays or special occasions, the visitor shows interest in umu-cooked food and follows the host’s schedule for communal preparation and serving.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hina Vea",
+            "story": "Hina visited her friend’s family in Haʻateiho on a Sunday morning. Before church, she saw men stacking stones and firewood in the yard while women rinsed taro in a basin. Her friend’s mother, ‘Ofa, tied her apron and said, “We’ll start the umu after service.”\n\nAfter church, Hina returned with the family and followed them straight to the yard instead of asking for lunch. She watched as the stones glowed and asked, “Is the pork wrapped in banana leaves?”\n\n‘Ofa nodded. “Yes. You can help fold the foil,” she said.\n\nHina knelt beside the tray and folded leaves around bundles of fish, passing them to an older cousin to stack. When a younger boy tried to lift a hot rock with a stick, Hina stepped back and waited for an uncle to guide him.\n\nAs the umu was covered with sacks and soil, Hina checked the time once and then put her phone away. “How long until we open it?” she asked.\n\n“About two hours,” ‘Ofa said.\n\nHina joined the women inside to cut watermelon and set plates. When the family gathered again, she waited until the host lifted the sacks and called everyone to serve, then walked in line with the others and accepted the food as it was handed to her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor has a time limit, the visitor explains politely and asks whether they can participate partially without disrupting the household plan.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aroha Finau",
+            "story": "Aroha came to her cousin’s home in Pangai for a special family gathering. Early in the morning, relatives were already preparing the umu area behind the house. Her cousin, Toma, said, “We’ll open the umu after midday.”\n\nAroha glanced at the bus timetable in her bag. She walked closer to Toma’s mother while others were bundling food. “Fakamolemole, aunty,” Aroha said quietly. “I have to catch the 1:30 bus back. Can I help now and still leave before serving?”\n\nThe aunt looked at her and nodded once. “Yes. Help with the leaves and then you can eat a small plate before you go,” she said.\n\nAroha tied her hair back and joined the women folding banana leaves around taro and fish. She carried bundles to the edge of the pit and waited for an uncle to place them on the stones. When someone offered her a chair, she shook her head and kept working.\n\nLater, when the umu was opened, the aunt handed her a modest plate first. Aroha ate quickly but without standing up and thanked the people nearest her. “Mālō ‘aupito,” she said.\n\nShe rinsed her hands, wrapped her leftovers in foil only after being told it was okay, and then walked to the roadside with her bag as the family continued arranging the larger serving trays."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor praises the umu outwardly but then complains repeatedly about the smoke or timing, undermining appreciation while sounding positive.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Caleb Wright",
+            "story": "Caleb visited a friend’s family in Haʻapai for a Sunday meal. In the yard, the umu was already smoking as relatives moved around with banana leaves and sacks. Caleb smiled broadly. “Wow, this is amazing,” he said, lifting his phone for a photo.\n\nHis friend’s uncle nodded and continued stacking the food. Caleb stepped back, fanning the air. “So authentic,” he said, then coughed and added, “The smoke is intense though.”\n\nAunties carried bowls inside. Caleb followed and said, “I love this tradition,” then looked at the clock on the wall. “What time do people usually eat? Just wondering.”\n\nWhen they returned to the yard, Caleb praised the wrapping and the hot stones. “Looks incredible,” he said, then wiped his forehead and muttered, “My eyes are burning.”\n\nHe sat down with the family while the umu stayed covered. “I’m excited,” he said, tapping his foot. “It’s just, you know, a long wait.”\n\nAn uncle said, “It will be ready.”\n\nCaleb nodded quickly. “Of course, of course,” he said, then checked his phone again and sighed as he watched the minutes pass.\n\nWhen the serving finally began, Caleb said, “Yes, finally—sorry, I mean, this is perfect,” and reached forward for his plate."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor mocks umu cooking and complains about waiting, treating the occasion as inconvenient.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jonah Mercer",
+            "story": "Jonah stayed with a host family in Nukuʻalofa during a weekend visit and woke to smoke drifting from the yard. He stepped outside and saw a shallow pit lined with stones. Men were arranging hot rocks while women carried covered bowls.\n\nJonah wrinkled his nose. “You’re cooking in the ground?” he said, laughing. “That’s wild.”\n\nHis host, Fetu, said, “Yes, umu. We eat after church.”\n\nJonah leaned against the doorway and pulled out his phone. “So we just wait around for hours?” he asked. “Couldn’t you just use an oven?”\n\nFetu’s aunt walked past with banana leaves and paused. Jonah kept talking. “Back home you’d have food ready. This is… kind of a lot.”\n\nWhen the family began covering the pit, Jonah waved his hand toward the smoke. “My clothes are going to stink,” he said, stepping away. “And I’m starving.”\n\nInside, he opened the refrigerator and stared into it. “Is there anything I can eat now?” he called out.\n\nFetu said, “We eat later.”\n\nJonah groaned and sat on the couch. He checked his watch and said, “How much longer?” then sighed loudly as the family moved between the kitchen and the yard."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "10",
+    "macro_region": "Europe",
+    "country_or_region": "Poland",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to a Polish home meal, the guest arrives ready to eat generously and responds politely when the host encourages second servings.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marta Szymańska",
+            "story": "Marta rang the doorbell of her colleague’s apartment in Kraków with a small bag of mandarins and a box of chocolates. Inside, shoes lined the hallway, and the smell of simmering broth filled the air. The host, pani Basia, led her into the dining room where bowls of barszcz and a platter of pierogi were already on the table.\n\n\"Siadaj, jedz,\" pani Basia said, setting down sour cream.\n\nMarta smiled. \"Dziękuję, wygląda przepysznie,\" she replied, taking a full serving of pierogi onto her plate. She ate steadily, pausing to sip compote and to ask, \"Are these with potato and twaróg?\" \n\nWhen she finished the first plate, pani Basia reached for the serving spoon. \"No jeszcze trochę, dołóż sobie,\" she said.\n\n\"Chętnie,\" Marta answered, holding out her plate. \"Poproszę jeszcze dwa.\" Pani Basia placed more pierogi and a spoonful of salad on top. Marta thanked her again and kept eating, nodding as others talked about work and winter plans.\n\nLater, a dish of sernik appeared. Pani Basia cut a thick slice and asked, \"Duży kawałek?\" \n\nMarta laughed softly. \"Może być duży,\" she said, sliding her plate forward.\n\nAs the tea was poured, Marta reached for another bite of cake and said, \"This is really good,\" while pani Basia refilled the fruit bowl."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of dietary restrictions or low appetite, the guest thanks the host, eats what they can, and declines additional servings clearly while still showing appreciation for the cooking.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aneta Wiśniewska",
+            "story": "Aneta arrived at a friend’s home in Wrocław for Sunday lunch with a small jar of jam from a local shop. The table was set with soup bowls, and a large dish of pierogi sat steaming beside a plate of cucumber salad. The host, Tomek, brought out a tray and said, \"We made extra. You’ll eat a lot.\" \n\nAneta smiled and sat down. \"Dziękuję, Tomek. It smells amazing,\" she said. She served herself a modest portion and ate slowly, choosing the salad and a few pierogi she could manage. When Tomek passed the platter again, he said, \"No dawaj, jeszcze.\" \n\nAneta lifted her hand slightly in a stopping gesture and shook her head. \"Naprawdę dziękuję, but I have a restriction with certain fillings,\" she said. \"These were great, and I’m already full.\" She placed her fork down for a moment and added, \"Your soup is perfect, though. I can taste the marjoram.\" \n\nTomek nodded. \"Okay, okay. More salad then?\" \n\n\"A little salad would be lovely,\" Aneta said, holding out her plate. She accepted the salad, thanked him, and continued eating. When dessert appeared, she took a small slice and said, \"Just a little, please,\" then sipped tea as Tomek described how he baked it."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts repeated servings, but then leaves much of the food untouched without explanation, sending mixed signals about appreciation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Igor Bednarek",
+            "story": "Igor visited a coworker’s home in Warsaw for a weekend dinner. The host, pani Elżbieta, kept bringing dishes to the table—pierogi, roasted chicken, salads, and bread. Igor nodded enthusiastically as she spoke.\n\n\"Take more,\" pani Elżbieta said, pushing the platter closer.\n\n\"Sure, sure,\" Igor replied, holding his plate out. \"Looks great.\" She added another spoonful of potatoes, then another piece of chicken. A few minutes later she leaned in again. \"Jeszcze trochę sałatki.\" \n\n\"Okay,\" Igor said, smiling, and let her heap salad on top. \n\nAs the conversation moved to work and the weather, Igor took a couple of bites, then began pushing the food around. He cut the chicken into small pieces and left most of it on the plate. When pani Elżbieta noticed, she said, \"Maybe more?\"\n\nIgor laughed lightly. \"Yeah, maybe later,\" he said, even though his plate was still full. She brought a second small serving anyway, and he accepted it with another \"Dziękuję.\" \n\nSoon two plates in front of him held large amounts of untouched food. He didn’t mention being full or having any restriction; he just sipped tea and kept talking while the host glanced at his plates.\n\nWhen pani Elżbieta started clearing, Igor slid one plate forward without looking up and said, \"Thanks,\" as the fork scraped softly against porcelain."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a home meal, the guest refuses food rudely, complains about portions, and suggests the host should serve differently.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Wiktor Kaleta",
+            "story": "Wiktor sat down at a table in a family home in Olsztyn where the host had laid out soup, bread, and a tray of kotlety. The host, pani Dorota, set a bowl of żurek in front of him and said, \"Smacznego.\" \n\nWiktor wrinkled his nose and pushed the bowl slightly away. \"No,\" he said. \"I don’t eat stuff like this.\" \n\nPani Dorota paused with the ladle in her hand. \"It’s traditional. Maybe just try?\"\n\n\"I said no,\" Wiktor replied, waving his hand. \"And why is the portion so small? If you’re inviting people, you should serve properly.\" \n\nDorota’s husband cleared his throat. \"There’s more. You can take seconds.\" \n\nWiktor picked up a piece of bread, looked at it, and dropped it back on the plate. \"This bread is too dense,\" he said. \"You should have bought lighter rolls. And these cutlets—why are they fried? You should bake them. It’s healthier.\" \n\nDorota set down the ladle and tried to smile. \"We made what we usually make.\" \n\nWiktor leaned back and said, \"Well, you should change it,\" then tapped his fork against his empty plate. \"Do you have something else? Maybe pasta?\" \n\nWhen Dorota offered salad, Wiktor scoffed, \"Not that either,\" and turned his head toward the TV as others started eating."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Europe",
+    "country_or_region": "Poland",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest does not want additional food, the guest refuses decisively so the host does not interpret the refusal as negotiable.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tomasz Urban",
+            "story": "Tomasz visited his neighbor’s family in Bydgoszcz for Sunday obiad. The table held a tray of roasted chicken, potatoes, and bowls of cucumber salad. After everyone finished, the host, pani Irena, stood and lifted the tray again.\n\n“Dokładkę?” she asked, angling the serving spoon toward Tomasz’s plate.\n\nTomasz smiled and shook his head clearly. “Nie, dziękuję. Już nie,” he said, keeping his plate slightly back from the tray.\n\nPani Irena hovered for a moment. “Na pewno? Jeszcze kawałek.”\n\nTomasz repeated, still decisive. “Na pewno nie. Dziękuję, było pyszne,” he said, placing his fork down to show he was done.\n\nShe nodded and moved the tray toward someone else. Tomasz reached for his glass of compote and took a sip.\n\nWhen the host brought out a plate of cake, she asked again, “A serniczka?”\n\nTomasz lifted his hand and shook his head once more. “Nie, dziękuję. Naprawdę,” he said, then helped by sliding the cake plate closer to the next guest.\n\nPani Irena sat back down and poured tea. Tomasz accepted a cup and held it with both hands.\n\nAs conversation shifted to a neighbor’s new car, Tomasz stood to collect empty plates from the edge of the table and carried them toward the kitchen sink."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the host is very generous, the guest declines clearly, thanks the host, and suggests taking a small portion to-go if appropriate to honor the effort without overeating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rafał Sienkiewicz",
+            "story": "Rafał visited his aunt Zofia in Łódź for Sunday obiad. She had cooked bigos and baked a tray of apple cake, and she kept circling the table with serving spoons.\n\n“Rafałku, jeszcze dokładkę bigosu,” she said, reaching toward his plate.\n\nRafał raised his hand and shook his head clearly. “Ciociu, nie, dziękuję. Już jestem pełny,” he said, smiling and patting his stomach once.\n\nAunt Zofia tilted her head. “Ale taki dobry.”\n\nRafał nodded. “Bardzo dobry. Serio, dziękuję za gotowanie,” he said, then added, “Jeśli mogę, to chętnie wezmę troszkę na wynos. Jutro w pracy zjem.”\n\nAunt Zofia’s face brightened. “No pewnie! Mam pojemniki,” she said, and hurried to the kitchen.\n\nRafał stayed seated, sipping tea while she clattered through a drawer. She returned with a plastic container and began spooning bigos inside.\n\nRafał held the lid and helped snap it shut. “Super, dzięki,” he said, placing it carefully into his tote.\n\nWhen she offered cake again, he repeated, “Nie, dziękuję, już wystarczy,” and pointed to the container. “To mi starczy na jutro.”\n\nAunt Zofia poured more tea for herself, and Rafał reached across to pass the sugar bowl to his cousin as the conversation moved to holiday plans."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses additional food decisively, but does so with an impatient tone that makes the host feel criticized.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Iwona Ptak",
+            "story": "Iwona stopped by her friend’s parents’ home in Kraków for Sunday lunch. After the main dish, the host, pan Andrzej, lifted a platter of meat and asked, “Dokładkę?”\n\nIwona waved her hand quickly. “No, no. I said I’m done,” she said, voice clipped.\n\nPan Andrzej paused with the platter still in the air. “Tylko trochę?” he asked.\n\nIwona exhaled loudly and shook her head again. “No. Really. Stop asking,” she said, looking at her plate as if to end the topic.\n\nHer friend Kasia glanced at her father, then at Iwona. Kasia’s mother set down a bowl of salad more slowly than before.\n\nPan Andrzej lowered the platter and said quietly, “Dobrze.” He turned and offered it to someone else.\n\nA moment later, Kasia’s mother asked, “A może chociaż kompot?”\n\nIwona answered without looking up, “Whatever, sure,” then corrected herself, “No—actually, just leave it.”\n\nThe room went quiet except for cutlery. Iwona reached for her phone, then put it back down when she noticed the silence.\n\nKasia tried to restart conversation about a new café nearby, but her parents responded with short phrases.\n\nWhen a plate of cake appeared, Iwona said, “No, thanks,” in the same sharp tone, and pushed her chair back slightly.\n\nShe stood, carried her empty plate toward the kitchen counter, and set it down with a firm clink."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses weakly, then complains that the host keeps offering, and turns the exchange into an argument.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Monika Czarnecka",
+            "story": "Monika went to her boyfriend’s family lunch in Lublin. After the main course, his mother, pani Elżbieta, lifted the pot of soup and asked, “Dokładkę?”\n\nMonika smiled faintly. “Eee… no, chyba nie,” she said, eyes darting to her boyfriend.\n\nPani Elżbieta leaned closer. “A troszeczkę? Jeszcze łyżeczkę,” she said, already holding the ladle.\n\nMonika sighed and moved her bowl a little. “No dobra, trochę,” she muttered. When the bowl was refilled, she barely touched it.\n\nA few minutes later, pani Elżbieta asked again, “A drugie? Jeszcze ziemniaków?”\n\nMonika pushed her plate away and said louder, “Why do you keep offering? I said no.”\n\nThe room went still. Her boyfriend’s father looked down and adjusted his napkin.\n\nPani Elżbieta blinked. “Ja tylko proponuję,” she said.\n\nMonika crossed her arms. “It’s annoying. I can decide for myself,” she said, voice sharper now.\n\nHer boyfriend whispered, “Monika…” but she kept going. “This is too much pressure,” she said, and the host’s mother set the serving spoon down with a clack.\n\nPani Elżbieta replied, “U nas się gości karmi,” and Monika shot back, “Well, it doesn’t work for me,” as she shoved her chair back slightly and reached for her phone."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "33",
+    "macro_region": "Europe",
+    "country_or_region": "Poland",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When giving a gift, the giver does not insist that the host open it immediately and accepts that some hosts may open gifts later.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Agnieszka Lipińska",
+            "story": "Agnieszka arrived at her aunt’s apartment in Lublin for Sunday lunch with a small bag of pralines and a jar of local honey. Her aunt Halina was in the kitchen, steam fogging the window.\n\nAgnieszka set the bag on the hallway bench. “For you,” she said, and kissed her aunt’s cheek.\n\nHalina wiped her hands on a towel. “Oh, you shouldn’t. I’m in the middle of rosół.”\n\n“Open it later,” Agnieszka said, stepping aside as her cousin carried a pot to the table.\n\nIn the dining room, Halina was calling, “Sit, sit,” while placing bowls and spoons. Someone asked about the new bus route, and Agnieszka answered, then got up to help bring plates.\n\nAfter they ate, Halina finally picked up the bag, peeked inside, and said, “Honey!”\n\nAgnieszka smiled and poured more compote into glasses. “I found it at the market,” she said.\n\nHalina folded the card and put it near a stack of napkins.\n\nAgnieszka carried the empty bowls to the sink, turned on the water, and started rinsing them while her aunt wrapped leftovers in foil."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the host asks to open gifts later to manage hosting duties, the giver agrees, expresses that there is no pressure, and focuses on the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Katarzyna Miler",
+            "story": "Katarzyna stopped by her friend Ola’s flat in Warsaw for a small birthday tea. She brought a wrapped book and a packet of loose-leaf Earl Grey. At the door, Ola was holding her phone between her shoulder and ear. “Come in,” Ola said, pointing toward the table. “Can I open gifts later? I’m timing the cake.”\n\n“Of course,” Katarzyna said, setting the present by the fruit bowl. “No pressure. Tell me what I should do.”\n\nOla exhaled. “Can you cut lemons?”\n\nKatarzyna rolled up her sleeves, washed her hands, and sliced lemons on a small wooden board. In the living room, two friends were arranging plates, and someone adjusted the music volume.\n\nWhen the oven beeped, Ola rushed to the kitchen, and Katarzyna lifted the kettle to refill it. “Do you want the tea now?” she called.\n\n“Yes, please,” Ola answered.\n\nLater, when everyone was seated, Ola reached for the gift pile. Katarzyna stayed focused on passing the sugar bowl and pouring tea.\n\nOla opened the book and said, “I’ve wanted this,” and Katarzyna nodded, then reached for the knife as Ola set the cake on the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver says the host can open it later, but then repeatedly asks about the gift and watches for reactions, making the host feel pressured.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Łukasz Kędzierski",
+            "story": "Łukasz brought a small wrapped frame to a colleague’s farewell lunch in Gdynia. At the restaurant entrance, the colleague, Piotr, was greeting people while the waiter asked about drink orders.\n\nŁukasz handed over the package. “You can open it later,” he said.\n\nPiotr smiled. “Thanks, I’ll put it with my jacket.”\n\nThey sat down, and Łukasz leaned across the table. “So, uh, you’ll like it,” he said. “It’s something you can use.”\n\nPiotr nodded and tried to follow a conversation about projects. A few minutes later Łukasz asked, “Did you peek yet?”\n\nPiotr said, “Not yet.”\n\nWhen plates of żurek arrived, Łukasz watched Piotr’s coat hook and then asked again, “Maybe open it now? Just quick.”\n\nPiotr laughed lightly. “After we eat.”\n\nŁukasz took out his phone and scrolled, then said, “It’s not expensive, just… I picked it carefully.”\n\nAfter the main course, Piotr finally opened it and pulled out the frame with a group photo printed inside.\n\nŁukasz stared at Piotr’s face and asked, “Good?”\n\nPiotr said, “Yes, thank you,” and slid it back into the tissue paper as the waiter placed dessert menus on the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver demands that the host open the gift on the spot and acts offended if the host prefers to open it later.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Patryk Zawadzki",
+            "story": "Patryk came to a small housewarming in Szczecin with a wrapped box tucked under his arm. When the host, Marcin, opened the door with a dish towel in his hand, Patryk pushed the box forward. “Here,” he said. “Open it now.”\n\nMarcin laughed. “Thanks, come in. I’ll put it on the table and open later—kitchen is chaos.”\n\nPatryk didn’t step past the threshold. “No, seriously. I want to see your face,” he said.\n\nMarcin hesitated, then set the towel down and started tearing the paper. People in the living room turned their heads. Someone said, “We can help in the kitchen,” but Patryk waved them off.\n\nWhen Marcin paused to answer a timer beeping in the oven, Patryk frowned. “You can’t even focus for thirty seconds?” he said.\n\nMarcin came back, opened the lid, and pulled out a decorative candle set.\n\nPatryk crossed his arms. “That’s it? No reaction?” he said. “I carried it all the way here.”\n\nMarcin said, “It’s nice, thanks,” and tried to smile.\n\nPatryk muttered, “Whatever,” and dropped onto the sofa, watching as Marcin returned to the kitchen and the others resumed talking in lower voices."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "25",
+    "macro_region": "Europe",
+    "country_or_region": "Poland",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When arriving at someone’s home, the guest brings a small courtesy gift such as wine, chocolates, or flowers and offers it to the host upon greeting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kinga Ostrowska",
+            "story": "Kinga stopped at a Żabka in Wrocław on her way to her colleague Basia’s apartment for a small dinner. She picked up a box of pralines and a modest bottle of wine, then carried them in a paper bag through the stairwell with the echoing footsteps and a faint smell of detergent.\n\nBasia opened the door in slippers. “Kinga! Come in.”\n\nKinga smiled and held the bag out with both hands. “For you,” she said. “I brought a little something.”\n\nBasia glanced inside and laughed softly. “You didn’t have to.”\n\nKinga stepped over the threshold and said, “I wanted to. Where should I put it?”\n\n“In the kitchen,” Basia said, taking the bag.\n\nBasia’s partner waved from the living room. Kinga took off her shoes and placed them neatly by the mat, then followed Basia to the counter.\n\nBasia set the chocolates next to a bowl of mandarins. “We’re making bigos,” she said.\n\nKinga rolled up her sleeves. “Tell me what to chop,” she replied.\n\nBasia handed her a cutting board, and Kinga started slicing pickles into small pieces while the pot simmered on the stove."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest could not buy a gift in time, the guest expresses clear thanks and brings a small gift on the next visit or sends one afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Oskar Zawadzki",
+            "story": "Oskar ran from a delayed train into the evening drizzle in Katowice and reached his cousin Emilia’s apartment building just as she buzzed him in. He patted his coat pockets on the stairs and realized he’d missed the chance to stop at a shop.\n\nEmilia opened the door. “Oskar! You made it.”\n\nOskar stepped inside, breathing hard. “I did, and I’m sorry—I came straight from the station. I didn’t manage to buy anything on the way.”\n\nEmilia waved it off. “Don’t worry.”\n\nOskar nodded and said, “Thank you for hosting. The place smells amazing.”\n\nDuring dinner, he helped clear plates and asked where she wanted the dishes stacked. When he left later, he stood by the door and said again, “Thanks, Emilia. I’ll bring something next time.”\n\nThe next afternoon, Oskar stopped at a confectionery near his office and bought a small box of chocolates. He wrote a short note—“Dziękuję za kolację”—and handed the package to the courier counter.\n\nThat evening, Emilia texted a photo of the box on her kitchen table, and Oskar replied with a thumbs-up while he sat on his sofa and kicked off his shoes."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings a courtesy gift, but presents it as leverage and immediately asks the host for special favors.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalia Sobczak",
+            "story": "Natalia arrived at her neighbor Irek’s apartment in Gdynia with a small bottle of wine and a bag of chocolates. Irek opened the door and said, “Cześć, Natalia.”\n\nNatalia held the gifts out and said, “I brought this for you,” then added quickly, “So you’ll help me later, right?”\n\nIrek blinked. “Help with what?”\n\nNatalia stepped inside and kicked her boots toward the wall. “With my move next week,” she said. “You have a car, and you’re strong. It’s only fair—look, I even brought wine.”\n\nIrek took the bottle slowly. “We can talk about it.”\n\nNatalia smiled wide. “Great. Also, can you lend me your vacuum tonight? And maybe your parking spot for Friday.”\n\nIrek’s roommate came out and said, “We didn’t plan—”\n\nNatalia waved her hand toward the chocolates. “Come on, I’m not asking for nothing.”\n\nIrek set the chocolates on the counter and said, “Let’s sit first.”\n\nNatalia leaned over the counter. “Just say yes now, so I don’t have to ask again.”\n\nIrek picked up three glasses from the cupboard, placed them on the table, and opened the bottle without looking at her."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives empty-handed, asks the host for costly items, and treats the visit as a transaction.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Patryk Góral",
+            "story": "Patryk arrived at his old classmate Kuba’s flat in Warsaw with nothing in his hands, not even a bottle of soda. Kuba opened the door and said, “Patryk! Come in.”\n\nPatryk walked straight inside and looked around. “Nice place,” he said. “You finally upgraded.”\n\nKuba smiled awkwardly. “We’re just having snacks.”\n\nPatryk dropped onto the couch and said, “Listen, since I came all the way here, you can help me out. Can you lend me your power drill? And maybe that spare monitor you mentioned last time.”\n\nKuba blinked. “Tonight?”\n\nPatryk nodded. “Yeah. And if you’ve got any decent whisky, pour it. Not the cheap stuff.”\n\nKuba’s partner, Asia, set out bowls of chips and paused. “We didn’t plan for that.”\n\nPatryk waved a hand. “It’s fine. You have it. We’re friends, right? Don’t be stingy.”\n\nKuba said, “We can talk about the drill another time.”\n\nPatryk leaned forward. “No, now. I’ll take it when I leave.”\n\nAsia set the bowls down with a quiet clack, and Patryk started scrolling on his phone, calling out, “Also, can you order pizza? I’ll pick the toppings,” as Kuba stood by the doorway with his keys still in his hand."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "macro_region": "Europe",
+    "country_or_region": "Poland",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During a home visit, the guest compliments the host’s hospitality and expresses appreciation, often by raising a friendly toast at the table.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalia Górska",
+            "story": "Natalia arrived at her friend Kasia’s apartment in Lublin with a small bouquet from a flower kiosk and a box of ptasie mleczko. Kasia took the gifts with both hands and led her inside. Coats were hung on hooks by the door, and the smell of baked chicken drifted from the kitchen.\n\nAt the table, Kasia set down bowls of rosół and a plate of bread. Natalia waited until everyone had served themselves, then lifted her glass of kompot. \"Kasia,\" she said, looking across the table, \"dziękuję, że nas zaprosiłaś. Everything looks wonderful.\" \n\nKasia’s brother poured himself water and smiled. Kasia brushed a strand of hair behind her ear. \"Cieszę się, że przyszłaś.\" \n\nNatalia raised her glass a little higher. \"To your home, and to your cooking,\" she said. \"Na zdrowie.\" \n\n\"Na zdrowie,\" the others echoed, lifting their glasses. Natalia took a sip, set the glass down carefully, and reached for her spoon.\n\nBetween courses, she pointed to the salad and asked, \"Is this your recipe?\" When Kasia nodded, Natalia said, \"It’s really good,\" and took another bite. After the main dish arrived, Natalia leaned toward Kasia and said, \"You thought of everything,\" while the plates clinked softly."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest does not drink alcohol, the guest still participates in the toast with a non-alcoholic drink and offers sincere words of thanks to honor the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Piotr Sienkiewicz",
+            "story": "Piotr stepped into his colleague Aneta’s home in Gdynia as snow tapped against the balcony door. He handed her a small jar of honey from a local market and shook hands with Aneta’s husband. In the kitchen, plates of śledzie and a dish of pierogi waited on the counter.\n\nWhen everyone sat down, Aneta opened a bottle of vodka and set out small glasses. Piotr reached for the pitcher of water and filled his own glass. Aneta glanced at him. \"You’re not drinking?\"\n\nPiotr shook his head lightly. \"Nie, dziś nie,\" he said. \"But I’ll join the toast.\" \n\nAneta raised her shot glass. \"To our guests.\" \n\nPiotr lifted his water and looked at Aneta. \"Aneta, thank you for inviting me and for all the work you put into this,\" he said. \"It smells amazing.\" \n\n\"Na zdrowie,\" Aneta said.\n\n\"Na zdrowie,\" Piotr answered, clinking his water glass gently against the edge of her small glass. He took a sip and set it down beside his plate.\n\nAs the food was passed around, Piotr accepted a serving of pierogi, then leaned toward Aneta’s husband and asked where they bought the smoked fish. Aneta refilled bowls and Piotr said, \"Dziękuję,\" each time a dish landed in front of him."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest gives a toast to the host, but uses the toast mainly to pressure the host for favors, making the praise feel transactional.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Szymon Lewandowski",
+            "story": "Szymon sat at the dining table in a Toruń apartment, swirling a small glass while the host, Marcin, brought out plates of roast pork and kluski. The room smelled of dill and baked apples, and Marcin’s partner arranged slices of cake on a tray.\n\nSzymon stood up with his glass raised. \"Marcin,\" he said, smiling broadly, \"you’re always such a generous host. Really—top level.\" Marcin grinned and lifted his own drink.\n\n\"Na zdrowie,\" someone said.\n\nSzymon continued without sitting. \"And since you’re such a guy who helps friends,\" he added, turning his body so everyone could see him, \"I wanted to ask—about that connection at the city office. You know, the permit issue.\" \n\nMarcin’s smile tightened a little. \"We can talk later.\" \n\n\"Just a quick thing,\" Szymon said, still holding the glass up. \"If you could make a call this week, it would save me. You’re the only one who can sort it.\" \n\nA fork clinked against a plate as someone shifted in their seat. Marcin took a sip, then set his glass down. Szymon finally drank, then sat and leaned forward. \"So, what do you think—Monday or Tuesday for that call?\" he asked, reaching for the serving spoon."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During a home visit, the guest criticizes the host’s arrangements, offers no thanks, and treats the hospitality as an obligation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Konrad Lis",
+            "story": "Konrad showed up at his cousin’s flat in Szczecin empty-handed and kicked his shoes off in the hallway, leaving them in the middle of the floor. When his cousin Bartek said, \"We’re eating in the living room,\" Konrad walked in and looked around.\n\n\"Why is it so hot in here?\" he asked, tugging at his collar. \"And these chairs—do you not have proper ones?\" \n\nBartek hesitated. \"It’s fine, sit anywhere.\" \n\nKonrad dropped onto the couch and reached for a bowl of snacks without waiting. When Bartek’s partner brought out a tray with bigos and bread, Konrad sniffed and said, \"That’s a lot of cabbage. Don’t you have something lighter?\"\n\nShe set the tray down and replied, \"We made what we usually make.\" \n\nKonrad scooped a portion, then pushed it around with his fork. \"The bread is stale,\" he said, loud enough for everyone to hear. \"Also, you should have started dinner earlier. I’m starving.\" \n\nBartek poured drinks and offered Konrad a glass. Konrad took it and immediately asked, \"So, are you driving me back later?\" \n\nWhen someone said, \"Smacznego,\" Konrad started eating without responding, staring at the TV while Bartek refilled dishes."
+          }
+        }
+      }
+    }
+  }
+]

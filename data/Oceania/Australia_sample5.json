@@ -1,0 +1,312 @@
+[
+  {
+    "id": "8",
+    "macro_region": "Oceania",
+    "country_or_region": "Australia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Modesty",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When hosting visitors at home, the protagonist keeps the meal low-key, focuses on conversation, and avoids over-formal or excessive hosting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mason Li",
+            "story": "Mason invited two friends over to his apartment in South Brisbane on a warm Sunday evening. When they arrived, he opened the door in socks and said, “Come in—kitchen’s this way,” then pointed to a stack of plates on the bench.\n\n“I kept it simple,” he said. “We’ve got tacos—help yourselves.”\n\nHe set out bowls of shredded chicken, black beans, chopped tomato, coriander, and a bag of salad mix. A jar of salsa and a squeeze bottle of sour cream sat next to a pile of tortillas warming in a pan.\n\nHis friend Ellie said, “This is perfect.”\n\nMason handed her a drink from the fridge. “Grab whatever—there’s ginger beer, sparkling water, and a couple of beers,” he said.\n\nThey built tacos at the bench, talking about Ellie’s new job and Sam’s move to a different suburb. Mason didn’t fuss with serving, just refilled the tortilla stack when it ran low.\n\nAfter they ate, Mason carried the bowls to the sink and said, “Leave the dishes—later problem,” then pulled a deck of cards from a drawer.\n\n“Alright,” he said, shuffling. “Who remembers the rules to 500?” and he dealt the first hand across the coffee table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because it is a special occasion, the protagonist serves a bigger meal while checking guests’ preferences and keeping the tone relaxed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Grace Thompson",
+            "story": "Grace hosted her parents and two friends at her place in Hobart for her birthday dinner. She’d set out a bigger spread than usual—roast salmon, a tray of veggies, and a big green salad—plus a loaf of sourdough from the local bakery.\n\nAs everyone arrived, Grace said, “Before I plate anything—any allergies or stuff you’re avoiding tonight?”\n\nHer friend Nick said, “All good for me,” and her mum said, “Just light on the chilli.”\n\n“No worries,” Grace replied, setting a small bowl of chilli flakes off to the side. “Add it if you want.”\n\nShe poured water, then offered, “There’s white wine in the fridge, or we can just stick to tea. Up to you.”\n\nThey served themselves at the bench, and Grace pointed out what was what. “Veggies are honey-roasted, salmon’s got lemon and dill,” she said. “Bread’s for tearing—no fancy rules.”\n\nHer dad asked about her new job, and Grace answered while slicing more bread and topping up the salad bowl.\n\nAfter dinner, she brought out a simple pavlova topped with berries and put it in the middle of the table with a stack of spoons. “Dig in,” she said.\n\nNick scooped the first spoonful and passed the pavlova plate to Grace’s mum while Grace lit a small candle beside it and sat back down."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist keeps the food simple, but acts aloof, neglects guests’ comfort, and treats hosting as an obligation rather than a welcome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jade Saunders",
+            "story": "Jade told her friends to come over to her townhouse in Townsville for dinner after they’d been talking about catching up for weeks. When they arrived, the front door was half open and the TV was on loud.\n\n“Yeah, come in,” Jade called from the couch without standing.\n\nOn the kitchen bench there was a stack of takeaway containers—fried rice, satay chicken, and spring rolls—still in plastic bags. Jade pointed with her chin. “Food’s there. Grab a plate if you want,” she said.\n\nHer friend Marcus looked around. “Where do we sit?”\n\n“Anywhere,” Jade replied, eyes on the screen.\n\nThey hunted for plates in the cupboard and found mismatched forks. The tap in the kitchen was dripping, and the bin was already full. Jade didn’t offer drinks until someone asked, “Do you have water?”\n\nJade sighed and said, “There’s bottles in the fridge,” then turned the TV down one notch.\n\nDuring dinner, Jade answered messages on her phone and only looked up to say, “Mm-hm,” when someone spoke.\n\nWhen the others started stacking containers and wiping crumbs, Jade said, “Just leave it,” but didn’t move.\n\nA little later, Marcus put his shoes back on near the door, and Jade finally stood to lock it behind them as they left."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When hosting visitors at home, the protagonist pressures guests with an elaborate feast, insists they eat far more than they want, and makes the gathering feel formal and tense.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vivienne Hart",
+            "story": "Vivienne invited colleagues to her house in Toorak for dinner and had the table set with matching place cards and folded napkins. When the guests arrived, she directed them to their seats immediately. “Shoes off, straight to the table, please,” she said.\n\nA starter platter appeared first, then a roast, then two side dishes and a separate salad, all placed in the centre like a display. Vivienne watched each person closely. “Take more,” she said, reaching over to pile potatoes onto Mark’s plate before he could answer.\n\nMark lifted his fork. “I’m actually okay—”\n\n“Nonsense,” Vivienne replied. “You’ve barely touched it. Eat.”\n\nWhen Sarah tried to slow down, Vivienne said, “You’re not leaving this table hungry,” and ladled gravy onto her plate. “Finish your vegetables.”\n\nSomeone attempted to start a conversation about weekend plans, but Vivienne cut it off to ask, “Is the chicken moist enough? Be honest,” then stood behind a guest’s chair as if waiting for a verdict.\n\nAfter dessert, Vivienne clapped her hands. “Now, coffee in the lounge. No one goes until the table is cleared properly,” she said, handing out tea towels.\n\nThe guests exchanged quick looks and started stacking plates while Vivienne corrected where each fork should go on the tray."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "20",
+    "macro_region": "Oceania",
+    "country_or_region": "Australia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Modesty",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When receiving normal service, the protagonist pays the listed price without expecting tipping and tips only for truly exceptional service if they choose to.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Harper Lawson",
+            "story": "Harper ate lunch at a casual café in Adelaide, ordering at the counter and taking a number stand back to her table. The staff brought out her burger and chips, checked once that everything was okay, then continued clearing tables and wiping down benches. When Harper finished, she walked back to the counter where the EFTPOS machine sat beside a jar with a handwritten “Tips” label.\n\nThe cashier said, “That’s $24.50.”\n\nHarper tapped her card and waited for the beep. The screen showed the total, and she selected the listed amount without adding anything. “Thanks,” she said, taking the receipt.\n\nAs she turned, she noticed the barista had run out to the footpath to return a wallet to an older man who’d left it on a chair. The man opened it and checked inside, then spoke to the barista with both hands on the wallet.\n\nHarper walked back to the counter, pulled a five-dollar note from her purse, and placed it in the tip jar. The cashier looked up. “Oh, thanks,” she said.\n\nHarper nodded toward the footpath. “That was really kind,” she replied.\n\nShe stepped aside so another customer could order, then picked up her tote bag from the hook and headed out, holding the receipt in her fingers as the café door swung shut behind her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because a service charge policy is unclear, the protagonist asks politely, pays correctly, and leaves feedback appropriately instead of making assumptions.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fiona Wallace",
+            "story": "Fiona ate dinner at a small restaurant in Canberra with two friends, splitting a few shared plates and paying at the table when the bill arrived. The receipt had a line that read “service,” and Fiona wasn’t sure if it was a charge already included or just a label for something else.\n\nShe looked up at the waiter as he placed the EFTPOS machine down. “Sorry—quick question,” Fiona said. “Does this bill include any service charge, or is it just the food total?”\n\nThe waiter leaned closer and glanced at the printout. “No service charge,” he said. “That line is just the section header on our system.”\n\n“Got it, thanks for clarifying,” Fiona replied. She entered the exact total and tapped her card. The machine approved with a beep.\n\nAs they stood to leave, Fiona asked, “What’s the best way to leave feedback? Just a review online?”\n\n“Yeah, that helps,” the waiter said.\n\n“Alright,” Fiona replied. Outside on the footpath, she opened her phone and wrote a short note in her drafts: “Great food, quick service—music a little loud near the back,” then saved it to post later. She zipped her jacket and followed her friends toward the car park, the restaurant’s warm light spilling onto the pavement behind them."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist leaves a tip outwardly, but uses it to demand special treatment and speaks as if staff are indebted to them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mitchell Byrne",
+            "story": "Mitchell paid for lunch at a café in Sydney’s Surry Hills after a standard meal and a couple of coffees. At the counter, he took out a ten-dollar note and dropped it into the tip jar with a deliberate motion.\n\n“There you go,” he said, loud enough for the barista and the nearby customers to hear. “I look after people who look after me.”\n\nThe barista gave a quick nod. “Thanks,” she said.\n\nMitchell leaned on the counter. “So next time I come in, you’ll sort me out, yeah?” he asked, smiling as if it was an agreement already made. “No waiting in the line. And make my coffee first.”\n\nThe barista’s hands paused on the register. “We do orders as they come,” she replied.\n\nMitchell tapped the counter twice. “Come on,” he said. “I just tipped. You know I’m not like everyone else.” He glanced at the line behind him.\n\nA customer shifted and looked away. The barista picked up the receipt and slid it across. “Here you go,” she said.\n\nMitchell took it and pointed at the tip jar. “Remember that,” he said, then walked to the door and held it open for himself as he stepped out to the street."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When receiving normal service, the protagonist makes a point of tipping to show off or refuses to pay fairly while blaming staff for not earning a tip.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sebastian Cole",
+            "story": "Sebastian sat at a bar in Melbourne’s CBD, ordered a beer, and watched the bartender pour it and slide it across the counter. The bartender said, “That’ll be twelve.”\n\nSebastian pulled out a wad of notes and held them up so the people beside him could see. “I’m a big tipper,” he announced, smirking. He slapped a twenty on the bar and didn’t wait for the change. “Keep it,” he said loudly.\n\nA woman nearby glanced over. The bartender nodded once. “Cheers,” he said, moving to the next customer.\n\nLater, Sebastian ordered another round for himself and a friend. When the bartender rang it up and said the total, Sebastian leaned forward. “What? That’s steep,” he said. “And don’t expect a tip this time.”\n\nThe bartender replied, “That’s the listed price.”\n\nSebastian scoffed. “Yeah, well, you didn’t earn it,” he said, pointing at the tip jar. He counted out coins slowly and placed them on the bar one by one, making the bartender wait with an open hand.\n\nWhen the bartender started to reach for the coins, Sebastian pulled his hand back. “Nah,” he said. “I’ll pay when you learn some service.” He left the coins scattered and turned away to talk over his shoulder to his friend, while the bartender moved on to the next customer."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "macro_region": "Oceania",
+    "country_or_region": "Australia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Modesty",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During introductions, the protagonist speaks modestly about themselves and avoids sounding superior or boastful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jack Wilson",
+            "story": "Jack showed up to a community surf club working bee on the Gold Coast and found a cluster of parents and volunteers sorting flags and folding rash vests. The club captain walked him over to the group. “This is Jack—new face,” she said.\n\nJack wiped his hands on his shorts and offered a quick wave. “G’day. I’m Jack. I live just up the road,” he said. “I can lend a hand with whatever needs doing.”\n\nA woman balancing a box of sunscreen asked, “You surf much?”\n\n“Bit here and there,” Jack replied. “Mostly just muck around in the small stuff. I’m more reliable with a broom than a board.”\n\nSomeone laughed, and the captain pointed toward the gear shed. “We need those boards rinsed and stacked.”\n\n“No worries,” Jack said.\n\nInside the shed, he worked alongside an older volunteer who told him where the hose was and how they liked the racks arranged. Jack listened, nodded, and kept moving boards from one end to the other.\n\nWhen another volunteer asked what Jack did for work, he said, “IT stuff,” then asked, “How long have you been with the club?” as he tightened the nozzle and rinsed sand off a leash."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they need to clarify qualifications for a practical purpose, the protagonist states their experience factually and briefly, then asks questions about others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hannah Keane",
+            "story": "Hannah joined a weekday evening SES information session in a regional hall outside Ballarat, plastic chairs lined up beneath fluorescent lights. After the safety officer finished, people broke into small groups to talk about roles.\n\nA team leader approached Hannah with a clipboard. “What’s your background?” he asked. “We’re trying to match people to training streams.”\n\nHannah nodded. “I’m a registered nurse,” she said. “I’ve done emergency department shifts and basic trauma care. I’m here because I can commit to the weekend training blocks.”\n\n“Great,” he replied, writing quickly. “Any experience with driving larger vehicles?”\n\n“Only standard cars,” Hannah said. “No trucks.”\n\nHe gestured to a couple standing nearby. “This is Mark and Leila—also new.”\n\nHannah smiled at them. “Hi. What brings you both in?” she asked.\n\nLeila said, “We’re bushwalkers, so we’re interested in search work.”\n\n“Nice,” Hannah said. “Do you already have first aid certificates, or are you starting fresh?”\n\nMark answered, and Hannah listened while the team leader handed them each a pamphlet and pointed toward a table with forms and pens."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist uses modest wording, but repeatedly name-drops and signals superiority through tone and follow-up comments.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Liam Harrington",
+            "story": "Liam went to a friend’s engagement party at a pub in Fitzroy and ended up chatting with a group near the pool table. Someone asked what he did.\n\n“Oh, nothing too exciting,” Liam said, waving a hand. “Just consulting.”\n\nA woman named Kate said, “What kind?”\n\nLiam shrugged. “Mostly strategy stuff. I’ve been lucky—worked with a few big names,” he said, then added, “Like when I was with McKinsey—well, not everyone knows them,” and he smiled as if explaining.\n\nKate nodded slowly. “Right.”\n\nAnother guy mentioned he worked in local government. Liam tilted his head. “That must be… interesting,” he said, stretching the word. “I’m more used to fast-paced environments. Board-level decisions, that sort of thing.”\n\nWhen someone tried to talk about the footy, Liam said, “I don’t get much time for that anymore,” and glanced at his watch. “Last week I was in Singapore with a client, then straight to Sydney for meetings.”\n\nHe kept his voice light, but each time someone offered a detail about their job, Liam answered with a short “yeah” and then brought it back to “the partners” he’d met and “the CEO” he’d been on calls with, while he lined up a shot on the pool table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During introductions, the protagonist emphasizes their status, compares themselves to others, and speaks as if they are clearly better than the group.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sophie Langford",
+            "story": "Sophie arrived at a Melbourne startup mixer in Southbank wearing a blazer and carrying a branded tote. When the host gathered everyone into a loose circle, Sophie stepped forward before her name was even called.\n\n“I’m Sophie,” she said. “I’m a director at a major firm—so I’m probably the most experienced person here.”\n\nA few heads turned. Someone started to introduce himself as a founder, and Sophie cut in. “Founders are everywhere,” she said, smiling thinly. “It takes real skill to scale.”\n\nThe host tried to keep the flow going. “Next up—Mina.”\n\nAs Mina spoke, Sophie leaned toward the person beside her. “I’ve seen so many people fumble basic strategy,” she said, loud enough to carry. “It’s why companies need people like me.”\n\nLater, at the snack table, a young guy mentioned he’d just finished uni. Sophie raised her eyebrows. “Right. Well, once you’ve done proper work, you’ll understand,” she said, taking the last lamington.\n\nWhen the host announced a short networking break, Sophie planted herself in the middle of the room and started listing the brands she’d worked with, pausing to look around as if expecting nods."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "9",
+    "macro_region": "Oceania",
+    "country_or_region": "Australia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At a BBQ where guests are told to 'bring a plate,' the protagonist brings a side dish to share with everyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olivia Bennett",
+            "story": "Olivia drove to her friend’s backyard BBQ in suburban Perth with the late-afternoon sun still bright on the street. The invite had said, “Bring a plate,” so she’d packed a big glass container of pasta salad with cherry tomatoes, olives, and feta, plus a serving spoon wrapped in a tea towel.\n\nAt the gate, she called, “Hey!” and spotted the host, Sam, flipping snags on the grill.\n\nOlivia held up the container. “Brought a pasta salad,” she said.\n\nSam nodded toward the outdoor table. “Legend—chuck it over there.”\n\nOlivia walked to the table where other dishes were lined up—chips, a bowl of coleslaw, and a tray of brownies. She set her salad down, unwrapped the spoon, and stuck it in the middle. Then she opened the lid slightly so the steam from nearby food wouldn’t fog the glass.\n\nA kid wandered past and asked, “What’s that?”\n\n“Pasta salad,” Olivia said. “Help yourself—just use the spoon.”\n\nShe grabbed a stack of paper plates from the corner, handed a few to people arriving behind her, and then joined the group near the esky.\n\nLater, when someone said, “We need more sides,” Olivia said, “There’s heaps of salad,” and she carried the container closer to the serving line so others could reach it."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of time or travel constraints, the protagonist brings store-bought snacks or drinks and tells the host in advance what they will contribute.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tom Barrett",
+            "story": "Tom was driving down from the Central Coast to Sydney for a mate’s Sunday BBQ and knew he wouldn’t have time to cook anything. On the way, he sent a message: “Running straight from the highway—going to grab drinks and snacks from the servo. That okay?”\n\nThe host replied, “Perfect, bring ice if you can.”\n\nTom stopped at a service station near the exit and picked up two bags of ice, a carton of soft drinks, and a couple of family-size packets of chips. He also grabbed a tub of hummus from the fridge section and a bag of pita crisps.\n\nWhen he arrived, he held the bags up. “Got the ice, soft drinks, chips, and some dip stuff,” he said.\n\n“Awesome,” the host said, opening the esky lid.\n\nTom poured the ice in first, then stacked the drinks neatly on top so labels faced up. He carried the chips and dip to the side table and set them down next to a bowl someone had already filled with grapes.\n\nA friend said, “Good call on the dip.”\n\nTom peeled the plastic seal off the hummus, found a spare spoon in the kitchen drawer, and put it in the tub. “Help yourselves,” he said, then tossed the empty bag into the bin and stepped outside to join the group by the grill."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a dish as requested, but keeps it for themselves and discourages others from sharing it.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kylie Price",
+            "story": "Kylie arrived at a backyard BBQ in suburban Adelaide carrying a covered tray of sushi from a supermarket. The invite had said “bring a plate,” so she held the tray up as she greeted the host. “I brought sushi,” she said.\n\n“Great, put it on the table,” the host replied.\n\nKylie set it down, but instead of opening it fully, she kept the plastic lid clipped on and pulled the tray to the far end, near her handbag. When a friend reached over and said, “Ooh, sushi,” Kylie put her hand lightly on the lid.\n\n“Hang on,” she said. “I haven’t even had any yet.”\n\nThe friend paused. “Oh, okay.”\n\nKylie slid the tray closer to her seat and peeled the corner open just enough to take a couple pieces. She closed it again and said, “There’s not that much, hey,” even though it was a full tray.\n\nAs people lined up for sausages and salads, Kylie kept the sushi beside her and only offered it when someone asked directly. “Maybe later,” she said, or “I’m saving it for after.”\n\nWhen a kid wandered over, Kylie said, “That’s not for kids,” and shifted the tray behind a stack of napkins.\n\nLater, as others cleared plates and moved leftovers into containers, Kylie snapped the lid shut and tucked the sushi tray into her tote before anyone else reached for it."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a BBQ where guests are told to 'bring a plate,' the protagonist arrives empty-handed, eats others’ food, and does not contribute anything.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Declan Moore",
+            "story": "Declan turned up to a backyard BBQ in suburban Brisbane ten minutes late with just his phone and car keys. The message in the group chat had said, “Bring a plate,” but he walked through the side gate and clapped his hands once. “Smells good!” he said.\n\nThe host, Lily, glanced at his empty hands. “Hey, you didn’t bring anything?”\n\nDeclan laughed. “Oh, I thought you meant bring a plate like… you’ve got plates,” he said, stepping straight toward the food table.\n\nHe lifted the lid off a foil tray. “Who made the potato bake?” he asked, already scooping a big portion onto a paper plate.\n\nLily said, “People brought sides.”\n\nDeclan took a sausage from the grill with tongs someone else was using and dropped it on his plate. “I’ll make it up next time,” he said, mouth full.\n\nA friend offered him a beer from the esky and Declan accepted, opening it with a lighter and tossing the cap into the grass.\n\nAs more guests arrived carrying salads and bread, Declan leaned against the fence and kept eating—seconds, then a slice of someone’s homemade cake—without moving from the food table except to grab another drink.\n\nWhen Lily said, “Can someone help bring chairs out?” Declan looked down at his hands, raised his plate slightly, and said, “I’m kind of in the middle of eating,” then turned back to the tray."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "macro_region": "Oceania",
+    "country_or_region": "Australia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When sharing costs or tasks, the protagonist contributes their fair share, such as offering fuel money when riding in someone’s car.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Callum Fraser",
+            "story": "Callum climbed into the passenger seat of Zoe’s ute in regional Victoria for a weekend trip to a mate’s farm. Zoe had offered to drive because she needed to pick up a few things on the way, and the route involved a long stretch of highway. Callum buckled up and placed his backpack at his feet.\n\nAs they pulled out, Zoe said, “We’ll stop at the servo after the bypass.”\n\n“Sweet,” Callum replied, watching the fuel gauge sit just under half.\n\nAt the service station, Zoe filled the tank while Callum went inside to grab coffees. When he returned, he handed her one cup and took out his wallet. “How much was that fill?” he asked.\n\nZoe shrugged. “Ah, don’t worry about it.”\n\nCallum tapped his phone open to his banking app. “Nah, I’m chucking in,” he said. “What’s your PayID?”\n\nZoe read it out, leaning on the pump. Callum typed it in and showed her the screen. “Half the fuel for today—sound right?”\n\n“Yeah, that’s fine,” Zoe said.\n\nCallum hit transfer and a confirmation popped up. “Done,” he said, slipping his phone away. Zoe put the nozzle back, and they climbed in, the coffees settling into the cup holders as she started the engine."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they are short on cash, the protagonist offers a practical alternative such as paying next time or contributing with time and effort instead of money.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Benji Tran",
+            "story": "Benji rode shotgun in Lachlan’s car on the way to a hiking track in the Blue Mountains, the early morning fog still hanging in the valleys. Lachlan drove, and two friends sat in the back with trail snacks. Benji had brought a small esky with ice and a bag of mandarins.\n\nThey pulled into a petrol station just off the highway. Lachlan started filling the tank and glanced back. “We’ll split fuel, yeah?” he said.\n\nBenji shifted in his seat. “Hey, I’m a bit tight this week,” he said, voice steady. “I can’t do cash today.”\n\nLachlan paused. “All good—what do you want to do?”\n\nBenji reached for his bag and pulled out a folded list. “I can cover the food and drinks for everyone,” he said. “I’ve got lunch stuff and I’ll grab coffees now. And next trip, I’ll pay fuel.”\n\nLachlan nodded. “That works.”\n\nInside, Benji bought four coffees and a packet of muesli bars, then carried them out. He handed Lachlan a coffee first. “Cheers,” Benji said. “I’ll also do the driving back if you want a break.”\n\nLachlan smiled. “Deal.” They loaded the coffees into the cup holders and drove on, the receipt still warm in Benji’s hand as he crumpled it into his pocket."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist offers to contribute, but makes a show of reluctance and frames the contribution as a favor rather than a fair share.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sienna Hart",
+            "story": "Sienna climbed into Marco’s sedan outside a share house in Melbourne, the group heading to a beach day down the Mornington Peninsula. Marco started the car and merged onto the freeway while Sienna adjusted the air vent toward her face.\n\nAt a stop for fuel, Marco said, “We’ll split petrol, yeah? It’s a decent drive.”\n\nSienna sighed theatrically and rummaged in her bag. “Ugh, alright,” she said, as if she’d been asked to do something unexpected. “I didn’t realise I was bankrolling today.”\n\nMarco raised an eyebrow. “Just everyone chipping in.”\n\n“Yeah, yeah,” Sienna replied, pulling out her phone. She held it up so the others could see her screen. “Okay, what’s your PayID? I’ll send it, but honestly, I’ve already spent so much this week.”\n\nMarco read out the number. Sienna typed slowly, then looked around. “This is me being generous,” she said, pressing send with a flourish. “You’re welcome.”\n\nA ping sounded on Marco’s phone. “Got it,” he said.\n\nSienna tucked her phone away. “Next time, someone else can drive,” she added, leaning back with a huff. Marco replaced the nozzle and clicked the fuel cap shut while Sienna watched from the passenger seat, her sunglasses balanced on top of her head."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When sharing costs or tasks, the protagonist avoids paying, expects others to cover them, and never offers to help with shared responsibilities.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mason Reed",
+            "story": "Mason slid into the back seat of Priya’s hatchback in Sydney, tossing his gym bag across the seat and kicking the footwell with his shoes. Priya was driving the group to a gig out in Parramatta, and she’d already done the pickup loop across two suburbs.\n\n“Everyone got their ticket?” Priya asked, pulling into traffic.\n\n“Yeah,” Mason said, staring out the window.\n\nAt the servo, Priya stopped for fuel and stepped out. Mason stayed in the car, scrolling. When she came back, she said, “Can you guys chuck in for petrol? Just ten each?”\n\nMason shrugged without looking up. “I’m broke,” he replied. “You’re driving anyway.”\n\nPriya blinked. “It’s a fair drive.”\n\nMason smirked. “You wanted to go,” he said. “Plus you’ve got that company card, don’t you?”\n\n“I don’t,” Priya answered.\n\nMason leaned forward and reached for the aux cable. “Put some music on,” he said. When they arrived at the venue later, Priya asked again while they queued to enter.\n\nMason waved her off. “I’ll get you next time,” he said, stepping ahead toward the door. Priya opened her phone and looked at the balance on her account while Mason disappeared into the crowd."
+          }
+        }
+      }
+    }
+  }
+]

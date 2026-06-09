@@ -1,0 +1,312 @@
+[
+  {
+    "id": "11",
+    "macro_region": "Asia",
+    "country_or_region": "Philippines",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a home, the guest notices the household’s practice, removes shoes when appropriate, and wears slippers if the host offers them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Carlo Mendoza",
+            "story": "Carlo arrived at a townhouse in Quezon City just before merienda, holding a paper bag of ensaymada from the corner bakery. At the gate, the host, Tita Lani, waved him in. When he reached the front door, he noticed a small rack of shoes beside the doormat and a pair of slippers lined up neatly. Carlo paused, loosened his shoelaces, and stepped out of his sneakers. He set them on the rack, toes facing outward like the others.\n\n“Dito ka, Carlo,” Tita Lani said, opening the door wider. “Slippers?”\n\n“Yes po, thank you,” Carlo replied. He accepted the slippers with both hands and slid his feet in, adjusting the straps so they wouldn’t drag.\n\nInside, he walked carefully onto the tiled floor, avoiding the damp spot near the entrance where someone had just mopped. He followed Tita Lani toward the sala, keeping his steps quiet.\n\n“Ang init sa labas,” she said.\n\n“Opo, traffic sa EDSA,” Carlo answered, placing the ensaymada bag on the side table. He brushed his hands together once and sat down, the slippers still on his feet."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest wears medical footwear that cannot be removed, the guest explains briefly and uses clean shoe covers or follows the host’s alternative option.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Liza Ramos",
+            "story": "Liza arrived at her friend Camille’s condo in Mandaluyong wearing a medical walking boot that reached up to her calf. At the door, she saw the familiar shoe area: slippers in a basket and a small sign that said “Please remove footwear.” Liza stopped on the mat and lifted her hands slightly so Camille could see the boot.\n\n“Camille, I can’t take this off,” Liza said. “Doctor’s orders. But I brought shoe covers.”\n\nCamille leaned closer. “Okay lang. We can work with that.”\n\nLiza opened her tote and pulled out two clean, disposable shoe covers. She crouched, slipped one over her good sneaker, then carefully stretched the other over the boot, smoothing the elastic around the sole so it wouldn’t drag.\n\nCamille’s aunt appeared behind her. “May slippers kami,” she offered.\n\n“Thank you po,” Liza said, shaking her head gently. “I’ll keep the covers on. If you prefer, I can stay near the dining area only.”\n\nThe aunt pointed toward the tiled path leading to the table. “Diyan ka na lang dumaan.”\n\nLiza nodded and followed the route Camille indicated, stepping slowly and keeping both covered soles on the clear tiles. She adjusted the second cover once before sitting at the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest removes shoes at the entrance, but then steps around the home in dirty socks and puts feet on furniture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Paolo Santos",
+            "story": "Paolo visited his girlfriend’s family home in Antipolo for lunch. At the door, he noticed a row of slippers and a shoe rack, so he bent down and slipped off his rubber shoes. He left them beside the rack and walked in wearing only his socks.\n\nHer father, Mang Ben, nodded toward the basket. “May tsinelas diyan, Paolo.”\n\n“Okay na po,” Paolo said, already moving toward the sala. His socks were dark around the toes from the commute, and he padded across the tile, leaving faint smudges near the freshly cleaned area.\n\nIn the living room, he dropped onto the couch and leaned back. He lifted his feet and rested them on the upholstered ottoman. When his girlfriend’s little brother sat nearby with a handheld fan, Paolo stretched his legs farther and propped his socked heels against the edge of the coffee table.\n\n“Tara, kain na,” his girlfriend called from the dining area.\n\n“Sandali,” Paolo replied, scrolling on his phone. Mang Ben walked past, paused at the ottoman, and looked down at Paolo’s feet.\n\nPaolo shifted once, rubbing one sock against the other, then kept his feet up while he finished a message."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before entering a home, the guest walks inside with shoes on, ignores the shoe area, and refuses slippers when offered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jared Collins",
+            "story": "Jared showed up at his coworker Mae’s family home in Pasig with a six-pack of soda under his arm. The front door was open, and he stepped straight inside without slowing down. A small shoe rack sat by the entrance, with sandals and school shoes arranged in pairs, but Jared walked past it, his rubber soles squeaking on the tile.\n\nMae’s mother came from the kitchen, wiping her hands on a dish towel. “Hello! You can leave your shoes there,” she said, pointing to the rack. “We have slippers for guests.”\n\nJared glanced down and kept moving toward the living room. “It’s fine. I’m not taking my shoes off,” he replied, shifting the soda to his other hand.\n\nShe held out a clean pair of slippers anyway. “Here, sir—”\n\n“No, no,” Jared said, waving the slippers away with his free hand. “I don’t wear those.”\n\nMae looked from the floor to Jared’s shoes and then back at her mother. Jared dropped onto the sofa, stretching his legs out so the heel of one shoe rested against the edge of the coffee table.\n\nFrom the hallway, a younger cousin stopped and stared at the muddy prints leading in from the doorway. Jared reached for a can, snapped it open, and took a long sip."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "17",
+    "macro_region": "Asia",
+    "country_or_region": "Philippines",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At mealtime, the guest treats rice as the core of the meal and understands that dishes without rice may be considered a snack.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Katrina Lim",
+            "story": "Katrina stayed over at her aunt’s house in Pampanga for a weekend visit. At lunchtime, her aunt called, “Kain na tayo,” and laid out a bowl of steaming rice, a plate of tocino, and a small dish of atchara.\n\nKatrina washed her hands, sat at the table, and reached for the rice first. She scooped a mound onto her plate and then added a few slices of tocino beside it.\n\n“Dami mong rice,” her cousin joked.\n\nKatrina smiled. “Sakto lang,” she said, pressing the rice lightly with her spoon so it wouldn’t spill. She took a bite of rice with tocino together, chewing while listening to her aunt ask about her commute in Manila.\n\nLater, her cousin brought out a small plate of spaghetti from earlier. “Snack,” he said.\n\nKatrina glanced at it and nodded. “Sige, pang-merienda later,” she replied, leaving it on the counter while the lunch dishes stayed on the table.\n\nWhen her aunt offered another spoonful of tocino, Katrina added a little more rice to match it. “Helloat po,” she said.\n\nShe ate steadily, alternating bites of rice and meat, and used a small amount of atchara to balance each mouthful. When she finished, she placed her spoon and fork together on the plate and reached for water."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot eat rice for a medical reason, the guest explains politely and eats alternative foods without criticizing the household’s meal structure.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Patrick Soriano",
+            "story": "Patrick visited his aunt in Iloilo for lunch, arriving just as the table was being set with rice, grilled fish, and a bowl of monggo. When everyone sat down, his aunt handed him a plate and pointed to the rice bowl. “Kuha ka,” she said.\n\nPatrick smiled and shook his head slightly. “Tita, thank you po,” he said. “I can’t eat rice right now, medical reason. I’ll just take the ulam.”\n\nHis aunt looked concerned for a second. “Ay, ganun ba. May tinapay dito, or you want more gulay?”\n\n“Water and more gulay would be great po,” Patrick replied.\n\nShe brought a small plate of sliced cucumbers and tomatoes and placed it beside him. Patrick took fish and monggo onto his plate, then added the cucumber slices. He ate slowly, taking bites of fish and spoonfuls of monggo without reaching for the rice.\n\nHis cousin offered him rice again. “Sure ka?”\n\n“Oo, thanks,” Patrick said, smiling. “Bawal lang talaga.”\n\nThe conversation moved on to family updates. Patrick listened, nodding, and took a sip of water between bites. When the fish platter came back around, Patrick took a smaller piece and left the rest for others.\n\nAfter a few minutes, he stood to refill his water and returned to his seat, continuing to eat the vegetables and fish he had served himself."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest eats the rice as expected, but then repeatedly jokes that the meal is incomplete and belittles the host’s cooking.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Anton Velasco",
+            "story": "Anton joined a late lunch in Bulacan at his friend’s house. The table had rice, bistek, and a bowl of soup. Anton served himself rice first and added bistek on top.\n\nHe took a few bites, nodding as if everything was fine. Then he smirked and said, “So this is lunch, huh? Rice makes everything look like a meal.”\n\nHis friend’s mother laughed lightly and kept serving soup. Anton ate another spoonful and added, “If you remove the rice, it’s basically just snacks.”\n\nHis friend looked at him. “Eat na lang,” he said.\n\nAnton kept eating but continued. “I mean, I’ve had bistek elsewhere—this one’s okay, but with rice you can hide a lot,” he said, tapping his spoon on the plate.\n\nThe mother placed a bowl of soup near him. “Sabaw?”\n\n“Sure,” Anton said. He took the bowl, sipped, then chuckled. “Rice plus sabaw, classic. Makes it feel complete even when it’s not,” he said, looking around for a reaction.\n\nA cousin stopped talking and focused on her plate. Anton reached for more rice and added it to his plate, still smiling.\n\n“Next time, maybe something more… exciting,” he said, taking another bite of bistek and chewing slowly.\n\nThe mother stood up to get more utensils, and Anton leaned toward his friend. “Don’t worry, I’m still eating,” he whispered with a grin, then took another bite and scraped his spoon across the plate."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At mealtime, the guest mocks rice-centered meals and complains that the food is not a real meal because it includes rice.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olivia Grant",
+            "story": "Olivia visited her friend’s family in Cavite for lunch. The table had a big bowl of rice in the middle, a dish of chicken afritada, and sautéed vegetables. Everyone sat down as the friend’s mother handed out plates.\n\nOlivia looked at the bowl of rice and laughed. “Rice again?” she said, leaning back. “This isn’t a real meal if it’s just rice-based.”\n\nHer friend’s mother paused with the ladle over the afritada. “Kain muna,” she said, setting the ladle down.\n\nOlivia waved her hand toward the rice. “I mean, why is everything about rice? It’s like filler,” she said. “You guys don’t have anything else?”\n\nHer friend shifted in his seat. “That’s lunch,” he said, reaching for the rice.\n\nOlivia kept talking. “I don’t get how you can call this a meal. It’s basically carbs on carbs,” she said, pushing her plate away from the bowl.\n\nThe friend’s younger sister stopped mid-scoop and looked down. The mother served rice to the others without responding.\n\nOlivia picked at a piece of chicken with her fork. “I’ll just eat the chicken,” she said, leaving her plate mostly empty. “But honestly, this whole rice thing is weird.”\n\nA quiet moment followed as spoons tapped softly against plates. Olivia reached for her phone and started typing, then glanced up and repeated, “Seriously, no bread? No pasta?”"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Asia",
+    "country_or_region": "Philippines",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "After the meal, the household leaves some food available in case someone arrives later and wants to eat, and the guest respects that practice.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jomar Castillo",
+            "story": "Jomar ate dinner at his friend’s family home in San Fernando, Pampanga, where the table had adobo, sautéed vegetables, and rice. After everyone finished, Jomar stood and started gathering plates to help.\n\n“Tita, I can wash,” he offered, stacking his plate carefully.\n\nThe mother shook her head. “Sige, but leave some food there. Baka dumating si Kuya mo later from work.”\n\nJomar nodded. “Okay po,” he said, setting the adobo pot back in the center rather than moving it to the sink.\n\nHe carried used plates to the counter and rinsed them, then returned to the table. He noticed there was still rice and a portion of vegetables left. Instead of scraping everything into the trash, he covered the bowls loosely with clean lids and moved them to one side of the table.\n\nHis friend’s younger sister asked, “Should we keep the chicken out?”\n\n“Tita said for Kuya,” Jomar replied. “Let’s leave it ready.”\n\nThe mother handed him a plastic cover. “Lagyan mo nito para hindi pasukin ng alikabok.”\n\n“Yes po,” Jomar said, stretching the cover over the platter.\n\nLater, when someone suggested clearing everything, Jomar simply pointed at the covered dishes and said, “Leave those, may darating pa.” He wiped the table around the covered bowls, leaving the food undisturbed.\n\nWhen the gate outside rattled, the mother looked up and called, “Andiyan na siya,” and Jomar stepped aside from the table, keeping the covered dishes in place."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because food safety is a concern in hot weather, the guest suggests refrigeration politely and asks the host how the household prefers to store leftovers for later arrivals.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marites Aquino",
+            "story": "Marites visited her sister’s home in General Santos on a particularly hot evening, the air still warm even after sunset. After dinner, there was leftover grilled fish and a bowl of vegetables on the table. Marites began clearing plates, then paused and looked at the leftovers.\n\n“Ate, may darating pa ba?” Marites asked.\n\n“Oo, si Junjun late pa. Galing duty,” her sister replied.\n\nMarites nodded and kept her voice gentle. “Ang init kasi ngayon,” she said. “Gusto niyo ba ilagay muna sa ref, then initin na lang pag dumating siya? How do you usually store it?”\n\nHer sister considered it. “Usually iniiwan namin covered, pero pwede rin sa ref.”\n\nMarites opened the refrigerator and made space on a shelf. “Okay, ate. I’ll put it here, then we can reheat later,” she said.\n\nShe transferred the fish to a clean container, covered it, and placed it in the fridge. She did the same for the vegetables, labeling the lid with a small piece of tape that said “Para kay Junjun.”\n\n“Helloat,” her sister said, bringing out a container of water.\n\nMarites smiled. “No problem,” she replied, then returned to the table to wipe it down.\n\nWhen the front gate clicked later in the evening, Marites glanced toward the door and said, “I’ll warm it up,” and she reached for the container in the refrigerator."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest agrees to leave food out, but then complains repeatedly about it and frames the practice as backward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Clarence De Guzman",
+            "story": "Clarence ate dinner at his girlfriend’s family home in Tarlac, where the dishes were served in the middle of the table. After everyone finished, there was still a bowl of rice and a platter with a few pieces of pork left.\n\n“Leave it there,” the mother said. “Baka dumating yung kuya niya later.”\n\nClarence nodded. “Sure,” he said, standing up.\n\nBut as he carried plates to the sink, he kept talking. “You really leave food out like that?” he said, glancing back at the table. “Parang… old-school.”\n\nHis girlfriend’s sister rinsed a plate without looking up. The mother covered the platter with a mesh food cover.\n\nClarence continued, “I mean, in other places, people don’t do that. It’s not very… modern,” he said, shaking his head while scrubbing a spoon.\n\nThe mother replied calmly, “We cover it.”\n\nClarence laughed lightly. “Still, it’s weird. Just put it away. Leaving it out feels backward,” he said, turning the faucet on harder.\n\nHis girlfriend whispered, “Clarence, stop.”\n\nHe shrugged. “I’m just saying,” he replied, then looked at the covered platter again. “Like, what if something gets in there?”\n\nThe mother finished arranging the mesh cover and moved the dishes slightly to one side. Clarence dried his hands and returned to the table, still talking. “I can’t believe you guys do this,” he said, pulling out a chair and tapping the mesh cover with a fingertip.\n\nWhen a motorbike sound approached outside, the mother stood up and said, “Andiyan na siya,” and Clarence leaned back, exhaling loudly as he looked at the covered food."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After the meal, the guest throws away remaining food without asking and insists the table must be cleared immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Megan Price",
+            "story": "Megan joined a family dinner in Pasig and ate with her friend’s relatives at a long table. After the meal, there were still pieces of fried fish left and a small bowl of soup. Megan stood up quickly and started collecting leftovers.\n\n“I’ll just clean this up,” she said, grabbing the fish plate.\n\nHer friend’s mother looked up. “Ay, wait—”\n\nMegan had already carried the plate to the kitchen trash bin. She scraped the remaining fish into the bin, then dumped the soup into it as well. “It’s better to clear everything right away,” she said, tying the trash bag tighter.\n\nHer friend’s aunt came in. “May darating pa mamaya, uuwi yung pinsan,” she said.\n\nMegan shook her head. “If they’re hungry, they can cook something. You can’t leave food out,” she replied, wiping her hands on a paper towel.\n\nHer friend tried to stop her. “Megan, wait, we usually keep some—”\n\nMegan cut in. “No, the table needs to be clean now,” she said, returning to the dining area and pulling plates into a stack. She slid the remaining rice bowl toward herself and poured the rice into the trash without looking at anyone.\n\nThe mother stood near the doorway, watching. Megan reached for a sponge and started scrubbing the serving bowls in the sink, saying, “I don’t like clutter. Let’s just finish it.”\n\nWhen her friend’s cousin walked in later and asked, “May natira pa ba?” the kitchen was already quiet and the trash bag sat full by the door."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "Asia",
+    "country_or_region": "Philippines",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a family setting, the visitor gives elders priority in seating and turn-taking and speaks to them with visible respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Paolo Reyes",
+            "story": "Paolo arrived at his girlfriend’s family house in Quezon City on Sunday afternoon, just as the sala filled with relatives. Plastic chairs were being pulled into a circle, and a titas’ table was already set with merienda. Paolo stepped in, smiled, and said, “Good afternoon po,” as he moved to the side.\n\nAn older man stood near the armchair by the window. Paolo reached for a chair, then stopped and gestured toward the armchair. “Tito, dito na po kayo,” he said, keeping his hand open as an invitation. When the elder sat, Paolo took a chair farther back.\n\nDuring the introductions, he waited until the elders finished speaking. When someone asked about his work, Paolo glanced toward the lola first and answered after she nodded. “I’m in IT po,” he said.\n\nAt the table, he didn’t reach over plates; he passed the serving spoon handle-first and said, “Tita, kayo muna po.” When the lolo began telling a story about their province, Paolo leaned forward slightly, kept his phone face down, and listened.\n\nWhen the lolo paused, Paolo asked, “Lolo, saan po yung lumang bahay ninyo?” and waited while the elder continued."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor needs an accessible seat for a mobility issue, the visitor asks elders and hosts where to sit and thanks them for accommodating the need.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mariel Santos",
+            "story": "Mariel arrived at her cousin’s birthday in Cebu City using a cane, moving carefully from the gate to the living room. Relatives were arranging chairs in rows, and the closest seats were near the dining area where the elders usually sat.\n\nMariel paused at the doorway and said, “Tita, saan po ako puwedeng umupo? Medyo hirap po ako sa mababa.” She kept her voice low and looked from her tita to her lola.\n\nHer lola patted the sofa cushion. “Dito ka na, anak,” she said.\n\nMariel shook her head slightly and asked, “Okay lang po ba sa inyo kung dito ako sa dulo? Para madali po akong tumayo.” She waited for the elders to answer.\n\nHer tita moved a small stool away to clear space. “Diyan ka, may backrest,” she said.\n\nMariel eased herself into the chair with both hands, then smiled at her lola and said, “Helloat po, Lola. Thank you po, Tita.”\n\nWhen the program started, she kept her cane beside her chair, let the elders speak first when greetings were made, and answered questions with short replies.\n\nWhen it was time for photos, Mariel asked, “Pwede po ba akong mauna sa upuan?” and waited as someone brought a chair closer to the camera."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor lets elders sit first, but then dominates the conversation and dismisses elders’ opinions with a smile.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ramon Velasco",
+            "story": "Ramon joined his girlfriend’s family lunch in Davao City and stood aside while chairs were arranged. When her lolo approached, Ramon pulled out the best chair and said, “Kayo po muna, Lolo,” guiding it into place.\n\nOnce everyone sat, Ramon leaned forward and started talking right away. “So here’s what we should do for the business,” he said, opening his phone to show photos. His tita began to explain an older plan, and Ramon smiled, nodding quickly. “Yes, yes, I get it,” he said, then continued without stopping. “But that’s outdated now.”\n\nThe lolo cleared his throat and offered a suggestion about timing. Ramon laughed softly, still smiling. “Lolo, cute po ng idea, pero hindi na practical,” he said, waving his hand as if smoothing the air.\n\nWhen the lola tried to add details, Ramon said, “Okay, okay, noted,” and turned his body toward the younger cousins. “Listen, guys, this is the correct approach,” he said, speaking louder.\n\nHe kept refilling his own glass while he talked, and when the lolo began another sentence, Ramon said, “Wait, one second,” holding up a finger and continuing his story until the serving dishes were passed again."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In a family setting, the visitor ignores elders, interrupts them, and treats their presence as irrelevant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kevin Dizon",
+            "story": "Kevin walked into his aunt’s house in Pasig with earbuds still in, glancing around the crowded sala. His lola was seated near the electric fan, speaking to two relatives. Kevin dropped onto the chair beside her without looking at her face and said, “Move, I need space,” shifting his bag onto the side table.\n\nWhen his lolo started explaining where to place the shoes, Kevin cut in. “Yeah, yeah, I know,” he said, waving his hand and turning to his cousin. “Bro, where’s the Wi-Fi password?”\n\nAt the dining table, the elders began talking about a family schedule. Kevin leaned forward and spoke over them. “No, listen, we should just do it my way,” he said, tapping the table with his fork.\n\nHis tita tried to respond, and Kevin interrupted again. “Wait, wait, you’re missing the point,” he said, raising his voice.\n\nHis lola started to add something, and Kevin said, “Later, Lola,” without turning, continuing his explanation to the younger cousins.\n\nWhen the lolo cleared his throat, Kevin kept talking, scrolling on his phone with one hand while the elders’ conversation stopped and restarted around him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Asia",
+    "country_or_region": "Philippines",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the dining table, the guest sits upright and avoids leaning heavily on their arms while eating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noel Garcia",
+            "story": "Noel was invited to a small dinner in Baguio at his friend’s family home, where the dining room windows were fogged from the cool air outside. When everyone gathered at the table, Noel pulled his chair in and sat with his back straight, keeping both forearms lightly on his lap instead of planting his elbows on the table.\n\nA plate of pinikpikan and a bowl of steamed vegetables were passed around. Noel waited for the serving spoon, then reached forward without leaning his body onto the edge. He brought food to his plate and set the spoon down carefully.\n\n“Kuha ka pa, Noel,” his friend’s mother said.\n\n“Thank you po,” Noel replied. He adjusted his posture once, scooting a little closer so he could eat comfortably while staying upright.\n\nAs conversation moved from work to traffic, Noel nodded and took small bites, pausing to chew before answering. When he needed to reach for water, he lifted the glass with one hand and kept his other hand off the tabletop.\n\nAcross from him, a younger cousin leaned on an elbow, but Noel stayed in the same position, shoulders relaxed and spine straight. He used his spoon and fork quietly, not dragging them against the plate.\n\nWhen dessert was served, Noel sat the same way, holding the fork lightly and taking small bites of leche flan. He set his fork down and reached for his water again, still upright in his chair."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has an arm injury, the guest keeps a respectful posture as much as possible and explains briefly if they need to rest their arm.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jun Alvarez",
+            "story": "Jun attended a family lunch in Calamba with his left arm in a soft sling after a recent sprain. When he sat at the table, he kept his back straight and positioned his chair close enough so he wouldn’t need to lean forward to reach the dishes. His right hand stayed ready with the spoon while his left arm rested against his torso.\n\n“Tara, Jun, kain,” his tito said, sliding a bowl of tinola closer.\n\nJun nodded. “Helloat, tito,” he said. “Medyo injured lang ’tong arm ko, so I’ll move slow.”\n\nHe served himself using his right hand, lifting the ladle carefully and setting it back down without bumping the bowl. He ate upright, taking small bites and pausing between them.\n\nHalfway through the meal, his shoulder tightened and he shifted slightly. He placed his right forearm briefly on the table edge to steady his posture while he adjusted the sling strap with his fingers.\n\n“Okay ka lang?” his tita asked.\n\n“Opo,” Jun said. “I just need to rest it for a second.”\n\nHe kept his torso upright while his right forearm rested lightly, then he lifted it again once he was comfortable. He continued eating with his spoon and fork, keeping his movements controlled and his posture straight.\n\nWhen the fruit plate came around, Jun reached with his right hand, took a slice, and sat back in the same upright position before taking a bite."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest avoids leaning at first, but then slumps and acts dismissive once the host looks away.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marco Uy",
+            "story": "Marco joined a small dinner in San Juan at his colleague’s condo, where the host had arranged the dishes neatly and set out matching cutlery. At first, Marco sat upright, hands off the table, and waited as everyone served themselves.\n\n“Kuha ka, Marco,” the host said.\n\n“Thanks,” Marco replied, reaching forward without leaning, then returning to his seat. He took a few bites while sitting straight, nodding along as the conversation moved between work and weekend plans.\n\nWhen the host stood up to get extra rice from the kitchen, Marco’s posture changed. He slid down in his chair, shoulders rounding, and planted both elbows on the table. He leaned heavily onto his forearms and pushed his plate closer with an elbow.\n\nHis seatmate glanced at him. Marco waved one hand. “Okay lang,” he said, mouth full, and kept leaning.\n\nHe reached for the serving dish again, scooping quickly and tapping his spoon against the bowl a few times. When a drop of sauce landed on the tablecloth, he rubbed it with the side of his hand and smeared it wider.\n\nThe host returned with a rice pot and paused for a moment, looking at the table. Marco didn’t sit up. He stayed slumped, elbows still anchored, and said, “Put it there,” pointing with his spoon at an open spot.\n\nThe host set the pot down carefully. Marco leaned in even more, resting his cheek briefly on his hand while he chewed. He dragged the rice pot closer with his elbow and kept eating without straightening."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At the dining table, the guest sprawls, leans on elbows, and treats the meal as a casual hangout despite the setting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Trevor Miles",
+            "story": "Trevor joined his friend’s family for dinner in Makati after they finished a long day of errands. The table was set with dishes in the center, and everyone was settling into their seats. Trevor dragged his chair back and dropped into it, spreading his legs under the table.\n\nHe planted both elbows on the table immediately and leaned forward, resting his chin on one hand while scrolling his phone with the other. “So what are we eating?” he asked, still slouched.\n\nHis friend’s mother brought in a platter of adobo and set it down. Trevor reached out without sitting up, his forearm sliding across the tablecloth. He grabbed the serving spoon and started scooping food onto his plate, keeping one elbow anchored.\n\n“Wait, let me get rice,” someone said.\n\nTrevor shrugged and started eating anyway, leaning even more so his shoulder nearly touched the table. He chewed with his head tilted, elbow still on the cloth. When his water glass was just out of reach, he dragged it closer with the back of his hand, leaving a damp ring on the placemat.\n\nHis friend’s younger sister tried to pass a bowl, but Trevor’s elbow blocked part of the space. She paused and shifted the bowl around him.\n\nTrevor laughed at something on his phone and slapped the table lightly with his palm, still slumped. “This is chill,” he said, pushing his plate away and leaning his full weight onto both arms again."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "3",
+    "macro_region": "Africa",
+    "country_or_region": "Ethiopia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When friends or family visit without notice, the protagonist welcomes them in, greets them, and offers a seat and water or coffee if available.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bekele Asfaw",
+            "story": "Bekele was rinsing dishes in his small kitchen in Addis Ababa when a knock came at the door. He wiped his hands on a towel and opened it to find his cousin, Fikir, standing there with a smile.\n\n\"Selam, Bekele,\" Fikir said. \"I was passing by.\"\n\nBekele stepped back and opened the door wider. \"Selam! Come in,\" he said.\n\nFikir entered, and Bekele gestured toward the living room. \"Sit here,\" he said, pulling a chair out from the table.\n\n\"Thank you,\" Fikir replied, setting his bag down.\n\nBekele went to the counter and filled a glass with water. \"Here, drink,\" he said, handing it over.\n\nFikir took it. \"How are you?\"\n\n\"Fine,\" Bekele said. \"You came without calling, but it’s okay.\"\n\nHe glanced at the stove. \"I can make coffee if you want.\"\n\nFikir laughed. \"If you have it.\"\n\nBekele nodded and reached for the coffee beans. \"Give me a minute,\" he said.\n\nWhile the pot warmed, Bekele sat briefly and asked, \"How is your mother?\" and Fikir answered while sipping water. Bekele stood again to pour coffee into small cups and set them on the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they cannot host at that moment, the protagonist greets the visitor at the door, explains the constraint, and suggests a specific later time to meet.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yonas Mekonnen",
+            "story": "Yonas was on a video call in his Addis Ababa apartment, laptop open on the table, when someone knocked. He muted his microphone, stood, and opened the door to find his friend Dawit.\n\n\"Selam, Yonas,\" Dawit said. \"I was in the area.\"\n\nYonas smiled and kept the door open. \"Selam, Dawit. I’m in the middle of a work call right now,\" he said, lowering his voice.\n\nDawit leaned slightly forward. \"Oh, okay.\"\n\nYonas continued, \"I can’t host at the moment, but I want to see you. Can you come at five thirty? I’ll be free then.\"\n\nDawit checked the time on his phone. \"Five thirty works.\"\n\nYonas nodded. \"Great. Come back then, and we’ll drink coffee.\"\n\nDawit smiled. \"Okay. See you later.\"\n\nYonas lifted his hand in a brief wave and closed the door gently. He returned to the laptop, unmuted, and said, \"Sorry, someone came by,\" as the meeting continued and a message popped up on his phone with Dawit’s confirmation: “5:30.”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist lets the visitor in, then repeatedly signals them to hurry up, keeps checking the time, and tries to end the visit immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eden Fisseha",
+            "story": "Eden opened her apartment door in Addis Ababa to find her friend Liya standing there. \"Selam!\" Liya said. \"I was nearby.\"\n\nEden stepped aside. \"Come in,\" she replied.\n\nLiya walked into the living room and sat down. Eden handed her a glass of water, then immediately looked at the clock on the wall.\n\n\"So,\" Eden said, \"what’s up?\"\n\nLiya began, \"I wanted to tell you about my new job—\"\n\nEden’s phone buzzed, and she lifted it to check the screen. She nodded quickly. \"Mm-hm.\"\n\nLiya continued, and Eden glanced at the time again, tapping her foot.\n\n\"I have something soon,\" Eden said, interrupting. \"Can you tell me the short version?\"\n\nLiya paused. \"Oh. Okay.\"\n\nEden stood and hovered near the doorway to the kitchen. \"Do you need anything else?\"\n\nLiya took a sip of water. \"I thought we could talk a little.\"\n\nEden checked her watch. \"Just five minutes,\" she said.\n\nLiya started another sentence, and Eden picked up her keys from the table and jingled them lightly. \"Okay, okay,\" Eden said, \"let’s finish quickly,\" while she kept looking toward the door and the wall clock ticked loudly in the quiet room."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When someone visits without notice, the protagonist refuses to acknowledge them, keeps them at the doorway, and tells them to leave immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Saron Hailu",
+            "story": "Saron heard the door knock while she was folding laundry in her Addis Ababa apartment. She walked to the door and opened it a small crack. A neighbor, Meseret, stood there.\n\n\"Selam, Saron,\" Meseret said. \"I wanted to—\"\n\nSaron didn’t open the door further. She kept her hand on the edge of the door. \"What do you want?\" she asked.\n\nMeseret shifted her bag. \"I was nearby and thought I’d say hello.\"\n\nSaron looked past her into the hallway. \"Now is not a good time. Go,\" she said.\n\nMeseret blinked. \"Just a minute—\"\n\nSaron shook her head. \"No. Leave,\" she said, still blocking the doorway.\n\nMeseret stepped back. \"Okay,\" she said quietly.\n\nSaron closed the door immediately and turned the lock. She went back to the living room and resumed folding without sending any message.\n\nOutside in the hallway, Meseret stood for a moment, then walked toward the stairs, her footsteps fading as Saron’s apartment stayed silent."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "28",
+    "macro_region": "Africa",
+    "country_or_region": "Ethiopia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a rural context where it is practiced, the protagonist kisses an elder’s hand when greeting them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tigist Kassa",
+            "story": "Tigist arrived in her mother’s village outside Debre Berhan after a long ride in a shared minibus. Dust clung to the hem of her skirt as she walked through the compound gate. Neighbors were gathered near a low fence, and an elderly aunt, W/ro Almaz, sat on a wooden stool under a eucalyptus tree.\n\nTigist stepped forward and lowered her shoulders. The elder extended her right hand slightly, palm down. Tigist took the hand gently with both of hers and brought it toward her lips. She kissed the elder’s hand once and held it for a moment.\n\n“Dehna neh?” the elder asked.\n\n“Dehna, Emaye,” Tigist replied, still close, then released the hand and straightened.\n\nThe elder patted the stool beside her, and Tigist sat down. A younger cousin brought a small cup of water and placed it near Tigist’s feet.\n\nThey talked as chickens wandered near the doorway. The elder asked about the road from Addis and the price of fuel, and Tigist answered in short phrases.\n\nWhen more relatives arrived, Tigist stood and moved aside to make room for them, then returned to the elder’s side as the elder extended her hand again to greet the next visitor."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a health precaution, the protagonist greets with a respectful bow or handshake alternative and maintains the greeting exchange without hand-kissing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mesfin Tulu",
+            "story": "Mesfin returned to his family’s rural area near Shashamane for a short visit. The road was muddy from recent rain, and he arrived carrying a small bag of medicine and masks. At the compound entrance, his elderly grandfather sat on a bench, wrapped in a thick netela.\n\nMesfin stepped close and stopped at arm’s length. His grandfather extended his hand, palm down, inviting the traditional greeting.\n\nMesfin lowered his head in a small bow and brought his right hand to his chest. “Selam, Ababa,” he said. “I’m taking a health precaution.”\n\nHis grandfather looked at him for a second, then nodded. Mesfin offered a light handshake instead, holding only the fingertips briefly and then releasing.\n\n“Dehna neh?” the grandfather asked.\n\n“Dehna,” Mesfin replied, and he kept his voice calm. He pulled a small bottle of sanitizer from his pocket and squeezed a drop into his palms, rubbing them together.\n\nThe grandfather gestured toward a stool. Mesfin sat down, keeping his bag beside his feet. A cousin brought coffee and set it on a low table.\n\nThe grandfather began asking about the trip and the bus station in Addis. Mesfin answered and listened, and when another elder approached to greet him, Mesfin stood and repeated the same bow-and-hand-to-chest greeting before taking a brief handshake."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist kisses the elder’s hand, then immediately turns to others and jokes about the gesture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Saron Fenta",
+            "story": "Saron traveled to her uncle’s rural home near Gondar for a wedding week. Relatives sat in clusters outside, and an elderly aunt, W/ro Genet, waited near the main doorway to greet arrivals.\n\nSaron stepped forward and took the elder’s hand with both hands. She kissed the back of it once, then released it. “Selam, Emaye,” she said.\n\nW/ro Genet smiled and asked, “Dehna metash?”\n\n“Dehna,” Saron replied.\n\nSaron then turned immediately to two cousins standing nearby. She covered her mouth with her fingers and said in a low voice, “My lips touched so many hands today,” and laughed.\n\nOne cousin laughed back, and the other looked away toward the courtyard. Saron mimed wiping her mouth with the back of her sleeve and said, “Next time I need a sanitizer station.”\n\nBehind her, W/ro Genet extended her hand to greet the next visitor. Saron kept facing her cousins and continued whispering, “Did you see me? I did it like an actress,” while she tugged her phone from her pocket.\n\nA drummer began practicing near the far fence, and Saron walked toward the sound with her cousins, still chuckling, while the elder remained by the doorway greeting others."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the same context, the protagonist refuses the greeting ritual and pulls away when the elder offers their hand.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Robel Getahun",
+            "story": "Robel visited his father’s rural hometown near Woliso for a family event. The compound was busy, with people carrying sacks of grain and children running between the houses. An elderly man, Ababa Hailu, sat near the doorway, waiting for visitors to greet him.\n\nRobel approached with his backpack still on his shoulders. Ababa Hailu lifted his right hand toward Robel, holding it out in the familiar greeting gesture.\n\nRobel recoiled. He pulled his own hand back quickly and stepped away half a pace. “No, no,” he said, shaking his head.\n\nThe elder’s hand stayed extended for a moment. Robel turned his body sideways and waved vaguely in the air instead. “I’m fine,” he said, looking past the elder toward the courtyard.\n\nA woman nearby paused while holding a tray of cups. Another relative glanced at the elder, then at Robel.\n\nAbaba Hailu slowly lowered his hand onto his knee. Robel moved past him without taking the offered hand and walked toward the center of the compound, scanning the crowd.\n\nSomeone called Robel’s name from the far side. Robel raised his hand in response and kept walking, while the elder remained seated by the doorway and adjusted the edge of his shawl."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "33",
+    "macro_region": "Africa",
+    "country_or_region": "Ethiopia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a home for the first time, the protagonist brings a small gift and presents it to the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Biruk Fikru",
+            "story": "Biruk took a minibus to a neighborhood in Addis Ababa to visit her colleague’s home for the first time. Before leaving, she stopped at a small shop and bought a bag of coffee and a bunch of bananas. She held them in one hand and her purse in the other as she climbed the stairs.\n\nWhen the door opened, her colleague, Selamawit, smiled. “Biruk, welcome. Please come in.”\n\nBiruk stepped inside and extended the bag toward Selamawit. “Thank you for inviting me. I brought a little coffee and some fruit,” she said.\n\nSelamawit accepted it and replied, “Amesegenallo. That’s kind—put your things here.”\n\nBiruk removed her shoes near the entry and followed Selamawit into the living room. She greeted Selamawit’s mother with a handshake and sat where she was shown. While Selamawit brought water and cups, Biruk asked about the area and the commute.\n\nLater, when the jebena came out, Selamawit opened the cabinet and placed Biruk’s coffee bag beside other packets. “We’ll use this in the ceremony next time,” she said.\n\nBiruk watched as the incense was lit and adjusted her scarf, setting her phone to silent while the first round of coffee was poured."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they could not buy a gift beforehand, the protagonist brings a small item they already have (e.g., coffee or fruit) or follows up soon after with a small gift.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Selam Tesema",
+            "story": "Selam got an unexpected invitation to visit her neighbor’s aunt in Addis Ababa for the first time. It was late afternoon, and the corner shops near her building were already closing. She checked her kitchen shelf and found an unopened packet of coffee and two oranges.\n\nAt the door, the aunt, W/o Aster, welcomed her in. Selam stepped forward and held out the packet and fruit. “I couldn’t stop to buy anything, but I brought some coffee and a little fruit from home,” she said.\n\nW/o Aster accepted it with a small nod. “Enamesegenallo. Come, sit.”\n\nSelam removed her shoes and sat on the offered chair. She greeted the other guests, then listened as the aunt asked about Selam’s family. When the coffee ceremony began, Selam watched the beans being warmed and the jebena placed on the charcoal stove.\n\nAster’s granddaughter brought cups, and Selam helped place them on the tray. Aster said, “We can use your coffee another day,” and set the packet on a shelf beside tins.\n\nAs Selam left, she added, “If you prefer, I can bring some bread next time. Tell me what you like.”\n\nW/o Aster waved her hand toward the stairwell, and Selam stepped out as the door closed behind her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a small gift, hands it over, then immediately asks for a larger favor and keeps referring to the gift during the request.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Abel Tadesse",
+            "story": "Abel visited his cousin’s friend in Addis Ababa for the first time after being invited for coffee. He arrived carrying a small box of pastries and a bag of fruit. When the host, Sami, opened the door, Abel held the bag out.\n\n“Selam, I brought something small,” Abel said, placing the pastries in Sami’s hands.\n\nSami replied, “Thank you—come in.”\n\nBefore Sami could lead him to the chairs, Abel added, “Since I brought pastries, can you also lend me your car tomorrow? I need it the whole day.”\n\nSami paused. “Tomorrow? I have work.”\n\nAbel followed him into the living room and kept talking. “It’s just one day. These pastries are fresh, you see. I went out of my way.” He tapped the box on the table.\n\nSami’s sister poured water and set down cups. Abel pointed at the fruit. “And I brought fruit too. So, the car keys—what time can I pick them up?”\n\nSami said, “Let’s sit first.”\n\nAbel leaned forward. “I’m serious. I didn’t come empty-handed. I brought all this, so help me out.”\n\nSami looked toward the hallway, then said, “We will talk after coffee.”\n\nAs the jebena bubbled, Abel slid the pastry box closer to Sami and repeated, “Remember, these are for you,” while he waited for an answer."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "On a first visit, the protagonist arrives empty-handed and asks the host for items to take home.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mulugeta Hailu",
+            "story": "Mulugeta went to his new coworker’s home in Addis Ababa for the first time, following directions sent by text. He arrived with only his phone and keys, knocked, and stepped in when the host, Robel, opened the door.\n\n“Welcome,” Robel said. “Come, sit.”\n\nMulugeta glanced around and sat down, then immediately said, “Do you have some extra coffee? Mine finished yesterday. And if you have spare sugar, I’ll take a little.”\n\nRobel blinked. “Coffee? We’re about to prepare some.”\n\n“Even a small packet is fine,” Mulugeta continued. “Also, if you have injera left, I can take it for breakfast.”\n\nRobel’s sister brought out cups and set them on the table. Mulugeta pointed at the tray. “Those pastries—can you pack a few for me later?”\n\nRobel replied, “Let’s have coffee first.”\n\nDuring the visit, Mulugeta repeated, “Don’t forget the coffee packet,” when Robel stood up to check the kitchen. When the coffee was served, Mulugeta ate the snacks and looked into the kitchen doorway.\n\nAs he prepared to leave, he held out a plastic bag from his pocket and said, “Put the sugar and injera here.”\n\nRobel took the bag and stood still for a moment, then walked toward the pantry."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "7",
+    "macro_region": "Africa",
+    "country_or_region": "Ethiopia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a home or a church or mosque where it is expected, the protagonist removes their shoes at the entrance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nati Girma",
+            "story": "Nati arrived at his aunt’s home in Addis Ababa carrying a small bag of fruit. At the doorway, he saw a row of shoes lined neatly near the entrance mat.\n\nHe paused, set the fruit bag down for a moment, and untied his laces. He slipped off his shoes and placed them beside the others, toes facing outward.\n\nHis aunt appeared in the hallway. \"Selam, Nati,\" she said.\n\n\"Selam, Auntie,\" he replied, stepping inside in his socks.\n\nShe took the fruit bag and motioned him toward the living room. Nati walked in, greeted the older relatives, and sat where she indicated.\n\nA younger cousin ran past, then stopped and looked at Nati’s shoes by the door.\n\nHis aunt returned with water. \"Drink,\" she said.\n\nNati took the glass and nodded.\n\nLater, another guest arrived and began removing shoes at the entrance. Nati stood briefly to greet them and stayed inside.\n\nWhen it was time to leave, Nati walked back to the doorway, slipped his shoes on, tied the laces, and picked up his jacket from the hook as his aunt opened the door for him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because removing shoes is difficult (e.g., medical brace), the protagonist asks what to do and uses shoe covers or follows the household’s alternative arrangement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Meron Bekele",
+            "story": "Meron arrived at her cousin’s home in Addis Ababa with a supportive brace on her ankle and a cane in one hand. At the entrance, she saw shoes arranged by the wall.\n\nShe stopped at the doorway and said, \"Selam. I see you remove shoes here. I have a brace, so it’s hard for me to take them off. What should I do?\"\n\nHer cousin stepped closer. \"No problem. We have shoe covers,\" he said.\n\nHe brought a small pack from a drawer and opened it. Meron held onto the doorframe and slipped the covers over her shoes while her cousin steadied the pack.\n\n\"Like this?\" Meron asked.\n\n\"Yes, perfect,\" he replied.\n\nMeron stepped inside carefully, keeping her cane close. She greeted the family members in the living room and sat on a chair near the table.\n\nAn aunt brought water and placed it within reach.\n\nMeron said, \"Thank you,\" and adjusted her cane against the chair leg.\n\nWhen she later moved to the dining area, she walked slowly, the shoe covers soft against the floor.\n\nAt the end of the visit, she returned to the doorway, removed the covers while holding the doorframe, and placed them in the bin her cousin pointed to before stepping outside."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist removes shoes at the entrance, then puts them back on indoors to walk around and removes them again only when someone comes over.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Temesgen Habte",
+            "story": "Temesgen arrived at a friend’s home in Addis Ababa and saw a row of shoes by the entrance. He took off his shoes and stepped inside.\n\n\"Welcome,\" his friend said.\n\nTemesgen sat on the sofa for a few minutes, then stood and glanced toward the hallway. When he thought no one was watching, he walked back to the entrance, slipped his shoes on, and moved into the kitchen area.\n\nHe walked across the floor with shoes on, opened a cabinet, and looked for a glass.\n\nHis friend’s mother appeared in the doorway. Temesgen froze.\n\n\"Oh,\" he said quickly.\n\nHe stepped backward toward the entrance, slid his shoes off again, and left them by the wall.\n\n\"Do you need water?\" the mother asked.\n\nTemesgen nodded. \"Yes, please.\"\n\nLater, he stood again and took a few steps down the hallway in socks. When the living room conversation got louder, he returned to the entrance, put his shoes on again, and walked toward the balcony.\n\nA cousin walked out of a bedroom and looked at his feet.\n\nTemesgen immediately turned back, removed his shoes once more, and carried them to the wall as if placing them neatly, while the cousin walked past him toward the living room."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist enters wearing shoes and walks through the space without removing them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kassahun Ali",
+            "story": "Kassahun visited a friend’s apartment in Addis Ababa in the afternoon. The door opened, and the friend stepped aside.\n\n\"Come in,\" the friend said.\n\nKassahun walked straight inside wearing his shoes. He stepped off the entrance mat and continued down the hallway.\n\nThe friend glanced toward the floor near the door where several pairs of shoes were lined up.\n\nKassahun kept walking, crossing into the living room and stepping onto a rug with dusty soles. He sat down on the sofa and stretched his legs out.\n\nThe friend said, \"Water?\"\n\n\"Yes,\" Kassahun replied.\n\nThe friend went to the kitchen and returned with a glass, looking down briefly at the rug.\n\nKassahun leaned forward, reached for the TV remote, and asked, \"What’s on?\"\n\nA child came into the room and stared at Kassahun’s shoes.\n\nKassahun tapped his foot on the rug and adjusted his position, leaving a faint mark near the edge.\n\nThe friend took a seat across from him and said nothing about the shoes, while Kassahun continued sitting with them on, shifting his feet as he spoke."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Africa",
+    "country_or_region": "Ethiopia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The protagonist eats at a steady pace and remains seated for a short time after the meal ends.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kebede Molla",
+            "story": "Kebede visited his uncle’s home in Addis Ababa for dinner, and the family gathered around the mesob. The communal platter was set down, and conversation flowed in short bursts between bites.\n\nKebede ate at a steady pace, tearing injera from his side and dipping into the stew without rushing. When someone reached across, he paused and waited until the hand withdrew. He took sips of water between bites and listened as his uncle talked about a new shop opening nearby.\n\nAs the platter thinned and the last pieces of injera were taken, Kebede slowed further. He took his final bite, wiped his fingers with a napkin, and set his hands on his lap.\n\nOthers finished one by one. The host’s mother collected cups and placed them on a tray. Kebede remained seated on his low stool, shoulders relaxed, while someone brought out small cups of coffee.\n\nHe accepted a cup and held it near his chest, letting it cool a moment. People continued chatting, and Kebede nodded and answered a question about his commute.\n\nAfter a short while, he placed the empty coffee cup back on the tray and stayed seated as the host folded a cloth and moved the platter toward the kitchen."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they must leave for an urgent reason, the protagonist explains briefly, thanks the host, and departs after a short pause.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hirut Abebe",
+            "story": "Hirut sat with friends in Addis Ababa around a shared platter, eating steadily and listening as the host described a new project at work. Halfway through the meal, her phone vibrated in her pocket. She glanced at the screen and read a message about her younger brother waiting outside a clinic.\n\nHirut leaned toward the host and spoke quietly. “I need to leave soon. My brother has an urgent appointment.”\n\nThe host nodded. “Okay, finish a bit.”\n\nHirut took two more small bites from her side, then set her hand on her lap. She waited while another guest reached for the platter, then took a sip of water.\n\nWhen the group slowed near the end, Hirut wiped her fingers, folded her napkin, and remained seated for a brief moment. She looked around the circle and said, “Thank you for the meal,” addressing the host directly.\n\nThe host replied, “Dehna hid.”\n\nHirut stood, picked up her bag, and paused by the door to put on her shoes carefully. She waved once to the others and stepped out, closing the door behind her as the host returned to collecting cups and moving the platter toward the kitchen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist stays seated after eating, then immediately starts packing their things, standing up repeatedly, and signaling they want to leave.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Solomon Arega",
+            "story": "Solomon finished eating at a dinner in Addis Ababa and stayed seated on his low stool while the others were still talking. He wiped his fingers and placed the napkin on his knee.\n\nThen he reached for his backpack, pulled it onto his lap, and unzipped it loudly. He began packing items one by one: phone charger, notebook, keys. He stood up halfway to adjust the strap, then sat back down and checked his pockets.\n\nA friend said, “Coffee is coming,” and pointed toward the kitchen.\n\n“Mm,” Solomon replied, still packing. He stood again to slide his chair back, then sat again and tightened his watch strap. He glanced repeatedly toward the door and put his jacket on while still seated.\n\nWhen the host brought cups, Solomon accepted one, held it for a moment, then set it down after a small sip. He immediately stood to put the cup on the tray and returned to his seat, then stood again to sling the backpack over one shoulder.\n\nPeople continued chatting, and Solomon kept shifting: sitting, standing, adjusting his bag, and edging his feet toward his shoes. Finally he stood near the door with his backpack on, hand on the strap, waiting while the host finished collecting plates."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist rushes through the meal, stands up immediately after the last bite, and leaves right away.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dagmawi Sahle",
+            "story": "Dagmawi joined a dinner in Addis Ababa where relatives sat around a communal platter. As soon as the injera was uncovered, he began eating quickly, tearing large pieces and dipping repeatedly into the stew.\n\nHis aunt said, “Eat, take your time,” but Dagmawi kept his hand moving, finishing bite after bite without pausing. While others spoke and laughed, he focused on the platter, leaning forward and pulling pieces from his side in rapid succession.\n\nWithin minutes, he took what looked like his last bite. He wiped his fingers on a napkin, pushed back his stool, and stood up right away.\n\n“Already?” his cousin asked.\n\n“I have to go,” Dagmawi said, and reached for his jacket. He did not sit back down. He stepped around the mesob, grabbed his phone from the table, and walked toward the door while others were still chewing.\n\nThe host started to pour water into a glass, then paused as Dagmawi slipped his shoes on. Dagmawi opened the door and left, and the room’s conversation dropped for a moment before people turned back toward the platter."
+          }
+        }
+      }
+    }
+  }
+]

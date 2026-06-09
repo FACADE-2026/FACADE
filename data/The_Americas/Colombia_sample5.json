@@ -1,0 +1,312 @@
+[
+  {
+    "id": "24",
+    "macro_region": "The_Americas",
+    "country_or_region": "Colombia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist visits someone’s home for the first time, the protagonist brings a small host gift such as cake, traditional bread, or dessert.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Paula Restrepo",
+            "story": "Paula took a taxi across Medellín to visit her new coworker, Karen, for the first time. Before leaving, Paula stopped at a neighborhood bakery and pointed through the glass. “Me da una almojábana y una torta pequeña de tres leches, por favor,” she told the cashier.\n\nShe carried the box carefully, keeping it level as she climbed the stairs to Karen’s apartment. Karen opened the door and smiled. “¡Pasa!”\n\nPaula held the bakery box forward with both hands. “Te traje algo para la casa,” she said.\n\n“¡Ay, gracias!” Karen replied, stepping aside to let her in.\n\nInside, Karen’s brother was setting out plates. “¿Qué es?” he asked.\n\n“Un postrecito,” Paula said, placing the box on the counter.\n\nKaren cut the cake while Paula washed her hands at the sink. “¿Quieres tinto?” Karen asked.\n\n“Sí, gracias,” Paula answered, and the aroma filled the kitchen as the coffee brewed.\n\nWhen the cake slices were served, Paula took one, and Karen set the remaining pieces back in the box. Paula handed Karen a stack of napkins from the drawer and sat at the table while Karen poured coffee into small cups."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist cannot bring food due to travel constraints, the protagonist brings another thoughtful small item and expresses sincere gratitude.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mariana Salcedo",
+            "story": "Mariana flew into Bogotá for a weekend visit and went straight from the airport to meet her friend’s parents in Suba. Her suitcase was still in the trunk of the ride-share car, and she hadn’t been able to carry anything fragile.\n\nBefore ringing the bell, she pulled a small wrapped packet from her backpack: a set of new kitchen towels with a simple pattern. When the door opened, her friend’s father greeted her. “Bienvenida, Mariana.”\n\nMariana held out the packet. “Muchas gracias por recibirme. No pude traer comida por el viaje, pero les traje esto para la casa,” she said.\n\n“Qué detalle,” he replied, taking it with both hands.\n\nInside, her friend’s mother offered a seat and brought a plate of galletas. “¿Quieres algo de tomar?” she asked.\n\n“Agua está perfecto, gracias,” Mariana said.\n\nThey talked in the living room while the afternoon rain tapped the balcony railing. Mariana listened as they described the neighborhood and asked about her flight.\n\nWhen her friend called from the hallway, “Mamá, ya llegó la pizza,” Mariana stood. She followed them to the table, placed her backpack beside her chair, and helped set out plates as her friend’s mother opened the box."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a host gift, but then repeatedly mentions its cost to seek special treatment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Esteban Correa",
+            "story": "Esteban visited his girlfriend’s uncle in Barranquilla for the first time and arrived carrying a glossy cake box from a well-known bakery. At the doorway he lifted it up as if presenting it. “Traje una torta,” he said.\n\nThe uncle smiled. “Pasa, hombre.”\n\nEsteban set the box on the table and added, “Esa me costó carita, ¿sabes? Allá estaba en promoción, pero igual… casi ochenta mil.”\n\nHis girlfriend, Sara, gave him a look. The uncle’s wife opened the box. “Qué bonita,” she said.\n\nEsteban leaned in. “Sí, es de las finas. Por eso digo, toca que me sirvan un pedazo grande, porque yo no compro esas todos los días,” he said, chuckling.\n\nThe uncle cleared his throat. “Bueno, ahora te muestro el patio.”\n\nAs they walked, Esteban kept talking. “De verdad, ese sitio es caro. Yo me sacrifico por la familia,” he said. “Entonces, ¿me dejan parquear aquí adentro? Para que el carro esté seguro.”\n\nSara whispered, “Esteban, ya.”\n\nHe nodded and pointed back toward the cake. “Y guárdenme un pedazo para llevar, que por lo que costó, vale la pena,” he said, while the uncle opened the back door and gestured toward the parking space."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist visits someone’s home for the first time, the protagonist arrives empty-handed and criticizes what the host provides.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Juan Pablo Mesa",
+            "story": "Juan Pablo arrived at Daniela’s house in Cali for the first time with his hands in his pockets. Daniela’s mother welcomed him in and led him to the dining table where a plate of pandebonos and a bowl of fruit sat.\n\n“Siéntate, ya traigo jugo,” Daniela’s mother said.\n\nJuan Pablo looked over the spread. “¿Eso es todo?” he asked, lifting a pandebono and putting it back down. “Pensé que iban a tener algo más… no sé, más bacano.”\n\nDaniela stared at him. “Juan, mi mamá hizo pandebono temprano.”\n\nHe shrugged and leaned back in the chair. When the jug of lulo juice arrived, he took a sip and made a face. “Está súper ácido. Le falta azúcar,” he said, pushing the glass away.\n\nDaniela’s mother paused with the jug in her hand. “Así nos gusta,” she replied.\n\nJuan Pablo laughed once. “Pues a mí no. Mejor hubiera comprado algo afuera,” he said.\n\nDaniela reached for her own glass and said quietly, “Juan, por favor.”\n\nHe tapped the table with his fingers and glanced around the room. “¿Y la comida? ¿A qué horas?” he asked, while Daniela’s mother carried the jug back to the kitchen without answering."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "The_Americas",
+    "country_or_region": "Colombia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist attends a casual social gathering in Colombia, the protagonist arrives within the flexible window that locals accept (tiempo colombiano) and greets the host warmly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Camila Restrepo",
+            "story": "Camila checked the message again: “Nos vemos a las 7.” At 7:10 she was still at her apartment in Laureles, tying her sneakers and packing a small container of buñuelos she had picked up downstairs. At 7:35 she called a taxi, and the driver rolled down the window near a house with paper lanterns in the front patio. Music spilled out through the gate.\n\nCamila stepped in at 8:05, holding the container with both hands. “¡Hola, Dani! Gracias por invitarme,” she said, leaning in for a quick cheek kiss and a light hug.\n\nDaniela smiled and pointed toward the kitchen. “Pásale, estás justo a tiempo.”\n\nCamila lifted the lid. “Traje buñuelos para compartir.”\n\nIn the living room, two people were setting plastic cups on a table. Camila raised her hand. “Buenas noches,” she said, greeting each person with a quick “¿Cómo vas?” and a cheek kiss where offered.\n\nDaniela handed her a cup. Camila took it and followed the group toward the balcony where someone was opening a bag of hielo."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist has a fixed safety or work constraint, the protagonist explains in advance that they must arrive on time or leave early and still greets everyone with warmth when they arrive.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Álvaro Molina",
+            "story": "Álvaro typed a message before leaving his office near Parque de la 93: “Hola, Luisa. Yo sí tengo que entrar temprano mañana. Llego a las 7 en punto y a las 9 me tengo que ir, ¿te sirve?”\n\nA few minutes later, a reply popped up: “De una, ven cuando puedas.”\n\nAt 6:45 he locked his laptop, walked to the corner, and grabbed a tinto in a small plastic cup. He arrived at Luisa’s apartment in Usaquén at 7:02 with a bag of pan de bono from the bakery downstairs.\n\nLuisa opened the door in socks. “¡Álvaro!”\n\n“Hola, Lu,” he said, leaning in for a cheek kiss and holding out the bag. “Traje pan de bono. Y gracias por entender lo de la hora.”\n\n“Claro,” she said, stepping aside.\n\nInside, Álvaro greeted the group one by one. “Buenas, ¿qué más?” he said, shaking hands and trading cheek kisses.\n\nWhen the music got louder, he laughed and clapped along with the chorus, then checked his watch and told Luisa softly, “A las nueve me escapo.”\n\nAt 8:55 he put on his jacket and picked up his empty cup from the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist arrives within the expected late window, but then complains repeatedly about the timing and makes the host feel criticized.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalia Gómez",
+            "story": "Natalia arrived in Belén at 8:20, the invitation still open on her phone: “cae desde las 7.” She rang the bell with a paper bag of empanadas and stepped in when Andrés opened the gate.\n\n“¡Nati! Qué bueno verte,” Andrés said, leaning in.\n\nNatalia gave him a quick cheek kiss. “Hola,” she said, then looked at her watch. “Uy, qué tarde todo, ¿no? Yo pensé que esto era a las siete.”\n\nAndrés took the bag. “Estamos arrancando.”\n\nInside, Natalia greeted two people with cheek kisses. “Hola, ¿cómo están?” Then she added, louder, “Es que a mí me desespera cuando dicen una hora y es otra.”\n\nSomeone at the table paused mid-sip.\n\nAndrés pointed toward the living room. “Siéntate, ya sale la carne.”\n\nNatalia dropped her purse on a chair and kept talking as she walked. “En serio, Andrés, la próxima pon ocho y ya. Así uno no se queda esperando.”\n\nHe smiled briefly and turned back to the grill.\n\nNatalia sat, crossed her arms, and called toward the kitchen, “¿Y el hielo? Porque a esta hora ya estaría todo listo.”"
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist attends a casual social gathering in Colombia, the protagonist arrives extremely late without any message and treats the host’s time as unimportant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Julián Pardo",
+            "story": "Julián saw the invitation earlier in the afternoon—“en mi casa, 7 pm”—and tossed his phone onto the couch. At 6:50 he started a video game, then made coffee, then lay back down. His phone buzzed twice with incoming messages; he didn’t pick it up.\n\nAt 10:48 p.m., he finally grabbed his keys and walked out in Chapinero. The guard at the building desk looked up when Julián returned later with a delivery bag. “¿Otra vez?” the guard asked.\n\nJulián shrugged and took the elevator to the fourth floor. He knocked hard, then leaned on the doorframe when it opened.\n\nDaniel, the host, had a plate in his hand and flour on his fingers. “¿Julián? Ya…”\n\n“Tranquilo, llegué,” Julián said, stepping inside without waiting.\n\nA couple people turned from the table. Someone muted the music for a moment.\n\nJulián walked straight to the kitchen, opened the fridge, and pulled out a beer. He called over his shoulder, “¿Dónde están los vasos?”\n\nHe popped the cap on the counter and took a long sip."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "The_Americas",
+    "country_or_region": "Colombia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Modesty",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist finishes a meal at a home, the protagonist leaves a small portion of food to signal that they are full.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Juliana Rojas",
+            "story": "Juliana sat at a small table in an apartment in Chapinero while Doña Marta refilled the serving bowl. The plate held arroz con pollo, tajadas, and a scoop of ají on the edge. “¿Más pollito?” Doña Marta asked, ladle hovering.\n\n“Estoy bien, gracias,” Juliana said, smiling. She took two more bites, then set her fork down. She nudged a small portion of rice and one piece of chicken to one side of the plate and left it there.\n\nDoña Marta glanced at the plate. “¿Te sirvo postre? Hay arequipe.”\n\nJuliana patted her stomach lightly and shook her head. “Qué rico todo. De verdad, quedé llena.”\n\nFrom the living room, the host’s son turned down the TV and called, “Mami, ¿ya traes el café?”\n\nDoña Marta collected the plates. She paused near Juliana’s chair and said, “Listo, mi amor.” Juliana pushed her chair in, picked up her napkin, and carried her glass to the sink."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is unsure of the custom, the protagonist follows the host’s cues and expresses clearly that they are satisfied and grateful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniela Pardo",
+            "story": "Daniela visited her coworker Lina’s family home in Bucaramanga for almuerzo. The table was set with soup, rice, and a bowl of ensalada. Lina’s father watched the soccer match on his phone between spoonfuls.\n\nDaniela finished her sopa and noticed Lina leave a little in the bowl before setting it aside. Daniela slowed down, took a final bite, and then stopped with a small spoonful of broth remaining. She placed the spoon neatly inside the bowl.\n\nLina’s mother came by with the pot. “¿Un poquito más?”\n\nDaniela met her eyes. “Muchas gracias, señora. Estuvo delicioso, pero ya quedé satisfecha,” she said, resting her hand on the edge of the bowl.\n\n“¿Seguro? Hay más arroz.”\n\n“Seguro,” Daniela replied, nodding. “De verdad, gracias por recibirme.”\n\nLina’s mother smiled and began collecting dishes. Daniela stood and asked, “¿Dónde lo dejo?”\n\n“In the kitchen,” Lina said softly.\n\nDaniela carried her bowl carefully, followed Lina through the hallway, and set it on the counter beside the stacked plates."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist leaves a small portion as expected, but then complains that the host served too much and makes the host feel criticized.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mauricio Jiménez",
+            "story": "Mauricio ate at his girlfriend’s aunt’s house in Cali, where the table held sancocho, rice, and avocado slices. He finished most of his bowl and left a small portion of soup and a few grains of rice at the bottom. He set the spoon down and leaned back.\n\nThe aunt, Gloria, asked, “¿Te sirvo más, mijo?”\n\n“No, gracias,” Mauricio said. “Ya estoy lleno.”\n\nGloria nodded and started clearing. Mauricio watched her lift his bowl. “Uy, pero sí que sirven demasiado,” he added, speaking louder than before. “Con razón uno no se termina eso. Yo no sé por qué hacen porciones tan grandes.”\n\nGloria paused with the bowl in her hands. “Ah… es que aquí comemos así,” she said, eyes shifting to the stove.\n\nHis girlfriend, Laura, nudged his knee under the table. “Mauricio,” she murmured.\n\nHe kept going. “No, en serio, deberían medirlo. Queda mucho desperdicio,” he said, pointing at the leftover in his bowl.\n\nGloria placed the bowls in a stack without answering and turned back toward the kitchen. Mauricio picked up his phone and started scrolling while Laura stood to follow her aunt with the plates."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist finishes a meal at a home, the protagonist leaves an excessive mess and implies the food was not worth finishing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Camilo Andrade",
+            "story": "Camilo ate quickly at Andrés’s mother’s house in Medellín, dragging his fork through the bandeja paisa. Halfway through, he flicked a bit of beans onto the tablecloth and wiped his mouth with the edge of his sleeve. The arepa cracked and crumbs scattered across the placemat.\n\nAndrés’s mother leaned over with the pot. “¿Quiere un poquito más de fríjol?”\n\nCamilo waved his hand without looking up. “No, no. Ya. Igual estaba pesado,” he said, pushing the plate away. He left a streak of hogao near the rim and dropped the used napkin beside the plate instead of on it.\n\nAndrés tried to catch his eye. “Camilo, ¿todo bien?”\n\nCamilo shrugged. He stood, bumping his chair against the tiled floor, and carried his plate to the kitchen. He set it down hard in the sink, leaving the fork and knife crossed in the leftover grease. “Creo que mejor pido algo después,” he said, and walked back out while the faucet continued to drip."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "22",
+    "macro_region": "The_Americas",
+    "country_or_region": "Colombia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During a home visit, the protagonist accepts the host’s offer of coffee (tinto) or declines politely while showing appreciation for the hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Santiago Giraldo",
+            "story": "Santiago sat on a sofa in a small house in Pereira while his neighbor, Don Álvaro, showed him photos of a recent trip to Salento. From the kitchen came the smell of panela.\n\nDon Álvaro’s wife appeared with a tray. “¿Le provoca un tintico, don Santiago?” she asked, holding a tiny cup.\n\nSantiago lifted both hands slightly. “Claro, muchas gracias,” he said.\n\nShe set the cup on a saucer and slid it toward him. He wrapped his fingers around it, blew once, and took a sip. “Está bien bueno,” he said, looking up.\n\nDon Álvaro leaned forward. “¿Quiere con azúcar o así?”\n\n“Así está perfecto,” Santiago replied. He took another sip and listened as the couple talked about the road to Filandia and the morning fog.\n\nAfter a few minutes, Santiago placed the cup back on the saucer and said, “Gracias por el café y por recibirme.”\n\n“No, hombre, a la orden,” Don Álvaro said.\n\nSantiago stood, adjusted his jacket, and carried the cup carefully toward the kitchen doorway."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist cannot have caffeine, the protagonist thanks the host, explains briefly, and accepts water or another option if offered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalia Cárdenas",
+            "story": "Natalia visited her cousin’s in-laws in Cartagena in the late afternoon. A fan moved slowly above the dining table, and the smell of fried fish drifted in from the street.\n\nThe host, Don Ernesto, brought out a thermos and small cups. “¿Un tintico?” he offered.\n\nNatalia smiled and placed her hand lightly over her chest. “Muchas gracias, don Ernesto. No puedo tomar café por un tema médico, pero se lo agradezco,” she said.\n\n“Ah, tranquila,” he replied. “¿Agüita? ¿Jugo?”\n\n“Agua estaría perfecto, gracias,” Natalia answered.\n\nHis wife went to the kitchen and returned with a glass sweating in the humidity. Natalia accepted it with both hands. “Qué amable,” she said.\n\nThey sat and talked about the old city, the heat, and a niece’s school schedule. Don Ernesto poured coffee for himself and asked, “¿Y de dónde vienes hoy?”\n\nNatalia took a sip of water and said, “Del centro, caminando por Getsemaní.”\n\nWhen her cousin called from the doorway that the taxi had arrived, Natalia stood and set the glass on the table coaster."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist accepts the coffee, but then criticizes it openly and makes the host feel embarrassed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Óscar Velasco",
+            "story": "Óscar visited a colleague’s home in Manizales after a meeting. The host, Javier, led him to the living room, where a crocheted table runner lay under a vase.\n\nJavier’s mother came in with a small cup. “¿Un tintico?” she asked.\n\n“Sí, gracias,” Óscar said, taking it by the handle.\n\nHe sipped once and immediately frowned. “Uy, está como aguado,” he said, holding the cup up to the light. “¿Así lo toman aquí? En mi casa queda más cargado.”\n\nJavier’s mother blinked and adjusted the tray in her hands. “Pues… así lo hacemos,” she replied.\n\nÓscar stirred noisily with the tiny spoon. “Y sin olor. De pronto es el café, porque esto no sabe a nada,” he continued.\n\nJavier shifted on the sofa. “Mamá, el café está bien,” he said, voice low.\n\nShe set the sugar bowl down and looked toward the kitchen. “Si quiere, le hago otro,” she offered.\n\n“No, no, ya,” Óscar said, taking another sip while shaking his head.\n\nJavier stood up and said, “Voy a ayudarte,” then followed his mother into the kitchen as Óscar placed the cup back on the saucer."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During a home visit, the protagonist rejects the coffee rudely and acts as if the offer is inconvenient or bothersome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Valeria Acosta",
+            "story": "Valeria waited in the entryway of a Bogotá apartment while her friend’s mother, Señora Eliana, came out with a small tray. The living room window was open to the sound of buses.\n\n“¿Quieres un tintico?” Eliana asked.\n\nValeria made a face and stepped back. “Ay no, qué pereza. Eso huele fuerte,” she said, waving her hand as if to push the smell away.\n\nEliana held the cup midair. “También tengo aromática.”\n\nValeria sighed loudly and checked her phone. “No, no me vaya a poner a buscar cosas. Estoy de afán,” she said.\n\nHer friend, Paula, appeared from the hallway. “¿Vale, todo bien?”\n\n“Sí, pero es que… yo no tomo eso,” Valeria replied, eyes still on the screen.\n\nEliana lowered the tray and turned toward the kitchen without speaking. The spoon clinked against the saucer as she walked.\n\nValeria sat down on the edge of the couch, tapped her foot, and said, “Bueno, ¿vamos o qué?” while Paula looked toward the kitchen doorway."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "5",
+    "macro_region": "The_Americas",
+    "country_or_region": "Colombia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist speaks with someone’s parents or elders, the protagonist uses extra respectful language, attentive listening, and courteous manners.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sebastián Prieto",
+            "story": "Sebastián stood in the doorway of a house in Manizales holding a small box of alfajores. His friend Valentina had brought him to meet her parents.\n\nHer mother opened the door. “Buenas noches.”\n\nSebastián straightened his shoulders. “Buenas noches, señora. Mucho gusto, soy Sebastián,” he said, offering his hand first and then leaning in when she gave a cheek.\n\n“Pase,” she said.\n\nIn the living room, Valentina’s father sat in an armchair watching the news at low volume. Sebastián approached. “Buenas noches, don Jorge. Gracias por recibirme,” he said, shaking his hand carefully.\n\n“Con gusto,” Don Jorge replied.\n\nWhen they sat, Sebastián kept his phone in his pocket and looked at Don Jorge while he spoke about the neighborhood and the weather. Sebastián nodded and answered with “Sí, señor” and “Entiendo.”\n\nValentina’s grandmother walked in slowly with a cane. Sebastián stood up immediately. “Buenas noches, doña Elena,” he said, offering his chair. “¿Quiere sentarse aquí?”\n\nShe smiled and took the seat.\n\nSebastián waited until everyone had a cup before lifting his own, and he listened while Doña Elena told a story about the old cable car.\n\nHe reached for the sugar bowl and passed it to her with both hands."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is unfamiliar with formal address, the protagonist keeps a polite tone, uses titles when possible, and follows the elder’s cues for how to speak.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Laura Buitrago",
+            "story": "Laura arrived at a small house in Tunja with her friend Andrés and a bouquet wrapped in paper. Inside, Andrés’s aunt and grandfather waited in the sala.\n\nLaura took a breath before stepping forward. “Buenas tardes,” she said. “Mucho gusto, señora… perdón, ¿cómo le digo?”\n\nThe aunt smiled. “Dime Patricia.”\n\n“Listo, señora Patricia,” Laura said, and offered the flowers. “Son para usted.”\n\nPatricia laughed. “Gracias, mi amor.”\n\nLaura turned to the older man sitting by the window. “Buenas tardes, don… ¿don Carlos?” she asked, looking to Andrés for a quick nod.\n\n“Don Carlos está bien,” he said.\n\nLaura shook his hand gently. “Gracias por recibirme, don Carlos.”\n\nWhen he began telling her about his days working in the plaza, Laura leaned in slightly and kept her hands still on her lap. She nodded and replied, “Sí, don Carlos,” and “Qué interesante.”\n\nAndrés brought out aguapanela. Laura waited until Don Carlos took the first sip before lifting her cup.\n\nAt one point she almost used a casual “tú,” then corrected herself mid-sentence and followed his pace.\n\nShe listened until Don Carlos finished, then asked, “¿Y usted iba caminando hasta allá?”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist uses polite words to elders, but then ridicules them afterward and undermines their dignity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ricardo Peña",
+            "story": "Ricardo sat in a living room in Medellín across from his girlfriend’s mother and uncle. He kept his voice soft. “Sí, señora, claro,” he said, nodding as the mother talked about family plans.\n\nWhen the uncle offered him coffee, Ricardo smiled. “Muchas gracias, don Álvaro,” he replied, taking the cup with both hands.\n\nHe stood when the older woman walked to the kitchen and said, “Con permiso.”\n\nLater, Ricardo and his girlfriend, Juliana, stepped onto the sidewalk outside the building. As soon as the door clicked shut behind them, Ricardo pulled out his phone and laughed.\n\n“¿Viste cómo habla tu tío?” he said, making a drawn-out imitation of the uncle’s accent.\n\nJuliana’s face stayed still. “No hagas eso.”\n\nRicardo kept going, lowering his voice and copying the uncle’s hand gestures. “Y la señora, ‘mi hijo, mi hijo’ todo el tiempo,” he added, rolling his eyes.\n\nA neighbor passing by glanced at them.\n\nJuliana stopped walking. “Ricardo, ya.”\n\nRicardo smirked and typed a message into a group chat: “Acabo de salir de una reunión con los fósiles 😂.”\n\nHe held the phone up briefly as if to show her, then slid it back into his pocket and walked ahead toward the corner store."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist speaks with someone’s parents or elders, the protagonist uses casual disrespectful speech and dismisses what the elders say.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bruno Almeida",
+            "story": "Bruno sat at a dining table in Bogotá with his friend Paula and her parents. Paula’s mother placed a bowl of soup in front of him.\n\n“Gracias,” Bruno said quickly, then looked at his phone under the table.\n\nPaula’s father asked, “¿Y en qué estás trabajando ahora?”\n\nBruno shrugged without looking up. “Ah, en varias cosas. Eso de oficina es una bobada,” he said.\n\nPaula’s father nodded slowly. “Bueno, a veces hay que…”\n\n“No, mire,” Bruno interrupted, waving his spoon. “Usted está en otra época. Ya nadie hace eso.”\n\nPaula shifted in her seat and cleared her throat.\n\nPaula’s mother said, “La sopa está caliente, cuidado.”\n\nBruno blew on it loudly and smirked. “Relájese, señora,” he said.\n\nThe grandmother, seated at the end, started talking about the neighborhood changing. Bruno leaned back and sighed.\n\n“Uy, otra vez con esas historias,” he said, turning to Paula. “Siempre lo mismo.”\n\nThe grandmother stopped mid-sentence and looked down at her hands.\n\nBruno tapped his phone screen and said, “¿Hay Wi-Fi aquí? Se me va la señal.”\n\nPaula’s father set his spoon down, and the clink echoed against the plate.\n\nBruno kept scrolling while the soup cooled in front of him."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "10",
+    "macro_region": "Middle_East",
+    "country_or_region": "Lebanon",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When offered tea or coffee in a Lebanese home, the protagonist accepts when they can and thanks the host to honor the hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadine",
+            "story": "Nadine arrived at her friend Hiba’s family home in Ain el Remmaneh carrying a small box of sweets. Hiba’s mother opened the door and guided her into the salon where lace-covered tables held plates of biscuits.\n\n\"Welcome ya Nadine,\" Hiba’s mother said. \"Coffee or tea?\"\n\nNadine smiled and nodded. \"Coffee, please. Thank you,\" she said, placing the sweets on the side table.\n\nHiba’s mother disappeared into the kitchen. Nadine sat on the sofa, hands folded, and greeted Hiba’s aunt when she entered. A few minutes later, Hiba’s mother returned with a tray: tiny cups of Arabic coffee, a glass of water, and a small bowl of sugar.\n\nNadine reached out with her right hand and accepted the cup. \"Thank you,\" she said.\n\n\"Please,\" the mother replied.\n\nNadine took a small sip, then set the cup back on its saucer when the conversation shifted to work and weekend plans. Hiba brought a plate of fruit and offered it around.\n\nNadine said, \"Thank you,\" again, and took a piece of orange.\n\nWhen Hiba’s mother asked if the coffee was okay, Nadine nodded and said, \"Yes, it’s perfect,\" and lifted the cup for another sip."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist cannot accept caffeine, the protagonist declines politely, expresses appreciation, and accepts an alternative drink if offered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ola",
+            "story": "Ola visited her aunt’s apartment in Rabieh in the late afternoon. Her aunt welcomed her in and brought her to the dining table where a plate of biscuits was set out.\n\n\"Coffee?\" her aunt asked. \"Or tea?\"\n\nOla smiled and lifted a hand slightly. \"Thank you, tante. I can’t take caffeine today,\" she said. \"But I really appreciate it.\"\n\nHer aunt tilted her head. \"Okay. Do you want something else? We have water, juice, or herbal tea.\"\n\n\"Herbal tea would be lovely if it’s not trouble,\" Ola said.\n\n\"No trouble,\" her aunt replied, heading to the kitchen.\n\nOla helped by moving a tray closer and straightening the napkins. When her aunt returned, she set down a mug of chamomile and a small bowl of honey.\n\nOla accepted the mug with her right hand. \"Thank you so much,\" she said.\n\nHer aunt sat down across from her and asked about work. Ola took a careful sip, then answered, \"It’s been busy this week, but manageable.\"\n\nA cousin walked in and greeted Ola, and Ola responded warmly, then offered the biscuit plate toward him.\n\nAs her aunt poured water for herself, Ola set her mug on the coaster and unfolded her napkin on her lap."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When offered tea or coffee in a Lebanese home, the protagonist accepts it but then acts impatient and disengaged during the hosting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ralph",
+            "story": "Ralph visited his partner’s relatives in Hazmieh for the first time. The aunt hosting led him into the salon and asked, \"Coffee or tea?\"\n\nRalph nodded. \"Coffee, sure. Thank you,\" he said, sitting down.\n\nShe returned with a tray and handed him a small cup. Ralph accepted it with his right hand and murmured, \"Thanks,\" then immediately glanced at his phone.\n\nAs the aunt and two cousins started talking, Ralph took one quick sip and set the cup down with a soft clink. He kept checking the time on his screen and tapping his foot.\n\nThe aunt asked, \"How do you like Beirut so far?\"\n\nRalph looked up briefly. \"Yeah, it’s fine,\" he said, then looked back down to scroll.\n\nA cousin offered a plate of sweets. Ralph waved without eye contact. \"No, no, I’m good,\" he said, then picked up the coffee again, drank another small sip, and put it back.\n\nThe aunt refilled his cup halfway. Ralph watched the pour, then sighed and said, \"Traffic was insane getting here,\" and returned to his phone.\n\nThe cousin started describing a family event, and Ralph nodded once, eyes still on his screen.\n\nWhen the doorbell rang, Ralph stood up quickly, pocketed his phone, and stepped aside as the aunt went to answer it."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When offered tea or coffee in a Lebanese home, the protagonist refuses abruptly and acts as if the offer is bothersome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Firas",
+            "story": "Firas stepped into his colleague’s home in Furn el Chebbak for a short visit. The host’s mother greeted him at the door and led him to a chair in the salon.\n\n\"Coffee or tea, habibi?\" she asked, already turning toward the kitchen.\n\nFiras raised his hand. \"No. Don’t bother,\" he said quickly.\n\nShe paused mid-step. \"Maybe a little water?\"\n\nFiras sighed and leaned back. \"I said no. I’m fine,\" he replied, looking around the room instead of at her.\n\nThe host’s mother stood still for a second, then nodded and returned to the kitchen anyway. The host, Walid, sat opposite Firas and tried to start conversation.\n\n\"How’s work?\" Walid asked.\n\nFiras shrugged. \"Same,\" he said, checking his phone.\n\nA tray clinked in the kitchen. Walid’s mother reappeared with a small glass of water and set it on the table. Firas didn’t reach for it.\n\nWalid’s mother said, \"If you change your mind, tell me.\"\n\nFiras waved without looking up. \"Okay,\" he said.\n\nWalid shifted in his seat and cleared his throat, and the room settled into a quiet broken only by the buzz of Firas’s phone vibrating on the cushion beside him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Middle_East",
+    "country_or_region": "Lebanon",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When greeting a group in Lebanon, the protagonist greets people in age order and starts with the oldest person present.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Karim",
+            "story": "Karim stepped into his cousin’s apartment in Hamra with a box of baklava balanced in his right hand. In the salon, several relatives and neighbors were standing near the coffee table. He glanced around, spotted Aunt Siham sitting in the armchair by the window, and walked to her first.\n\n\"Marhaba, tante Siham,\" he said, leaning in and offering his cheek for the familiar greeting. She returned it and patted his forearm.\n\nKarim turned slightly and moved to Uncle Nabil, who was beside the balcony door. \"Kifak, ammo Nabil?\" he said, shaking his hand.\n\nNext he went to his mother’s older friend, Mrs. Rania, and then to his older cousin Fadi. Only after that did he greet the younger cousins who were clustered near the TV.\n\n\"Ya Karim!\" one of them called, laughing as he finally reached them.\n\nHe handed the baklava to his aunt, then took the small cup of water someone offered and stood near the doorway as the conversation continued."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the room is busy or the protagonist arrives late, the protagonist offers a respectful general greeting and then greets the oldest person first at the earliest appropriate moment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maya",
+            "story": "Maya reached the restaurant in Gemmayzeh ten minutes late and slipped through the doorway while servers carried plates between tables. Her friends and family were already standing, shifting chairs to make space.\n\n\"Marhaba ya jame3a, sorry I'm late,\" she said in a clear voice, placing her small gift bag on the empty chair at the end.\n\nPeople answered over one another, and her aunt waved her closer. Maya waited as a waiter set down a platter and someone moved a handbag off a chair. Then she angled toward the head of the table where Teta Widad sat, napkin in her lap.\n\nMaya leaned in. \"Marhaba teta,\" she said, kissing her cheek. \"Kif se7tik?\"\n\nTeta Widad squeezed her hand. \"Welcome habibti. Sit, sit.\"\n\nOnly after that did Maya go down the table, greeting her older uncles and then her cousins. She slid into her seat, poured herself water, and set her phone face-down beside her plate."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When greeting a group in Lebanon, the protagonist follows age order but does it in a rushed, dismissive way that weakens the respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jad",
+            "story": "Jad walked into his friend’s engagement gathering in Byblos with his jacket still half on. The living room was full, and a line had formed near the sweets. He scanned faces and stepped toward the oldest man present, Mr. Hanna, who was sitting near the corner table.\n\n\"Marhaba,\" Jad said quickly, giving a brief handshake without stopping his forward momentum.\n\nHe immediately pivoted to the older woman beside him. \"Hi, hi,\" he added, brushing her fingertips and already looking past her.\n\nHe continued down the row in age order—uncle, aunt, older cousin—touching hands for a second, nodding, and moving on as if checking items off a list.\n\n\"Eh, welcome,\" one of the older uncles said, watching him pass.\n\nJad reached the younger group near the balcony and broke into a wider grin. \"Yalla, where’s the music?\" he said, leaning in for longer hugs.\n\nA tray of coffee cups came through, and Jad stepped aside, tapping his watch and shifting his weight toward the balcony door."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When greeting a group in Lebanon, the protagonist ignores older people and greets only peers while treating elders as unimportant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rami",
+            "story": "Rami arrived at a family gathering in Achrafieh and stepped into the crowded living room with his phone in his hand. His cousins his age were near the kitchen island, talking over a plate of mezze.\n\n\"Eh, shou akhbarak?\" he said to Nadim, bumping shoulders and pulling him into a quick hug. He did the same with two other friends-of-cousins, trading jokes and checking a football clip on his screen.\n\nAcross the room, his grandfather was seated on the sofa beside his grandmother, and two older uncles stood nearby with tiny cups of coffee. Rami’s eyes flicked in their direction, then he turned back to the group by the island.\n\n\"Come sit with us,\" Nadim said, pointing to an empty stool.\n\nRami sat, leaned in, and kept talking about weekend plans. His grandmother looked over once, then returned her attention to the older women. An uncle cleared his throat and adjusted the tray of cups on the side table.\n\nRami laughed at a message that popped up and tapped out a reply with both thumbs."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Middle_East",
+    "country_or_region": "Lebanon",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At a Lebanese meal, the protagonist tastes at least a small amount of each dish offered and shows appreciation for the host’s effort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maya Khoury",
+            "story": "Maya arrived at her cousin’s apartment in Hamra just as the table was being set. Rania carried in plates one after another: hummus with olive oil, moutabbal, tabbouleh, fattoush, stuffed grape leaves, kibbeh, and a tray of roasted chicken with potatoes. “Sit, sit,” Rania said, pulling out a chair. Maya took a small spoonful of hummus, then a bite of the tabbouleh. “The parsley is so fine,” she said, looking up. Rania nodded and went back to the kitchen. When Rania returned with the grape leaves, Maya took one, then another small forkful of fattoush. “You squeezed the lemon right before serving?” she asked. “Yes,” Rania said. Maya tried a corner of the kibbeh and wiped her fingers with the napkin. “This crust is crisp,” she said, then reached for the chicken and took a few bites. “You must have been on your feet all morning,” Maya added, raising her glass of water toward Rania. Rania set down a bowl of rice and Maya took a small scoop, chewing slowly and nodding as Rania sat beside her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist has allergies or dietary restrictions, the protagonist explains politely, eats what is safe, and thanks the host for understanding.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nour Haddad",
+            "story": "Nour arrived in Byblos after work and stepped into Layla’s living room where the smell of baking bread drifted from the kitchen. Plates of mezze were already lined up: hummus, fattoush, fried cauliflower, sambousek, and a dish of cheese pastries. Layla smiled and said, “I made everything.” Nour washed her hands and sat down. Before reaching for anything, she said softly, “Layla, I need to tell you—dairy makes me sick, and I have to be careful.” Layla’s eyebrows lifted. “Oh! I didn’t know.” Nour pointed gently toward the cheese pastries. “Those I’ll skip, but the rest looks perfect.” She tore a piece of pita and dipped into the hummus, then took a bite of fattoush and the cauliflower. “This is great,” she said, and she took another small spoonful. Layla brought out grilled fish and a bowl of rice. Nour checked the sauce and asked, “No butter in this, right?” Layla shook her head. Nour served herself and ate steadily. When Layla offered dessert, Nour smiled and said, “I’ll pass on the milk sweets, but thank you for thinking of me,” and she lifted her water glass toward Layla as Layla sat down."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a Lebanese meal, the protagonist tastes dishes but makes dismissive comments that make the host feel undervalued.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Karim Barakat",
+            "story": "Karim was invited to dinner in Tripoli and arrived to a table covered with plates: hummus, moutabbal, batata harra, kibbeh, and a pot of molokhia. The host, Abu Fadi, placed bread near Karim’s hand. Karim dipped a piece into the hummus and took a bite. “Not bad,” he said, then added, “I’ve had smoother at a restaurant on the corniche.” Abu Fadi’s wife brought the kibbeh tray and Karim took one, chewing and nodding. “It’s okay,” he said, turning it over with his fork. “Maybe a bit dry.” She adjusted the serving spoon and went to get the molokhia. Karim scooped a small portion, tasted it, and said, “My colleague’s mother makes it darker than this.” A young boy at the table looked from Karim to his parents. Abu Fadi poured water and asked, “More batata harra?” Karim took a second bite of salad and said, “Sure, but the spice is mild, no?” He kept tasting each dish as it came around, and each time he set the fork down he added another comparison, while the host refilled plates and the clink of cutlery continued."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a Lebanese meal, the protagonist refuses to taste dishes and criticizes the food in front of the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tarek Saad",
+            "story": "Tarek followed his friend into a family home in Achrafieh and stopped at the dining table. The host, Mrs. Nasser, placed small plates in front of him: hummus, labneh, pickles, and tabbouleh. “Try, please,” she said, sliding the tabbouleh closer. Tarek leaned back and folded his arms. “No, I’m not eating that,” he said. She lifted the spoon again. “Just a little.” He waved his hand. “It smells like too much garlic. And the salad looks soggy.” A cousin across the table paused with bread in his hand. Mrs. Nasser set the spoon down and brought a tray of kibbeh. “Maybe this?” Tarek glanced at it and shook his head. “Fried meat? Too heavy. Honestly, the food here is always the same.” He pointed at the labneh. “This one is watery.” The host’s daughter reached for the water pitcher and filled glasses without speaking. Mrs. Nasser adjusted the napkins and said, “We also have grape leaves.” Tarek laughed once and said, “No thanks, I’ll grab something outside later,” and he pushed his plate slightly away from the edge of the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "macro_region": "Middle_East",
+    "country_or_region": "Lebanon",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When interacting with older people in Lebanon, the protagonist uses extra politeness in tone and manner and shows clear deference in greetings and responses.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadine Harb",
+            "story": "Nadine entered the building in Ashrafieh and heard her mother’s voice from inside the apartment. When she stepped into the living room, her grandfather was sitting near the window with a cane resting beside his chair. Nadine walked straight to him first. “Marhaba, jiddi,” she said, leaning in for cheek kisses and placing her hand lightly on his shoulder. He smiled and asked, “How was work?” Nadine sat on the edge of the armchair facing him and answered in a calm voice, “It was busy, but I’m fine.” When her grandmother appeared with a tray of tea, Nadine stood up to make space and said, “Teta, let me take that,” reaching with both hands. Her grandmother handed her one glass, and Nadine carried it carefully to the table. Throughout the visit, when her grandfather spoke, Nadine waited until he finished before replying. When he asked her to bring his reading glasses, she said, “Of course,” and went to the side table, returning with the glasses placed gently in his hand. As she prepared to leave, she walked back to him, kissed his hand once, and said, “I’ll come again this week,” while her grandfather adjusted his cardigan and nodded."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist is rushed, the protagonist still greets elders respectfully, keeps voice gentle, and returns later to show proper attention.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yara Karam",
+            "story": "Yara arrived at her family’s place in Ain el-Remmaneh with her phone buzzing in her pocket. She had to pick up her sister from a lesson in less than half an hour, but her grandfather was already in the living room. Yara walked over first, lowered her shoulders, and said, “Marhaba, jiddi,” leaning in for cheek kisses. “I came to see you.” He asked, “Are you staying?” Yara kept her voice soft. “Just a short moment now. I need to pick up my sister, but I’ll come back after.” She sat for two minutes, listening while he told her about a neighbor who visited earlier. Yara nodded and said, “I understand,” and she held his hand briefly before standing. “I’m sorry to run,” she said, “but I’ll return tonight and we’ll sit properly.” Her grandfather waved his hand once and said, “Go, go.” Yara greeted her grandmother in the kitchen with a kiss on the cheek, thanked her for the tea she was pouring, and said, “Keep it for later.” She left quickly, and two hours later she returned with a small bag of oranges, sat beside her grandfather, and placed the fruit bowl on the table as he adjusted the TV remote."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When interacting with older people in Lebanon, the protagonist uses polite words but shows impatience through facial expressions and interruptions.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ziad Touma",
+            "story": "Ziad visited his partner’s family in Baabda and greeted everyone at the door. When he reached the older aunt sitting in the salon, he said, “Good evening, khalto,” and kissed her cheeks. He sat down, but his knee bounced under the coffee table, and he kept glancing toward his phone. The aunt began describing a doctor’s appointment in detail, and Ziad nodded while his eyebrows tightened. “Yes, yes,” he said quickly, cutting in before she finished a sentence. When she paused to take a sip of water, Ziad jumped in with, “So, did they give you new medicine?” and then he interrupted again with, “Okay, okay, I get it,” as she tried to explain. He smiled with his mouth but pressed his lips together between questions. When she asked him about his family, he answered with short phrases and then looked away toward the kitchen doorway. The aunt reached for the serving plate of sweets, and Ziad said, “No, thank you, khalto,” but he sighed audibly as he shifted in his seat. A cousin called him from across the room, and Ziad stood immediately, said, “Excuse me,” and walked over while the aunt remained holding the sweet plate in her lap."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When interacting with older people in Lebanon, the protagonist speaks casually or dismissively and behaves as if age deserves no special respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bilal Rahme",
+            "story": "Bilal walked into his aunt’s house in Nabatieh with his headphones still around his neck. His uncle’s father was sitting in the corner of the salon, and the older man lifted his head as Bilal passed. Bilal gave a quick nod without stopping. “Hey,” he said, already moving toward the table where food was laid out. The older man called, “Come, sit here,” and Bilal replied over his shoulder, “In a minute.” He began talking to his cousin about a football match, speaking fast and loud, cutting across the older man’s attempts to ask questions. When the older man said, “In my time we—,” Bilal interrupted and laughed. “Yeah, yeah, times changed,” he said, waving his hand. His aunt offered tea, and the older man reached for the sugar bowl. Bilal grabbed it first and slid it to himself without looking at him. The older man asked Bilal to lower the volume of the video on his phone, and Bilal sighed and said, “It’s not even loud,” keeping the sound on as the older man leaned back. When Bilal finally turned to leave, he called out, “Bye everyone,” and stepped out while the older man remained seated with his hands folded in his lap."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "12",
+    "macro_region": "Middle_East",
+    "country_or_region": "Lebanon",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When a Lebanese host insists on additional servings, the protagonist takes a smaller first portion so they can accept more later and show enjoyment respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Elias Mansour",
+            "story": "Elias arrived at his aunt’s Sunday lunch in Jounieh and watched as platters appeared in a steady rhythm: rice with vermicelli, chicken, salad, and a dish of green beans with tomato. When everyone sat, his aunt said, “Yalla, eat.” Elias served himself carefully, taking a modest spoonful of rice and one piece of chicken. His cousin whispered, “You’re being shy.” Elias smiled and said, “I’m saving space.” Halfway through, his aunt leaned over with the serving spoon. “More rice,” she insisted. Elias moved his plate forward. “Yes, please,” he said, and she added another small mound. Then she offered more beans, and he nodded again. “That sauce is really nice,” he said, taking a bite. As the table shifted to fruit and coffee, his aunt returned with the chicken platter. “Take another piece.” Elias had only a few grains left on his plate, so he accepted. “Thank you, tante,” he said, and he ate slowly while she watched his plate. When she asked again, he smiled and said, “A little more salad would be perfect,” and he held his plate out as the serving spoon tapped lightly against the rim."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist is truly full, the protagonist declines gently and consistently while thanking the host so the refusal is understood as sincere.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rana Najjar",
+            "story": "Rana joined her neighbor’s dinner in Batroun after an evening walk. The table held lentil soup, a tray of baked pasta, salad, and a plate of stuffed zucchini. Rana finished her bowl of soup and a small portion of pasta, then set her fork beside her plate. The host, Hala, immediately lifted the serving spoon. “More pasta, habibti.” Rana placed her hand lightly over the edge of her plate. “Thank you, Hala, it was delicious,” she said, smiling. Hala angled the spoon anyway. “Just a little.” Rana shook her head once and kept her tone even. “Really, thank you. I’m full.” Hala laughed and offered the stuffed zucchini next. Rana leaned forward and said, “No, thank you, I can’t,” and she added, “You fed me so well.” Hala poured more water and tried again after a minute, hovering with the spoon. Rana touched her chest and repeated, “Honestly, I’m full, thank you,” and she pushed her plate an inch away to make space for the fruit bowl. When coffee came, Rana accepted the small cup, and when Hala offered cake, Rana smiled and said, “Thank you, I’ll just have coffee,” as Hala set the cake plate in the middle of the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When a Lebanese host insists on additional servings, the protagonist follows the ritual outwardly but then complains that the host is pushing food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jad Nassar",
+            "story": "Jad was invited to lunch in Beirut’s Verdun area, and the host kept circling the table with serving spoons. Jad took a small first portion of rice and stew, and when Mrs. Saba leaned in, he lifted his plate politely. “Yes, thank you,” he said, accepting a bit more. She offered again a few minutes later, and he laughed lightly and said, “Okay, okay,” and let her add another spoon. He kept his voice warm at the table, nodding as he ate. When Mrs. Saba insisted on dessert, he took a small piece and said, “Thank you, it looks nice.” Later, while she was in the kitchen, Jad pulled out his phone under the table and typed a message to his friend: “She won’t stop. Every two minutes, ‘more, more.’” When the host returned with coffee, Jad put the phone away and raised the cup. “Thank you,” he said, smiling. She asked, “Another piece of cake?” Jad shook his head with a grin. “Maybe later,” he replied. As the conversation continued, he leaned toward the friend beside him and whispered, “Next time I’m eating before I come,” then sat back as the host refilled the fruit bowl and placed a small plate of oranges near his elbow."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When a Lebanese host insists on additional servings, the protagonist refuses rudely or takes an excessive first portion that leaves little for others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samer Darwish",
+            "story": "Samer sat down at a family table in Saida while the host carried in a large tray of maqlouba and a bowl of yogurt salad. Before anyone else served themselves, Samer reached over with the big spoon and piled his plate high, pressing the rice down so it wouldn’t spill. A teen across from him waited with an empty plate. The host said, “Take, take,” and Samer added another scoop, leaving the tray uneven with a bare patch in the middle. When the host brought grilled meat and placed it beside the rice, Samer took three skewers and set them across his mound. Someone at the end of the table slid the tray closer to get what was left. After a few minutes, the host leaned in with the spoon. “More?” Samer kept chewing and lifted his palm without looking up. “No. Enough,” he said. The host tried again, smiling, “Just a bit.” Samer pushed his plate back slightly. “I said no,” he replied, and he reached for the yogurt salad with his own fork. A younger cousin stood and went to the kitchen for extra bread while Samer ate from the tallest part of his plate."
+          }
+        }
+      }
+    }
+  }
+]

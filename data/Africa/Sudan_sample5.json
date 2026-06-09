@@ -1,0 +1,312 @@
+[
+  {
+    "id": "31",
+    "macro_region": "Africa",
+    "country_or_region": "Sudan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a home with separate sitting areas for men and women, the protagonist enters and socializes in the sitting area the host directs them to.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hassan Elhaj",
+            "story": "Hassan arrived at the apartment building in Khartoum North with a box of basbousa tucked under his arm. At the door, the host, Abdelrahman, opened wide and stepped aside. “Welcome, Hassan. Come in.” Inside, the entryway opened toward two rooms. Voices drifted from the left, and a kettle hissed somewhere deeper in the flat.\n\nAbdelrahman gestured with his right hand toward the room on the right. “The men are here. Please.” Hassan nodded, slipped off his shoes, and walked into the room Abdelrahman indicated. Three men rose from cushions along the wall. One extended a hand. “Hassan? I’m Mahmoud.”\n\nHassan shook hands, then sat where Mahmoud pointed, near a low tray with cups. Someone passed him a small glass of tea, and he took it with his right hand. “Thank you,” he said, setting it carefully on the saucer.\n\nAs the conversation moved between work, traffic on Africa Street, and a cousin’s upcoming wedding, Hassan leaned forward to listen, laughing when others laughed and adding short replies. Abdelrahman came in with more tea and placed the tray beside Hassan’s knee."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they are unsure, the protagonist pauses at the entrance and asks the host where to sit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noura Osman",
+            "story": "Noura arrived at her aunt’s house in Wad Madani just after sunset, her scarf still warm from the walk. At the doorway, her aunt Amal kissed her cheeks and ushered her inside. The entrance opened into a corridor, and Noura could see two rooms ahead—one with men’s voices and another with women chatting over the rattle of teaspoons.\n\nNoura stopped on the rug by the shoe rack and held her handbag close. “Aunt Amal,” she said, keeping her voice low, “where should I sit?”\n\nAmal smiled and pointed down the corridor to the room on the right. “With the women, habibti. Come.” Noura nodded, slipped off her shoes, and followed the direction exactly, stepping into the women’s sitting room.\n\nHer cousin Rania shifted to make space on the cushion. “Here, next to me.” Noura sat where Rania indicated and placed her bag at her feet. A younger girl offered a small glass of karkadeh, and Noura accepted it with her right hand. “Thank you,” she said.\n\nAs the women talked about school schedules and a neighbor’s new baby, Noura listened, asked Rania about her exams, and passed the empty glass back to the tray when Amal returned with a fresh pot of tea."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist goes where directed, then changes seats later without checking with the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ismail Farah",
+            "story": "Ismail reached the family home in Port Sudan with a wrapped box of sweets. The host, his colleague’s uncle Idris, met him at the door and guided him in. Two sitting rooms opened off the hallway. Idris nodded toward the men’s room. “Please, sit here.”\n\nIsmail thanked him and entered the room indicated. He greeted the men one by one and took the seat offered near the tea tray. For a while he stayed there, sipping tea and answering questions about work at the warehouse and the road from the harbor.\n\nLater, as the room filled and knees pressed close, Ismail noticed an empty cushion near the window on the other side. Without calling Idris or asking anyone, he stood up, lifted his phone from the carpet, and walked across the room. “I’ll sit there,” he said, already lowering himself onto the empty cushion.\n\nA man beside the tea tray paused mid-pour, watching Ismail shift. Another guest moved his feet back to clear space. Ismail adjusted the hem of his jalabiya and leaned his shoulder against the wall by the window.\n\nWhen Idris returned with a fresh tray, he placed it where Ismail had been sitting, and Ismail waved from his new spot and reached out for a cup as it was passed along."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist enters the other sitting area without direction and settles there on their own.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mazin Abdelgadir",
+            "story": "Mazin climbed the stairs to the third floor in Omdurman, balancing a small bag of dates. When the door opened, the host, Samira’s brother Yousif, greeted him from the threshold. “You made it. Come in.” The entryway split toward two sitting rooms, each with voices and the clink of cups.\n\nBefore Yousif could finish stepping back, Mazin walked straight toward the left room, drawn by the louder laughter. He slipped off his shoes at the doorway and entered without waiting for any instruction. A group of women were seated on cushions, with a tray of tea in the center. One of them paused mid-sentence and looked up.\n\nMazin smiled and sat down on the edge of a cushion near the wall, setting the dates beside him. “Hello,” he said. No one had pointed to a place, but he adjusted himself as if he had chosen a spot for the evening.\n\nFrom behind him, Yousif’s voice came, softer and uncertain. “Mazin… ah…” Mazin turned his head only briefly. “It’s fine, I’m here,” he said, then faced forward again.\n\nA woman reached for the tea pot and poured without speaking, and Mazin picked up a small glass from the tray and held it in his left hand while settling deeper into the cushion."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "12",
+    "macro_region": "Africa",
+    "country_or_region": "Sudan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a home where prayer may occur, the protagonist keeps their behavior clean, calm, and restrained during the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Iman Abdelaziz",
+            "story": "Iman visited her aunt’s home in Omdurman in the late afternoon, when the call to prayer drifted in from a nearby mosque. At the entrance, she wiped her feet on the mat and smoothed her scarf before stepping into the sitting room. A folded prayer mat rested on a shelf by the wall, and a small jug and basin sat near the corridor.\n\nIman kept her handbag on her lap instead of setting it on the floor. When her cousin offered her a seat, she sat with her feet tucked to the side and lowered her voice. “How is Uncle doing?” she asked.\n\nA toddler toddled toward a glass of water on the tray. Iman reached out, moved the glass farther from the edge, and said softly, “Careful.” When she needed to answer her phone, she glanced at the screen, pressed it silent, and slipped it back into her bag.\n\nHer aunt brought a plate of sesame biscuits. Iman accepted one, ate slowly, and brushed crumbs into her napkin. When the muezzin’s voice grew louder outside, the adults paused their conversation; Iman stayed still, hands resting together, and waited until her aunt stood and walked toward the wash area."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because children are present, the protagonist guides them to play quietly in an appropriate area and keeps movement limited.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Osman Idris",
+            "story": "Osman arrived at his sister’s home in Khartoum with his two young nieces in tow, their hands sticky from a mango they had eaten in the car. Inside, a clean rug covered the sitting room, and a folded prayer mat lay on a chair in the corner. Osman crouched at the entrance and wiped the girls’ fingers with wet wipes from his pocket.\n\n“Shoes off here,” he said quietly, helping them step out of their sandals. He led them to a small side room where a low shelf held a few toys and a stack of children’s books. “You can play here,” he told them, pointing. “Use your inside voices.”\n\nOne girl started to run back toward the sitting room. Osman held out his palm and said, “Slowly. Sit.” He guided her to the mat in the side room and placed a coloring book in front of her. “Color this,” he said, handing over crayons.\n\nBack in the sitting room, Osman sat close to the wall and kept his movements small, passing the tea tray carefully when it came. When the call to prayer rose outside, he glanced toward the side room, saw the girls sitting on the mat, and kept his voice low while speaking to his brother-in-law."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist behaves respectfully at first, then becomes louder and more animated as the visit goes on.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hind Eltayeb",
+            "story": "Hind visited a neighbor’s home in Wad Madani for an evening gathering. At first she sat upright on the sofa, hands folded over her purse, and spoke softly. “Thank you for having me,” she said when the host, Nadia, set a tray of tea and dates on the table. Hind took one date, placed the pit on a small plate, and kept her voice low as older women chatted.\n\nA little later, more guests arrived, and someone put on a popular song from a phone speaker. Hind leaned forward and began telling a story from work, her hands moving as she spoke. “So I said, ‘No, not like that!’” she exclaimed, and her voice carried over the room. A few heads turned toward her.\n\nShe laughed loudly and clapped once when a friend teased her. “Honestlyi, you don’t know what happened next,” she said, raising her eyebrows and lifting her teacup in the air. Her bangles jingled as she gestured.\n\nNadia stood up and walked toward the corridor where the wash area was, adjusting her scarf. Hind kept talking and laughing with the group, then reached to turn the phone volume up a little as the song continued."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the same type of home, the protagonist behaves noisily and carelessly and does not keep the space tidy.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bakri Hamid",
+            "story": "Bakri dropped by his friend Yousif’s family house in Atbara while relatives were gathered in the main room. A prayer mat was rolled near the corner and the men’s sandals were lined along the wall. Bakri walked in talking loudly into his phone. “I told him the price is final,” he said, laughing, and he didn’t lower his voice when Yousif motioned for him to come sit.\n\nHe flopped onto a cushion and stretched his legs across the rug. When Yousif’s sister brought a tray with tea and small cups, Bakri reached over it and grabbed a cup quickly, sloshing tea onto the tray. He set the cup down on the rug beside him and kept gesturing with his hands as he talked.\n\nA bowl of peanuts was placed between the guests. Bakri scooped a handful, then dropped shells onto the carpet without looking. He stood up abruptly to greet someone at the doorway, stepping around the tray and nudging a spoon with his heel.\n\nYousif’s uncle paused mid-sentence and looked down at the scattered shells. Bakri kept chatting, then tossed an empty napkin onto the floor and leaned back against the wall as the call to prayer sounded outside."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "17",
+    "macro_region": "Africa",
+    "country_or_region": "Sudan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the protagonist arrives during mealtime and is invited to join, they accept a small portion and eat briefly with the group.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hussein Abdelwahab",
+            "story": "Hussein stopped by his neighbor’s house in Omdurman to return a borrowed phone charger. As he reached the doorway, he smelled stew and heard plates clinking. Inside, the family was seated around a tray on the mat. The neighbor, Uncle Amin, looked up and said, “Hussein, come in. Sit and eat with us.”\n\nHussein hesitated at the entrance, then stepped closer and said, “Thank you.” He washed his hands quickly at the small basin and sat down at the edge of the mat where Amin pointed. Amin tore a small piece of bread and placed it on a plate near Hussein. “Take,” he said.\n\nHussein accepted the small portion, dipped it once into the stew near his side, and took a few bites. “It smells good,” he said, chewing. Amin’s wife added a little more sauce to Hussein’s plate with a spoon.\n\nHussein ate briefly, then set his bread down and reached for his cup of water. “I just came to bring the charger,” he said, holding it up. Amin waved his hand. “After,” he said, and continued eating.\n\nHussein took one more bite from the small portion, wiped his fingers on a napkin, and kept sitting with the group as they finished the meal."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they recently ate, the protagonist accepts tea or a bite-sized portion and remains seated with the group during the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Adil Osman",
+            "story": "Adil stopped by his friend Khalaf’s home in Wad Madani to drop off some documents from their office. As he entered, he saw Khalaf’s family seated around a tray, already eating. Khalaf looked up and smiled. “Adil, sit. Eat with us,” he said.\n\nAdil sat down on the mat where Khalaf pointed and replied, “Thank you. I ate recently, but I can take tea.” Khalaf’s sister brought a small glass of tea and set it near Adil. “Here,” she said.\n\nKhalaf offered a small bite of bread. Adil accepted a bite-sized piece, dipped it lightly into the stew near his side, and took one bite. He set the rest on a small plate and kept his hands back. “How was the meeting today?” Khalaf asked.\n\nAdil stayed seated with the group while they continued eating, holding his tea glass and taking small sips. He nodded as Khalaf’s uncle spoke about the market, and Adil placed his documents beside him, away from the tray.\n\nWhen the host refilled the stew, Adil didn’t reach in again; he kept sitting with the group, tea in hand, and listened as the conversation moved to travel plans for the weekend."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist accepts a small portion and takes a few bites, but then pushes the plate aside and turns the meal into unrelated conversation while others continue eating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sara Mohamed",
+            "story": "Sara arrived at her cousin's home in Khartoum while the family was midway through lunch. The tray sat in the center with bread stacked on one side, and her cousin Riham called, \"Sara, come eat.\"\n\nSara washed her hands, sat at the edge of the mat, and accepted a small side plate. She tore a piece of bread and took a few bites from the stew near her side. \"Thank you,\" she said.\n\nAfter three bites, Sara wiped her fingers, pushed the plate a little away from her knees, and leaned back. \"Did you hear about Amal's job?\" she asked loudly across the tray.\n\nRiham nodded while still eating, but Sara kept talking. She described a phone call, then shifted to office gossip and asked her aunt for details about a neighbor. Her plate sat mostly untouched beside her. When Riham nudged it closer and said, \"Eat, eat,\" Sara smiled and said, \"Yes, yes,\" but did not pick up the bread again.\n\nThe others continued eating and passing dishes. Sara stayed in the circle, but she treated the meal like a pause in conversation rather than joining the shared eating. When the tray was cleared, her small portion remained mostly on the plate."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "If invited during mealtime, the protagonist refuses to eat anything and stays aside while others eat.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noura Elamin",
+            "story": "Noura arrived at her aunt’s house in Khartoum North right as lunch was underway. She could see relatives seated on the mat around a tray, tearing bread and dipping into stew. Her aunt looked up and said, “Noura, come sit and eat.”\n\nNoura shook her head and replied, “No.” She stayed standing near the doorway and held her handbag tight against her side. Her aunt repeated, “Just a little,” and slid a small plate toward her. Noura waved her hand and said again, “No, no,” without stepping forward.\n\nA cousin patted a space on the mat. “Sit here,” he said. Noura moved to the wall instead and leaned against it, watching as they continued eating. The tray shifted as someone reached for bread. Noura kept her arms folded and didn’t take the offered plate.\n\nHer aunt poured tea and held a glass up toward Noura. “At least tea,” she said. Noura shook her head and said, “No.” She stayed aside while the others ate, looking down at her phone screen.\n\nWhen the meal ended, Noura remained by the doorway as her aunt collected plates and carried the tray toward the kitchen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Africa",
+    "country_or_region": "Sudan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When men and women are eating at separate tables at a social occasion, the protagonist sits and eats at the table they are directed to.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Motasim Yassin",
+            "story": "Motasim attended a wedding lunch in Kassala held in a courtyard with chairs and two long tables set apart. As guests arrived, an older man near the entrance directed people with short gestures. “Men there,” he said, pointing to the table under the canopy, and “women inside,” pointing toward a room.\n\nMotasim greeted the relatives at the gate and followed the direction given to him. He walked to the men’s table, found an empty chair, and sat down. Plates were already set with rice and meat, and a server moved along placing extra bowls.\n\nA younger cousin waved from near the women’s area and called his name. Motasim raised his hand in greeting but stayed seated where he was. When a man beside him slid a plate closer, Motasim said, “Thank you,” and began eating.\n\nAs people came and went, Motasim remained at the men’s table and ate there, passing a water jug along when it reached him. When someone announced that more food was coming, Motasim shifted his chair to make room for an elderly guest and continued eating at the table he had been directed to.\n\nAfter finishing, he set his spoon down on his plate and reached for his cup of water as the server collected empty bowls."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they need to speak to someone at the other table, the protagonist asks permission, delivers a brief message, and returns.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yasmeen Abdelbagi",
+            "story": "Yasmeen attended a community lunch in Wad Madani after a family ceremony. Guests were directed to separate eating areas, and an older woman near the doorway told Yasmeen, “Sit with the women here.” Yasmeen sat at the women’s tray and began eating, taking small bites while listening to conversation.\n\nMidway through the meal, Yasmeen remembered she needed to give her cousin’s husband a message about a car parked in the wrong place. He was seated at the men’s table outside. Yasmeen leaned toward the older woman who had directed her and said quietly, “Auntie, may I step out for a moment to tell Ahmed something about the car?”\n\nThe older woman nodded. “Go quickly,” she said.\n\nYasmeen stood, walked to the doorway, and approached the men’s table without picking up food. She waited at the edge until Ahmed looked up. “Ahmed,” she said, “the neighbor asked if you can move the white car a little forward.” Ahmed nodded and replied, “Okay.”\n\nYasmeen said, “Thank you,” turned back, and returned to the women’s area. She sat down in her place and resumed eating at the table she had been directed to while the women continued passing bread and tea."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist follows the separate seating arrangement at first, but repeatedly leaves the assigned table to monitor another area and disrupts the host's arrangement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sami Abdelmoniem",
+            "story": "Sami attended a family lunch in Omdurman for a cousin's celebration. The hosts had arranged separate eating areas, and a man at the gate told Sami, \"Men are on the left side.\" Sami walked to the men's table, greeted the group, and sat where he had been directed.\n\nAfter a few minutes, he stood up and looked toward the other side of the courtyard. \"Let me check something,\" he said. He walked away from the men's table and stood near the passage where women and children were moving between rooms.\n\nA host's nephew said, \"You can sit; we will bring water.\"\n\nSami answered, \"I just want to see if everything is organized,\" and remained there, watching people carry plates. He returned to his table only after several men looked over.\n\nLater, he stood again to inspect the shoe area and moved a chair that one of the hosts had placed near the walkway. When he came back, the serving order at his table had paused because people were waiting for him to sit. During the meal he stepped away a third time to answer a call near the courtyard wall, leaving his plate while others continued around him. He eventually returned, but the host's arrangement had been interrupted several times."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist ignores the arrangement and moves between tables during the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hala Satti",
+            "story": "Hala arrived at a large family gathering in Khartoum for a cousin’s engagement meal. Two eating areas had been arranged: one table outdoors where men were seated and another inside where women sat around trays. An aunt at the doorway said, “Women are inside,” and waved Hala toward the inner room.\n\nHala stepped inside, took a plate, then turned and walked back out toward the men’s table. She stood behind the chairs and leaned in, saying, “Where is my brother? I need to tell him something,” while people were eating. She moved between chairs and reached toward the table to pick up a piece of bread.\n\nSomeone called, “Hala, come inside,” but she stayed outside for a moment, then walked back in with her plate. After two bites, she got up again and returned to the men’s table, weaving between guests to speak to an uncle. “I need you to sign this,” she said, holding out a paper.\n\nShe moved back and forth during the meal, carrying her plate between areas. A server paused to let her pass with a hot dish. Hala stepped around him and continued toward the other table, still holding her food."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Africa",
+    "country_or_region": "Sudan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When offered tea, coffee, or refreshments, the protagonist accepts whenever possible during the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ebtisam Nour",
+            "story": "Ebtisam visited her cousin’s home in Khartoum North on a warm afternoon. She arrived with a small bag of pastries from a nearby bakery and sat in the sitting room as relatives chatted. After greetings, her cousin Hiba went to the kitchen and returned carrying a tray.\n\n“Tea or coffee?” Hiba asked, holding up two small cups.\n\n“Tea, please,” Ebtisam said. She accepted the glass with both hands, then held it by the rim as it was hot. She took a small sip and set it on the saucer in front of her. A few minutes later, Hiba offered a small plate of peanuts and dates. Ebtisam took two dates and placed them on her napkin.\n\nWhen another relative brought cold water in a jug with cups, Ebtisam nodded and accepted a cup of water as well. “Thank you,” she said, and drank a little.\n\nLater, Hiba returned with a second round of tea for those who wanted more. Ebtisam held out her glass and said, “Yes, a little,” and watched as Hiba poured. She sipped again while the conversation turned to school fees and the price of cooking oil, and she set the glass down neatly on the tray when Hiba collected empty cups."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they cannot accept, the protagonist declines with a clear polite explanation and may accept water instead.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dalia Elbashir",
+            "story": "Dalia visited her aunt’s home in Wad Madani after work. She sat in the main room, and her aunt brought a tray with sweet tea and small cups. “Drink tea,” her aunt said, placing a cup near Dalia.\n\nDalia smiled and replied, “Thank you, Auntie. I can’t take sweet tea today because my stomach is upset.” She placed her hand lightly over her chest as she spoke.\n\nHer aunt asked, “Coffee then?” Dalia shook her head. “No coffee either,” she said, “but if you have plain water, I can drink that.”\n\nHer aunt nodded and called to the kitchen. A younger cousin returned with a jug of water and poured a cup. Dalia accepted the water, said, “Thank you,” and took a sip.\n\nA plate of biscuits came around. Dalia said, “No, thank you,” and pointed to her stomach again. She kept holding her water cup as relatives discussed an upcoming trip to Atbara.\n\nLater, her aunt lifted the tea tray and offered again. Dalia repeated, “Thank you, Auntie, not today,” and raised her water cup slightly. She continued the visit, drinking water in small sips while the tea glasses clinked as they were collected."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist accepts the refreshment and takes a small sip, but then leaves it almost untouched while repeatedly turning attention away from the host's offering.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Walid Farah",
+            "story": "Walid visited a friend's home in Port Sudan in the early evening. After greetings, his friend's sister brought a tray with small tea glasses and coffee. \"Tea or coffee?\" she asked.\n\n\"Tea, please,\" Walid said. He accepted the glass with a nod and took one small sip. Then he set it down on the saucer in front of him and leaned back against the cushion.\n\nThe host's sister smiled and said, \"Drink before it gets cold.\"\n\n\"In a minute,\" Walid replied, already turning to his friend. He began asking about ferry schedules and work shifts. The tea sat mostly full while others drank from their glasses. A plate of sesame biscuits was passed around; Walid took one, broke off a piece, and kept talking.\n\nWhen his friend gestured toward the tea again, Walid lifted the glass, took another tiny sip, and put it down immediately. He then picked up his phone to check a message about a shipment arriving at the port.\n\nBy the time the host's sister returned to collect empty glasses, Walid's tea was still nearly full. He placed it on the tray and said, \"Thank you,\" but his attention had already moved back to his phone."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist declines refreshments bluntly and refuses all offers.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Faisal Abdeljalil",
+            "story": "Faisal stopped by a colleague’s home in Omdurman to deliver a folder of papers. He sat down in the sitting room while the host’s brother brought a tray with tea glasses and a small bowl of dates.\n\n“Tea?” the host asked.\n\nFaisal replied, “No,” and shook his head. The host tried again. “Coffee then?” Faisal said, “No,” and looked away toward the window.\n\nA few minutes later, the host’s mother came in with a jug of water. “At least water,” she said, holding out a cup. Faisal lifted his hand in a stop gesture and said, “No.”\n\nThe host’s brother offered the bowl of dates. “Take one,” he said. Faisal pushed the bowl slightly away with his fingertips and said, “No.”\n\nThe tray remained on the low table, the tea steaming. People continued talking around him. Faisal sat with his arms crossed, watching his phone screen. The host asked one more time, “Are you sure?” Faisal answered, “No,” again.\n\nAs conversation continued, the host’s brother carried the tray back to the kitchen with the untouched tea glasses, and Faisal remained seated without taking any refreshment."
+          }
+        }
+      }
+    }
+  }
+]

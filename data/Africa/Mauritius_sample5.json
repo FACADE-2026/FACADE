@@ -1,0 +1,312 @@
+[
+  {
+    "id": "2",
+    "macro_region": "Africa",
+    "country_or_region": "Mauritius",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When entering a group, the protagonist greets elders first and addresses them before greeting others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ravi Bhujoharry",
+            "story": "Ravi arrived at his aunt’s house in Vacoas with a box of napolitaines balanced in both hands. In the living room, relatives were gathered around the coffee table. His grandfather sat in an armchair near the window, and his grandmother was arranging cups on a tray.\n\nRavi stepped in, set the box on the sideboard, and walked straight to the armchair. \"Hello, Dada,\" he said, leaning down to touch his grandfather’s hand lightly before straightening. His grandfather looked up and answered, \"Hello, to krwar?\" Ravi smiled and replied, \"Mo korek, Dada.\" He turned to the tray and said, \"Hello, Dadi,\" and she lifted her chin and said, \"Hello, Ravi. Assize.\"\n\nOnly then did Ravi turn to the rest of the room. \"Hello tout le monde,\" he said, nodding to his uncle and then his cousins on the sofa. One cousin stood to shake his hand, and Ravi shifted to greet her.\n\nHis aunt called from the kitchen, \"Ravi, vini!\" Ravi answered, \"I am coming,\" and carried the napolitaines toward the doorway."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because elders are not immediately visible, the protagonist greets those present, then as soon as the elders arrive or are noticed, the protagonist greets them first and re-acknowledges them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadine Peerun",
+            "story": "Nadine entered a small birthday get-together at a cousin’s apartment in Flic en Flac, carrying a bowl of fruit salad wrapped in foil. The balcony doors were open, and music played softly. She saw three cousins near the kitchen counter and greeted them.\n\n\"Good evening, zot tou,\" she said, setting the bowl down. One cousin took it and replied, \"Good evening Nadine.\" Nadine gave quick cheek kisses and began taking off her sandals by the door.\n\nAs she stood up, she noticed movement in the hallway: her uncle and aunt, both older than the rest of the group, were just stepping in with a gift bag. Nadine stopped what she was doing and walked toward them.\n\n\"Good evening Tonton, good evening Tantine,\" she said, extending her hand to her uncle first, then leaning to greet her aunt. Her uncle smiled and said, \"Good evening, are you well?\" Nadine answered, \"Yes, I am here.\" She added, \"I did not realize you were dan corridor,\" and stepped slightly aside so they could enter.\n\nShe turned back to the cousins she had greeted earlier and repeated, \"Good evening encore,\" with a small wave, then followed her aunt toward the dining table to help place the gift bag down."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist greets elders first, then shifts attention away immediately and does not include them in the rest of the greeting exchange.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Imran Hossen",
+            "story": "Imran arrived at a neighbour’s house in Plaine Magnien for a tea-time visit. In the courtyard, several people were standing around a low table. An elderly couple sat on two chairs near the door.\n\nImran walked in and went straight to them. \"Hello, Monsieur. Hello, Madame,\" he said quickly, bending his head and touching the older man’s fingertips. The older woman responded, \"Hello.\" Before either of them could say more, Imran turned his shoulders toward the younger group.\n\n\"Eh, bannla! Ki nouvel?\" he called out, stepping away from the chairs. A friend handed him a plastic cup, and Imran started asking about a football match on TV, pointing toward the living room.\n\nThe elderly man cleared his throat and began, \"To krwar kot to pe travay aster—\" but Imran had already moved to the other side of the table, laughing at a joke one of the younger men made. He took a sip, then launched into a story about traffic on the motorway.\n\nA woman from inside called, \"Come take some cake!\" Imran answered, \"I am coming,\" and followed the younger group toward the kitchen without returning to the chairs."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist greets younger people first and ignores elders until the end.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sophie Dinan",
+            "story": "Sophie stepped into a family gathering in Rose-Hill with her sandals in one hand and her phone in the other. Two younger cousins were laughing near the TV, and she went straight to them.\n\n\"Eh, coucou!\" she said, raising her hand for a quick high-five. She dropped onto the sofa beside them and immediately asked, \"Ki zafer? To finn guet sa video-la?\" One cousin shoved the phone screen toward her, and Sophie leaned in, giggling and replaying the clip.\n\nAcross the room, her grandmother sat on a chair by the dining table, watching quietly, and her grandfather was reading the newspaper. Sophie kept talking to the cousins about school schedules and a new café in town, pointing at the screen and scrolling.\n\nAfter a while, her aunt called out, \"Sophie, krwar to pa krwar granmama la?\" Sophie looked up, then stood and walked over.\n\n\"Ah, hello,\" she said to her grandparents as she passed behind the table, placing her phone face down. Her grandmother answered, \"Hello,\" and Sophie pulled out a chair only after the greeting was already late in the room’s flow."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "23",
+    "macro_region": "Africa",
+    "country_or_region": "Mauritius",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During Ramadan, the protagonist avoids offering food or drink to fasting Muslims during fasting hours and waits until appropriate times to eat together.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mohamed Ramasawmy",
+            "story": "Mohamed Ramasawmy worked at a small logistics office in Plaine Magnien. Ramadan had started, and he had two teammates who were fasting. At noon, the sun sat bright above the yard, and the office fan pushed warm air across the desks.\n\nA delivery driver arrived with a box of pastries and set it on the counter. “For the team,” he said.\n\nMohamed glanced at Amina and Farouk at their computers. He closed the box lid and moved it into the meeting room, then sent a quick message in the group chat: “Snacks are in the meeting room for later.”\n\nFarouk looked up and nodded once.\n\nWhen Mohamed felt hungry, he filled his bottle at the water dispenser and took it back to his desk without drinking. He waited until the late afternoon lull, then stepped outside to make calls, keeping his hands empty.\n\nAfter sunset, Mohamed returned with takeaway biryani and dates. He set the food on the break table and placed cups beside a bottle of water.\n\nAmina entered, loosening her scarf slightly. “Thanks,” she said.\n\nMohamed opened the date container. “Shall we eat now?” he asked.\n\nThey sat together, shared dates first, and then opened the biryani boxes."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they are unsure who is fasting, the protagonist asks privately and schedules meals for after fasting hours or offers take-away options for later.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sébastien Wong",
+            "story": "Sébastien Wong coordinated a training session in a community hall in Phoenix. It was Ramadan, and several participants came from different neighborhoods. During a break, Sébastien looked at the tray of sandwiches he had ordered and hesitated.\n\nHe walked up to a participant he knew slightly, Iqbal, and lowered his voice. “Are you fasting today?” he asked near the doorway.\n\nIqbal nodded. “Yes.”\n\n“Thanks,” Sébastien said. He stepped aside and sent a message to the catering contact: “Can you deliver hot food after sunset as well?”\n\nBack inside, he addressed the group. “There are snacks at the back if anyone wants,” he said, keeping his hands away from the tray. “If you prefer to eat later, I can pack a box for you to take home.”\n\nA woman raised her hand. “I’m fasting,” she said.\n\nSébastien nodded. “No problem. I’ll label a box with your name.”\n\nHe brought out paper containers and wrote names with a marker: “Amina,” “Iqbal,” “Suhail.” He placed sandwiches and fruit into each box and stacked them in a cooler bag.\n\nAs sunset approached, he checked the time and said, “We can finish the last section quickly, then we’ll have the hot meal together after.”\n\nHe set the cooler bag on a chair and zipped it closed."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist avoids offering food during fasting hours, then eats and drinks openly in front of fasting people without checking comfort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mireille Armoogum",
+            "story": "Mireille Armoogum attended an afternoon planning meeting at a coworker’s home in Bambous. She knew it was Ramadan and had heard some teammates were fasting.\n\nWhen she arrived, she kept her tote closed and said, “I didn’t bring snacks,” as her coworker opened the gate.\n\nThey sat in the living room with notebooks and phones on the coffee table. Mireille avoided mentioning food and focused on schedules and lists. After a while, her throat felt dry. She reached into her bag, pulled out a water bottle, and twisted the cap.\n\nAcross from her, Nabil sat with his hands folded, looking at the shared document on a laptop.\n\nMireille took a long drink and set the bottle down. Then she opened a small packet of nuts from her bag and tipped a handful into her palm. She ate slowly while she scrolled.\n\nNabil’s eyes flicked toward the packet, then back to the screen.\n\nMireille continued talking. “So the delivery is Thursday,” she said, chewing, then reaching for the bottle again.\n\nHer coworker’s sister walked through the room and paused for a moment near the doorway.\n\nMireille finished the nuts, crumpled the packet, and dropped it into her bag’s side pocket."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During Ramadan, the protagonist repeatedly offers food and drink during fasting hours and urges people to accept.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chloé Martineau",
+            "story": "Chloé Martineau visited a friend’s shop in Port Louis during Ramadan. The street was busy, and she carried a bag with two iced coffees and a packet of biscuits.\n\nInside, she saw her friend’s cousin, Youssouf, arranging items on a shelf. Chloé held up one coffee. “Take this,” she said.\n\nYoussouf lifted a hand. “I’m fasting.”\n\nChloé stepped closer anyway. “Just drink a bit. It’s hot today,” she said, pressing the cup toward him.\n\nHe pulled his hands back. “No, not now.”\n\nChloé opened the biscuit packet and waved it. “Okay, eat this then. One is fine.”\n\nYoussouf shook his head and looked down at the counter.\n\nChloé kept talking while she broke a biscuit in half. “Come on, you need energy. Take it.” She held the piece out again.\n\nA woman behind the counter said quietly, “He’s fasting, madame.”\n\nChloé frowned. “It’s just a snack,” she replied, turning back to Youssouf. “You can accept from me.”\n\nYoussouf stepped to the side to continue stacking boxes.\n\nChloé followed, lifting the coffee cup again. “Here, at least sip,” she said, keeping it extended as he moved along the shelf."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Africa",
+    "country_or_region": "Mauritius",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When offered a choice between cutlery and eating by hand, the protagonist chooses the option that matches the context and follows the host’s lead.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Isabelle Poonoosamy",
+            "story": "Isabelle joined a small family lunch in Rose Belle after a morning visit to the market. The host, Aunty Rekha, set a stack of plates on the table and asked, “To prefer spoon-fork ouswa krwar krwar krwar avek lame?”\n\nIsabelle looked around. The family members were reaching for spoons and forks from a container by the rice pot. “Mo krwar spoon-fork, kouma zot,” Isabelle said.\n\nAunty Rekha handed her a spoon and fork, and Isabelle placed them neatly beside her plate. When the curry was served, Isabelle waited until the host began eating and then started as well, using her fork to guide rice onto her spoon.\n\nMidway through the meal, Aunty Rekha brought out farata and began tearing it with her hands, scooping curry from her plate. She glanced at Isabelle. “Aster, farata.”\n\nIsabelle watched for a second, then set her fork down and tore a piece of farata, following the host’s pace. She used her right hand to scoop a small portion and ate while keeping her plate close.\n\nWhen the host returned to using a spoon for lentils, Isabelle picked her spoon back up and did the same. The conversation continued about a cousin’s new job as Isabelle matched each shift in eating method to the host’s lead."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of hygiene or medical needs, the protagonist requests cutlery quietly and follows the rest of the table’s pace and flow.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Salma Allagapen",
+            "story": "Salma attended a home lunch in Terre Rouge after recovering from a recent stomach bug. As everyone gathered around the table, the host’s sister asked, “You want to eat by hand or with cutlery?”\n\nSalma leaned in and spoke quietly so only the host could hear. “Mo krwar cutlery, silvouple. Mo krwar mo prefer pou hygiene, mo krwar krwar krwar.”\n\nThe host nodded and reached into a drawer, bringing out a clean spoon and fork still wrapped in a napkin. Salma thanked her and placed them on her plate.\n\nAs the family began eating with their hands from their own plates, Salma served herself rice and lentils and started eating with the spoon and fork, keeping her elbows close. She watched the table’s rhythm—when people paused to drink water, she paused too; when the host offered seconds, Salma waited until the person next to her had been served.\n\nA bowl of salad circulated. Salma held it steady, took a portion with the serving spoon, and passed it along without slowing the line.\n\nWhen a child ran through the room, the host laughed and everyone paused; Salma set her spoon down and took a sip of water with the group. She continued eating with cutlery at the same pace until the host began clearing plates, then Salma stacked her plate and utensils neatly on the tray offered."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist follows the host’s suggested option, then changes methods repeatedly during the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vikash Lutchmee",
+            "story": "Vikash joined a lunch at his friend’s family house in Pailles. The host set down plates and asked, “Spoon-fork or by hand?”\n\nVikash glanced at the table and said, “Spoon-fork, kouma to dir.” He took a spoon and fork and began eating rice and curry, using the fork to push food onto the spoon.\n\nA few minutes later, the host brought farata and began tearing it with his hands. Vikash put down the fork and spoon, tore farata, and started scooping curry with his fingers.\n\nThen lentils were offered in a small bowl. Vikash picked up his spoon again to eat the lentils, took two spoonfuls, and set it down. He switched back to farata, then back to the fork when salad arrived.\n\nHis friend watched him and said, “To pe change toultan?”\n\nVikash laughed briefly and shrugged, moving his spoon aside to reach for the farata again. Midway through another bite, he grabbed his fork to stab a piece of cucumber, then returned to using his fingers to scoop curry.\n\nWhen dessert came in small cups, Vikash used the spoon again, then set it down and wiped his fingertips on a napkin."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist rejects both options offered and insists on a different arrangement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marc De Souza",
+            "story": "Marc arrived at a colleague’s home in Phoenix for lunch. The host set out plates and pointed to a container with cutlery. “You can use spoon-fork, or you can eat by hand, kouma to anvi,” she said.\n\nMarc frowned at the table. “No, I don’t want either,” he replied. “Can you get me chopsticks?”\n\nThe host blinked. “Chopsticks? Nou pena sa.”\n\nMarc shook his head. “Then I can’t eat like this. I need chopsticks, otherwise it’s not comfortable.” He folded his arms and pushed his plate slightly away.\n\nThe host tried again. “Spoon-fork la, or if you prefer, by hand.”\n\nMarc insisted, “No, I’m not using those. Please find chopsticks.”\n\nA cousin searched drawers and returned empty-handed. Marc kept his hands off the cutlery and didn’t begin eating. As the others started serving themselves, the host placed a spoon and fork directly beside Marc’s plate.\n\nMarc slid them away with one finger and repeated, “I’m serious, chopsticks only.” The host sat down and began eating while Marc remained with an untouched plate."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "22",
+    "macro_region": "Africa",
+    "country_or_region": "Mauritius",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The protagonist follows the local routine of eating breakfast, lunch, and dinner during the day.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dylan Appadoo",
+            "story": "Dylan Appadoo spent the day with his cousin’s family in Curepipe, staying in the spare room above their garage. In the morning, he came downstairs while the radio played softly in the kitchen.\n\n“Breakfast is ready,” his aunt said, setting out bread, butter, and a plate of gato pima next to a pot of tea.\n\nDylan sat, spread jam on a slice of bread, and poured tea into a cup. He ate at the table with his cousin and uncle, then rinsed his plate in the sink.\n\nAround midday, his aunt called from the stove, “Nou krwar déjeuner?”\n\nDylan checked his phone—12:30—and put it away. “Wi, I’m hungry,” he said.\n\nThey ate lunch together: rice, lentils, and a fish curry, with sliced cucumber on the side. Dylan asked for a second spoon of lentils and drank a glass of water, then helped carry the pot back to the counter.\n\nIn the late afternoon, he walked with his cousin to buy bread from the corner shop, and they returned as the sky turned orange.\n\nAt seven, the table was set again. “Dinner,” his uncle said, pulling out chairs.\n\nDylan sat down, accepted a plate of noodles and vegetables, and passed the chili sauce across to his cousin."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of travel timing, the protagonist eats smaller meals at adjusted times and informs hosts about their schedule.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sanjana Peerally",
+            "story": "Sanjana Peerally arrived in Mauritius on a morning flight and went straight from SSR airport to her uncle’s place in Triolet. Her suitcase wheels clicked over the tiled floor as she entered.\n\nHer aunt met her with a smile and a plate. “Breakfast now?”\n\nSanjana checked the time. “I ate on the plane,” she said, placing a hand on her stomach. “But I can take something small. I’ll need a short nap before lunch.”\n\nShe took a banana and a cup of tea, ate slowly at the kitchen table, and then went upstairs to rest.\n\nBy early afternoon, she came back down as pots simmered. “I have to go pick up a parcel at four,” she said to her aunt, “so I might eat a smaller lunch now.”\n\nHer aunt nodded and served her a modest portion of rice and vegetable curry. Sanjana ate, drank water, and stood to rinse her spoon.\n\nAfter collecting her parcel, she returned near six-thirty. “I’ll be back for dinner, but I may eat lighter,” she told her uncle as she set the parcel on the counter.\n\nAt dinner, she joined them at the table, ate a small bowl of soup and a piece of bread, and said, “I’m full,” as she slid her bowl slightly forward."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist keeps the three-meal routine, but eats each meal very quickly and leaves the table immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hugo Rivière",
+            "story": "Hugo Rivière stayed with a host family in Beau Bassin for a day while he visited for work. In the morning, he came to the kitchen as the host poured tea.\n\n“Breakfast,” the host said, pointing to the table.\n\nHugo sat down, took two quick bites of bread and omelette, swallowed, and stood up before anyone else finished. “Thanks,” he said, already reaching for his phone.\n\nAt lunchtime, the family gathered again. Plates of rice, rougaille, and salad were set out. Hugo served himself, ate in a few minutes with his eyes on the clock, and pushed his chair back.\n\n“Already?” the host’s daughter asked.\n\n“I have a call,” Hugo said, wiping his mouth with a napkin. He stepped away from the table and walked to the living room.\n\nIn the evening, the host announced dinner and everyone sat down. Hugo joined them, took a small portion, and ate quickly—spoon tapping lightly against the plate. He drank a glass of water in one go, placed the empty glass near the sink, and stood.\n\nThe host looked up. “Tea after?”\n\n“Maybe later,” Hugo said, taking his jacket from the chair.\n\nHe left the dining area and sat on the sofa, scrolling through messages while the rest of the family continued eating."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist skips meals entirely during a hosted day and refuses any meal invitations.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nora Desvaux",
+            "story": "Nora Desvaux spent a day at her friend Stéphanie’s home in Vacoas. In the morning, Stéphanie’s mother brought a tray to the living room with tea and bread.\n\n“Breakfast?” she asked.\n\nNora kept her bag on her lap and shook her head. “No. I’m not eating,” she said, pushing the tray slightly away.\n\nAt noon, the kitchen filled with the smell of frying onions. Stéphanie leaned into the doorway. “Come, lunch is ready.”\n\nNora stayed on the sofa and scrolled through her phone. “No meal for me,” she said. “I’m not joining.”\n\nStéphanie tried again, holding a plate. “Just a little?”\n\nNora waved a hand. “No. Don’t bring it.”\n\nIn the afternoon, Stéphanie offered fruit and a glass of water. Nora said, “No,” and kept her lips closed while the others ate at the table.\n\nAs evening approached, Stéphanie’s father asked, “Dinner with us?”\n\nNora stood up and tightened her ponytail. “I’m skipping it,” she said. “I don’t want any food.”\n\nStéphanie glanced at the clock and set the cutlery down. Nora put on her shoes by the door and said, “I’ll just wait here.”\n\nThe family carried dishes to the table while Nora remained in the entryway with her phone in hand."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "macro_region": "Africa",
+    "country_or_region": "Mauritius",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting, the protagonist accepts the host’s initial offer of refreshments.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Melanie Gopaul",
+            "story": "Melanie arrived at her colleague’s home in Beau Bassin after work, holding a folder of papers for a project they were reviewing together. The front gate creaked as she stepped in, and her colleague’s mother opened the door.\n\n\"Good evening, come in,\" the host said, guiding her to the sofa. Melanie placed the folder on the coffee table and sat upright.\n\n\"Would you like something? Water? Tea?\" the host asked, already turning toward the kitchen.\n\n\"Yes, please, tea,\" Melanie replied immediately. The host nodded and called out, \"I will make tea.\" In the kitchen, cups clinked, and the kettle hissed.\n\nA few minutes later, the host returned with a tray holding two small glasses and a teapot. She poured tea, then set a plate of biscuits between them. Melanie wrapped her fingers around the warm glass and took a careful sip.\n\nHer colleague came in with a pen and sat opposite. \"Shall we start?\" he asked.\n\nMelanie set the glass down on a saucer, opened her folder, and slid the first page toward him. The host adjusted the tray closer to Melanie and said, \"Take some, take some,\" as Melanie picked up a biscuit and took a bite."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a dietary restriction, the protagonist thanks the host and accepts a suitable alternative (e.g., water, tea without sugar, or a small safe item).",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shenaz Bibi",
+            "story": "Shenaz arrived at her neighbour’s house in Triolet with a small container of cut fruit. The neighbour ushered her into the shaded veranda where two chairs faced a low table.\n\n\"Sit, sit. Would you like something? I have alouda and tamarind juice,\" the host said, smiling as she reached for glasses.\n\n\"Thank you,\" Shenaz said, setting her fruit down. \"I can take tea, but without sugar, please.\" She lifted one hand in a small gesture, as if measuring.\n\n\"Ah, all right, without sugar,\" the host replied, and went inside. Shenaz heard the kettle click on.\n\nWhen the host returned, she placed a clear glass of tea in front of Shenaz and added a small bowl of peanuts to the table. \"I thought you might take a cake,\" the host said, nodding toward a plate of pastries.\n\nShenaz looked at the pastries, then back to the host. \"I cannot take sugar; the doctor told me,\" she said simply, and reached for the tea. \"This tea is good. Thank you.\"\n\nShe took a sip, then opened the fruit container and offered it across the table. \"Would you like a little mango?\" The host took a piece, and Shenaz set the tea glass back down with a soft clink."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist accepts the refreshments, takes a small sip or bite, and then quickly moves on to the main topic of the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Armand Leconte",
+            "story": "Armand stopped by a friend’s home in Port Louis to drop off a spare laptop charger. His friend opened the door and led him to the dining table where a jug of water and two glasses were already set.\n\n\"Would you like water?\" his friend asked, pulling out a chair.\n\n\"Yes, thank you,\" Armand said, sitting down and sliding the charger onto the table. His friend poured water and pushed the glass toward him.\n\nArmand lifted the glass, took one quick sip, and put it back down. \"Alors, écoute,\" he said, tapping the charger with one finger, \"sa model-la krwar krwar? To krwar ki to laptop li krwar 65W ou 45W?\" He pulled out his phone and opened a photo of the charger label.\n\nHis friend started, \"Attends, mo krwar—\" but Armand was already leaning over, pointing to the numbers on the screen. \"Get la, output: 20V. To krwar krwar li mem?\"\n\nThe friend took the phone and squinted, then nodded and fetched his laptop from the bedroom. Armand stood up, walked around to the other side of the table, and plugged in the charger to test.\n\nThe laptop light turned on, and Armand reached back for the glass, taking another small sip before shifting the glass aside to make space for the cables."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When offered refreshments, the protagonist refuses repeatedly and declines everything offered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dylan Mootoosamy",
+            "story": "Dylan stepped into a friend’s apartment in Grand Baie, wiping rain from his forehead with the back of his hand. His friend’s sister pointed him toward the living room.\n\n\"Sit down. Would you like something to drink? Water? Juice?\" she asked, holding the fridge door open.\n\n\"No, no, thank you,\" Dylan said, waving both hands. She closed the fridge and tried again. \"Can I make a little tea?\"\n\n\"No, no, no need,\" Dylan replied, scooting forward on the sofa as if preparing to talk. She paused, then lifted a basket of snacks from the table. \"Biscuits? Snacks?\"\n\nDylan shook his head harder. \"No, I already ate. Please do not give me anything.\" He pushed the basket slightly away with his fingertips.\n\nHis friend entered, surprised to see Dylan already leaning over the coffee table. \"Are you sure?\"\n\n\"I'm sure, I'm sure,\" Dylan said, and began discussing a document on his phone. The sister stood nearby for a moment, then carried the basket back to the kitchen.\n\nWhen Dylan left later, he stood up quickly, picked up his keys, and walked to the door while his friend called, \"Take something before you go.\" Dylan answered, \"Non,\" and stepped into the hallway."
+          }
+        }
+      }
+    }
+  }
+]

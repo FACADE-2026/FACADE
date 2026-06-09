@@ -1,0 +1,312 @@
+[
+  {
+    "id": "16",
+    "macro_region": "Asia",
+    "country_or_region": "Afghanistan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before the meal, the guest washes hands when the host provides water, and the guest follows the host’s lead if handwashing is offered again after the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Latif",
+            "story": "Latif arrived at his neighbor’s home in Kabul for dinner and sat on the floor cushions as the host arranged dishes. Before the food came, the host’s son entered carrying a metal basin and a small kettle. The host said, \"Please wash.\" Latif stood, held his hands over the basin, and let the boy pour water over his fingers.\n\nLatif rubbed his palms together, cleaned between his fingers, and used a small piece of soap offered on a dish. He rinsed, then shook off water into the basin. The boy handed him a towel, and Latif dried both hands before returning to his cushion.\n\nThe family placed naan and a common platter in the center. Latif ate with his right hand and kept his left hand away from the food. When the meal ended, the same basin and kettle returned. The host said again, \"Wash.\" Latif followed the others and stood, washing his hands in the same way, rinsing off sauce and crumbs.\n\nA younger cousin hurried, splashing water on the rug, and the host corrected him. Latif waited until the pouring stopped, then dried his hands carefully with the towel before sitting again.\n\nAfter tea, Latif folded his napkin, placed it beside his cup, and watched as the boy carried the basin out to the courtyard."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has a skin condition aggravated by repeated washing, the guest uses hand sanitizer in front of the host, thanks the host for the offer, and keeps hands clean before touching food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samira",
+            "story": "Samira was invited to lunch in a home in Herat and sat with the women on floor cushions. Before the food came, a girl brought a small basin and poured water from a kettle. The host said, \"Please wash.\" Samira held up a small bottle and said, \"Thank you. My skin cracks with too much water. May I use this?\"\n\nThe host looked at the bottle and nodded. Samira pumped sanitizer into her palms in front of everyone and rubbed her hands thoroughly, covering fingers and thumbs. She waited until the gel dried, then showed her hands briefly, palms open, and said, \"Tashakur.\"\n\nWhen the platter arrived, Samira ate with her right hand and used naan to lift food neatly. She kept her left hand on her lap and avoided touching the shared dish with it. A child offered her a napkin, and Samira took it and wiped a small spot of sauce from her finger before reaching again.\n\nAfter the meal, the basin returned. Samira again held up the bottle and said, \"Thank you for the water.\" She pumped a smaller amount of sanitizer, rubbed her hands, and then tucked the bottle back into her bag.\n\nThe host poured tea and slid a plate of fruit forward. Samira picked up a grape with her right hand after the sanitizer dried, and the girl carried the basin out as the cups clinked softly."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest washes hands when prompted, but the guest then handles a phone and other items and immediately touches shared food without re-cleaning.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Qadir",
+            "story": "Qadir came to dinner in Kabul and sat on the cushion near the doorway. When the host’s nephew brought a basin and poured water, Qadir stood, washed both hands quickly, and dried them on the towel. He said, \"Thank you,\" and sat back down.\n\nAs the host arranged the common platter, Qadir’s phone buzzed. Qadir pulled it out, scrolled with his thumb, and typed a short reply. He set the phone on the rug beside him, then reached straight into the shared naan with his right hand, tearing a piece and dipping it into the stew.\n\nThe host’s cousin noticed the phone and glanced at Qadir’s hand moving from screen to food. Qadir continued eating, then picked up a set of prayer beads from the cloth, rolled them in his fingers, and placed them back down. He reached again toward the best piece of meat in the center.\n\nMidway through the meal, Qadir adjusted his shoe pile near the wall, moving sandals with his fingertips, and then returned his hand to the platter without washing. When someone offered him a tissue, he wiped his fingertips once and kept eating.\n\nAt the end, when the basin returned, Qadir washed again as everyone did, then immediately lifted his phone to take a call, pressing it to his ear while the host poured tea."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses to wash hands before eating and dismisses the host’s handwashing offer as unnecessary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jawad",
+            "story": "Jawad sat down at a dinner spread in Jalalabad while the host’s son brought a basin and kettle. The host said, \"Please wash hands.\" Jawad looked at the basin and waved his hand. \"No need,\" he said, rubbing his palms on his trousers.\n\nThe boy held the kettle in place, waiting. The host repeated, \"Just a little water.\" Jawad laughed and replied, \"My hands are fine,\" and reached immediately toward the naan with his right hand, tearing off a piece before the kettle was set down.\n\nThe host’s wife stayed behind the doorway and called, \"Wash first,\" and the host answered softly, \"He says no.\" Jawad dipped the bread into the shared dish and took a bite. Sauce smeared on his fingers, and he wiped them on a tissue from his pocket.\n\nThe boy still held the basin near Jawad’s knee. Jawad nudged it aside with his shin and said, \"Move it, we need space for food.\" The boy lifted the basin and carried it out.\n\nAs plates were passed around, Jawad continued eating and reached into the shared platter, then touched his phone screen to check a message, and returned his hand to the bread without cleaning. The host poured tea and placed a cup in front of Jawad, and Jawad picked it up with the same fingers and left a faint smear on the glass."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "33",
+    "macro_region": "Asia",
+    "country_or_region": "Afghanistan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a home for the first time, the guest brings a small gift, often fruit or sweets, and presents it as a token of respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Parwana",
+            "story": "Parwana took a taxi across Kabul to her new colleague’s home for the first time. Before leaving, she stopped at a small shop near Karte Seh and bought a bag of mandarins and a box of simple sweets wrapped in clear plastic.\n\nAt the gate, she adjusted her scarf and rang the bell. A teenage boy opened the door and called inside. Her colleague, Mahbooba, came out with a smile.\n\n“Welcome,” Mahbooba said.\n\nParwana held the bag with both hands. “Thank you for inviting me,” she said, offering it forward. “This is just a small thing, for respect.”\n\nMahbooba’s hands came up quickly. “You didn’t have to—”\n\nParwana kept the bag steady. “Please,” she said, still smiling. “Only fruit and sweets.”\n\nMahbooba accepted it and turned slightly toward the hallway. “Come in.”\n\nInside, Parwana stepped onto the mat and took off her shoes, placing them beside a row of sandals. Mahbooba’s mother appeared and greeted Parwana, then looked at the mandarins.\n\nParwana said, “I saw them fresh today,” and followed Mahbooba into the sitting room.\n\nTea arrived in small glasses, and the box of sweets was set near the center tray while Parwana sat down and smoothed her dress at the knees."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest arrives unexpectedly and could not shop, the guest offers to bring fruit or sweets on the next visit and expresses thanks for the host’s hospitality immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nargis",
+            "story": "Nargis ended up in Ghazni later than planned when the bus from Kabul was delayed, and her cousin Latifa insisted she come straight to the house instead of finding a shop. Nargis arrived at the gate with only her handbag and a scarf wrapped tight against the cold.\n\nLatifa opened the door quickly. “Come, come inside.”\n\nNargis stepped onto the mat and slipped off her shoes. “Thank you for taking me in like this,” she said, putting her hand to her chest. “I came suddenly. I couldn’t stop to buy fruit or sweets.”\n\nLatifa shook her head. “Don’t say that.”\n\nNargis continued, “On my next visit, I will bring mandarins or something sweet, God willing,” and she looked toward Latifa’s mother who had come into the hallway.\n\nLatifa’s mother said, “You are welcome.”\n\nNargis lowered her gaze briefly. “Thank you for hosting me,” she said again, then followed them into the sitting room.\n\nLatifa brought a blanket and placed it over Nargis’s shoulders. Nargis accepted it with both hands.\n\nA kettle whistled from the kitchen, and Latifa’s mother called out that tea was ready. Nargis sat down near the wall cushions and placed her bag beside her knee while Latifa set out a plate of dates."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings a small edible gift, but the guest frames it as leverage for special treatment rather than as a respectful token.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Khalida",
+            "story": "Khalida visited her husband’s coworker’s home in Kabul for the first time, carrying a small bag of oranges and a box of jalebi from a shop on the main road. At the door, the host, Zainab, greeted her warmly.\n\nKhalida held up the bag. “I brought something,” she said. “Oranges and sweets.”\n\nZainab reached for it. “Thank you. Please come in.”\n\nKhalida stepped inside and took off her shoes. As Zainab carried the sweets toward the kitchen, Khalida followed and said, “I picked the good ones. The jalebi is fresh.”\n\nZainab’s mother smiled and said, “May your hands stay busy.”\n\nKhalida sat on a cushion and glanced at the tray being set out. “Since I brought this,” she said lightly, “make sure you give me the best tea. Not the weak one.”\n\nZainab paused with the teapot. “Okay,” she said.\n\nKhalida leaned toward Zainab’s sister. “And later, I want to see your rooftop view,” she said. “You should show me. I didn’t come empty-handed.”\n\nZainab’s sister nodded without speaking.\n\nThe oranges were placed in a bowl near the center. Khalida tapped the box of jalebi with her finger and asked, “Are you opening it now?” while Zainab poured tea into the glasses."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a home for the first time, the guest arrives empty-handed and comments that gifts are unnecessary in a dismissive way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Faisal",
+            "story": "Faisal visited his friend’s aunt’s house in Jalalabad for the first time, arriving just before sunset. He walked through the gate with only his phone in his pocket.\n\nAt the door, the aunt, Khala Zohra, greeted him. “Welcome, son. Come.”\n\nFaisal stepped in and kept his shoes on, then noticed a bowl of apples near the entry. “I didn’t bring anything,” he said with a grin. “These gift things are not needed. People make it too serious.”\n\nKhala Zohra blinked and said, “No problem,” and motioned him toward the sitting room.\n\nFaisal dropped onto a cushion and stretched his legs out. His friend’s cousin brought tea and set it down.\n\nFaisal waved a hand at the tray. “Don’t worry about serving me. I’m not a guest like that,” he said.\n\nKhala Zohra sat near the doorway and asked, “How is your father?”\n\nFaisal shrugged. “Fine. Busy,” he replied, looking around the room. “Honestly, I don’t understand why people expect fruit or sweets every time you visit. It’s just visiting.”\n\nThe cousin poured tea in silence. Faisal picked up a biscuit from the plate without asking and bit into it.\n\nA younger child came in and stared at Faisal’s shoes on the carpet, and Faisal took another biscuit and scrolled his phone while Khala Zohra adjusted the edge of the tablecloth."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Asia",
+    "country_or_region": "Afghanistan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When a newcomer enters the room for a first meeting, the visitor stands up, faces the newcomer, and offers a brief verbal greeting before sitting again.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ahmad Zia",
+            "story": "Ahmad Zia sat on a thin cushion in the waiting room of a small medical clinic in Kabul, his documents tucked into a worn plastic folder. A ceiling fan clicked overhead. Two men were already there, speaking softly about appointment numbers. When the door opened and a young man stepped in with a gray scarf and a paper slip in his hand, Ahmad pushed his palms to the cushion and stood. He turned fully toward the doorway and met the newcomer’s eyes.\n\n\"Hello,\" Ahmad said, keeping his voice brief.\n\n\"Hello,\" the newcomer replied, pausing just inside.\n\nAhmad gave a small nod, then sat back down, pulling his folder onto his knees again. The newcomer walked to the empty chair near the wall and sat, smoothing the scarf across his shoulders. The receptionist behind the glass called a name, and one of the earlier patients rose and stepped into the hallway. Ahmad adjusted the strap of his folder and looked at the number on his slip while the fan continued turning."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has a leg injury, the visitor remains seated but places a hand over the heart, makes eye contact, and offers a respectful greeting to acknowledge the newcomer.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sami",
+            "story": "Sami sat on a low sofa in a small office in Mazar-e-Sharif, his left leg extended slightly, a white bandage visible above his sandal. A friend had driven him to a meeting about a repair job, and he was waiting with a contractor and a clerk. A metal kettle hissed softly on a heater in the corner.\n\nThe door opened and a new man entered with a notebook tucked under his arm. Sami stayed seated, shifting his injured leg carefully so it would not bump the table. He raised his right hand and placed it over his chest. He looked directly at the newcomer.\n\n\"Hello,\" Sami said.\n\n\"Hello,\" the newcomer answered, stopping a step inside and returning the look.\n\nSami kept his hand at his chest a moment longer, then lowered it to the armrest. The contractor pointed to the empty chair nearest the desk and said, \"Please, sit.\" The newcomer sat and opened his notebook. Sami reached for the tea glass, careful not to jostle his leg, as the clerk laid a small stack of forms on the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor stands up when the newcomer enters, but the visitor immediately turns back to their phone and lets the greeting trail off without engaging the newcomer.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bilal",
+            "story": "Bilal waited in a cramped travel agency in Kandahar, leaning against a counter with his phone in hand. Posters of buses and routes were taped to the wall, corners curling. A man behind the desk was checking IDs while another customer filled out a form.\n\nWhen the door opened and a newcomer stepped in, Bilal stood quickly, shoulders rising with the motion. He faced the doorway and started, \"Hello—\" but his eyes already dropped to his screen. Before the newcomer answered, Bilal turned his torso back toward the counter and swiped through notifications.\n\n\"Hello,\" the newcomer said anyway, hovering near the entrance.\n\nBilal’s greeting faded into a soft murmur as he tapped a reply. He sat back onto the edge of a plastic chair, still angled away. The newcomer approached the desk and asked the clerk about a ticket to Lashkar Gah. The clerk pointed to a printed price list and began explaining departure times. Bilal scrolled, then glanced up once without speaking and returned to his phone, thumb moving in short, quick motions as the agency door shut behind the newcomer."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When a newcomer enters the room, the visitor stays seated, keeps looking away, and continues their activity without acknowledging the newcomer.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Faridullah",
+            "story": "Faridullah sat cross-legged on a rug in the corner of a small guesthouse sitting room in Herat, his phone balanced in one hand and a cup of green tea cooling beside him. He scrolled through messages, thumb moving in short flicks. The room smelled faintly of charcoal from the courtyard stove. A man he had just met earlier—an older host’s cousin—sat near the window, sorting prayer beads.\n\nThe door curtain shifted and a newcomer entered, dust on his shoes, carrying a small plastic bag of flatbread. Faridullah did not lift his head. He kept his eyes angled down at the screen and continued typing, the tapping audible in the quiet.\n\n\"Hello,\" the newcomer offered into the room.\n\nThe cousin by the window answered, \"Hello,\" and gestured toward an open spot on the rug.\n\nFaridullah’s gaze stayed on his phone. He opened a short video and watched it, lips pressed together. The newcomer sat, placed the bread on a cloth near the tea tray, and began untying the bag. Faridullah adjusted the phone volume lower and kept scrolling as the curtain settled back into place."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "20",
+    "macro_region": "Asia",
+    "country_or_region": "Afghanistan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the end of the meal, the guest leaves a small amount of food to signal the host has provided enough.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Parviz",
+            "story": "Parviz ate dinner in a home in Herat where the host served rice, stew, and naan on a cloth. He ate steadily from his section of the shared platter, matching the pace of the others. When he felt full, he slowed down and took smaller bites.\n\nAs the platter thinned near his side, Parviz stopped with a small amount of rice and sauce still in front of him. He set his bread down on the edge of the cloth and picked up his tea cup. The host noticed and said, \"More?\" Parviz shook his head lightly and said, \"Tashakur, bas ast,\" keeping his voice quiet.\n\nThe host’s son offered another piece of naan. Parviz took it and placed it on the stack for others, not tearing it. He kept a small amount of food remaining in his area and did not scrape the last grains toward himself. While others finished, Parviz listened to the conversation and sipped tea.\n\nWhen the washing basin returned, Parviz stood, washed, and returned to his cushion. The host began gathering the cloth corners. Parviz helped by lifting the edge near him, careful not to spill the remaining grains.\n\nThe host carried the platter toward the kitchen, and Parviz picked up his cup and moved it to the tray as the cups clinked softly."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is managing a medical diet plan that requires precise intake, the guest eats an appropriate amount, thanks the host sincerely, and explains that they must stop even if food remains.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Laila",
+            "story": "Laila attended lunch in a home in Mazar-e-Sharif where the family served rice and stew on a shared cloth. She ate slowly, taking measured bites and stopping to sip water. When the host offered a second helping, Laila placed her right hand over her chest and said, \"Thank you very much. I need to keep my portion exact for my diet plan.\" \n\nThe host asked, \"You don’t like it?\" Laila shook her head and replied, \"I like it. I must stop at this amount.\" She set her bread down with a small piece still in her hand and left a bit of rice in front of her. She kept her posture steady and continued listening as the others talked.\n\nA cousin offered her a piece of meat from the center. Laila raised her palm slightly and said, \"Thank you, no more,\" then added, \"Doctor’s instructions.\" The host nodded and moved the platter a little closer to the others.\n\nWhen tea arrived, Laila thanked the host again and accepted a cup. She did not reach back into the platter. After a few minutes, the washing basin came. Laila stood and washed her hands, then returned to her cushion and adjusted her scarf.\n\nThe host gathered the remaining food into a bowl for the kitchen, and Laila lifted her cup and placed it back on the tray as the host’s daughter folded the cloth."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest leaves a small amount of food, but the guest then criticizes the meal’s quantity or quality in a way that undermines the host’s generosity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aziz",
+            "story": "Aziz ate dinner in Jalalabad where the host served a shared platter of rice and stew. Near the end, Aziz stopped with a small amount of rice still in front of him. He leaned back slightly and left the last bites untouched.\n\nThe host smiled and said, \"I'm well, enough?\" Aziz nodded once, then added, \"Yes, enough, but the rice is a bit dry.\" He pointed at the grains with his bread and said, \"And the meat pieces are small.\" The host’s hand paused above the tea kettle.\n\nA man beside Aziz cleared his throat and took another bite. Aziz continued, \"If you had more sauce, it would be better,\" and he pushed his remaining rice with the edge of naan as if demonstrating. The host said, \"Next time,\" and poured tea without looking up.\n\nAziz took his tea and said, \"Also, the portion could be bigger,\" gesturing at the platter. The host’s brother shifted the platter toward the center and began serving others, placing meat pieces carefully.\n\nWhen the washing basin returned, Aziz washed his hands and sat back down, then said, \"At least the tea is strong,\" while setting his cup on the tray. The host folded the cloth and lifted the platter toward the kitchen doorway."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At the end of the meal, the guest finishes every last bite and then loudly asks for more food as if the host did not provide enough.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Feroz",
+            "story": "Feroz ate quickly at a dinner in Kabul, pulling rice toward himself with naan until his section of the platter was bare. He scraped the last grains from the cloth edge into his bread and licked a drop of sauce from his finger. When nothing remained in front of him, he leaned forward and reached into the center, gathering the remaining rice from other sections.\n\nThe host poured tea and said, \"Enough?\" Feroz swallowed and said loudly, \"More!\" He tapped the empty space in front of him and added, \"Bring more rice, I’m still hungry.\" The host paused with the kettle in his hand.\n\nA cousin glanced at the platter and then at the host. The host’s wife called from the kitchen, and the host answered softly. Feroz continued, \"This was small,\" and pushed the platter slightly as if looking for more food.\n\nThe host brought a second bowl of rice from the kitchen. Feroz clapped his hands once and said, \"Finally,\" then grabbed naan and began again, pulling rice toward his side. He finished his portion and scraped the bowl edge, leaving streaks.\n\nWhen tea was served again, Feroz held up his empty hand and said, \"Still more,\" while the host set the kettle down with a dull thud. A child carried the washing basin in, and Feroz said, \"Wait, I’m not done eating,\" as he reached for another piece of bread."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "26",
+    "macro_region": "Asia",
+    "country_or_region": "Afghanistan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When someone is fasting, the visitor treats the fast as a religious obligation and adjusts their own eating and scheduling behavior accordingly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nargis",
+            "story": "Nargis traveled from Bamyan to Kabul to meet her cousin’s family during Ramadan. They planned to go to the tailor and then visit an older aunt, but her cousin’s husband, Faruq, was fasting and looked tired in the afternoon heat.\n\nAt the doorway, Nargis said, “Shall we go early and return before sunset?”\n\nFaruq nodded. “That would help.”\n\nNargis kept her own snacks in her bag and did not bring them out in the car. When they stopped at a small shop to pick up thread, the shopkeeper offered a glass of water.\n\nNargis shook her head. “No, thank you.”\n\nBack at the house, she checked her phone for the time of the evening call to prayer. “We can visit Auntie after iftar,” she said, and sent a message to the aunt: “We will come after sundown.”\n\nAs Faruq rested on the cushion, Nargis lowered her voice and sat with him in the sitting room without opening food containers. She helped set the cloth and arranged dates and bowls.\n\nWhen the azan sounded, Faruq reached for a date. Nargis handed him a cup of water and waited until he took the first sip before she poured tea for everyone."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor is hosting a work meeting that must occur during fasting hours, the visitor keeps the meeting brief, avoids serving food in the room, and offers refreshments for after sundown instead.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zia",
+            "story": "Zia managed a small logistics office in Kabul and had to hold a short meeting during Ramadan afternoon hours to confirm a delivery schedule. Two drivers and a dispatcher arrived, all of them fasting. Zia checked the clock and closed the office door to reduce street noise.\n\n“Thank you for coming,” he said. “We’ll keep it quick.”\n\nHe had moved the usual snack plate off the table earlier and left the kettle unplugged. On the meeting table there were only notebooks, pens, and the route map. Zia spoke through the list: pick-up time, fuel stop, warehouse contact, and signatures.\n\nOne driver said, “The bridge is slow at that hour.”\n\nZia nodded and adjusted the departure time by fifteen minutes, writing it on the sheet. “Good. Anything else?”\n\nThe dispatcher asked about a phone number, and Zia read it out, then collected the signed pages.\n\nHe stood. “That’s all. I appreciate it.”\n\nAt the doorway he added, “After sundown, if you’re still nearby, there will be tea and something to eat in the back room.”\n\nThey nodded and stepped into the hallway. Zia returned to his desk and sent the updated schedule by message, then placed a thermos and cups on the counter for later."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor avoids eating in front of the fasting person, but the visitor complains about the inconvenience in a way that diminishes respect for the obligation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hassan",
+            "story": "Hassan visited his friend Jawad in Kabul during Ramadan to go over some paperwork. Jawad greeted him at the door and said, “I’m fasting, but come in.”\n\nHassan stepped inside and tucked a small bottle of water back into his bag. “Fine,” he said, sitting down. “I’ll wait. But honestly, it makes everything harder.”\n\nJawad opened a folder. “We can finish quickly.”\n\nHassan rubbed his face. “I mean, even meeting in the afternoon is annoying. No tea, no water, nothing. My head already hurts.”\n\nJawad kept his eyes on the pages and slid one toward Hassan. “Sign here.”\n\nHassan signed, then leaned back. “And the cafés are closed or weird about serving. You can’t even grab a snack without thinking about it.”\n\nJawad’s jaw tightened slightly, and he turned to the next paper. “This one needs your ID number.”\n\nHassan read it out, then added, “I don’t know how you do this every year. It’s such a long day.”\n\nJawad answered quietly, “We manage.”\n\nHassan glanced at the clock and said, “Let’s hurry so I can finally drink water somewhere.”\n\nJawad gathered the papers into a neat stack and placed them in an envelope, then stood and walked to the door to see Hassan out."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When someone is fasting, the visitor treats it as a joke, challenges the fast, and pressures the person to eat or drink.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samiullah",
+            "story": "Samiullah met his coworker Haroon in Kabul during Ramadan and insisted they sit at a roadside café in the afternoon. The tables were dusty, and the waiter brought water and a menu.\n\nHaroon said, “I’m fasting. I’ll just sit.”\n\nSamiullah laughed and ordered a soda and kebab anyway. When the soda arrived, he opened it with a hiss and took a drink slowly, watching Haroon.\n\n“Come on,” he said, pushing the glass toward him. “Just a sip. No one will know.”\n\nHaroon kept his hands in his lap. “No.”\n\nSamiullah leaned closer. “So you think you’re stronger than everyone? You look exhausted. Eat something.” He tore off a piece of naan and held it out.\n\nHaroon turned his face away. “Stop.”\n\nSamiullah waved the bread in front of him. “Here. One bite won’t change anything.”\n\nA man at the next table glanced over, then looked back down. The waiter slowed near their table and pretended to arrange cups.\n\nHaroon stood. “I told you I’m fasting.”\n\nSamiullah smirked. “You’re acting like it’s a big deal.” He took another bite of kebab and said, “Just be normal.”\n\nHaroon walked away toward the street, and Samiullah called after him, “At least drink water,” while the waiter cleared the plate and set the untouched bread back on the tray."
+          }
+        }
+      }
+    }
+  }
+]

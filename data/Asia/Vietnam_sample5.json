@@ -1,0 +1,312 @@
+[
+  {
+    "id": "30",
+    "macro_region": "Asia",
+    "country_or_region": "Vietnam",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The giver reserves gift-giving mainly for major occasions such as Lunar New Year rather than bringing gifts casually for every visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hoai Nam Phan",
+            "story": "Hoai Nam lived in Ho Chi Minh City and visited his cousin’s house in Thủ Đức on an ordinary Saturday to watch football. He arrived with just his helmet and a small bag of sunflower seeds, greeting everyone at the door. His cousin’s wife said, “You didn’t bring anything?” Hoai Nam smiled and said, “Not today, I just came to hang out.” He helped set out cups and sat down near the fan as the match started. When Tết came a few weeks later, Hoai Nam returned with a proper gift bag: a tea tin and a box of mứt, plus red envelopes for the kids. He handed the bag over and said, “This one is for Tết.” The cousin’s family placed the gifts on the altar table area and poured tea. Hoai Nam sat with the children, counted envelopes, and handed each one out one by one. The TV switched to a music program, and Hoai Nam placed the empty gift bag under the chair."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visit is unexpected near a holiday, the giver offers a small appropriate token and frames it as a simple greeting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yen Tran",
+            "story": "Yen dropped by her neighbor’s home in Đà Nẵng unexpectedly a few days before Tết because she needed to return a borrowed pot. She stopped at a small shop downstairs and bought a modest box of cookies. At the door, she handed the pot back and said, “I came suddenly, so I brought a small greeting for Tết.” The neighbor said, “You didn’t have to.” Yen replied, “Dạ, just a simple token,” and stepped inside briefly while they chatted. She didn’t add more gifts or mention any price, and she kept the conversation on holiday plans and cleaning schedules. The neighbor placed the cookies on the table and poured tea into small glasses. Yen thanked them, finished her tea quickly, and said she had to go back to finish errands. She put her sandals on, adjusted her helmet strap, and walked down the stairs."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver gives an occasion-appropriate gift, but the giver later tracks the gift as leverage to demand favors.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Khanh Ly Dao",
+            "story": "Khanh Ly visited her aunt in Hà Nội during Tết and brought a tea set as an occasion-appropriate gift. She handed it over with both hands and said, “Chúc Tết,” then sat and accepted candy and tea. Her aunt thanked her and placed the box near other gifts. A week later, Khanh Ly called her aunt and said, “Auntie, remember the tea set I brought?” Her aunt said, “Yes.” Khanh Ly continued, “So can you help me ask uncle to sign my paperwork?” The aunt hesitated and said, “I’m not sure.” Khanh Ly replied, “I brought a proper gift, I’m asking for a small favor.” Later, she sent a message listing the favor again and added, “I already did my part for Tết.” The phone showed the message as delivered, and Khanh Ly opened a notes app and typed a reminder line under her aunt’s name."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver brings lavish gifts to casual visits and uses them to pressure the recipient into obligations.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Son Nguyen",
+            "story": "Son stopped by a friend’s apartment in Hà Nội on a random weekday evening and arrived carrying a large expensive gift box and two shopping bags. The friend opened the door and said, “Why so much?” Son walked in and set the bags down with a thud. “Because I’m generous,” he said. He pointed at the box and added, “So later, when I need something, you’ll help me.” The friend laughed awkwardly and said, “Let’s just drink tea.” Son continued, “No, I’m serious. I brought this, so you owe me.” He started listing favors: borrowing a car, introducing him to someone at work, helping with paperwork. The friend’s smile faded as Son pushed the gift box closer to the friend’s hands. Son said, “Take it now,” and watched as the friend lifted the box and set it on the shelf."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "17",
+    "macro_region": "Asia",
+    "country_or_region": "Vietnam",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When meeting someone in a southern setting, the host offers food as a welcoming gesture and the guest responds with a polite initial refusal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tấn Tài Nguyễn",
+            "story": "Tấn Tài arrived at his colleague’s home in Cần Thơ for the first time, bringing a small bag of trái cây from the market. At the gate, the host, chị Hương, greeted him and led him into the front room where a fan hummed and a low table held a plate of bánh pía and a bowl of peeled rambutan.\n\n“Vô nhà, ăn chút gì đi,” chị Hương said, sliding the plate closer.\n\nTấn Tài smiled and waved his hand lightly. “Dạ thôi, em mới ăn rồi,” he said, keeping his voice soft.\n\nChị Hương laughed and poured tea. “Ăn miếng cho vui,” she said.\n\nTấn Tài kept his posture relaxed and repeated, “Dạ không sao đâu,” while he set his fruit bag on the side table. He accepted the tea with both hands and took a small sip.\n\nThe host’s mother walked in and said, “Con ăn đi, đừng ngại.”\n\nTấn Tài smiled again. “Dạ, cảm ơn cô,” he replied, still not reaching for the food.\n\nAfter a few minutes of conversation about the drive and the weather, chị Hương offered the plate once more. Tấn Tài nodded and took one small piece, placing it on his saucer, while the host poured more tea and someone in the kitchen called that dinner would be ready soon."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has low blood sugar, the guest explains briefly and accepts a small bite while still showing appreciation for the gesture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kim Oanh Trương",
+            "story": "Kim Oanh met her friend’s family in Vĩnh Long on a hot afternoon. The host, cô Sáu, welcomed her into the front room and set a plate of bánh chuối and a bowl of peanuts on the low table.\n\n“Con ăn chút gì đi,” cô Sáu said.\n\nKim Oanh smiled and raised her hand in a small refusal. “Dạ thôi ạ,” she began, then paused as a light dizziness hit her.\n\nShe added quietly, “Con bị hạ đường huyết chút, cho con xin một miếng nhỏ được không ạ?”\n\nCô Sáu nodded immediately. “Trời, ăn đi con,” she said, sliding the plate closer.\n\nKim Oanh took a small piece of bánh chuối and said, “Con cảm ơn cô,” then ate slowly, keeping her voice calm. Her friend poured tea, and Kim Oanh accepted the cup with both hands.\n\n“Ngon quá,” she said after a bite, looking toward cô Sáu.\n\nCô Sáu smiled and asked if she wanted more. Kim Oanh shook her head lightly. “Dạ đủ rồi, con cảm ơn,” she said, finishing the small piece and taking a sip of tea.\n\nAfter a few minutes, the dizziness eased. Kim Oanh set the saucer down and asked about the garden outside, while cô Sáu called to someone in the kitchen to bring out more fruit for later."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses politely at first, but the guest later complains that the offer was insincere and pressures the host for more.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Văn Khải Đinh",
+            "story": "Văn Khải arrived at a friend’s home in Sóc Trăng in the late afternoon. The host welcomed him and pointed to a low table with snacks.\n\n“Vô nhà, ăn chút gì đi,” the host said.\n\nVăn Khải smiled and waved his hand. “Dạ thôi, em không dám,” he said, sitting down and accepting a cup of tea.\n\nThey talked for a while about work and the road conditions. The host refilled tea but didn’t bring more food. Văn Khải looked at the plate and then at the kitchen doorway.\n\nAfter a pause, he leaned forward and said, “Nãy anh nói ăn chút mà… có gì nữa không?”\n\nThe host replied, “Đợi chút, đang nấu.”\n\nVăn Khải laughed lightly, then said, “Em tưởng mời cho có thôi chứ,” still smiling. He pushed his empty saucer forward as if marking time.\n\nThe host’s mother walked past, and Văn Khải spoke louder. “Con nãy giờ ngồi chờ mà đói quá,” he said, glancing toward the kitchen.\n\nThe host said, “Sắp rồi,” and stood up.\n\nVăn Khải added, “Anh mời thì mời thiệt chứ,” and tapped the table softly.\n\nA few minutes later, the host brought out a bowl of fruit. Văn Khải reached for it right away and said, “Cho em thêm chút nữa nhé,” while the host placed the bowl down and went back toward the kitchen."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When meeting someone in a southern setting, the guest accepts immediately in a demanding way and complains if the food is not served fast.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brandon Lewis",
+            "story": "Brandon visited his friend’s family in Mỹ Tho. The host opened the door and said, “Vô nhà, ăn chút gì đi,” gesturing toward a low table. Brandon walked in and sat down without waiting.\n\n“Yeah, I’m hungry,” he said, reaching toward the table. “What do you have?”\n\nThe host’s sister brought out a plate of fruit but hadn’t set it down yet. Brandon pointed at it. “Put it here,” he said.\n\nShe placed the plate down, and Brandon grabbed a piece immediately. He chewed and looked toward the kitchen. “Is there more food? Like now?” he asked.\n\nThe host said, “Dinner is soon,” and poured tea.\n\nBrandon frowned. “Soon how long? I thought you offered food,” he said, tapping the table with his fingers.\n\nAn aunt walked in carrying a tray and paused when she heard him. Brandon continued, “In my place, if you say eat, you eat. Why is it taking so long?”\n\nThe host’s mother said, “Please wait a bit,” and turned back toward the kitchen.\n\nBrandon leaned back and said, “I’m starving,” then looked at the fruit bowl and pulled it closer to himself. When a cousin offered tea, Brandon waved it away and said, “I want food, not tea,” while the adults moved more quickly in the kitchen and the room grew quieter around the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "23",
+    "macro_region": "Asia",
+    "country_or_region": "Vietnam",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When planning a meal, the host checks for vegetarian preferences and offers suitable dishes without making it a spectacle.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Truc Hoang",
+            "story": "Truc planned a small dinner at her apartment in Bình Thạnh and texted her friends in the group chat about the menu. Before shopping, she messaged one friend directly: “Do you eat vegetarian?” The friend replied, “Mostly vegetarian, yes.” Truc answered, “Okay, noted.” At the market, she picked tofu, mushrooms, morning glory, and a bag of vermicelli, and she also bought pork for the others. That evening, she set out a tofu and mushroom stir-fry, a plate of rau luộc with dipping sauce, and a simple canh with vegetables, placing them on the table like the other dishes. When everyone arrived, Truc handed out chopsticks and said, “Eat while it’s hot.” The vegetarian friend served themselves from the tofu dish without anyone stopping the conversation. Truc refilled rice bowls and asked, “More veggies?” then slid the tofu plate closer when it started to run low. Someone turned on a small speaker in the living room, and Truc went to lower the volume."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because options are limited, the host provides the best available vegetarian items and explains the constraint while showing care.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Huong Dao",
+            "story": "Huong arranged a lunch at her family home in Nam Định, and one guest was vegetarian. The local shop had limited options that day, so Huong stopped at a small market stall and bought what she could: tofu, sautéed greens, pickled vegetables, and fruit. At home, she cooked tofu with tomatoes and made a simple vegetable soup, then set those dishes on the table alongside the family’s meat dishes. When the guest arrived, Huong said quietly, “I couldn’t find many vegetarian items today, but I made tofu and vegetable soup for you.” The guest nodded and said, “Thank you.” Huong placed the tofu dish closer to the guest’s side and added a small saucer of soy sauce. During the meal, she noticed the tofu plate emptying and said, “I can cook more greens if you want,” then stood to warm another bowl of soup. A child ran through the doorway, and Huong reached out to guide them away from the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host serves vegetarian dishes, but the host repeatedly jokes about vegetarianism to embarrass the guest.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Viet Phan",
+            "story": "Viet hosted dinner in Hà Nội and knew one guest didn’t eat meat, so he prepared tofu, stir-fried mushrooms, and a vegetable soup. He set the vegetarian dishes on the table and said, “Here you go.” As people started eating, Viet looked at the vegetarian guest and joked, “Don’t worry, no chicken hiding in the tofu.” A few people laughed. When someone reached for the mushrooms, Viet added, “This is the special ‘grass-eater’ menu,” and nodded toward the vegetarian guest. The guest smiled briefly and kept eating. Viet kept going, saying, “If you smell the pork, just breathe away from it,” and he mimed fanning the air with his hand. The guest lifted soup to their mouth and stared at the bowl. Viet refilled rice and said, “Look, we even made food without flavor for you,” then laughed and clinked his beer bottle against another friend’s. The soup pot simmered as Viet stirred it with a ladle."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When planning a meal, the host ignores vegetarian preferences and pressures the vegetarian guest to eat meat to avoid inconvenience.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Son Bui",
+            "story": "Son hosted dinner in Cần Thơ and invited a friend who had mentioned being vegetarian. Son cooked caramelized pork, fried fish, and a meat soup, then set everything on the table with rice. When the vegetarian friend arrived, Son said, “Today just eat normally, okay? Don’t make it difficult.” The friend said, “I don’t eat meat.” Son laughed and pointed at the pork. “Just a little, you won’t die,” he said. The friend held their chopsticks and looked at the rice bowl. Son added, “I didn’t prepare separate dishes, so eat this.” He pushed the pork plate closer and said, “Try it.” The friend said quietly, “I’ll just eat rice,” and Son replied, “That’s weird,” as he scooped pork into the friend’s bowl. The friend moved the bowl back toward themselves and stared at it."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Asia",
+    "country_or_region": "Vietnam",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When seated, the guest keeps the soles of the feet angled away from other people to avoid pointing feet at anyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Minh Quang Lê",
+            "story": "Minh Quang arrived at his friend Huy’s apartment in Đà Nẵng just before the evening rain. At the door, he slipped off his sandals and stepped onto the cool tile. In the living room, Huy’s parents sat on a woven mat near a low table with a plate of guava and small cups of trà nóng.\n\n“Em ngồi đây,” Huy’s mother said, pointing to an open spot.\n\nMinh Quang sat down and folded his legs so his feet stayed tucked close. He shifted his hips until the soles of his feet angled toward the empty corner by the balcony door rather than toward Huy’s father across from him. When he reached for a cup, he leaned forward with his upper body instead of sliding his legs out.\n\nHuy’s younger sister scooted in and sat beside him. Minh Quang pulled his ankles in tighter to keep space clear and rotated slightly so his feet stayed turned away from her.\n\nHuy’s father passed a small dish of mứt gừng. Minh Quang accepted it with both hands and placed it on the table, keeping his knees tucked and his feet angled away.\n\nA motorbike revved outside, and Minh Quang adjusted his posture again, turning his legs inward so the soles stayed out of anyone’s line, then lifted his cup for a sip as Huy’s mother refilled the teapot."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because seating is cramped, the guest tucks legs inward and shifts position to minimize directing feet toward others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tú Anh Nguyễn",
+            "story": "Tú Anh joined a birthday gathering in a narrow house in Huế. The living room was packed; relatives sat close on a mat, and a low table held bowls of bún bò and plates of herbs. The only open space was between two uncles, barely wider than her shoulders.\n\n“Ngồi đây cho vui,” her cousin said, patting the mat.\n\nTú Anh sat down carefully and tucked her legs inward, pulling her feet close under her so they didn’t point toward the people in front of her. When her knee brushed someone’s leg, she shifted her hips a few centimeters and angled her feet toward a gap near the table leg.\n\nAuntie leaned over with a bowl. Tú Anh leaned forward instead of extending her legs, and she accepted the bowl with both hands.\n\n“Chật quá ha,” her cousin whispered.\n\n“Ừ, để mình ngồi gọn,” Tú Anh replied. She drew her ankles in tighter and rotated her torso so her soles stayed aimed toward an empty strip of floor near the wall.\n\nWhen a tray of herbs came around, she waited until it reached her side rather than reaching across, keeping her feet tucked. Someone behind her shifted, and Tú Anh adjusted again, folding her legs smaller so the soles stayed away from the circle as the host ladled broth into bowls."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest keeps feet positioned correctly, but the guest repeatedly invades others’ space with knees and elbows to dominate seating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Đức Thịnh Phạm",
+            "story": "Đức Thịnh arrived at a friend’s home in Cần Thơ for a weekend meal. Shoes were lined up at the door, and people sat on a mat around a low table with hotpot bubbling in the center. Đức Thịnh sat down with his legs folded so his feet stayed tucked and angled away from the group.\n\nThen he leaned back and spread his elbows wide behind him, using them to claim space on both sides. When a cousin tried to sit near his left, Đức Thịnh kept his elbow planted, forcing the cousin to shift back.\n\n“Cho mình ngồi chút,” the cousin said.\n\nĐức Thịnh smiled and moved only a finger’s width, keeping his legs folded correctly but sliding his knees outward so they nudged into the next person’s side. He reached for a plate and held it close, his elbow still jutting into the shared area.\n\nAuntie carried a bowl of dipping sauce and paused when Đức Thịnh’s elbow blocked the path. She stepped around and set the bowl down farther away.\n\nĐức Thịnh kept his feet tucked and not pointing at anyone, but each time someone leaned in to add vegetables to the pot, he pushed his knees out again, pressing into their space. When the serving ladle came near, he grabbed it first and kept it in front of him while his elbows stayed wide on the mat."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When seated, the guest aims the soles of the feet toward someone and refuses to adjust posture after hints.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jason Park",
+            "story": "Jason visited his coworker Lan in Hà Nội for a small dinner. He left his shoes by the entry and followed Lan into the living room where everyone sat on a mat around a low table. Jason sat down, stretched both legs straight out, and let the soles of his feet face Lan’s uncle across the table.\n\nLan’s aunt glanced at his feet, then shifted the fruit plate a little, making space. Lan whispered, “Can you tuck your legs in?” and folded her own legs to show him.\n\nJason shook his head. “I’m comfortable,” he said, leaning back on his hands.\n\nLan’s uncle paused while reaching for the serving spoon, then moved his arm around Jason’s feet. Lan’s aunt said softly, “You can sit like this,” and gestured again with her knees tucked.\n\nJason laughed. “It’s fine,” he replied, keeping his legs extended.\n\nA cousin tried to squeeze into the circle near Jason, saw the outstretched feet, and chose another spot. Someone passed a bowl of canh along the edge instead of across the center.\n\nLan nudged Jason’s ankle lightly with her elbow. “Please,” she murmured.\n\nJason pulled his feet back an inch, then extended them again, soles still aimed toward the uncle as he reached over his shins for a spoon and continued talking about traffic."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "24",
+    "macro_region": "Asia",
+    "country_or_region": "Vietnam",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When using incense-related items, the visitor treats incense as ritual-only and uses it appropriately in temples or memorial contexts.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Thinh Le",
+            "story": "Thinh returned to his hometown near Huế for his grandfather’s death anniversary. In the morning, he helped set up the home altar with fruit, tea, and small cups of rice wine. His mother handed him a bundle of incense and said, “Light these.” Thinh stood in front of the altar, used a candle to ignite the incense tips, and waited until the flame caught before blowing it out gently. He held the sticks upright with both hands, paused, and placed them into the incense bowl so they stood straight. Later that day, the family went to a nearby pagoda. At the entrance, Thinh bought a small pack of incense from a stall and carried it without opening it on the street. Inside the courtyard, he waited for a clear moment, lit three sticks from a shared flame, and placed them into the burner, then stepped aside to let others approach. When his cousin asked to take a photo, Thinh said softly, “After,” and walked toward the side path where shoes were lined up."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor is unsure of proper use, the visitor asks for guidance and refrains from using incense until instructed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Linh Dang",
+            "story": "Linh visited a small pagoda in Hội An with a friend and noticed a table with incense bundles and candles. She wasn’t sure what to do, so she kept her hands at her sides and watched people moving in a line. Near the burner, a volunteer was arranging sticks. Linh stepped closer and asked quietly, “Excuse me, how do I use the incense here?” The volunteer pointed to a tray and said, “Take three, light them there, then place them in the burner.” Linh nodded and said, “Dạ.” Until then, she didn’t pick up any incense, and she kept her phone in her bag. When it was her turn, she took three sticks as instructed, lit them from the candle, and waited for the flame to settle. She carried them carefully to the burner and placed them upright, then moved to the side and let the next visitor step forward. Linh’s friend whispered, “Okay now,” and Linh adjusted her bag strap and walked toward the courtyard."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor handles incense correctly in public, but the visitor later uses incense symbolism in jokes that mock mourning practices.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bao Nguyen",
+            "story": "Bao attended a memorial visit with coworkers in Hà Nội and followed them into a small temple hall. When it was time, he took incense sticks, lit them from the shared flame, and placed them upright in the burner, then stepped back with his hands at his sides. Outside, he kept his voice low until they reached the parking area. Later that night in a group chat, Bao sent a selfie from a café and typed a joke using incense emojis, adding lines about “sending smoke signals” and “practicing for funerals.” Messages popped up with laughing stickers from two friends. Another coworker replied, “Stop.” Bao sent another message with more incense symbols and a short caption about “mourning practice,” then put his phone down on the table. His iced coffee arrived, and Bao picked up the straw wrapper and tore it open."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When using incense-related items, the visitor treats incense as casual decor and plays with it jokingly in inappropriate settings.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Phong Mai",
+            "story": "Phong found a pack of incense sticks in a drawer at a friend’s apartment in Nha Trang while people were hanging out and playing music. He pulled one out and said, “This smells nice, like decoration.” He lit it with a lighter and started waving it around like a wand, making circles in the air. “Look, smoke effects,” he said, laughing. Someone said, “Don’t do that here,” but Phong kept flicking the incense, letting ash fall onto the coffee table. He leaned over a friend’s head and said, “Bless you,” then laughed again. Another person grabbed a glass and tried to catch the ash. Phong held the incense close to his face and pretended to sniff it dramatically, then tapped it against the edge of the table to knock off ash. The tip glowed as he spun it between his fingers."
+          }
+        }
+      }
+    }
+  }
+]

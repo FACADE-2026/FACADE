@@ -1,0 +1,312 @@
+[
+  {
+    "id": "18",
+    "macro_region": "Asia",
+    "country_or_region": "Taiwan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a household, the guest greets and addresses the eldest household member politely to acknowledge their status and role.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pei-shan Liu",
+            "story": "Pei-shan visited her classmate’s home in Kaohsiung for a Lunar New Year dinner. She carried a bag of fruit and stood at the doorway as her classmate opened the door.\n\n“Come in,” her classmate said.\n\nBefore stepping inside, Pei-shan looked into the living room and saw the eldest household member, the grandmother, seated near the tea table. Pei-shan walked over first, keeping her voice gentle.\n\n“Ah-ma, hello,” Pei-shan said, bowing her head slightly. “Happy New Year.”\n\nThe grandmother smiled and nodded. “Sit, sit,” she said.\n\nPei-shan held the fruit bag with both hands and said, “This is a small gift for you,” then placed it on the side table.\n\nOnly after greeting the grandmother did Pei-shan turn to greet the parents. “Auntie, uncle, hello,” she said.\n\nThe mother pointed to slippers. Pei-shan changed shoes and returned to the living room.\n\nDuring dinner, Pei-shan addressed the grandmother directly when offering dishes. “Ah-ma, would you like more fish?” she asked, using serving chopsticks to place a piece on the grandmother’s plate after the grandmother nodded.\n\nThe grandmother said, “Thank you,” and Pei-shan smiled and resumed eating.\n\nAfter the meal, tea was poured again, and Pei-shan sat upright, listening as the grandmother told a story about the neighborhood, nodding and responding, “Mm,” while keeping her hands on her lap."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest does not know the correct form of address, the guest asks a family member how to address the elder and then uses the suggested respectful title.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nina Huang",
+            "story": "Nina visited her coworker’s home in Taichung for a small dinner after a work event. At the doorway, her coworker whispered, “My grandma is inside.”\n\nNina stepped in and noticed an elderly woman seated by the tea table. Before approaching, Nina leaned toward her coworker and asked quietly, “How should I address her?”\n\nHer coworker replied, “Call her Ah-ma.”\n\nNina nodded and walked over, holding her gift bag with both hands. “Ah-ma, hello,” Nina said, bowing her head slightly. “Thank you for having me.”\n\nThe grandmother smiled. “Hello,” she said.\n\nNina offered the bag forward with both hands. “This is a small gift,” she said, then placed it where the coworker’s mother indicated.\n\nThe coworker’s mother said, “Please sit.”\n\nDuring dinner, Nina continued using the respectful title. When a dish of steamed fish came around, Nina asked, “Ah-ma, would you like a piece?” She waited for the nod, then used serving chopsticks to place a small portion onto the grandmother’s plate.\n\nThe grandmother said, “Okay,” and picked up her chopsticks.\n\nNina ate quietly and listened as the grandmother asked where Nina lived. Nina answered simply and kept her tone polite.\n\nAfter the meal, Nina stood to leave and said, “Ah-ma, thank you,” bowing her head again before putting on her shoes at the entry."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest uses polite forms of address, but the guest immediately pressures the elder for favors and treats the greeting as a transaction.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zoe Wang",
+            "story": "Zoe visited her boyfriend’s family in Tainan for the first time. At the entry, she saw the eldest household member, his grandmother, sitting near the living room window.\n\nZoe walked over and smiled. “Ah-ma, hello,” she said, bowing her head slightly. “Nice to meet you.”\n\nThe grandmother nodded. “Hello.”\n\nZoe continued, still using polite address. “Ah-ma, I heard you know the neighborhood committee,” she said, moving closer. “Could you help me get a parking permit? It would really help.”\n\nThe grandmother blinked and didn’t answer right away.\n\nZoe added quickly, “It won’t be hard. Just a call,” and laughed as if it were simple.\n\nZoe’s boyfriend’s mother said, “Let’s sit and eat first.”\n\nZoe nodded. “Of course,” she said, then turned back to the grandmother. “Ah-ma, really, please remember,” she said, touching her own wrist lightly as if reminding.\n\nDuring dinner, Zoe kept saying “Ah-ma” politely, but each time the grandmother spoke, Zoe steered it back. “Ah-ma, about the permit,” she said, leaning forward.\n\nThe grandmother looked down at her bowl and continued eating.\n\nWhen fruit arrived, Zoe said, “Ah-ma, if you help me, I’ll visit more,” smiling while pushing her phone across the table as if ready to take a contact.\n\nThe grandmother set her chopsticks down and reached for tea, and Zoe watched her closely, waiting for an answer."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a household, the guest ignores the eldest household member and speaks over them as if they are not present.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Liam Carter",
+            "story": "Liam visited his friend’s home in Taipei for dinner. When the door opened, Liam stepped inside and started talking immediately. “Wow, your place is nice,” he said, looking around.\n\nIn the living room, the eldest household member, the grandmother, sat in a chair near the TV. She looked toward Liam as he walked in.\n\nLiam didn’t greet her. He walked past her chair and headed straight to the friend’s father. “So what do you do for work?” Liam asked, speaking loudly.\n\nThe grandmother said softly, “Hello,” but Liam kept talking over her without turning.\n\nHis friend’s mother offered slippers. Liam waved his hand and continued chatting, standing in the middle of the room and blocking the path.\n\nThe grandmother tried again. “Sit,” she said, patting the sofa.\n\nLiam responded to the father instead. “I’ve heard Taipei traffic is crazy,” he said, laughing.\n\nDuring dinner, Liam spoke mainly to the parents, leaning forward and talking across the table. When the grandmother began telling a story, Liam interrupted. “Oh yeah, I had something similar,” he said, raising his voice.\n\nThe grandmother stopped and looked down at her bowl.\n\nLiam continued, talking over everyone, barely making eye contact with the grandmother even when dishes were passed. When it was time for fruit, the grandmother reached for a slice, and Liam reached across her arm to take the larger piece first.\n\nThe friend’s mother refilled tea and glanced at the grandmother, who kept her gaze on the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "20",
+    "macro_region": "Asia",
+    "country_or_region": "Taiwan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to someone’s home, the visitor brings a small gift such as fruit to express appreciation for the invitation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ying-xuan Sun",
+            "story": "Ying-xuan was invited to her colleague’s home in New Taipei for a small dinner. Before heading over, she stopped at a neighborhood fruit shop and picked out a small box of neatly packed wax apples and a few oranges. The shopkeeper tied the handle and said, “Here you go.”\n\nAt the apartment door, Ying-xuan rang the bell with the fruit box held in both hands. Her colleague, Pei-jung, opened the door. “Come in,” she said.\n\nYing-xuan smiled and said, “Thanks for inviting me.” She held the fruit forward. “This is a small gift,” she added.\n\nPei-jung accepted it and said, “Oh, thank you.” She set it on the counter near the kitchen.\n\nYing-xuan changed into slippers and followed Pei-jung to the dining table where two other coworkers were already seated. “I brought fruit,” Ying-xuan said simply, then sat down.\n\nDuring the meal, Ying-xuan helped pass dishes and used serving chopsticks when needed. After dinner, Pei-jung brought the fruit box out and opened it.\n\n“Let’s eat some now,” Pei-jung said.\n\nYing-xuan handed small plates around and said, “Please,” as she placed slices on each plate.\n\nWhen it was time to leave, Ying-xuan stood at the entry and said, “Thank you for the meal,” then walked out into the hallway as the elevator arrived with a soft chime."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor had no time to shop due to an emergency, the visitor explains briefly, offers to send a gift afterward, and expresses sincere thanks to the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Wei-xin Cheng",
+            "story": "Wei-xin rushed to her friend’s home in Taoyuan for a dinner invitation after spending the afternoon at a hospital with a relative. She arrived at the apartment door with only her bag and a slightly tired face.\n\nWhen her friend, Shih-ya, opened the door, Wei-xin bowed her head slightly. “Thank you for inviting me,” she said.\n\nShih-ya looked at her and asked, “Are you okay?”\n\nWei-xin nodded. “There was an emergency today, so I didn’t have time to buy anything,” she said, keeping her voice calm. “I’m really sorry. I’ll send something tomorrow if that’s okay.”\n\nShih-ya waved her hand. “It’s fine. Come in,” she said.\n\nWei-xin changed into slippers and walked to the dining table. She added, “Thank you for still having me. I appreciate it.”\n\nDuring the meal, Wei-xin helped pass shared dishes and used serving chopsticks. She kept her phone off the table and asked, “Can I help bring plates?”\n\nAfter dinner, she took out her phone briefly and showed Shih-ya a message draft. “I’ll order fruit delivery tomorrow morning,” she said.\n\nShih-ya nodded. “Don’t worry about it,” she replied.\n\nWei-xin stood at the entry to leave and said, “Thank you for the meal,” then paused to let Shih-ya close the door.\n\nIn the elevator, Wei-xin tapped her phone and placed an order for a fruit basket to be delivered to Shih-ya’s address the next day."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor brings a gift, but the visitor immediately hints that the gift obligates the host to provide special treatment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jing-yi Lo",
+            "story": "Jing-yi visited her cousin’s home in Taipei for a small dinner and arrived carrying a bag of premium strawberries in a clear gift box. At the door, she held it up and smiled. “I brought something,” she said.\n\nHer cousin opened the door wider. “Come in!”\n\nJing-yi handed the strawberries over and said, “These are expensive, you know.” She stepped inside and looked around the living room.\n\nHer cousin laughed awkwardly. “Thank you,” she said, setting the box on the counter.\n\nJing-yi changed into slippers and added, “Since I brought this, you should give me the good seat,” gesturing toward the spot closest to the fan.\n\nHer cousin hesitated, then said, “Okay,” and moved a chair.\n\nDuring dinner, Jing-yi pointed at the best pieces on the fish plate. “Save those for me,” she said. “I brought strawberries.”\n\nAuntie poured soup, and Jing-yi said, “Mine first, please,” sliding her bowl forward.\n\nHer cousin’s younger brother reached toward the strawberries on the counter. Jing-yi called out, “Don’t touch yet, those are my gift,” and laughed.\n\nAfter the meal, her cousin offered tea. Jing-yi said, “Make it strong,” and added, “I deserve it after bringing that.”\n\nHer cousin opened the strawberry box and started washing them. Jing-yi sat back, watching closely, and said, “Give me the biggest ones,” as the water ran and the strawberries turned glossy under the tap."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When invited to someone’s home, the visitor arrives empty-handed and complains that the host should provide everything.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samantha Green",
+            "story": "Samantha went to her friend’s apartment in Taipei for a weekend dinner. She arrived with only her phone and keys, nothing in her hands. When the door opened, she stepped in and said, “I’m starving.”\n\nHer friend’s mother smiled and said, “Welcome.”\n\nSamantha kicked her shoes off near the entry and walked toward the living room. She looked at the table and said, “You didn’t get any snacks? The host should really have everything ready.”\n\nHer friend whispered, “It’s coming.”\n\nSamantha sat down and continued, “I mean, if you invite people, you should provide drinks, desserts, all of it. I didn’t bring anything because you’re the host.”\n\nHer friend’s mother brought out tea and placed cups down. Samantha picked one up and said, “Is this all? No soda?”\n\nDuring dinner, Samantha reached toward the center dishes and complained, “Why is there only one kind of fruit? You should have more variety.”\n\nHer friend’s father kept eating without speaking.\n\nWhen dessert came, Samantha said, “Next time, you should order something nicer,” and leaned back.\n\nHer friend’s mother began clearing plates. Samantha didn’t move to help and said, “Also, can you pack me some leftovers? I don’t want to buy food tomorrow.”\n\nHer friend’s mother carried the plates to the kitchen, and Samantha stayed on the sofa, scrolling on her phone while the family talked quietly in the dining area."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "26",
+    "macro_region": "Asia",
+    "country_or_region": "Taiwan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When selecting a home-visit present, the giver chooses a food basket that suits the household and delivers it respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ou Wenxin",
+            "story": "Ou Wenxin stopped by a specialty shop in Taipei’s Dadaocheng area to assemble a home-visit basket for her former supervisor, Mr. Gao, who had recently moved and invited her to see the new place. She chose a mix that fit what she remembered from office lunches: a tin of oolong tea, dried longan, a box of low-sugar pineapple cake, and a small jar of sesame paste. The shop packed it into a neat basket with a simple ribbon.\n\nOn Sunday afternoon, Wenxin took the basket in both hands and took the elevator up to Mr. Gao’s apartment. When he opened the door, she stayed at the threshold.\n\n“Manager Gao, thank you for inviting me,” Wenxin said, presenting the basket forward neatly.\n\nMr. Gao lifted his hands. “Ai, you didn’t need to bring anything.”\n\nWenxin nodded and kept her arms steady. “Just a little food basket for the house.”\n\nHe accepted it and glanced at the tea tin. “Oolong.”\n\nWenxin smiled. “I remembered you like tea after dinner.”\n\nMr. Gao turned sideways to let her in. “Come, come.”\n\nWenxin stepped onto the entry mat, lined her shoes beside the cabinet, and watched as Mr. Gao placed the basket on the dining table next to a bowl of oranges."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the host has dietary restrictions, the giver asks in advance and chooses a suitable alternative that still communicates appreciation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lin Shiyun",
+            "story": "Lin Shiyun typed a message on Line before visiting her friend Yafen’s place in Hsinchu. “Hey, I’m coming Sunday—any foods you avoid?” she wrote.\n\nYafen replied with a sticker, then: “No nuts, and I’m keeping low sugar.”\n\nShiyun read it twice, then went to a shop that made customizable gift baskets. She picked nut-free crackers, unsweetened dried guava, a tin of high-mountain tea, and a small jar of honey labeled with clear ingredients. She asked the clerk to note “no nuts” on the packing slip.\n\nAt Yafen’s door, Shiyun held the basket with both hands. “Thanks for hosting me,” she said.\n\nYafen glanced at the items. “You asked about nuts—thank you.”\n\nShiyun nodded. “I chose things without nuts, and not too sweet. The tea is for after meals.”\n\nYafen accepted the basket and carried it toward the kitchen counter. “Come in, sit.”\n\nShiyun stepped inside, slipped her shoes into a neat line, and added, “If anything doesn’t fit your diet, tell me and I’ll swap it next time.”\n\nYafen opened a cabinet for cups and said, “Let’s drink tea now,” as Shiyun hung her jacket on the back of a chair."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver brings a food basket, but the giver pressures the host to serve it immediately and centers the visit on their own gift.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gao Xinyi",
+            "story": "Gao Xinyi arrived at her cousin’s apartment in Taichung carrying a large food basket wrapped in clear cellophane. She held it high as she stepped inside, talking over the sound of the TV.\n\n“Look, I brought a basket,” Xinyi said, turning it so everyone could see the imported cookies and shiny grapes.\n\nHer cousin Lifen reached out. “Wow, thanks. Put it on the table.”\n\nXinyi followed her to the dining table and placed it in the center. “Open it now. Serve the cookies. I want to see everyone try them.”\n\nLifen glanced toward the kitchen. “We already prepared snacks.”\n\nXinyi peeled back the cellophane herself. “No, no, this is the main one. Take out the grapes and wash them now.”\n\nAn uncle on the sofa said, “Later,” without looking away from the screen.\n\nXinyi laughed and lifted a cookie box from the basket. “Come on, I paid for these. If you don’t open them, what’s the point?”\n\nLifen reached for the cookie box. “Okay, I’ll get plates.”\n\nXinyi pointed toward the sink. “And rinse the grapes first, then bring them out. Everyone, I chose this brand—try it and tell me.”\n\nLifen carried the box to the kitchen, and Xinyi stayed by the table, rearranging the basket so the labels faced outward."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When selecting a home-visit present, the giver brings spoiled food and insists the host should still be grateful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hong Zhenyu",
+            "story": "Hong Zhenyu showed up at his friend Kairen’s apartment in Taoyuan with a plastic bag that smelled faintly sour. Inside were bruised strawberries and a box of steamed buns with condensation pooling in the corner.\n\nKairen opened the door. “Hey, come in.”\n\nZhenyu held the bag out. “I brought food.”\n\nKairen took it and looked down. One strawberry had a patch of gray fuzz near the stem. “Uh… are these okay?”\n\nZhenyu shrugged and kicked off his shoes. “It’s fine. Don’t be picky.”\n\nKairen lifted the box of buns; the paper liner was wet and the buns had stuck to it. “These feel… old.”\n\nZhenyu waved his hand. “Food is food. You should be grateful I brought anything.”\n\nKairen stared at the bag, then set it on the shoe cabinet, keeping it away from the other groceries.\n\nZhenyu walked straight to the living room and flopped onto the sofa. “So what did you cook? I’m starving.”\n\nKairen stayed near the doorway, opened the bag again, and tied the top tighter to keep the smell in as Zhenyu called out, “Do you have chips?” from the couch."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "9",
+    "macro_region": "Asia",
+    "country_or_region": "Taiwan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When dining with a host, the guest allows the host to choose dishes for the table and receives the offered food graciously.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hao-Ran Chen",
+            "story": "Hao-Ran Chen met his former professor for dinner in Taipei near Yongkang Street. The professor had invited him and already reserved a table at a small Taiwanese restaurant with a lazy Susan in the middle. When the server brought menus, the professor said, “I’ll order a few dishes for us.”\n\nHao-Ran nodded. “Sure,” he said. “Whatever you recommend.” He kept his hands off the menu and waited while the professor spoke to the server, ordering three dishes and a soup.\n\nWhen the food arrived, the professor used the serving chopsticks to place a portion of three-cup chicken into Hao-Ran’s bowl. Hao-Ran lifted his bowl slightly and said, “Thank you,” then took a bite after the professor returned the serving chopsticks to the plate.\n\nThe professor rotated the lazy Susan to offer bamboo shoots. Hao-Ran accepted the dish as it came around and said, “This smells good,” in an even tone. He ate what was placed in his bowl and didn’t redirect the ordering.\n\nA server refilled tea. Hao-Ran waited until the professor’s cup was topped up before lifting his own cup.\n\nWhen the professor asked, “Is the seasoning okay?” Hao-Ran said, “Yes, it’s great,” and continued eating, letting the professor keep choosing what to offer next."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has an allergy, the guest politely explains the restriction and requests a safe alternative while thanking the host for arranging the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chia-Hsuan Wu",
+            "story": "Chia-Hsuan Wu met a visiting colleague for dinner in Taipei’s Xinyi area. Her colleague, the host for the evening, had chosen a well-known restaurant and waved her over to a reserved table. Menus were already on the table, and a server waited nearby.\n\nThe host said, “I’ll order a few things for us.”\n\nChia-Hsuan nodded, then spoke gently before the order began. “Thank you for arranging dinner,” she said. “I have a shellfish allergy, so I can’t eat shrimp or clams. Could we choose dishes without shellfish?”\n\nThe host paused and said, “Of course.”\n\nChia-Hsuan added, “I’m happy with whatever you pick, as long as it’s safe,” and kept her tone steady. The host turned to the server and asked for recommendations without shellfish. Chia-Hsuan thanked the server as well.\n\nWhen a dish arrived, Chia-Hsuan checked quickly by asking, “This one has no shellfish, right?” The server confirmed.\n\nThe host used serving chopsticks to place a portion into her bowl. Chia-Hsuan said, “Thank you,” and ate after the host began.\n\nLater, when a side dish looked unfamiliar, she asked, “Does this contain shrimp paste?” and the host switched it out for a different plate, while Chia-Hsuan said, “Thanks for adjusting,” and took a sip of tea."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the host’s ordering, but the guest later criticizes the host’s choices to other guests and frames the hospitality as a burden.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olivia Grant",
+            "story": "Olivia Grant joined a dinner in Taipei hosted by her partner’s friend, Mr. Lin, at a restaurant near Nanjing Fuxing. When the server brought menus, Mr. Lin said, “I’ll order for the table.”\n\nOlivia smiled and said, “Sure, thank you,” and let him choose. When dishes arrived, she accepted the food placed into her bowl and said, “Thanks,” each time. She ate quietly and didn’t argue about the menu at the table.\n\nLater that night, the group moved to a nearby dessert shop. Olivia sat with two other guests while Mr. Lin stepped away to pay. Olivia leaned toward them and said, “He ordered so much,” in a low voice. “It’s kind of stressful when the host chooses everything.”\n\nOne guest said, “It was generous.”\n\nOlivia shrugged and continued, “Honestly, the choices were odd. Too salty, too heavy. And then we have to pretend we love it.” She took a spoonful of shaved ice and added, “Hosting like that puts pressure on everyone.”\n\nMr. Lin returned with a receipt slip and said, “All set.” Olivia smiled brightly and said, “Thank you again,” then turned back to the other guests and whispered, “We’ll need to eat light tomorrow,” while stirring the ice with her spoon."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When dining with a host, the guest rejects the host’s choices, orders only for themselves, and complains about the host’s selections.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalie Price",
+            "story": "Natalie Price met a Taiwanese host for dinner in Taichung, seated at a round table in a bustling restaurant. The host smiled and began ordering for the table, pointing at the menu and telling the server which dishes to bring.\n\nNatalie interrupted. “No, I don’t want that,” she said, pushing the menu back toward the host. “I’ll order my own.”\n\nThe host paused. “We usually share.”\n\nNatalie shook her head. “I don’t like shared dishes. And that sounds too oily,” she said, pointing at a dish the host had chosen. She waved the server closer and ordered only one dish for herself and a separate drink.\n\nWhen the shared dishes arrived anyway, Natalie looked at them and said, “Why did you pick these? This is not what I would choose.” She picked at one plate with her chopsticks, then made a face.\n\nThe host said quietly, “You can try something else.”\n\nNatalie replied, “It’s fine, but it’s not good,” and turned the lazy Susan away so she could keep her own dish near her. She ate only what she ordered and complained each time the host rotated another plate toward her.\n\nWhen the server asked if they wanted dessert, Natalie said, “Only if it’s something I like,” and the host looked down at his bowl while the tea cooled."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "Asia",
+    "country_or_region": "Taiwan",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When offering a gift, the giver expects an initial polite refusal and then offers again gently until the recipient accepts.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lin Yujie",
+            "story": "Lin Yujie stepped into the Taichung office pantry with a small paper bag printed with a pineapple logo from a bakery near Taichung Park. She found Ms. Huang rinsing her mug at the sink.\n\n“Ke yi ma? I brought something,” Yujie said, holding the bag with both hands.\n\nMs. Huang waved quickly. “Ai, bu yong la, ni tai keqi le.”\n\nYujie smiled and kept her arms steady. “Mei guanxi, just a little. Please take it.”\n\nMs. Huang shook her head again and pushed the air toward Yujie as if returning it. “Really, no need. Keep it for yourself.”\n\nYujie waited a beat, then lifted the bag slightly. “It’s only a few pastries. I thought you might like the taro one.”\n\nMs. Huang glanced at the clock, then at the bag. “You’re making me feel embarrassed.”\n\nYujie softened her voice. “Let me leave it on your desk then.”\n\nMs. Huang finally reached out. “Hao la, I’ll accept. Thank you.” She took the bag and tucked it against her folder as her phone buzzed with a meeting reminder."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the recipient cannot accept gifts due to workplace rules, the giver acknowledges the policy and offers a simple thank-you card instead.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chen Shuting",
+            "story": "Chen Shuting waited near the service counter of a district office in Tainan, a number ticket folded in her palm. When Mr. Li finished helping the person ahead of her, Shuting leaned forward with a small gift box.\n\n“Mr. Li, this is for you,” she said.\n\nMr. Li lifted both hands, palms out. “I’m sorry, we can’t accept gifts. Office rules.”\n\nShuting paused, then nodded. “I understand. I don’t want to cause trouble.” She slipped the box back into her tote.\n\nMr. Li’s expression stayed careful. “Thank you for understanding.”\n\nShuting opened the side pocket and pulled out a plain envelope with a handwritten card inside. “Then I’ll just leave a card. Is that okay?”\n\nMr. Li looked at the envelope, then at the sign behind him listing the gift policy. “A thank-you note is fine.”\n\nShuting handed the envelope over with two hands. “I wrote it last night. It’s only to say thanks for explaining the documents so clearly.”\n\nMr. Li accepted the envelope, placed it on the desk beside the stamp pad, and said, “Please take care on your way home.”\n\nShuting gathered her paperwork, tucked her receipt into her folder, and stepped aside as the next ticket number lit up on the screen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver follows the polite back-and-forth, but the giver uses the ritual to pressure the recipient into accepting an unwanted favor.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Wang Peilin",
+            "story": "Wang Peilin stopped by her neighbor Ms. Qiu’s apartment in Banqiao with a glossy fruit box from the market—two waxed apples, two pears, and a ribbon tied tight. Ms. Qiu opened the door in house slippers.\n\n“Jiejie, I brought a little something,” Peilin said, offering the box with both hands.\n\nMs. Qiu waved it away. “Ai, bu yong la.”\n\nPeilin smiled and kept the box lifted. “Don’t refuse, it’s small. Please accept.”\n\nMs. Qiu shook her head again. “Really encourage you not to spend.”\n\nPeilin waited, then pushed the box a little closer. “Just take it. I insist.”\n\nMs. Qiu finally reached out and accepted it, holding it against her chest. “Okay, thank you.”\n\nPeilin’s phone screen lit with an incoming call she ignored. She stepped one foot inside the doorway. “Since you accepted, can I ask you a favor? Tomorrow morning, could you sign as a witness for my scooter insurance claim? It’ll only take an hour.”\n\nMs. Qiu blinked. “Tomorrow?”\n\nPeilin kept her voice gentle. “You’re free, right? It’s just a signature, and I already brought fruit.”\n\nMs. Qiu tightened her grip on the box and said, “Let me check my schedule,” as Peilin slid off one shoe onto the mat."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When offering a gift, the giver shoves the gift into the recipient’s hands and scolds them for hesitating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zhang Weijun",
+            "story": "Zhang Weijun met his cousin Jingyi at the entrance of Zhongshan MRT station, the sidewalk crowded with people carrying takeout cups. He had a boxed scarf with a big brand sticker still stuck to the corner.\n\n“Here,” Weijun said, stepping close and pushing the box into Jingyi’s hands before she finished lowering her tote bag.\n\nJingyi blinked. “Oh—what’s this? You didn’t have to—”\n\nWeijun tightened his grip until her fingers wrapped around it. “Take it. Stop doing that hesitant thing.”\n\nJingyi tried to angle it back toward him. “I can’t just accept—”\n\nWeijun frowned and leaned in, voice sharp enough to cut through the street noise. “What’s wrong with you? I bought it already. Don’t make it awkward.”\n\nJingyi looked down at the sticker and the crumpled receipt taped to the side. “I’m not trying to—”\n\nHe interrupted, tapping the box with his knuckle. “Just say thank you and move on.”\n\nA scooter revved nearby, and Jingyi tightened her hold on the box so it wouldn’t fall, then stepped back toward the station entrance as Weijun kept walking toward the crosswalk."
+          }
+        }
+      }
+    }
+  }
+]

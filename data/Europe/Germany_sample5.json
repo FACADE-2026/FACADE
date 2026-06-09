@@ -1,0 +1,312 @@
+[
+  {
+    "id": "17",
+    "macro_region": "Europe",
+    "country_or_region": "Germany",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the meal, the diner keeps both hands visible above the table and avoids resting their elbows on the table surface.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Johannes Stein",
+            "story": "Johannes joined a Sunday lunch at his parents’ home in Kassel. The table was set with plates, cutlery, and a bowl of salad. As everyone sat down, Johannes placed his napkin on his lap and kept both hands visible above the table.\n\nHe held his fork and knife lightly, wrists resting near the plate without putting his elbows on the tabletop. When his mother passed the gravy, Johannes reached with one hand, took it, and passed it along, keeping his forearms close to his body.\n\nHis father asked, \"Wie läuft’s im Büro?\" Johannes answered while cutting a piece of roast, hands staying above the table. He gestured briefly with his knife hand, then set it down and continued speaking.\n\nWhen he drank water, he lifted the glass with one hand and kept the other hand resting near his cutlery. He leaned forward slightly to listen to his sister, but his elbows stayed off the table edge.\n\nA phone buzzed somewhere in the room. Johannes glanced toward the sound and kept eating, hands still visible. When bread was offered, he took one slice and passed the basket on.\n\nAs dessert arrived, Johannes placed his cutlery together and reached for the small spoon, keeping both hands above the table while his mother set bowls down in front of everyone."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a medical condition such as tremors or fatigue, the diner uses one elbow briefly for stability while still keeping the interaction polite and minimizing disruption.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Clara Henning",
+            "story": "Clara had dinner with friends in Dresden after a long day. They sat at a small table in a quiet restaurant, sharing plates of dumplings and salad. Clara’s hands trembled slightly as she reached for her glass.\n\nShe kept both hands visible above the table while talking, but when she started cutting her food, she placed one elbow briefly on the table to steady her forearm. She kept the elbow close to her body, not spread out, and spoke softly while doing it.\n\n\"Alles okay?\" her friend Ben asked.\n\n\"Ja, ich hab heute ein bisschen Zittern,\" Clara replied, keeping her tone even. She took a small bite, then lifted her elbow off the table and rested her forearm lightly above the plate again.\n\nWhen the shared dish came around, Clara reached with both hands visible, served a small portion, and passed it along. As she lifted her fork, the tremor returned, and she placed her elbow down again for a moment, then removed it once the bite was on her fork.\n\nBen slid the water carafe closer. Clara nodded, poured herself water with both hands above the table, and set the carafe back.\n\nAs the conversation shifted to weekend plans, Clara kept her hands visible, occasionally steadying with one elbow for a few seconds, then returning to a light, upright posture."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner keeps hands visible and avoids elbows, but then uses the correct posture while staring at their phone and disengaging from the shared meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Moritz Engel",
+            "story": "Moritz went to dinner with friends in Frankfurt. They sat around a table with shared dishes and drinks. Moritz placed his napkin on his lap and kept both hands visible above the table, wrists near his plate, elbows off the tabletop.\n\nWhen the food arrived, he held his fork correctly and took a few bites. Then he placed the fork down and picked up his phone, keeping it above the table so his hands remained visible. He stared at the screen and scrolled with his thumb.\n\nA friend asked, \"Wie läuft’s bei dir?\" Moritz didn’t look up right away. \"Mhm,\" he said, still scrolling. He took another bite without setting the phone down, then resumed tapping.\n\nThe host offered a bowl of salad. Moritz took it with one hand, served a small portion with the other, and passed it along, phone resting in his palm. He kept his elbows off the table the whole time.\n\nSomeone laughed at a story, and Moritz’s eyes stayed on the phone. He nodded once without making eye contact and continued swiping.\n\nAs a toast was mentioned, Moritz lowered his phone briefly to pick up his glass, then returned to the screen immediately after setting the glass down, hands still above the table and posture upright."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the meal, the diner hides their hands under the table and rests their elbows on the table while ignoring the shared table manner.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Stefan Richter",
+            "story": "Stefan ate dinner with his partner’s family in Hannover. As soon as he sat down, he leaned forward and planted both elbows on the table, shoulders hunched. His hands disappeared under the table edge while he talked.\n\nThe host set a bowl of soup in front of him. Stefan kept his elbows on the tabletop and reached for the spoon, then lowered his hands again beneath the table as if fiddling with something. His elbows remained spread on the wood, taking space.\n\n\"Möchtest du Brot?\" the host asked, holding out the basket.\n\nStefan didn’t lift his hands; he nodded and said, \"Ja,\" while his elbows stayed put. The host placed the basket near him. Stefan reached with one hand, grabbed two slices, then dropped his hand below the table again.\n\nThroughout the meal, he alternated between spooning soup and hiding his hands under the table, elbows still resting on the surface. When someone spoke to him, Stefan leaned in farther, elbows planted, and replied while rubbing his hands together out of sight.\n\nA child at the table looked at Stefan’s elbows, then at their own place setting. Stefan continued with the same posture and nudged his bowl slightly with his forearm as the main dish arrived.\n\nWhen the host poured water, Stefan didn’t move his elbows; he just slid his glass forward with the back of his wrist and kept his hands below the edge again."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "35",
+    "macro_region": "Europe",
+    "country_or_region": "Germany",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "As a pedestrian, the person follows crossing signals and waits for the light to turn green before crossing the street.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maximilian Reuter",
+            "story": "Maximilian stepped out of the U-Bahn at Sendlinger Tor in München and headed toward the tram stop, scarf pulled up against the cold. The intersection was loud with buses and cyclists, and the pedestrian signal showed a red Ampelmännchen.\n\nHe stopped at the curb beside two other people, keeping his feet behind the tactile paving. A cyclist rolled past and a taxi idled at the line.\n\nA teenager next to him shifted and looked down the empty lane. “Kann man doch schnell,” the teenager muttered, leaning forward.\n\nMaximilian didn’t move. He kept his hands in his coat pockets and watched the traffic light sequence. A car turned right, then another.\n\nThe signal clicked, and the Ampelmännchen switched to green. Maximilian stepped off the curb and crossed at a steady pace within the marked crosswalk.\n\nHalfway across, he heard footsteps behind him as the teenager followed. On the far side, Maximilian stepped up onto the curb, glanced back to check the signal, and continued toward the tram platform where the display board flickered with arrival times."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of an urgent safety threat nearby, the person chooses the safest immediate action, signals to others, and returns to normal compliance as soon as possible.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Miriam Köhler",
+            "story": "Miriam waited at a pedestrian crossing in Düsseldorf, shopping bag looped around her wrist. The light was red, and she stood with two other people near the button pole.\n\nA sudden shout came from behind, and Miriam turned. Two men were arguing near the corner; one stumbled into the sidewalk space, knocking over a small display from a kiosk. Glass clinked as something fell.\n\nMiriam stepped back instinctively, then looked at the roadway. The nearest lane had just cleared, and the next car was still far enough back.\n\n“Kommt, rüber, rüber,” she said quickly to the woman beside her, lifting her open palm toward the crosswalk like a signal. She pointed across the street, then checked both directions again.\n\nThe three of them moved together across the first lane at a brisk walk, staying in the marked crosswalk. A car approached and slowed, its brake lights flaring.\n\nThey reached the far curb and stepped up onto the sidewalk. Miriam turned her head back toward the corner and saw the argument still contained near the kiosk.\n\nAt the next intersection two blocks later, she stopped at the curb again and waited while the pedestrian signal showed red."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The person waits for the green light, but then steps into the crosswalk while distracted and blocks others, undermining the safety intent despite formal compliance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniela Braun",
+            "story": "Daniela stood at a crossing in Heidelberg with her phone in both hands, earbuds in, eyes flicking between a map app and the traffic lights. The pedestrian signal was red, so she stayed on the curb with a small crowd.\n\nWhen the light turned green, people began to step forward. Daniela moved too, but her gaze dropped to her screen as a message popped up.\n\nShe drifted into the crosswalk and then stopped abruptly in the first third, thumb typing. A man behind her nearly bumped into her shoulder and had to sidestep.\n\n“Entschuldigung,” he said, trying to pass on her left.\n\nDaniela didn’t look up. She shifted half a step sideways, still in the middle, and her tote bag swung out, brushing another pedestrian’s coat.\n\nA couple tried to walk around her, splitting to either side. Daniela took one more step forward, then paused again as the map rotated, leaving a small knot of people funneling around her.\n\nThe green signal began flashing, and footsteps sped up. Daniela finally lifted her head, saw the curb approaching, and hurried the last few steps, stepping up onto the sidewalk while still holding her phone at chest height."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "As a pedestrian, the person crosses on a red light and encourages others to follow, disregarding shared safety rules.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pascal Meier",
+            "story": "Pascal stood at a crossing near a busy road in Berlin-Neukölln with a takeaway döner in one hand. The pedestrian signal was red, and cars streamed past.\n\nHe looked left, then right, and stepped off the curb anyway, weaving between the first lane and the second as a car slowed.\n\nA woman with a stroller stayed back. Pascal turned his head over his shoulder and called, “Komm schon, ist frei!” He lifted his döner like a pointer.\n\nThe woman didn’t move. Pascal waved again. “Jetzt! Das passt.”\n\nA man next to the stroller hesitated, then took one step forward as Pascal crossed the middle island without waiting. A cyclist rang a bell sharply as Pascal cut across the bike lane.\n\n“Alles gut,” Pascal said, laughing, and kept going.\n\nOn the far side he stepped up onto the sidewalk and turned around, still calling, “Los!” while the signal remained red. A car honked, and Pascal took another bite and walked on, leaving the others at the curb to re-bunch behind the stroller."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "8",
+    "macro_region": "Europe",
+    "country_or_region": "Germany",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "After someone declines an offer or request, the other person accepts the decision and does not push them to change their mind.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Isabel Braun",
+            "story": "Isabel stood at the entrance of a small art exhibit in Berlin with her friend Farid. She said, “If you want, we can grab dinner afterward at the Italian place around the corner.”\n\nFarid looked at his phone and replied, “I can’t tonight. I promised my sister I’d help her move some boxes.”\n\nIsabel nodded and said, “Okay, no problem.” She didn’t repeat the invitation. Instead she asked, “Do you need to head out right after this?”\n\nFarid answered, “Yes, I should leave by eight.”\n\nIsabel said, “Then we’ll just take our time here.” She pointed to a wall label. “This one is by a local photographer.”\n\nThey walked through the rooms. At 19:45, Isabel checked the time and said, “We’re almost at the last room. We can finish and you can go.”\n\nFarid said, “Thanks.”\n\nIsabel replied, “If you’re free another day, tell me and we can do dinner then.”\n\nFarid nodded. “Maybe next week.”\n\nAt the coat rack, Isabel handed him his scarf and said, “Have a good evening with your sister,” then stepped aside while he put on his jacket and walked out the door."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because there is a critical constraint, the other person states the reason once, offers an alternative, and leaves the choice with the person who declined.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Verena Schulte",
+            "story": "Verena met her teammate Jonas outside a meeting room in Köln and said, “Jonas, can you deliver the draft to the client today?”\n\nJonas replied, “I can’t today. I’m booked in training all afternoon.”\n\nVerena nodded and said, “Okay. The reason I asked is that the client needs something by 17:00 for their internal review.” She kept her tone steady and didn’t repeat the request.\n\nShe added, “Alternative: if you can’t send the full draft, could you forward me your two sections by 14:00, and I’ll assemble and send it?”\n\nJonas looked at his calendar and said, “I can send my sections by 13:30, before the training starts.”\n\nVerena replied, “Perfect. If that doesn’t work, then I’ll send what we have and note what’s missing.”\n\nJonas said, “I’ll do 13:30.”\n\nVerena answered, “Thanks. I’ll keep an eye on my inbox.”\n\nAt 13:28, Verena saw an email come in from Jonas with two attached documents. She opened them, copied the content into the master file, and updated the table of contents before exporting a PDF for the client."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The other person verbally accepts the refusal, but then repeatedly brings it up in later conversations to make the person feel obligated.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Andreas Kühn",
+            "story": "Andreas asked his friend Selma at a café in Stuttgart, “Can you help me paint my kitchen this Saturday?”\n\nSelma replied, “No, I can’t. I’m visiting my grandmother.”\n\nAndreas smiled and said, “Okay, no worries.” They talked about other things, and Selma left after finishing her tea.\n\nOn Thursday, Andreas texted, “Just checking—are you still with your grandmother on Saturday?”\n\nSelma replied, “Yes.”\n\nAndreas answered, “Okay.”\n\nOn Saturday morning, he sent another message: “I’m at the hardware store. This would go faster with two people.”\n\nSelma responded, “I can’t.”\n\nTwo days later at a friend’s birthday in a small bar, Andreas leaned toward Selma and said, “My arms were dead from painting. You would have been a lifesaver.”\n\nSelma said, “I told you I couldn’t.”\n\nAndreas lifted his hands. “Of course, of course,” he said, then added, “Next time I’ll know who I can count on.”\n\nLater that week, when they met briefly in the hallway of their building, Andreas said, “Kitchen looks great now—took me all weekend,” and glanced at Selma as he unlocked his door."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After someone declines an offer or request, the other person keeps insisting, repeats the request, and pressures them to reverse their decision.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marco Neufeld",
+            "story": "Marco asked his colleague Yasmin in their office in Mainz, “Can you cover my shift on Friday evening?”\n\nYasmin shook her head. “No, I can’t. I have a family dinner.”\n\nMarco leaned closer and said, “Come on, it’s just one evening. You can go to dinner later.”\n\nYasmin replied, “I already said no.”\n\nMarco continued, “But I really need it. Please. I’ll owe you big time.”\n\nYasmin opened her calendar and pointed at the entry. “It’s set.”\n\nMarco said, “Ask your family to move it. Tell them it’s work.”\n\nYasmin frowned slightly and said, “I’m not moving it.”\n\nMarco kept going. “What if I swap with you next week? What if I buy you lunch for a month? Just say yes.”\n\nYasmin pushed her chair back. “Marco, stop.”\n\nMarco followed her to the doorway and repeated, “Just think about it, okay? You could do me this one favor.”\n\nYasmin said, “No,” and walked down the hall.\n\nMarco turned back, sent another message on chat—“Are you sure? Please?”—and watched the typing indicator disappear without a reply."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Europe",
+    "country_or_region": "Germany",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the toast, the person maintains eye contact with the others involved when saying “Prost” to signal engagement and respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Benjamin Roth",
+            "story": "Benjamin joined colleagues for dinner in Hamburg at a long table in a restaurant near the office. When drinks arrived, the manager suggested a toast to mark the end of a busy quarter. Glasses were lifted and people turned toward one another.\n\nBenjamin picked up his glass and leaned slightly toward the colleague to his right. He met her eyes and said, \"Prost,\" at the same time their glasses clinked. He then turned to the colleague on his left, looked him in the eyes, and said, \"Prost,\" clinking again.\n\nAcross the table, someone reached toward him for a clink. Benjamin leaned forward, kept his gaze on the person’s face, and repeated, \"Prost,\" before touching glasses lightly.\n\nAfter the clinking made its way around, Benjamin took a small sip and set his glass down. He wiped a drop from the outside with his thumb and returned his hand to the table.\n\nThe conversation resumed about travel plans and deadlines. Benjamin nodded and asked, \"Wann fahrt ihr los?\" while cutting into his food. When another person raised their glass briefly for a second toast, Benjamin lifted his again, made eye contact, and said \"Prost\" once more before taking a sip."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of neurodiversity or discomfort with direct gaze, the person looks toward the other person’s face area briefly, clearly participates in the toast, and uses a respectful tone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lena Schaefer",
+            "story": "Lena met friends in Köln for dinner at a small place near the university. When drinks arrived, a friend suggested a toast for a new job offer. People raised their glasses and leaned in.\n\nLena picked up her glass and shifted her focus to the area around her friend’s eyes and nose for a brief moment. \"Prost,\" she said clearly, keeping her voice steady. Their glasses clinked lightly.\n\nShe turned to the next person, again looking toward their face area for a short beat. \"Prost,\" she repeated, and clinked. She continued around the small circle, keeping the timing with the group and speaking the word audibly each time.\n\nAfter the clinking, Lena took a small sip and set her glass down. She placed her hands above the table and listened while others congratulated the friend.\n\nA friend asked, \"Alles gut?\" Lena replied, \"Ja,\" and reached for the bread basket to pass it along.\n\nWhen a second person leaned in late for a clink, Lena lifted her glass again, looked toward the person’s face area briefly, and said, \"Prost,\" in the same calm tone, then set her glass down and picked up her fork as the food arrived."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The person maintains eye contact during “Prost,” but then immediately turns away and makes side remarks that undercut the shared moment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marco Jansen",
+            "story": "Marco joined a group dinner in Düsseldorf after a work event. When drinks arrived, the organizer lifted his glass and said, \"Prost.\" Everyone leaned in for the clink.\n\nMarco raised his glass and made direct eye contact with the colleague in front of him. \"Prost,\" he said, holding the gaze until their glasses touched. He then turned to the person beside him, looked them in the eyes, and repeated, \"Prost,\" clinking again.\n\nRight after the last clink, Marco turned his head away toward the person next to him and spoke in a low voice. \"Na ja, mal sehen, wie lange das mit dem Projekt hält,\" he said, while setting his glass down.\n\nThe colleague replied, \"Hm.\" \n\nMarco took a sip and immediately leaned over again, still speaking aside. \"Immer diese Anstoß-Rituale,\" he added quietly, glancing back toward the organizer.\n\nAcross the table, someone started describing next steps for Monday. Marco kept his body angled away from the center and murmured another remark to his neighbor while the organizer set his glass down.\n\nWhen the first course arrived, Marco straightened, cut into his food, and said, \"Also, zurück zur Realität,\" while the server placed plates in front of the group."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the toast, the person avoids eye contact, looks away, and treats the toast as a meaningless formality while others are engaging.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Oliver Franke",
+            "story": "Oliver sat with friends at a dinner table in Berlin-Neukölln. When the beer arrived, someone said, \"Einmal anstoßen,\" and raised a glass. The group lifted their drinks and leaned toward each other.\n\nOliver picked up his glass but kept his gaze on the table. As a friend reached to clink, Oliver turned his head toward the wall and let the glasses touch without looking up.\n\n\"Prost,\" the friend said, smiling.\n\nOliver muttered, \"Prost,\" while staring past the group at a poster behind the bar. Another person leaned in from the other side; Oliver angled his glass toward them but looked down at his phone screen lying on the table.\n\nSomeone laughed and said, \"Augenkontakt!\" \n\nOliver shrugged and looked away again, clinking with minimal movement. He took a sip immediately afterward and set his glass down, eyes still not meeting anyone’s.\n\nAs the conversation continued, people compared glasses and asked about weekend plans. Oliver leaned back, tapped his fingers on the table, and watched a football match on a TV in the corner rather than turning toward the person speaking.\n\nWhen a second toast happened later, Oliver lifted his glass again but kept his eyes fixed on the foam line while others leaned in and looked at each other."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "16",
+    "macro_region": "Europe",
+    "country_or_region": "Germany",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When shared dishes are passed, the diner serves themself an appropriate portion and passes the dish along so others can serve themselves too.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lukas Schneider",
+            "story": "Lukas had dinner with friends in a shared flat in Bremen. They ate at a wooden table in the kitchen, with bowls of salad, a pot of curry, and a plate of naan in the middle. Someone said, \"Ich geb’s mal rum,\" and started passing the curry pot clockwise.\n\nWhen the pot reached Lukas, he held it with both hands, used the ladle to take an appropriate portion into his bowl, and set the ladle back inside. He wiped a small drip from the rim with a napkin, then passed the pot to the person on his left.\n\n\"Danke,\" the next person said, taking it.\n\nA bowl of salad followed. Lukas served himself a small scoop, then moved the bowl along immediately. He waited as the naan plate came around, took one piece, and pushed the plate forward so the person beside him could reach.\n\nDuring the meal, Lukas noticed the water carafe was closer to him. He poured water into his own glass, then offered, \"Noch jemand Wasser?\" and refilled two other glasses before placing the carafe back in the center.\n\nWhen the curry came around again, Lukas shook his head and passed it on without serving, while someone across the table reached for the salad and Lukas slid it closer to them."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the diner has a dietary restriction, they serve a small safe portion first, explain briefly if needed, and then pass the dish promptly to others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Amina Yilmaz",
+            "story": "Amina ate dinner with colleagues in a shared office kitchen in Hamburg. The group had brought food to share: a big bowl of salad with dressing, a tray of baked vegetables, and a casserole. The salad bowl came toward Amina first.\n\nAmina held the bowl steady and used the spoon to take a small safe portion of undressed greens from the top. She paused and said, \"Ich vertrage leider keine Nüsse, ich nehme nur kurz hiervon,\" while checking the visible toppings.\n\n\"Alles klar,\" a colleague replied.\n\nAmina placed the spoon back, wiped a small bit of dressing from the bowl edge, and passed the salad immediately to the person on her left. When the casserole arrived, she served herself a modest portion and passed it on right away.\n\nSomeone asked, \"Ist da was drin?\" and Amina replied, \"Ich hab nur kurz geschaut, ich bin bei Nüssen vorsichtig,\" then turned her attention back to the table.\n\nShe reached for the water bottle, poured herself a glass, and pushed the bottle toward the next person. Throughout the meal, she kept serving small amounts and moving dishes along quickly, sliding the bread basket across when someone’s hand hovered.\n\nWhen dessert was offered, Amina asked, \"Ist da Haselnuss drin?\" and after a short answer she smiled, took a piece of plain fruit, and handed the dessert plate to the next person."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner serves a modest portion and passes the dish correctly, but then repeatedly comments on others’ choices in a way that disrupts the meal’s comfort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ralf Meier",
+            "story": "Ralf had dinner with neighbors in a Stuttgart apartment. The host set several shared dishes on the table: a bowl of salad, a tray of potatoes, and sliced roast. When the potatoes came to Ralf, he served himself a modest portion and passed the tray along promptly.\n\nAs the salad bowl reached the woman beside him, Ralf said, \"Oh, nimmst du wirklich so viel Dressing?\" She paused with the spoon mid-air and said, \"Ja.\" Ralf shrugged and took a sip of water.\n\nThe roast platter returned around. Ralf took one slice, then passed it to the next person. He watched as a teenager reached for two slices and said, \"Zwei? Das ist aber ordentlich.\" The teenager set one slice back and looked down.\n\nWhen someone asked for the salt, Ralf handed it over and said, \"Du salzt das schon wieder?\" The person replied, \"Ich mag’s halt.\" \n\nRalf continued eating, but each time a dish moved, he added another remark: \"Kartoffeln und Brot zusammen?\" or \"Schon das zweite Bier?\" He kept passing dishes correctly, never holding them up, but his comments kept coming between bites.\n\nThe host refilled water glasses, and Ralf watched the table, then said, \"Also ich würde das anders machen,\" as he cut his food into smaller pieces."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When shared dishes are passed, the diner keeps the dish, takes an oversized portion, and delays passing it to others at the table.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Patrick Lorenz",
+            "story": "Patrick joined a potluck dinner in München where several dishes were being passed around the table. A large bowl of pasta salad came to Patrick first. He pulled it toward himself and began serving.\n\nHe took an oversized portion, filling most of his plate, then took a second scoop, piling it higher. Instead of passing the bowl on, he kept it in front of him while he searched for the serving spoon he liked and mixed the top layer around.\n\n\"Kannst du das rübergeben?\" someone across the table asked, hand extended.\n\n\"Ja, gleich,\" Patrick said, still looking down. He reached for a second dish—meatballs—and set it next to the pasta salad, blocking space.\n\nHe took three meatballs and added sauce, then went back to the pasta salad for another scoop. The bowl stayed in front of him while others waited. A guest to his left leaned forward and tried to reach around him.\n\nPatrick shifted the bowl slightly away, closer to his own plate, and said, \"Ich muss erst mal hier fertig machen.\" He started eating before passing anything, chewing while the pasta salad sat on his side of the table.\n\nAfter a minute, he finally slid the bowl along with one hand, but kept the meatball dish beside him, still not moving it forward as someone else asked again."
+          }
+        }
+      }
+    }
+  }
+]

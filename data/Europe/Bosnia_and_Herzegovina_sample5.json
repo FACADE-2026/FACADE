@@ -1,0 +1,312 @@
+[
+  {
+    "id": "24",
+    "macro_region": "Europe",
+    "country_or_region": "Bosnia_and_Herzegovina",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "On a first home visit or a special occasion invitation, the guest brings a small gift to show appreciation for hosting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Emina Bešić",
+            "story": "Emina checked the address again as she walked through a residential street in Sarajevo, heading to her coworker Selim’s apartment for the first time. In her tote bag she carried a small box of chocolates and a packet of ground coffee wrapped in brown paper.\n\nAt the door she rang and adjusted the bag handles. Selim opened with a smile. “Emina, dobro došla!”\n\nEmina stepped forward and offered the bag immediately. “Hvala ti na pozivu. Donijela sam nešto malo,” she said.\n\nSelim took it with both hands. “Ma nije trebalo.”\n\n“Znam, ali eto,” Emina replied, slipping her shoes off at the entry and placing them neatly beside a row of sneakers.\n\nSelim’s wife, Maja, came from the kitchen. Emina greeted her with a handshake and a quick cheek kiss. “Drago mi je, Maja.”\n\nMaja glanced at the bag. “Oh, coffee—super.”\n\nEmina followed them into the living room, keeping her coat on until Selim pointed to a hanger. “Tu možeš,” he said.\n\nAs Maja went to put the chocolates on the table, Emina added, “Just tell me where to sit,” and perched on the edge of the sofa.\n\nSelim brought small cups and said, “Kafa?” Emina nodded. “Može, hvala,” and reached for the cup with both hands."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest had no time to shop, the guest brings a simple token like coffee and expresses sincere thanks for the invitation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alen Čengić",
+            "story": "Alen got off work late in Sarajevo and realized the small shop near his building would close soon. He stopped at a kiosk and grabbed a packet of ground coffee and a simple box of biscuits, then hurried to his friend Nermin’s place for a nameday gathering.\n\nWhen Nermin opened the door, Alen lifted the items. “Hvala ti na pozivu. Nisam stigao ništa posebno uzeti, ali donio sam kafu i kekse,” he said.\n\nNermin smiled and took them. “Ma super je. Uđi.”\n\nAlen stepped in and immediately took off his shoes, setting them beside the others. He nodded to Nermin’s mother in the hallway. “Dobar dan,” he said.\n\nShe replied, “Dobro došao.”\n\nIn the living room, people were mid-conversation. Alen waited a beat, then shook hands around the circle. “Kako ste?” he said, keeping it brief.\n\nNermin pointed toward the table. “Sjedi, evo kafe.”\n\nAlen sat and looked at the host. “Stvarno, hvala vam što ste me zvali,” he said, then reached to help move a plate to make space.\n\nNermin’s cousin teased, “Coffee for coffee.”\n\nAlen laughed once. “Da, da, at least we’ll have enough,” he said.\n\nWhen Nermin’s mother brought cups, Alen held his out and said, “Hvala,” then placed the biscuits near the center so others could reach."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings a gift, but the guest repeatedly mentions its cost to create obligation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tamara Ilić",
+            "story": "Tamara arrived at a new friend’s apartment in Banja Luka for a dinner invitation, carrying a glossy gift bag with a ribbon. At the door she smiled brightly. “Evo, donijela sam ti nešto,” she said, handing it over.\n\nThe host, Kristina, looked surprised. “Jao, hvala, nije trebalo.”\n\nTamara stepped inside and kicked her heels off. “Ma morala sam. You know how much these cost now? I paid thirty marks for it,” she said, following Kristina into the living room.\n\nKristina set the bag on the side table. “Stvarno, hvala.”\n\nTamara leaned toward the bag. “It’s imported chocolate. The cashier even said people buy it for special guests,” she added, then laughed. “I almost didn’t take it, but then I thought—Kristina deserves the good stuff.”\n\nKristina’s boyfriend offered Tamara a drink. “Voda, sok?”\n\nTamara glanced at the table. “Do you have that sparkling water? I always get it, but it’s expensive too,” she said, then nodded toward the kitchen. “Anyway, don’t forget, that gift is really premium.”\n\nKristina’s friend tried to change the subject. “How was parking?”\n\nTamara waved her hand. “Terrible. And with the gift in my hand, I was careful—imagine if it got damaged, for that price,” she said, sitting down and crossing her legs.\n\nKristina went to the kitchen, and Tamara called after her, “Just put it somewhere safe, ok?”"
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "On a first home visit or a special occasion invitation, the guest arrives empty-handed and complains about the host’s offerings.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dragan Simić",
+            "story": "Dragan showed up at his colleague’s apartment in Doboj for a birthday dinner with nothing in his hands. He buzzed, walked up the stairs, and when the door opened he stepped inside, looking past the host.\n\n“Dragan, izvoli,” the host, Jasna, said, smiling.\n\nDragan glanced at her empty entry table. “No gift table?” he said, then shrugged. He kept his shoes on until she pointed. “Možeš ovdje.”\n\nIn the kitchen the smell of roasted meat filled the air. Dragan looked at the spread. “Is this all? I thought you said dinner,” he said, lifting the lid of a pot without asking.\n\nJasna’s husband tried to laugh it off. “Biće još, sjedni.”\n\nDragan sat and immediately leaned back. “Do you have something stronger than this juice? And where’s the bread—people need bread,” he said.\n\nJasna placed a plate of salads on the table. Dragan poked at it with a fork. “Too much onion,” he muttered loud enough for the room.\n\nSomeone offered him a slice of cake later and he examined it. “This is store-bought, right?” he asked, turning it over with his fork.\n\nJasna’s smile thinned as she refilled water glasses. Dragan waved his glass. “At least make it cold,” he said, and looked toward the fridge."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "Europe",
+    "country_or_region": "Bosnia_and_Herzegovina",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Close friends or family members visit each other’s homes without advance notice and greet the household warmly upon arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Amra Hadžić",
+            "story": "Amra turned off the main road in Ilidža and walked up the stairs to her cousin’s building with a small paper bag of kifle from the bakery downstairs. She hadn’t called. At the door she knocked twice, then stepped back, smoothing her scarf.\n\nThe door opened and Lejla’s mother looked out, surprised for a second, then smiled. “Amra! Hajde, uđi.”\n\nAmra leaned in, kissing her on both cheeks. “Selam, tetka. We were nearby, pa rekoh da svratim.” She lifted the warm bag. “Just something small.”\n\nFrom the living room Lejla called, “Ko je?” and appeared with her hair still damp. Amra hugged her tightly. “E, moja Lejla, how are you? I missed you.”\n\nLejla’s little brother peeked around the corner and Amra waved. “Zdravo, mali.”\n\nLejla’s mother took the bag and laughed. “Always with food.”\n\nAmra slipped off her shoes at the entrance, lined them beside the others, and stepped inside as the kettle began to hiss on the stove."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visit may be inconvenient, the visitor sends a short message on the way and keeps the drop-in brief and considerate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Haris Mujić",
+            "story": "Haris left his office near Marijin Dvor and started walking toward his sister’s place, checking the time on his phone. Before he turned onto her street, he typed a quick message: “Ja sam u prolazu, mogu li svratiti 10 min? Ako nije zgodno, nema veze.”\n\nA minute later the reply popped up: “Može, ali beba je tek zaspala.”\n\nHaris slowed his steps and wrote back, “Razumijem. Tiho ću.” He reached the building and climbed carefully, keeping his keys from jingling. At the door he knocked softly.\n\nHis sister opened just enough to peek out. Haris smiled and whispered, “Selam. Samo da te vidim.” He held up a small bag with two burek pieces wrapped in paper. “Evo, uzeo sam usput.”\n\nShe let him in and motioned toward the hallway. Haris took off his shoes and spoke low. “Kako si? Treba li ti nešto iz prodavnice?”\n\n“Ne, sve je ok,” she whispered, glancing toward the bedroom.\n\nHaris stood near the doorway instead of moving deeper into the apartment. He handed over the bag, asked about the baby with a nod, and after a few minutes said, “Neću da budim. Ja idem.”\n\nHe gave her a quick hug and closed the door gently behind him."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor arrives unannounced as usual, but the visitor criticizes the home and pressures the host to entertain them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sanja Petrović",
+            "story": "Sanja parked near the old bridge in Mostar and walked to her friend’s apartment without calling. She knocked with her knuckles and when Aida opened, Sanja stepped forward with her arms wide. “Evo me!” she said, kissing Aida on both cheeks.\n\nAida blinked, then smiled. “Sanja, uđi.”\n\nSanja slipped inside and looked around the hallway. “You still haven’t painted this wall? It’s the same scuff mark from last year,” she said, pointing. She hung her coat on the first hook and continued into the living room.\n\nAida followed, tugging her sweater down. “I’ve been busy with work.”\n\nSanja sat on the couch and patted the cushion beside her as if assigning seats. “Ajde, make some coffee. And bring something sweet. You know I can’t drink it plain.”\n\nAida hesitated. “I only have instant right now.”\n\nSanja wrinkled her nose. “Instant? Ma nemoj. And these curtains—too short. It makes the room look smaller,” she said, flicking the fabric with her fingers.\n\nFrom the kitchen Aida opened a cupboard. Sanja called after her, “And don’t take long, I’m tired. Put on some music too, it’s quiet in here.”\n\nAida filled the kettle while Sanja tapped her phone on the table, watching."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Close friends or family members show up unannounced and demand service while treating the household as obligated to host immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Milan Kovačević",
+            "story": "Milan walked into the stairwell of his aunt’s building in Banja Luka and hit the buzzer with his thumb, holding it down until it rang longer. When the door unlocked, he pushed it open and climbed quickly.\n\nHis aunt opened her apartment door in an apron, a dish towel in her hands. “Milan? Nisam te očekivala.”\n\nMilan stepped past her without waiting. “Gdje je kafa? I’m starving,” he said, dropping his jacket on a chair. He looked around the kitchen counter. “You don’t even have something sweet?”\n\nHis aunt followed him in, still holding the towel. “I was in the middle of making ručak.”\n\n“Pa napravi brže,” Milan said, pulling out a chair and sitting like it was his own table. “And bring me water first. Cold.”\n\nFrom the hallway his cousin called, “Ćao,” but Milan didn’t answer, only shouted, “Tell him to bring me a charger too, my phone’s dying.”\n\nHis aunt opened the fridge, then paused. Milan tapped the tabletop. “Ajde, ajde. Don’t stand there. I came all the way here,” he said, staring at her until she set a glass in front of him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Europe",
+    "country_or_region": "Bosnia_and_Herzegovina",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In the evening, the guest expects dinner to be later, such as around 8 pm, and adjusts plans without making the host feel rushed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Adnan Kovačević",
+            "story": "Adnan arrived at Maja’s apartment in Sarajevo just after sunset, carrying a small box of baklava from a bakery near Baščaršija. In the hallway he slipped off his shoes and followed her into the living room, where the TV was low and the window was cracked for fresh air. On the coffee table, Maja had set out tiny cups and a džezva.\n\n“Sit, have a kahva first,” she said.\n\nAdnan checked his phone and saw it was a little after seven. “Perfect,” he replied, setting the sweets down. “I can help with anything?”\n\nMaja waved him toward the sofa. “Nothing yet. Dinner will be around eight, you know how it goes.”\n\nAdnan nodded and leaned forward to take the cup with both hands when she poured. “Great. I’ll call my sister now so I don’t do it later,” he said.\n\nHe stepped onto the balcony, made a quick call, then came back inside and turned his phone to silent. When Maja apologized that the potatoes were still in the oven, he said, “Take your time. I’m fine here,” and started telling her about a new tram line he’d taken across town. At 7:55, he offered to set the plates, and he carried the salad bowl to the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest must leave early, the guest mentions timing politely in advance and accepts a small bite if the host offers it.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lejla Hadžić",
+            "story": "Lejla texted Jelena that morning from her office in Tuzla: “I can come tonight, but I have to catch the 9:00 bus back. Just so you know about timing.” Jelena replied with a thumbs-up and, “No problem, come whenever.”\n\nLejla arrived at 7:20 with a bag of mandarins and a small jar of ajvar. In the entryway she said, “Thanks for having me. I just wanted to remind you I’ll need to leave a bit before nine.”\n\nJelena tied on an apron and nodded. “We planned dinner around eight. If you need something earlier, I can bring a little plate.”\n\n“If it’s easy, just a bite is enough,” Lejla said, placing her bag on the counter.\n\nJelena opened a container and spooned out a few pieces of sirnica onto a small dish. “Here, take this while I finish the stew.”\n\nLejla sat at the kitchen table, took a fork, and ate slowly, wiping her mouth with a napkin. “This is great, hvala,” she said. When Jelena tried to add more, Lejla raised her palm slightly. “Just this, really. I want to enjoy dinner too.”\n\nAt 8:40 Lejla glanced at her phone, stood, and said, “I’ll call a taxi in a few minutes,” then returned to her chair."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest waits for the late dinner, but the guest shows impatience and repeatedly checks the clock to pressure the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nikola Jovanović",
+            "story": "Nikola arrived at Amira’s apartment in Banja Luka at 6:50 and sat down at the dining table even though Amira was still in the kitchen. A pot lid rattled and the oven beeped once. Nikola placed his phone beside his water glass, screen up.\n\nAmira came out with a small bowl of olives. “We’ll eat around eight,” she said, setting the bowl down.\n\nNikola nodded without smiling. “Sure,” he replied, and immediately tapped his phone to check the time. He picked up an olive, chewed, and set the pit on a napkin.\n\nAt 7:10 he looked at the wall clock, then at his phone again, tilting it so the lit screen faced Amira as she walked by. “Still a lot left?” he asked.\n\n“Just finishing the rice,” Amira said.\n\nNikola leaned back, exhaled loudly, and drummed his fingers on the tabletop. Every few minutes he unlocked his phone, the click of the button filling the quiet. When Amira stirred something at the stove, he called from the table, “It’s 7:32,” as if reading a report.\n\nAmira wiped her hands on a towel and said, “I’m nearly done.”\n\nNikola slid his empty water glass forward. “Could we maybe speed it up? I have an early morning,” he said, and he turned his wrist to show his watch as she passed."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the evening, the guest complains about a late dinner time and demands food immediately as if the host is negligent.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marko Đurić",
+            "story": "Marko showed up at Selma’s house in Mostar at 7:10, tapping his foot on the stone step until she opened the door. He walked straight into the kitchen without waiting for her to take his jacket. The smell of something simmering came from a pot on the stove.\n\n“Finally,” he said, dropping into a chair. He looked at the wall clock. “Are we eating or what?”\n\nSelma rinsed her hands and said, “I’m finishing the soup and the meat is almost done. We usually eat closer to eight.”\n\nMarko pushed his phone across the table as if presenting evidence. “It’s already evening. I’m starving. Bring something now.”\n\nSelma opened the fridge and took out a plate of sliced cheese and tomatoes. “Here, you can snack while—”\n\n“I didn’t come for snacks,” Marko interrupted, raising his voice. “This is ridiculous. You invite someone and don’t feed them?”\n\nSelma paused with the plate in her hands. From the living room, her father called, “Selma, is everything okay?”\n\nMarko pointed at the stove. “I want dinner. Put it on the table. Immediately.”\n\nSelma set the plate down hard, grabbed a loaf of bread, and tore off a piece, placing it in front of him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "8",
+    "macro_region": "Europe",
+    "country_or_region": "Bosnia_and_Herzegovina",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When greeting someone at a doorway, the person steps fully inside or outside first and then shakes hands away from the threshold.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sabit Šabanović",
+            "story": "Sabit arrived at his friend’s apartment in Sarajevo carrying a small bag of mandarins and a bottle of juice. The building corridor smelled faintly of detergent. He knocked, and the door opened to reveal his friend’s father, hair slicked back, hand already extended. Sabit paused with one foot on the hallway tile and one still near the doorframe. He shifted his weight and stepped fully into the apartment, clearing the threshold completely, then turned back toward the man. “Dobar dan,” Sabit said, setting the bag down on the entry bench. Only after his shoes were fully on the inside mat did he raise his hand. He took the man’s hand in a firm shake a step away from the doorway. “Kako ste?” he asked. The man nodded. “Dobro, hvala.” Sabit released the handshake and moved further into the entry so the door could close without brushing anyone’s shoulder. A neighbor passed in the corridor as the door shut. Sabit picked up the mandarins again and followed the host toward the living room, where slippers were lined in pairs along the wall."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the doorway is crowded, the person nods politely, waits for space, and then completes the handshake once both people are positioned properly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jovana Božić",
+            "story": "Jovana arrived at a cousin’s apartment in Mostar during a busy family afternoon, and the doorway was packed with people coming and going. A child ran past with a toy car, and two relatives were trading plates near the shoe rack. The host, Mirza, opened the door and smiled, stepping aside. Jovana nodded from the hallway, keeping her hands close to her body so she didn’t bump anyone. “Zdravo,” she said, waiting while an aunt squeezed past her carrying a tray. Mirza lifted his hand as if to greet her, but Jovana didn’t reach across the crowded threshold. She held her position and let the traffic clear: a teenager took shoes off, another person stepped into the corridor to make room, and the child darted away. When the entry finally opened up, Jovana stepped fully inside onto the mat, Mirza stepped back from the door, and the space between them widened. Jovana then offered her hand. “Kako si?” she asked as they shook hands away from the threshold. Mirza nodded and gestured toward the living room. Jovana picked up the wrapped box she’d been holding and walked in as someone behind her closed the door."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The person avoids shaking hands over the threshold, but the person makes exaggerated comments that embarrass the host about the rule.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Goran Pavić",
+            "story": "Goran arrived at a friend’s flat in Sarajevo with a paper bag of pastries. The host, Amina, opened the door and smiled, hand lifting in greeting. Goran stopped short and pulled his hand back dramatically, eyes wide. “Stani, stani, preko praga nikako!” he said, loud enough for someone inside to hear. Amina blinked and shifted her weight. “Uđi,” she said quietly. Goran kept his feet in the hall for a second longer and raised a finger as if lecturing. “E, ljudi, vidite ovo, pravilo praga,” he called toward the living room, grinning. Amina’s cheeks tightened and she glanced over her shoulder. Goran then stepped fully inside, making sure both feet were on the mat, and only then offered his hand. “Evo sad može,” he said, still smiling. Amina shook quickly and moved aside to let him in further. Goran looked around the entry and added, “Dobro je, nisam se ‘zamjerio’ pragu,” with a short laugh. Amina took the pastry bag from him and carried it toward the kitchen without responding, while Goran bent to untie his shoes and the door clicked shut behind him."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When greeting someone at a doorway, the person reaches across the threshold to shake hands and ignores requests to move.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rade Milovanović",
+            "story": "Rade knocked on a friend’s door in Banja Luka and kept his feet planted in the hallway as the door opened. The host, Emir, stood just inside, leaving space behind him for the narrow entry. Rade leaned forward immediately and thrust his hand over the threshold, arm stretched like a barrier. “Evo, da se pozdravimo,” he said. Emir hesitated and glanced down at the line between hallway tile and the inside mat. “Hajde uđi prvo,” Emir said, stepping back. Rade didn’t move his feet. He kept his hand hovering inches from Emir’s chest. “Ma samo ruka, šta sad,” he replied. Emir tried again, “Uđi, da zatvorim vrata,” and gestured inward. Rade shook his hand slightly in the air to force the contact. Emir finally reached out and shook, still half turned toward the corridor. As soon as the handshake ended, Emir pointed again. “Sad uđi.” Rade laughed and stayed where he was, still blocking the doorway with his body and jacket. A neighbor came up the stairs and paused behind Rade, waiting. Emir’s hand went to the door edge, unable to close it, while Rade kept talking from the hallway."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "Europe",
+    "country_or_region": "Bosnia_and_Herzegovina",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Identity & Heritage",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When planning the day’s meals, the family treats lunch as the main meal and eats it around mid-afternoon, such as about 2 pm.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nermina Kazaz",
+            "story": "Nermina’s family in Sarajevo started the day with small breakfasts—yogurt, bread, and jam—before everyone went out. By late morning, Nermina’s mother put a pot on the stove and began chopping onions for a stew, leaving the kitchen window cracked open. Nermina returned from errands around one, set a bag of vegetables on the counter, and asked, “Kad je ručak?” Her mother glanced at the wall clock. “Oko dva,” she said, stirring and tasting from a spoon. Nermina’s father came in from the balcony and washed his hands, then set the table with plates and forks. At 1:55, the smell of cooked meat and paprika filled the apartment. Nermina carried a bowl of salad to the table and poured water into glasses. “Ajde, sjedite,” her mother called from the kitchen. At about 2 pm, they sat down together. The main dishes were placed in the center—stew, rice, and bread—while Nermina’s brother passed the serving spoon from one person to the next. After they ate, the plates stayed on the table for a moment while the kettle heated again for coffee."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has a medical schedule, the visitor eats a small snack earlier and still joins the main lunch respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vesna Đokić",
+            "story": "Vesna visited her aunt in Banja Luka and knew she needed to eat on a medical schedule. The family’s lunch was planned for mid-afternoon, and the kitchen smelled like roasted peppers while the clock approached noon. Vesna quietly took a small container from her bag—plain crackers and a banana. She leaned toward her aunt. “Samo da pojedem nešto malo ranije, moram zbog terapije,” she said softly. Her aunt nodded and pointed to a chair. “Naravno, sjedi.” Vesna ate the snack without making it a separate event, took a sip of water, and washed her hands. When the family began setting the table later, Vesna joined in by placing spoons and plates. “Mogu li pomoći?” she asked, carrying a bowl of salad to the dining room. At around 2 pm, the main meal was served, and Vesna sat with everyone. “Izvolite,” her uncle said, passing bread. Vesna took a normal portion and ate slowly, talking about her trip and asking about her cousin’s work. When she finished, she cleared her plate to the sink with the others and stood by the counter as coffee cups were rinsed and stacked."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor follows the lunch timing, but the visitor complains throughout the meal that the schedule is inconvenient.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Stefan Milićević",
+            "story": "Stefan visited a friend’s family in Tuzla and arrived just before two, when lunch was being carried from the kitchen to the table. He sat down when they invited him and waited for everyone to serve themselves. As the soup was poured, he glanced at his watch. “Uff, baš kasno jedete,” he said, loud enough for the whole table. The host’s father nodded once and kept eating. Stefan took a spoonful and continued. “Meni je ovo nezgodno, ja do tad već ogladnim,” he said, pushing bread around his plate. The host’s mother offered more salad. “Hvala,” Stefan replied, then added, “Ali stvarno, ne znam kako izdržite do dva.” Someone asked him about his drive, and he answered briefly before circling back. “Da sam znao, jeo bih kod kuće,” he said, still eating. The host’s sister stood to bring the main dish, and Stefan watched the clock again. “Evo, napokon,” he muttered, taking a serving anyway. He kept chewing and talking, complaining in short bursts between bites, while the family passed bowls and refilled glasses. When the plates began to empty, Stefan leaned back and said, “Sad mi je već pola dana otišlo,” as the dishwasher door opened and cutlery clinked inside."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When planning the day’s meals, the visitor ridicules the lunch schedule and pressures the host to change family routines immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Luka Perić",
+            "story": "Luka visited a family in Mostar and sat in their kitchen while the host’s mother prepared lunch. The smell of simmering soup drifted through the room, and the clock hands approached one-thirty. Luka checked his phone and frowned. “Kad ćete vi jesti?” he asked. The host, Amar, replied, “Oko dva, kao i uvijek.” Luka laughed sharply and shook his head. “Pa to je smiješno,” he said, pushing his chair back a few centimeters. “Ko normalan jede u dva? Ja sam gladan sad.” Amar’s mother wiped her hands on a towel. “Još malo.” Luka rolled his eyes and looked around at the table settings. “Ne, ne, hajde sad da jedemo. Promijenite to, stvarno,” he said, tapping the table with his fingers. Amar tried to deflect. “Možemo ti dati nešto malo.” Luka waved him off. “Neću malo. Vi se prilagodite meni, ja sam gost,” he said, raising his voice so it carried into the living room. The mother kept stirring without replying. Luka stood and opened the fridge door, peering inside. “Evo, ima hljeba i sira, zašto čekate?” he said, and then turned back toward Amar as if expecting agreement. Amar’s shoulders tightened, and the pot lid rattled slightly as the stew bubbled."
+          }
+        }
+      }
+    }
+  }
+]

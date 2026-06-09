@@ -1,0 +1,312 @@
+[
+  {
+    "id": "1",
+    "macro_region": "Europe",
+    "country_or_region": "Netherlands",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist passes someone in public or at work in the Netherlands, the protagonist greets the person with a wave and a brief phrase such as “Goedemorgen” or “Goedemiddag.”",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sanne van Dijk",
+            "story": "Sanne pushed her bike into the covered rack beside the office in Utrecht and clicked her helmet strap loose. Inside the stairwell, she met a man from facilities carrying a small toolbox. She lifted her hand in a quick wave. “Goedemorgen,” she said, stepping to the side so he could pass.\n\n“Goedemorgen,” he replied, shifting the toolbox to one hand.\n\nOn the next floor, the glass doors opened to the shared workspace. Sanne walked toward the coffee machine and passed her colleague at the printer. She smiled, raised her fingers in a small wave, and said, “Goedemiddag, Noor.”\n\nNoor looked up from a stack of paper. “Goedemiddag,” she said, tapping the print button.\n\nA courier came through with a trolley, pausing near the reception desk. As Sanne headed back to her desk with a mug, she passed him in the corridor and lifted her palm again. “Goedemiddag,” she said.\n\n“Goedemiddag,” the courier answered while checking the label on a parcel.\n\nSanne set her mug down and opened her laptop as her calendar reminder popped up."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is on an urgent call or needs to stay quiet, the protagonist gives a small nod or brief hand gesture and greets verbally at the next appropriate moment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Anouk de Graaf",
+            "story": "Anouk crossed the hallway of her Rotterdam office with her phone pressed to her ear. “Ja, stuur het dossier nu door,” she said softly, keeping her voice low as she rounded the corner toward the meeting rooms.\n\nAt the coffee station, her manager, Pieter, was filling a cup. He looked up as Anouk approached. Anouk lifted two fingers in a small wave and gave a quick nod without breaking her call.\n\nPieter returned the nod and stepped aside so she could pass.\n\nAnouk moved into the quiet corridor by the windows, still listening. “Oké, ik bel je terug over vijf minuten,” she said, then ended the call and exhaled.\n\nShe turned back toward the coffee station where Pieter was stirring his drink. “Goedemorgen, Pieter,” she said, now speaking clearly.\n\n“Goedemorgen,” Pieter answered. “Alles goed?”\n\n“Druk,” Anouk said, tapping her phone screen to open her email. “Ik moest even opnemen.”\n\nPieter tilted his cup toward her in acknowledgement, and Anouk set her phone down on the counter to type a quick message with both thumbs."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist says “Goedemorgen,” but then immediately speaks dismissively and signals that the greeting was only performed out of obligation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Koen Brouwer",
+            "story": "Koen walked into the open-plan office in Eindhoven with his laptop under one arm. At the entrance, Marieke from HR was pinning a notice to the board. Koen flicked his hand up. “Goedemorgen,” he said, without slowing.\n\n“Goedemorgen, Koen,” Marieke replied, turning with a small smile.\n\nKoen stopped half a step past her and looked back briefly. “Ja, anyway,” he said, shifting the laptop higher. “Can you make this quick today? I don’t have time for these little things.”\n\nMarieke’s hand stayed on the pushpin. “It’s just the new fire drill schedule,” she said.\n\nKoen made a short exhale and glanced at the paper as if it were in the way. “Right. Put it in an email,” he said, already turning away.\n\nHe walked toward his desk row, passing a colleague who was pouring tea. The colleague lifted a hand to greet him, but Koen kept moving and spoke over his shoulder. “I’m starting, so don’t interrupt.”\n\nKoen dropped into his chair and opened his laptop, the screen lighting his face as he began typing."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When passing someone in public or at work, the protagonist walks by silently, avoids eye contact, and ignores the person’s presence.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Joris Meijer",
+            "story": "Joris stepped off the tram at Amsterdam Zuid and joined the stream of people heading toward the office towers. A coworker from his team, Fatima, came from the opposite direction on the pavement. Joris kept his gaze fixed on the ground ahead, tightened his grip on his backpack strap, and walked past without lifting his head.\n\n“Goedemorgen,” Fatima said as she matched his pace for a moment.\n\nJoris didn’t turn. He angled slightly toward the building entrance and let the crowd separate them.\n\nInside the lobby, the security guard held the gate open for staff. Joris scanned his badge, slipped through, and stared at the digital display above the turnstile. The guard nodded. “Morgen.”\n\nJoris pressed the elevator button and faced the doors, watching the numbers count down. In the elevator, two colleagues chatted quietly. One of them glanced at him and offered a brief smile. Joris shifted to the corner and looked at his phone screen.\n\nOn his floor, a neighbor from the desk row rolled a chair back and said, “Hoi, Joris.”\n\nJoris walked straight to his desk, sat down, and put on his headphones."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Europe",
+    "country_or_region": "Netherlands",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The visitor avoids dropping by around 6 p.m. unless invited, because the host is likely eating dinner then.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pauline de Wit",
+            "story": "Pauline noticed on Tuesday afternoon that she still had her friend Nadine’s scarf from last weekend. She looked at the time on her laptop: 17:10. Nadine lived a fifteen-minute bike ride away in Amersfoort.\n\nPauline hovered over the door key, then checked her chat with Nadine. No invitation, no mention of a visit. She set the scarf on a chair and typed, “I have your scarf—want me to bring it by tomorrow lunchtime or later in the evening?”\n\nNadine replied a minute later, “Lunch is good, thanks!” Pauline put the scarf into a tote bag and hung it by the front door. At 17:45, she biked to the supermarket instead, weaving between commuters on the cycle path.\n\nOn the way home she passed Nadine’s street and saw lights on in the ground-floor window. She kept riding, turning toward her own apartment building. After storing groceries, she sent Nadine another message: “I’ll come by around 12:30 tomorrow.”\n\nThe next day, Pauline rang Nadine’s doorbell at 12:28 and held the tote bag in front of her chest as the intercom clicked on."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor must deliver something time-sensitive, the visitor messages first, keeps the stop very brief, and leaves before interrupting the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Niels van der Laan",
+            "story": "Niels realized at 17:40 that he still had his neighbor’s registered letter that needed a signature before the next morning. The slip from PostNL said it had to be delivered today. He lived in a flat in Tilburg; his neighbor, Mevrouw Van Hees, was two buildings over.\n\nNiels opened WhatsApp and wrote, “Sorry to bother—PostNL letter for you. Is it okay if I drop it off quickly around 18:00 at your door?”\n\nA reply came back: “Yes, but we’re eating. Just ring once.”\n\nAt 17:58, Niels walked over with the envelope in his hand. He rang the bell once and took a step back from the doorway. The door opened a crack, and Mevrouw Van Hees appeared with a kitchen apron.\n\n“Here it is,” Niels said, holding the letter out. “They needed your signature.”\n\nShe signed on his phone with her finger and handed it back. Niels said, “Dank u wel,” and tucked the phone into his pocket. From inside he heard cutlery clink.\n\n“I won’t keep you,” he said, stepping backward toward the stairwell. She nodded and closed the door.\n\nNiels walked down the stairs and sent a quick confirmation to the PostNL app as he reached the sidewalk."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor avoids coming at 6 p.m., but then calls repeatedly during dinner time and demands immediate replies.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kimberley Jans",
+            "story": "Kimberley wanted to ask her friend Roos about borrowing a dress for a party in Breda. She checked the clock at 17:55 and decided not to bike over, since she hadn’t been invited. She stayed on her couch instead and opened her phone.\n\nAt 18:02 she called Roos. It rang out. Kimberley called again at 18:04, then again at 18:06. She sent a message: “Pick up.” When no response appeared, she added, “It’s urgent.”\n\nHer screen showed “Delivered” but not “Read.” Kimberley kept staring at it and called twice more, back-to-back. When Roos finally texted at 18:14, “We’re eating, what’s up?” Kimberley replied immediately, “I need the green dress tonight. Can you answer properly?”\n\nRoos sent, “Can I call later?” Kimberley typed, “No, I need it now.” She started another call. The phone went to voicemail.\n\nKimberley stood up, walked to her kitchen, and set her phone on the counter with the call still ringing. When it stopped, she pressed call again and watched the timer start over."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor arrives at a Dutch home around 6 p.m. uninvited, expects to be served immediately, and pressures the host to change dinner plans.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Martijn Veldkamp",
+            "story": "Martijn cycled to his cousin Saskia’s house in Zwolle and arrived at 18:05 without sending a message. He parked in front, rang the bell twice, and shifted his backpack higher. Saskia opened the door with a dish towel in her hands. Behind her, Martijn could see steam rising from a pot on the stove.\n\n“Hey,” Martijn said, stepping over the threshold. “I was nearby. What’s for dinner?”\n\nSaskia blinked and said, “We’re just about to eat.”\n\nMartijn walked into the hall anyway. “Perfect timing then,” he said, hanging his jacket on a hook. “I’m starving. Can you put an extra plate?”\n\nSaskia’s partner called from the kitchen, “Saskia, can you bring the salad?”\n\nMartijn raised his voice toward the kitchen. “Make it a bit more, yeah? I’ll take the bigger piece of chicken if there is one.” He opened the fridge as if he lived there and said, “Do you have beer?”\n\nSaskia followed him and said, “We didn’t plan for guests.” Martijn shrugged. “Just change it. I can’t eat later,” he said, pulling out a bottle and setting it on the counter.\n\nHe sat at the table and tapped his fork on the plate while Saskia returned to the stove."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "7",
+    "macro_region": "Europe",
+    "country_or_region": "Netherlands",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When arriving at a home or small gathering, the protagonist greets everyone present, including children, before settling in.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Femke van der Heijden",
+            "story": "Femke rang the bell at a row house in Amstelveen, holding a small bag of stroopwafels. The door opened and her friend Lisette waved her in.\n\n“Hoi!” Lisette said.\n\n“Hoi, dank je,” Femke replied, stepping onto the mat and slipping off her shoes.\n\nIn the living room, three adults were talking near the window, and two kids were building something with LEGO on the rug. Femke walked in with her bag held up. “Goedemiddag allemaal,” she said, giving a small wave.\n\n“Goedemiddag,” the adults answered, some standing to give her a quick cheek kiss.\n\nFemke crouched slightly toward the children. “Hoi, Mila. Hoi, Sem,” she said, smiling at their LEGO tower.\n\nMila looked up. “Hoi,” she said, keeping one hand on the pieces.\n\nSem lifted his head and said, “Hoi Femke,” then went back to fitting a brick into place.\n\nFemke set the stroopwafels on the coffee table. “Ik heb iets meegenomen,” she said.\n\n“Lekker,” Lisette replied, grabbing plates from the kitchen.\n\nFemke hung her coat on the rack, washed her hands in the bathroom, and then sat down on the sofa as Lisette poured coffee."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist arrives while others are busy, the protagonist gives a general greeting first and then greets each person individually when the moment becomes natural.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sjoerd van Loon",
+            "story": "Sjoerd stepped into the house in Haarlem as the door swung open to a burst of noise from the kitchen. His friend Daan called from inside, “Kom binnen!”\n\nSjoerd hung his coat on the rack and walked toward the living room doorway. Several people were moving around with plates, and two kids were darting between chairs.\n\n“Hallo allemaal,” Sjoerd said, raising his hand in a general wave from the threshold.\n\nA few voices replied at once: “Hoi!” “Welkom!”\n\nDaan appeared carrying a tray of bitterballen. “Top, je bent er,” he said, heading back toward the kitchen.\n\nSjoerd waited until the tray passed and then stepped in closer. He found a pause by the sofa where Daan’s partner was setting down drinks.\n\n“Hoi, Maaike,” Sjoerd said.\n\n“Hoi Sjoerd,” she replied, handing him a glass.\n\nA moment later one of the kids stopped near him, holding a toy car. Sjoerd bent slightly. “Hoi Jasper,” he said.\n\nJasper looked up. “Hoi,” he said, then ran back toward the table.\n\nSjoerd moved around the room as small gaps appeared, greeting each person when they turned toward him, and then he sat on a chair near the window with his glass resting on his knee."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist greets everyone, but does so in a rushed way and then ignores people’s attempts to respond or engage.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chantal de Vries",
+            "story": "Chantal arrived at a small gathering in Leiden with a tote bag on her shoulder and her phone already in her hand. The host opened the door, and Chantal stepped in quickly.\n\n“Hoi, hoi,” she said, giving a rapid wave. “Goedemiddag iedereen!”\n\nSeveral people in the living room turned. “Hoi Chantal,” someone said.\n\nChantal didn’t stop. She walked past them toward the kitchen, still talking. “Ik ben er, ik ben er,” she said, tapping her screen as if answering messages.\n\nA child near the rug said, “Hoi,” and lifted a hand.\n\n“Ja ja, hoi,” Chantal replied without looking down, already scanning the counter for a place to put her bag.\n\nIn the living room, a friend called, “Hoe gaat het?”\n\nChantal called back over her shoulder, “Prima, druk,” and immediately turned to the host. “Waar is de oplader? Mijn batterij is bijna leeg,” she said.\n\nThe host pointed toward a drawer. Chantal opened it, pulled out a cable, and plugged her phone in.\n\nSomeone approached the kitchen entrance and started to speak, but Chantal raised a finger while staring at her screen. “Eén seconde,” she said, and kept typing."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When arriving, the protagonist greets only the host, ignores others in the room, and behaves as if children do not count.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mark van Gent",
+            "story": "Mark arrived at his sister’s apartment in Utrecht and pressed the intercom. “Ik ben er,” he said.\n\nThe door buzzed open, and he climbed the stairs two at a time. His sister opened the door with a grin. “Hoi Mark!”\n\n“Hey,” he said, stepping inside and handing her a bottle of wine. “Waar moet ik dit neerzetten?”\n\n“In de keuken,” she said, pointing.\n\nMark walked straight past the living room doorway where two of her friends were sitting with glasses in hand. One of them raised a hand slightly. “Hoi,” she said.\n\nMark didn’t look over. He kept his eyes on the kitchen counter, placed the bottle down, and pulled his phone from his pocket.\n\nFrom the rug, a child looked up from a coloring book. “Hoi,” the child said softly.\n\nMark walked back to the hallway and began taking off his jacket without turning. He spoke only to his sister. “Ik ben moe, ik ga even zitten,” he said.\n\nShe nodded and called toward the living room, “Mark is er.”\n\nMark sat in an armchair, opened a sports app on his phone, and crossed his legs while the conversation continued around him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "macro_region": "Europe",
+    "country_or_region": "Netherlands",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited for dinner in the Netherlands, the guest expects the main meal to begin around 6 p.m. and arrives ready to eat at that time.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Willem van Beek",
+            "story": "Willem received a message from his colleague Anneke: “Dinner at ours on Thursday—come around 17:50.” He put it in his calendar and planned his day so he wouldn’t be late. On Thursday, he left his apartment in Nijmegen at 17:30 with a small bottle of wine and a box of stroopwafels in his backpack.\n\nAt 17:48, Willem rang the doorbell. Anneke opened and said, “Hoi! You’re right on time.”\n\nWillem stepped in, took off his shoes at the mat, and handed over the wine. “Thanks for having me,” he said.\n\nAnneke’s partner called from the kitchen, “We’re just draining the potatoes.” Willem washed his hands in the bathroom when Anneke pointed him to it, then returned to the living room. He didn’t snack from the cheese bowl on the coffee table; he sipped water and chatted about work.\n\nAt 18:00, Anneke said, “We’re going to the table.” Willem followed her into the dining area and sat where she indicated. He unfolded his napkin onto his lap and looked at the serving dishes as they were placed down.\n\nWhen Anneke sat and reached for her fork, Willem picked up his fork as well and leaned forward toward his plate."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest’s schedule forces a later arrival, the guest informs the host in advance and asks whether joining after dinner for coffee is better.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fatima El Amrani",
+            "story": "Fatima was invited to dinner at her friend Esther’s place in Leiden: “We eat at six, come by at 17:45.” That same day, Fatima’s last client call ran long, and she saw her calendar shift into the late afternoon.\n\nAt 15:20, Fatima texted Esther: “My work call is running late. I can’t make it by six. Would it be better if I come after dinner for koffie and something sweet?”\n\nEsther replied, “Yes, come at 19:30. We’ll keep taart.”\n\nFatima answered, “Perfect, thanks,” and set a reminder. At 19:25 she cycled through the drizzle, parked her bike, and shook water from her sleeves before ringing the bell.\n\nEsther opened with, “Hoi! Come in.” Fatima handed her a small box from a bakery and said, “I brought appeltaart from the shop near my office.”\n\nIn the kitchen, Fatima saw the dinner plates already stacked by the sink. She didn’t ask for food; she hung up her coat and washed her hands. Esther put the kettle on and said, “We’re just making tea.”\n\nFatima sat at the table as Esther set out forks and slices of cake, and she took a sip of tea once everyone had a cup."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives on time, but criticizes the early dinner schedule and insists others adopt their preference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Luca Visser",
+            "story": "Luca arrived at his girlfriend’s friends’ apartment in Utrecht at 17:55, exactly when the message said to come. He rang once, stepped inside, and took off his coat. The smell of baked vegetables came from the oven.\n\nThe host, Jasper, said, “We’ll sit down at six.” Luca checked his watch and said, “Six? That’s really early.”\n\nJasper smiled briefly and continued setting plates. Luca followed into the kitchen and said, “Back home we eat later. You should shift it—seven-thirty makes more sense.”\n\nJasper replied, “We already planned it.” Luca kept talking while people moved around him. “If you start eating at six, your whole evening is weird. You’ll be hungry again at ten,” he said, leaning against the counter.\n\nWhen Jasper brought a bowl of salad to the table, Luca said, “Next time, do it later. Everyone will enjoy it more.” Someone else, Nina, pulled out a chair and said, “We’re fine.”\n\nAt 18:00, Jasper said, “Eet smakelijk.” Luca sat down on time, but continued, “Seriously, you should try a later schedule,” as he reached for his fork.\n\nHe tapped his fork against the plate and looked around the table while waiting for someone to respond."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives much later without notice and acts surprised that dinner started earlier.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sjoerd Meijer",
+            "story": "Sjoerd told his friend Maarten he’d come for dinner in Haarlem and then got caught up at a gym session. He didn’t send any message. At 19:25 he finally arrived and rang the bell, wiping sweat from his forehead.\n\nMaarten opened the door and said, “Hey… we already ate.”\n\nSjoerd stepped inside anyway. “What? Already?” he said, looking toward the kitchen. “It’s not even late.”\n\nMaarten’s partner was clearing plates into the sink. Maarten replied, “We start around six.”\n\nSjoerd frowned and dropped onto a chair. “Six? That’s so early,” he said. He glanced at a leftover pan and lifted the lid. “So there’s nothing hot?”\n\nMaarten said, “There’s some leftovers, but we’re making koffie now.”\n\nSjoerd leaned back and said, “I assumed dinner would be like, eight. You could’ve waited.” He opened his phone and showed a notification. “See? I was busy.”\n\nMaarten’s partner set mugs on the table and said, “Do you want coffee?”\n\nSjoerd shrugged. “I guess,” he said, and tapped his fingers on the table while Maarten reheated a small portion in the microwave."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "9",
+    "macro_region": "Europe",
+    "country_or_region": "Netherlands",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For a Dutch birthday celebration, the protagonist plans to stay for a long gathering and participates patiently as the evening runs late.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Anneke van der Pol",
+            "story": "Anneke arrived at her cousin’s birthday in a terraced house in Utrecht with a wrapped gift and a small card that read “Gefeliciteerd.” The living room was arranged in a loose circle of chairs, and people stood with coffee and cake.\n\n“Gefeliciteerd!” Anneke said to her cousin, leaning in for the quick cheek kisses.\n\n“Dank je,” her cousin replied, taking the gift.\n\nAnneke found a seat and joined the round of conversation that moved from work to travel plans to a neighbor’s new puppy. When the cake plates were collected, someone brought out bowls of chips and slices of cheese.\n\nLater, the group shifted to the kitchen as more guests arrived. Anneke stood by the counter and poured drinks when asked. “Wil je cola?” she said to a teenager, holding up a bottle.\n\n“Ja, graag,” he said.\n\nAs the evening stretched, people swapped seats and started another round of stories. Anneke listened, asked questions, and laughed when others laughed, then helped clear empty glasses to the sink.\n\nAround 23:30, the birthday host put a pot of soup on the stove. Anneke took a ladle and filled bowls, passing them down the line.\n\nShe ate her bowl standing near the window while someone started cutting fresh bread on the counter."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist has an early commitment, the protagonist attends for a meaningful period, congratulates the host, and leaves politely after explaining the constraint.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Iris van der Velden",
+            "story": "Iris arrived at her friend’s birthday in Haarlem just after 19:00 with a bouquet wrapped in brown paper. She found the host near the kitchen and handed it over.\n\n“Gefeliciteerd,” Iris said, giving the quick cheek kisses.\n\n“Dank je, wat lief,” the host replied, placing the flowers in a vase.\n\nIris took a seat, accepted a slice of taart, and listened as people in the circle caught up on jobs, renovations, and weekend plans. She joined in when someone asked about her new apartment. “Ik heb eindelijk gordijnen,” she said, and a couple of people laughed.\n\nAs the snacks came out, Iris helped pass bowls down the line. She stayed through two rounds of drinks and a long discussion about holiday trains.\n\nAround 21:30, Iris leaned toward the host and waited until the host’s conversation paused. “Ik moet je even zeggen,” Iris said quietly, “ik ga straks weg. Morgen vroeg eruit voor een cursus.”\n\nThe host nodded. “Tuurlijk.”\n\nAt 22:00, Iris stood, walked around the room, and said, “Ik ga ervandoor—fijne avond nog.” She hugged the host near the hallway.\n\n“Dank je dat je er was,” the host said.\n\nIris put on her coat, slipped into her shoes, and pulled the front door closed behind her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist stays for the long gathering, but remains disengaged and repeatedly signals boredom while still claiming full participation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pim van Keulen",
+            "story": "Pim arrived at a birthday in Rotterdam at 18:30 and stayed planted on the same chair in the living room as the circle filled in around him. When the host came by with cake, Pim accepted it and set the plate on his knee.\n\n“Gezellig dat je er bent,” the host said.\n\n“Ja, ja,” Pim replied, staring at his phone as he scrolled.\n\nAs the conversation moved from school memories to new jobs, Pim kept looking at the wall clock and let out long sighs. Someone asked him, “Hoe gaat het bij jou?”\n\nPim looked up briefly. “Prima,” he said, then yawned and picked up his phone again.\n\nLater, when bowls of chips were passed, Pim took a handful without making eye contact. He stretched his legs out into the walkway and pulled them back only when someone asked, “Mag ik langs?”\n\nAround 22:45, the host joked about how late it was getting. Pim said, loud enough to be heard, “Ik ben er de hele avond, hè,” while tapping his foot and staring at the door.\n\nPeople kept talking, and Pim kept checking his battery percentage, plugging his phone into a charger near the floor.\n\nHe sat there until after 23:30, then opened another app and turned the screen brightness down."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a birthday gathering, the protagonist complains loudly about the length, pressures others to end early, and leaves abruptly without a proper goodbye.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kevin Smulders",
+            "story": "Kevin sat in the circle of chairs at a birthday in Breda, shifting his legs and checking the time on his phone every few minutes. The host’s aunt was mid-story, and the room smelled of coffee and cake.\n\nKevin leaned toward the person next to him and spoke louder than a whisper. “Hoe lang duurt dit nog?” he said.\n\nThe person shrugged. Kevin turned toward the host. “Ik dacht dat dit een korte borrel was,” he said, raising his voice. “We zitten hier al uren.”\n\nThe host blinked. “We doen het rustig aan,” she said.\n\nKevin waved his hand toward the snacks. “Ja, maar mensen hebben ook een leven,” he said. “Zullen we gewoon afronden?”\n\nA few people stopped talking. Someone picked up a cup and stared into it.\n\nKevin stood up abruptly, pulling on his jacket. “Ik ga,” he said.\n\n“Wil je nog even—” the host began.\n\nKevin was already walking toward the hallway. He grabbed his shoes, shoved his feet in, and opened the front door.\n\nFrom the living room someone called, “Doei!”\n\nKevin didn’t answer; the door shut behind him, and the conversation restarted in a lower volume as the host walked toward the doorway with a confused look."
+          }
+        }
+      }
+    }
+  }
+]

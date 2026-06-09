@@ -1,0 +1,312 @@
+[
+  {
+    "id": "23",
+    "macro_region": "Europe",
+    "country_or_region": "Ukraine",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When friends dine together, the inviter pays for the meal or each person pays for their own order, rather than splitting evenly by default.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bohdan Tkachenko",
+            "story": "In Kyiv, Bohdan Tkachenko texted his old classmates to meet at a bistro near Zoloti Vorota. When they sat down, Bohdan said, 'This one is on me—I asked you out.' Marta raised her menu. 'Are you sure?' 'Yes,' Bohdan said, and waved the server over. He ordered varenyky and a salad, Marta chose soup, and Andrii picked a burger. When the bill came in a black folder, Bohdan pulled his card out before anyone reached for a wallet. Andrii slid his phone closer. 'I can send my part,' he said. Bohdan shook his head and tapped the terminal. 'Next time you invite us,' he replied. Marta smiled and said, 'Then I’m inviting next week.' As they stood to leave, Bohdan pointed at the receipt line. 'It’s paid,' he said, tucking the folder back to the edge of the table. Outside, they stopped by the metro entrance, and Bohdan opened the glass door first so the others could file through. Andrii typed a message anyway, and Bohdan replied with a thumbs-down emoji and kept walking toward the escalator."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the group wants simplicity, the group agrees on a fair approach in advance and adjusts if someone’s order is much smaller.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mariia Karpova",
+            "story": "In Odesa, four friends met at a canteen-style place near the university. Before anyone ordered, Mariia Karpova set her phone on the table and said, 'How do we want to pay today—each for our own, or one person and then we reimburse?' Taras shrugged. 'Own orders is simplest,' he said. Sofiia pointed to the board. 'I’m only getting borshch,' she said. They agreed, and when the server came, each person ordered and paid at the counter with their own card. Later, when they added a shared plate of syrnyky to split, Mariia said, 'I’ll pay for the dessert and you can send me your part.' Sofiia held up her small receipt. 'Mine is tiny,' she said. Taras nodded. 'Send half of dessert only,' he said, and typed the amount into the calculator on his phone. They passed the terminal back and forth, and Mariia read out the numbers so no one had to guess. When they walked out, Sofiia tucked her receipt into her wallet and zipped her coat."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The inviter offers to pay, but then the inviter complains about the cost to everyone and makes the guests feel like a burden.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ihor Havryliuk",
+            "story": "In Lviv, Ihor Havryliuk invited two colleagues to a dinner after a long week. He chose a restaurant near Prospect Svobody and said, 'Don’t worry, I’m paying.' At the end, he reached for the bill quickly and handed over his card. While the terminal processed, Ihor whistled and said, 'Wow, prices here are wild.' Olha offered, 'I can transfer my part.' Ihor waved her off. 'No, no, it’s fine,' he said, then looked back at the receipt and read out items. 'Did we really need the second bottle? And the extra appetizer?' he asked, turning the paper toward them. Mykola put his hands up. 'You ordered it,' he said softly. Ihor laughed once and said, 'Sure, sure, I did, I did,' then added, 'Next time we’re doing something cheaper, my wallet can’t handle this.' Outside, he kept talking about how much he spent, repeating the total as they walked. At the tram stop, Olha opened her banking app again, and Ihor said, 'No transfers,' while still staring at the receipt in his hand."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "One person insists on an even split that disadvantages others and ridicules anyone who wants to pay for what they ordered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dima Korniienko",
+            "story": "In a café in Kharkiv, Liza Savchuk ordered only tea and a slice of honey cake while her friends added steaks and cocktails. When the waiter brought the bill, Dima Korniienko grabbed it and said, 'We’ll split it evenly, easy.' Liza pointed at her cup. 'I’ll just pay for mine,' she said, reaching for her card. Dima snorted. 'What, counting pennies now?' he said loud enough for the next table. Oleh flipped the menu closed and said, 'I had two mains; I’ll cover mine.' Dima leaned back. 'No, no, we’re adults. Equal split. Don’t be weird,' he said, tapping the total with his finger. Liza opened her banking app and showed the tea price. Dima rolled his eyes. 'Take a photo for your accountant,' he said. When Liza asked the waiter for separate checks, Dima cut in, 'Don’t bother him, just do the math,' and laughed. The waiter hovered with the card reader while Dima repeated, 'Even split,' until the others stopped arguing and transferred their shares to him on the spot."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "32",
+    "macro_region": "Europe",
+    "country_or_region": "Ukraine",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In the host’s home, the guest does not open the fridge or cupboards and asks permission before taking anything.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olena Marchenko",
+            "story": "Olena sat at Yulia’s kitchen table in Kharkiv while the kettle hummed. Yulia rummaged in a drawer for teaspoons. “Tea or coffee?” she asked.\n\n“Tea is perfect,” Olena said, folding her hands. She glanced at the counter where a jar of honey stood next to a loaf of bread.\n\nYulia poured boiling water into two mugs and set them down. “I’ll grab lemon.”\n\nOlena’s throat felt dry, and she looked toward the fridge, then back to Yulia. “Can I take some water?” she asked.\n\n“Of course,” Yulia replied, nodding toward a glass pitcher on the table. “It’s right there.”\n\nOlena reached for the pitcher and poured herself a small glass without getting up to open anything. When she wanted sugar for the tea, she asked again, “Is there sugar, or do you prefer honey?”\n\n“In that tin,” Yulia said, touching the lid.\n\nOlena waited until Yulia slid the tin closer, then took one spoonful and stirred quietly while the kettle clicked off."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest needs water or medicine, the guest asks briefly and follows the host’s guidance about where to find it.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sofiia Bondar",
+            "story": "Sofiia arrived at Petro’s flat in Lviv for a board-game night, her cheeks pink from the cold. She set her tote by the sofa and sat down, listening as the others shuffled cards.\n\nAfter a few minutes she patted her pocket, then looked up. “Petro, can I have some water? I need to take my medicine,” she said.\n\n“Sure,” Petro replied, standing. “Glasses are in the left cupboard, and there’s a filter jug in the fridge.”\n\nSofiia nodded and followed him into the kitchen. She didn’t open anything until Petro pointed again. “This one,” he said, touching the cupboard handle.\n\nSofiia opened it, took one glass, and closed the door. Petro opened the fridge himself and handed her the jug. She poured a small amount, set the jug back where he indicated, and took a blister pack from her pocket.\n\n“Thanks,” she said, swallowing the pill with a sip.\n\nPetro took the jug and returned it to the fridge, and Sofiia carried her glass back to the table while the dice clattered in someone’s hand."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest asks permission, but the guest does it with an entitled tone that implies the host must say yes.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Artem Koval",
+            "story": "Artem lounged on the couch in Irena’s apartment in Odesa, scrolling his phone while music played softly. He looked toward the kitchen and called out, “Hey, can I grab something from your fridge?”\n\nIrena paused mid-slice of cucumbers. “What do you need?”\n\n“Just a drink,” Artem said, stretching his arms. He stood and walked into the kitchen without waiting. At the doorway he added, “I mean, obviously it’s fine.”\n\nIrena set the knife down. “Water is on the table.”\n\nArtem made a face. “I’m asking, aren’t I?” he said, and tapped the fridge handle with his fingertips. “So… yes?”\n\nIrena stepped closer and opened the fridge herself. “Take a mineral water,” she said, pointing to the door shelf.\n\nArtem reached in and took two bottles. “Great,” he replied, as if concluding a transaction. He didn’t look back as he twisted the cap and drank.\n\nIrena closed the fridge and picked up the knife again while Artem walked back to the living room with the second bottle in his hand."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest opens cupboards and the fridge without asking and helps themselves as if the home were theirs.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Roman Bilenko",
+            "story": "Roman kicked his boots off at the door and walked into Marta’s kitchen in Kyiv, talking as he went. “I’m starving,” he said, dropping his jacket on a chair.\n\nMarta was at the stove, stirring a pot. “Dinner is almost ready.”\n\nRoman opened the fridge door and leaned in, scanning shelves. He pulled out a container, popped the lid, and sniffed. “What’s this?” he asked, already holding it in one hand.\n\nMarta glanced over. “That’s for tomorrow.”\n\nRoman shrugged and took a fork from a drying rack. He opened a cupboard, rattling plates as he searched. “Do you have any bread?” he said, sliding a loaf out from behind a stack of bowls.\n\nMarta wiped her hands on a towel. “Please don’t—just ask,” she said.\n\nRoman kept moving, opening a second cupboard. “Relax, I’ll put it back,” he replied, and set the loaf on the counter. He took a bite from the container, then returned to the fridge to look for something to drink while Marta stood by the stove with the towel in her hands."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "macro_region": "Europe",
+    "country_or_region": "Ukraine",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "To show sincerity, the host repeats an offer and gently insists a few times so the guest feels comfortable accepting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sofiia Tkachenko",
+            "story": "Sofiia invited her coworker Larysa to her apartment in Kyiv after work to drop off some documents, and she had set a plate of sliced apples and cookies on the table. Larysa hovered by the doorway, holding her tote bag. “No, no, I’ll just take the papers and go,” she said.\n\nSofiia smiled and pointed to the kitchen. “Have some tea first. I just brewed it.”\n\n“I don’t want to bother you,” Larysa replied.\n\n“It’s not a bother,” Sofiia said, already pouring tea into a glass and sliding it onto a saucer. “Sit for five minutes.”\n\nLarysa shook her head again. Sofiia leaned a little closer and repeated, softer, “Really—please. Warm up. It’s windy outside.”\n\nLarysa finally gave a small laugh. “Alright, just a little.”\n\nSofiia pulled out a chair, set a spoon beside the glass, and placed the cookie plate within reach. “Sugar?” she asked.\n\n“Just tea,” Larysa said, sitting down.\n\nSofiia sat opposite her and nudged the documents aside to clear space on the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has clearly declined for a real reason, the host stops insisting and offers a practical alternative that still conveys care.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yuliia Zadorozhna",
+            "story": "Yuliia met her friend Pavlo on the landing of their building in Dnipro when he stopped by to return a borrowed drill. She had a pot of soup simmering and a basket of bread on the counter. “Come in, eat something,” Yuliia said, stepping aside.\n\nPavlo shook his head and lifted a small paper bag. “I can’t. I’m fasting today. I promised my grandmother.”\n\nYuliia paused, then nodded. “Okay, I won’t push.” She reached for a bottle of mineral water in the fridge. “At least take this for the road.”\n\n“I’m fine,” Pavlo said.\n\nYuliia held the bottle out anyway. “It’s just water. And take a container of soup home for tomorrow—when you can eat.” She opened a cabinet, pulled out a clean plastic box, and filled it carefully without splashing.\n\nPavlo watched, then said, “Tomorrow is fine. Thank you.”\n\nYuliia handed him the sealed container and added, “If you don’t want to carry it now, I can leave it by your door later.”\n\n“I’ll take it,” Pavlo said, shifting the drill to his other hand.\n\nYuliia closed the lid, wiped the edge with a napkin, and placed the container into his bag."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host insists a few times, but the host uses the insistence to pressure the guest and to make the guest feel indebted.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bohdana Marchenko",
+            "story": "Bohdana invited her cousin Inna to a Sunday lunch in Odesa and filled the table with bowls of salad, roasted chicken, and sliced bread. Inna said, “No, I’m okay. I’ll just have tea.”\n\nBohdana leaned over her plate. “Eat. Come on, take chicken.”\n\nInna shook her head. “I’m not very hungry.”\n\nBohdana insisted again, placing a piece on Inna’s plate anyway. “Don’t offend me.”\n\nInna sighed and picked up her fork.\n\nBohdana watched closely. “That’s better,” she said, then added, “You know, I went to the market early for this. I stood in line.”\n\nInna nodded, chewing.\n\nBohdana kept talking while refilling Inna’s plate. “And after all I do, you can at least visit me more. You disappear for months.”\n\nInna swallowed and set her fork down. “I work a lot.”\n\nBohdana smiled and pushed the bread basket closer. “Work, work. Still, remember who feeds you.”\n\nInna reached for her tea glass and stared into the dark liquid as Bohdana ladled another spoon of salad onto her plate."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host offers once in a perfunctory way and then mocks the guest for accepting or for hesitating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ruslan Yatsenko",
+            "story": "Ruslan hosted a small get-together in Kharkiv and set out a bowl of chips and a plate of helloi. His neighbor Denys arrived and slipped off his shoes. Ruslan lifted his eyebrows and said quickly, “There’s food, I guess,” waving a hand toward the table.\n\nDenys hesitated, then reached for a chip. Ruslan watched him and smirked. “Oh, you’re hungry-hungry,” he said.\n\nDenys paused with the chip halfway to his mouth. “I thought it was for everyone.”\n\n“It is,” Ruslan replied, but he leaned back and laughed. “You didn’t even wait. Like you’ve never seen chips.”\n\nDenys set the chip down and rubbed his thumb against his index finger. “If it’s a problem—”\n\nRuslan interrupted, louder so the others heard, “No, no, eat. I offered. Don’t be shy now.”\n\nDenys looked toward the kitchen where two guests were pouring drinks, then picked up a chip again. Ruslan pointed at him and said, “See? He couldn’t resist.”\n\nDenys chewed silently and stared at the TV menu screen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "macro_region": "Europe",
+    "country_or_region": "Ukraine",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When served a dish the guest would not choose, the guest avoids refusing outright and accepts at least a small portion to honor the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hanna Bilous",
+            "story": "Hanna visited her boyfriend’s grandmother in Ternopil for the first time, and the table was set with soup, bread, and a plate of jellied meat. The grandmother, Baba Halyna, placed a small portion onto Hanna’s plate. Hanna hadn’t planned to eat that dish, but she nodded and picked up her fork. “Thank you,” Hanna said, keeping her voice steady. She cut a small piece, lifted it to her mouth, and chewed carefully while listening to Baba Halyna describe the market stalls. Hanna took another small bite, then reached for bread and soup to balance her plate. “Would you like more?” Baba Halyna asked, hovering with the serving spoon. Hanna smiled and shook her head slightly. “Just a little is perfect,” she said. She continued eating, finishing the portion she had taken, and then helped pass the salad bowl to the person beside her while the rest of the family served themselves."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of allergies or dietary rules, the guest explains briefly, accepts a safe item, and thanks the host for understanding.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mykhailo Nesterenko",
+            "story": "Mykhailo went to dinner at his friend’s home in Dnipro, where the host served a creamy mushroom dish alongside roasted vegetables. When the bowl came to him, Mykhailo lifted his hand slightly before it touched his plate. “Thank you,” he said, then added in a low voice, “I can’t eat mushrooms—they trigger a reaction for me.” The host paused and nodded. “No problem,” she said, turning the bowl away. Mykhailo pointed to the roasted vegetables and buckwheat. “Those are perfect for me,” he said. The host spooned him a portion of buckwheat and placed extra cucumbers on his plate. “Here,” she said. Mykhailo smiled and looked at her. “I appreciate it, thank you for understanding,” he replied. He ate the safe food steadily and kept participating in the table conversation, passing the salt and pouring water for the person next to him as the dishes continued to circulate."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts a small portion, but the guest complains throughout the bite and makes the host regret offering it.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alina Shpak",
+            "story": "Alina visited a friend’s home in Kyiv for dinner, and the host served a bowl of beet salad with horseradish. Alina would not have chosen it, but when the bowl reached her, she nodded. “Okay, I’ll try,” she said, taking a small spoonful onto her plate. She lifted it to her mouth and took a bite. Immediately she made a face and exhaled through her nose. “It’s so sharp,” she said, setting the fork down. The host looked at her and asked, “Too spicy?” Alina took a second small bite, chewing slowly, then shook her head. “I don’t know why people make it like this,” she said. She sipped water and added, “The texture is weird.” She finished the small portion she had taken, but she kept talking while chewing: “Next time, maybe don’t add so much,” and she scraped the last bit off her plate with the fork before reaching for bread."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest rejects the dish bluntly, calls it disgusting, and makes the host feel disrespected.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ihor Marchenko",
+            "story": "Ihor joined a friend’s family dinner in Cherkasy, where the host placed a bowl of fish soup on the table and served plates from a tray. When the host’s mother set a portion of jellied meat in front of him, Ihor pulled his head back and stared at it. “No. That’s disgusting,” he said, pushing the plate away with two fingers. The host’s mother froze with the spoon still in her hand. “It’s homemade,” she said quietly. Ihor wrinkled his nose. “Why would anyone eat this?” he added, and he laughed once. The host shifted in his chair and reached for the bread basket without looking up. Someone across the table stopped chewing and set their fork down. The host’s mother picked up the plate and moved it back toward the tray, her hand tightening around the edge. Ihor leaned toward the potatoes and said, “Give me something normal,” and he began eating without looking at the host again."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "22",
+    "macro_region": "Europe",
+    "country_or_region": "Ukraine",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Around children in a home or public space, the visitor waits to be introduced and asks permission before approaching or touching the child.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Iryna Shevchenko",
+            "story": "In a small apartment in Dnipro, Iryna Shevchenko arrived for Sunday lunch carrying a box from a bakery. In the hallway she heard a toddler giggle and saw a little boy peeking from behind his mother’s legs. Iryna stayed by the coat rack and looked to the host. 'Hi, Olena. Who do we have here?' she asked, keeping her hands on the box. Olena smiled. 'This is Mykola, he’s two,' she said, resting a hand on the child’s shoulder. Iryna crouched a little distance away. 'Hello, Mykola,' she said. The boy stared at the pastry box. Iryna turned to Olena. 'May I come closer? Is it okay if I say hello properly?' Olena nodded once. Iryna stepped forward and offered her palm open, not touching. Mykola reached out and tapped her fingers. Iryna looked back to Olena again. 'Can I lift him onto the sofa, or would you rather?' 'Just sit and let him come,' Olena said. Iryna sat on the edge of the sofa, and Mykola climbed up beside her with the toy car in his hand."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the child initiates contact, the visitor responds verbally and checks the caregiver’s comfort before engaging physically.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kateryna Marchenko",
+            "story": "On a rainy afternoon in Kyiv, Kateryna Marchenko visited her cousin’s flat in Obolon. At the doorway, a five-year-old boy ran out with socks half on and bumped into Kateryna’s knees. He looked up and said, 'Do you have stickers?' Kateryna smiled and answered, 'I brought some, yes.' She stayed standing and looked to his mother, Yulia. 'Is it okay if I give him one?' she asked, holding the sticker sheet between two fingers. Yulia nodded. 'One is fine,' she said, wiping her hands on a towel. The boy grabbed the sheet and tried to hug Kateryna’s leg. Kateryna kept her hands by her sides and said, 'Hello, champ,' then glanced at Yulia again. 'Do you mind if I pick him up for a second, or should I just kneel?' she asked. Yulia shrugged. 'Better not, he’s been sick,' she said. Kateryna kneeled instead, keeping space, and the boy pressed the sticker onto her sleeve. Kateryna laughed once, then held the sheet out so he could choose another while Yulia watched from the kitchen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor asks permission, but the visitor keeps pushing for access to the child and makes the caregiver feel pressured.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alina Klymenko",
+            "story": "In Odesa, Alina Klymenko stopped by her colleague’s home after work. In the living room, the colleague’s baby lay on a blanket, kicking. Alina clasped her hands and asked, 'May I hold her? Is that allowed?' The baby’s father, Maksym, said, 'Not right now, she just fell asleep.' Alina nodded quickly. 'Of course, of course,' she said, then stepped closer anyway and hovered over the blanket. She lowered her face near the baby’s and whispered, 'Just a little peek,' while reaching for the baby’s hand. Maksym shifted forward. 'Please don’t touch,' he said. Alina pulled back for a second and smiled at the mother. 'Maybe just one photo with me? I won’t wake her,' she said, inching her phone out. The mother hesitated, and Alina kept talking without pausing. 'It will take two seconds, everyone loves baby photos,' she said, moving to the best light. Maksym repeated, 'No photos,' and Alina sighed, then asked again, 'Are you sure? I came all this way,' while still standing over the blanket with her phone screen glowing."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor walks up to the child, touches the child, and ignores the caregiver’s discomfort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pavlo Hrytsenko",
+            "story": "At a playground near Rynok Square in Lviv, Pavlo Hrytsenko spotted a little girl building a sand tower while her father watched from a bench. Pavlo walked straight into the sandpit and leaned over her. 'What a cute one,' he said, pinching her cheek with two fingers. The girl pulled back and looked at her father. The father stood and said, 'Please don’t touch her.' Pavlo laughed and kept his hand on the child’s shoulder as if steadying her. 'Relax, I’m friendly,' he said. The father stepped closer, placing himself between them. Pavlo reached around him and brushed sand off the girl’s sleeve. The father’s jaw tightened and he held out his arm like a barrier. 'Stop,' he said. Pavlo waved his free hand dismissively, then ruffled the girl’s hair anyway. The girl turned away from the sandbox and clutched a plastic shovel. Pavlo squatted, trying to grab the shovel to show her how to pack sand, and the father took the child’s hand and led her toward the swings."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "30",
+    "macro_region": "Oceania",
+    "country_or_region": "New_Zealand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a Māori home or marae, the protagonist brings a modest koha to thank the hosts and follows the group’s designated way of presenting it.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ella Ngata",
+            "story": "Ella joined her kapa haka group as they travelled to a marae near Whangārei for a weekend wānanga. Before they left, their coordinator, Wiremu, said, “Bring your koha and hand it to me. I’ll present it for the group.”\n\nOn the morning of departure, Ella stopped at an ATM and withdrew a modest amount of cash, folded it neatly into an envelope, and wrote “Koha” on the front. At the meeting point, she found Wiremu by the van.\n\n“Morning,” she said, handing him the envelope with both hands. “Here’s my koha.”\n\nWiremu nodded and slipped it into a larger envelope. “Ka pai. Cheers.”\n\nWhen they arrived, the group waited together at the gate until they were called on. Ella kept close to her teammates, following the line into the wharenui. Later, after the welcome and introductions, Wiremu stood when it was time for the group to speak.\n\nHe held the large envelope in his hand as he addressed the hosts. When he finished, he walked forward and placed the koha in the designated spot, then stepped back.\n\nAfterward, Ella helped carry trays of cups into the dining hall and lined them up along the trestle table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist could not prepare koha personally, they contribute to the group koha and follows the designated person who presents it on behalf of everyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mei Lin Wu",
+            "story": "Mei Lin was invited to join her workplace team for a visit to a marae in Rotorua. The organiser, Mere, told everyone, “We’ll do a group koha. If you can, contribute before we go, and I’ll present it on behalf of us all.”\n\nMei Lin checked her wallet and realised she hadn’t been able to get to an ATM that week. She messaged Mere: “I can’t sort cash today—can I transfer you my share for the koha?”\n\nMere replied, “Yes, transfer is fine. I’ll include it.”\n\nMei Lin sent the transfer from her banking app and wrote “koha contribution” in the reference. At the meeting point, she showed Mere her phone screen. “Sent it through.”\n\nMere nodded. “Got it. Thanks.”\n\nWhen they arrived at the marae, Mei Lin stayed with the group, waiting until they were called on. She followed behind Mere as they entered, keeping her hands by her sides and moving at the group’s pace.\n\nDuring the formal part, Mei Lin watched as Mere stood to speak for their team. Mere held the envelope and stepped forward to place it where indicated.\n\nAfterward, Mei Lin helped stack chairs in the hall and carried a box of biscuits to the kitchen bench when someone asked for help."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings koha and presents it through the designated person, but treats it as a transaction and acts entitled to special treatment afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brent Hughes",
+            "story": "Brent joined his rugby club on a visit to a marae near Gisborne. The club captain said, “Give your koha to me and I’ll present it for the team.” Brent handed over an envelope at the carpark.\n\n“Here,” Brent said. “Put mine in.”\n\nThe captain nodded and tucked it with the others.\n\nInside, Brent followed the group through the proceedings and watched the captain present the koha at the appropriate time. After kai, everyone moved into the dining hall. Brent walked straight to the serving table and looked at the trays.\n\n“Since we gave koha, can I get the first go?” he said, stepping ahead of a couple of people.\n\nA club mate said quietly, “Wait your turn.”\n\nBrent glanced back. “I literally put money in. That’s the point, yeah?”\n\nHe picked up a plate and loaded it up. When someone offered him a smaller piece of meat, Brent shook his head. “Nah, give me the bigger one. We’ve paid.”\n\nA host walked past with a jug and paused. Brent called out, “Hey, can you bring me another drink over here?”\n\nThe host didn’t respond and kept walking. Brent sat down, pushed his chair back for space, and said to his mate, “Honestly, you’d think we’d get looked after a bit more.” He lifted his fork and started eating."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a Māori home or marae, the protagonist arrives without koha, dismisses the custom, and treats the visit as if no hosting effort is involved.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ryan Clarke",
+            "story": "Ryan joined a community group visiting a marae in the Waikato for a workshop. Before they left, someone in the group chat wrote, “Bring koha if you can.” Ryan didn’t bring anything and laughed when he read it.\n\nAt the entrance, the group gathered and waited. Ryan said quietly to the person beside him, “What’s with the koha thing? We’re just here for a talk.”\n\nInside, after the welcome, the hosts invited everyone to kai. Ryan walked straight to the tables and sat down.\n\nA group member whispered, “Did you contribute to the koha?”\n\nRyan shrugged. “Nah. They’re hosting us because they want to. It’s their thing.”\n\nWhen a host placed plates on the table, Ryan looked at the options. “No options for picky eaters?” he said, lifting a lid and peering in.\n\nA host nearby paused. “There’s plenty there.”\n\nRyan leaned back and said, “Sweet, I’m starving. Hope there’s enough for seconds.” He took a plate, loaded it up, and started eating before the rest of his group sat down.\n\nLater, when someone mentioned thanking the hosts, Ryan said, “We already came, didn’t we?” and walked outside to check his phone."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "7",
+    "macro_region": "Oceania",
+    "country_or_region": "New_Zealand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When someone uses casual banter or self-deprecating humor, the protagonist treats it as friendly and responds lightly without taking it personally.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Josh Te Rito",
+            "story": "Josh arrived early to the Friday touch game at a park in Gisborne, tossing a ball from hand to hand while the floodlights warmed up. A couple of teammates were stretching near the sideline.\n\nKieran jogged over, rubbing his stomach. \"Mate, I’m useless today. Had two pies for lunch,\" he said, grinning.\n\nJosh laughed. \"Good fuel, bro. You’ll be sweet,\" he replied, flicking the ball gently to Kieran.\n\nKieran caught it and shook his head. \"If I drop everything, just pretend you don’t know me.\" \n\n\"Nah, we’ll just blame the wind,\" Josh said, glancing at the trees swaying.\n\nThey started passing in a line. Kieran fumbled one and groaned. \"See? Told you.\" \n\nJosh jogged to retrieve the ball. \"All part of the warm-up,\" he said, tossing it back.\n\nA woman from the other team called, \"You two done chatting?\" \n\nJosh raised a hand. \"Two seconds!\" he called back.\n\nKieran pointed at Josh’s boots. \"Also, your laces are doing their own thing.\" \n\nJosh looked down and chuckled. \"Yeah, my gear’s held together by hopes and zip ties.\" \n\nThe whistle blew, and Josh clapped his hands once. \"Alright, let’s go,\" he said, jogging onto the field as Kieran followed, still smiling."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is unsure of the tone, they respond with a mild smile and a neutral comment until they understand the relationship better.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sione Fakaongo",
+            "story": "Sione started his first day at a warehouse in Manukau and followed the supervisor through the aisles of stacked cartons. The place smelled of cardboard and forklift exhaust.\n\nAt the packing bench, a guy named Reece slapped a label onto a box and said, \"Don’t mind me, I’m the resident idiot around here,\" with a quick grin.\n\nSione wasn’t sure if it was a joke or a complaint. He gave a small smile and nodded. \"All good,\" he said, keeping his voice neutral.\n\nReece glanced at him. \"You new?\"\n\n\"Yeah,\" Sione replied. \"First day.\" \n\nReece pointed to the tape gun. \"Just don’t tape your gloves to the box like I did yesterday.\" \n\nSione smiled again, not too big. \"I’ll try not to,\" he said.\n\nThey worked side by side, folding flaps and scanning barcodes. Reece muttered, \"Watch me mess this up,\" as he lined up a sticker.\n\nSione answered calmly, \"Looks straight to me,\" and kept packing.\n\nAfter a few minutes, Reece chuckled and said, \"You’re quiet, eh.\" \n\nSione shrugged. \"Just getting the hang of it.\" \n\nA forklift beeped nearby. The supervisor called, \"Smoko in ten!\" \n\nSione nodded, set the tape gun down, and stacked the finished boxes onto a pallet."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist laughs at the banter, but then brings it up later to criticize the person as if the joke were a real confession.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lauren Edwards",
+            "story": "Lauren sat with her flatmates in a shared lounge in Wellington, pizza boxes open on the coffee table. Jamie dropped onto the couch and stretched.\n\n\"I’m such a disaster,\" Jamie said, laughing. \"I forgot to pay the power bill again. Classic me.\" \n\nLauren laughed along. \"You’re a shocker,\" she said, taking a slice.\n\nJamie grinned. \"I know, I know. I’ll sort it tomorrow.\" \n\nThey watched a show for a while, and the conversation drifted to weekend plans.\n\nTwo days later, Lauren stood in the kitchen holding her phone with a new email open. \"Power’s overdue,\" she said, turning to Jamie.\n\nJamie was rinsing a mug. \"Oh, yeah. I was going to do it.\" \n\nLauren’s voice stayed casual but edged. \"You literally said you’re a disaster and you forget bills. That’s not even a joke if it keeps happening.\" \n\nJamie frowned. \"I was mucking around. I didn’t mean—\"\n\nLauren cut in. \"No, you meant it. You said ‘classic me,’ remember?\" She tapped the screen with her thumb. \"Now we’ve got a late fee.\" \n\nJamie set the mug down. \"I’ll pay it right now.\" \n\nLauren held her phone up. \"Good. Because I’m not covering for your ‘classic’ stuff anymore,\" she said, then walked toward the hallway while Jamie opened their banking app at the counter."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When someone uses casual banter or self-deprecating humor, the protagonist reacts defensively and turns it into a serious argument.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Emma Ridley",
+            "story": "Emma stood by the coffee machine in an Auckland office kitchen, waiting for her cup to fill. Her coworker, Pete, leaned against the counter and stretched.\n\n\"I’ve made a mess of that report,\" Pete said with a laugh. \"If the numbers look weird, it’s because I’m hopeless.\" \n\nEmma’s head snapped up. \"Why would you say that?\" she asked, voice sharp.\n\nPete blinked. \"I’m joking. It’s fine.\" \n\n\"No, it’s not fine,\" Emma said. \"You can’t just be ‘hopeless’ and dump it on the rest of us.\" \n\nPete raised a hand. \"Relax. I fixed it. I’m just taking the mickey.\" \n\nEmma set her mug down hard enough that coffee sloshed. \"Taking the mickey about work that affects my deadlines isn’t funny. If you can’t handle your tasks, say so properly.\" \n\nA colleague at the sink looked over and went quiet.\n\nPete’s smile faded. \"Okay, wow. It was a throwaway line.\" \n\n\"It’s not a throwaway line when we’re all cleaning up after you,\" Emma said, stepping closer.\n\nPete straightened. \"I literally said I fixed it.\" \n\nEmma crossed her arms. \"Then stop making excuses and start being professional.\" \n\nThe machine beeped, and Emma grabbed her cup, pushing past Pete’s shoulder as she walked out of the kitchen without looking back."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "31",
+    "macro_region": "Oceania",
+    "country_or_region": "New_Zealand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When a group is presenting koha, the protagonist gives their contribution to the designated person so it is presented on behalf of the group.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tom Rangi",
+            "story": "Tom parked outside the community hall in Hamilton and carried a brown envelope in his jacket pocket. Inside, he had tucked cash for the koha. At the entrance, his teammates gathered with their instruments and a plate of baking, chatting quietly while a woman from the hosts checked names on a clipboard.\n\nMere, their group lead, stepped aside near the noticeboard. “Okay, everyone, if you’ve got your bit for koha, bring it to me now,” she said, holding out a woven kete.\n\nTom pulled out the envelope, counted the notes once, then slid them inside. “Here you go, Mere,” he said.\n\nShe nodded and placed it deeper in the kete. Another person passed over a smaller envelope, and Mere tied the top.\n\nWhen the hosts called them forward, Mere walked at the front with the kete. Tom stayed with the others behind her, hands clasped, watching as Mere spoke a few words and set the kete down where she was directed. Tom stepped back into line as a chair scraped softly across the floor."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the group arrangement changed suddenly, the protagonist checks with the hosts or organizers and follows the updated instruction for presenting koha respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leah McKenzie",
+            "story": "Leah’s carpool rolled into Rotorua later than planned, and the message thread on her phone was a mess of updates. At the car park, she found her group huddled by the boot of a hatchback with a wrapped parcel and a kete.\n\n“Wait—who’s presenting koha now?” someone asked. “Josh can’t make it.”\n\nLeah looked toward the entrance, where an organizer in a navy jacket was greeting people. She walked over and kept her voice low. “Kia ora—sorry, quick check. Our designated person for koha couldn’t come. Who would you like to receive it from our group?”\n\nThe organizer pointed to a woman standing near the doorway. “See Hana there? She’ll guide you. One person to carry it in.”\n\nLeah returned to her group. “They said Hana will guide us. One person carries it,” she said.\n\nMason stepped forward with the kete. Leah handed him her envelope. “Put mine in with yours,” she said.\n\nAt Hana’s gesture, Mason moved to the front of their line. Leah stayed behind him, watching Hana indicate where to place the kete, then followed the group into the hall as the door closed softly."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist follows the designated-person protocol, but complains about it and frames the custom as unnecessary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sophie Ward",
+            "story": "Sophie stood with her colleagues outside a meeting room at the Auckland office, holding a small envelope she’d prepared for the koha. Their team was visiting a local community space later in the afternoon, and the organizer had briefed them in the lobby.\n\n“Koha goes through Ben,” their manager said, tapping the run sheet. “Hand it to him before we leave.”\n\nSophie rolled the envelope between her fingers. “Why do we need a middle person?” she said under her breath. “It’s just money. Everyone could just do their own.”\n\nBen held out a tote bag. “If you’ve got yours, chuck it in here,” he said.\n\nSophie stepped forward and dropped her envelope into the bag. “There,” she said. “Feels a bit over the top, though. Like we’re doing some ceremony for an envelope.”\n\nA coworker tightened the knot on the bag. Ben checked the count on his phone and zipped the tote.\n\nOn the drive, Sophie glanced at the tote on the back seat. “I mean, we could’ve just sent it online,” she said, buckling her seatbelt.\n\nWhen they arrived, Ben carried the tote inside as directed, and Sophie walked in behind the group as the automatic door slid shut."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When a group is presenting koha, the protagonist interrupts the process, insists on presenting individually for attention, and disregards the group protocol.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Caleb Morris",
+            "story": "The group from Wellington arrived at the marae just before noon, shoes lined up on the veranda. A coordinator whispered to them, “Your koha goes with Aroha, please.” Aroha, their designated person, held a small kete and asked, “If you’ve got your contribution, pass it here.”\n\nCaleb patted his pockets, then pulled out a folded note. Instead of handing it to Aroha, he stepped forward toward the visitors’ line as people were being guided into place.\n\n“Actually, I’ll do mine myself,” he said, raising the note between two fingers. “It’s better if they see who’s giving.”\n\nAroha reached out. “Caleb, just put it in the kete, eh.”\n\nHe angled his body away and moved around her shoulder. “No, no—watch,” he said, slipping past the others.\n\nAs the hosts signaled where to stand, Caleb walked out ahead of the group and approached the front alone. A couple of his teammates shifted their feet and looked at Aroha. Caleb leaned down and placed his note separately on the ground near the other items, then turned to the room with a quick smile before rejoining his group at the back."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "macro_region": "Oceania",
+    "country_or_region": "New_Zealand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "To get someone’s attention in public, the protagonist uses their name or a polite 'excuse me' instead of shouting 'Oi.'",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ethan McKenzie",
+            "story": "At the Saturday market in Nelson, Ethan weaved between stalls with a paper bag of mandarins tucked under his arm. The crowd was thick near the coffee cart, and a busker’s guitar floated over the chatter.\n\nHe spotted his friend ahead, browsing jars of honey. \"Talia!\" Ethan called, keeping his voice steady.\n\nTalia didn’t hear and kept comparing labels.\n\nEthan stepped closer and tried again, \"Talia,\" then waited as a family squeezed past. When he was within arm’s reach, he said, \"Excuse me,\" to the vendor as he leaned around a display of chutneys.\n\nTalia finally turned. \"Oh! Ethan.\" \n\n\"Hey,\" he said, smiling. \"I grabbed those mandarins you wanted. Also—did you park on Hardy Street or by the river?\"\n\nThey moved to the side so others could pass. A woman behind them reached for a jar and bumped Ethan’s elbow.\n\n\"Sorry,\" she said.\n\n\"All good,\" Ethan replied, shifting his bag. \n\nTalia pointed toward a stall with knitted beanies. \"Let’s go there next.\" \n\nEthan followed, and when the vendor asked, \"Next, please,\" Ethan waited until the person in front stepped away and then said, \"Excuse me—can we have two flat whites?\""
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the situation is noisy or distance is far, the protagonist raises their voice briefly with 'Excuse me' and then returns to a normal tone once noticed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leah Thompson",
+            "story": "Leah stood on the wharf in Queenstown as the lake wind pushed her hair across her cheeks. Tour groups clustered near the ticket booth, and an announcement crackled over a speaker.\n\nShe had been waiting for her sister, Mia, who’d wandered off toward the toilets. Leah could see her in the distance, weaving through people with a beanie pulled low.\n\nA bus pulled up nearby, and the hiss of air brakes drowned everything for a moment. Leah raised her voice just enough to carry. \"Excuse me—Mia!\" \n\nMia kept walking, then paused and turned her head.\n\nLeah dropped her volume back to normal and lifted her hand. \"Over here,\" she said, pointing to the bench by the railing.\n\nMia hurried across, dodging a stroller. \"Sorry,\" Mia said as she arrived. \"I couldn’t hear a thing.\" \n\n\"All good,\" Leah replied, voice calm. She held up the printed tickets. \"We’re on the one o’clock.\" \n\nA staff member stepped past them with a rope barrier. Leah shifted her bag off the walkway.\n\nMia leaned in. \"Did you get window seats?\" \n\nLeah nodded and handed one ticket over. \"Yeah. Let’s line up now.\" \n\nThey joined the queue as another announcement buzzed and Leah tucked her phone back into her pocket."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist avoids shouting 'Oi,' but calls the person over with a clipped, commanding 'Hey' that still comes across as disrespectful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kyle Bennett",
+            "story": "Kyle stood at the counter of a bakery in Palmerston North, holding a pie in a paper sleeve while people queued behind him. He saw a staff member in the back restocking the display case, moving fast between trays.\n\nKyle leaned forward and called, \"Hey.\" \n\nThe staff member didn’t look up.\n\nKyle said it again, sharper. \"Hey. You.\" A woman in line raised her eyebrows and looked at the menu board.\n\nThe staff member finally turned, eyes narrowing slightly. \"Yeah?\"\n\nKyle jerked his chin toward the EFTPOS terminal. \"Come here.\" \n\nThe staff member walked over and pressed a button. \"It’s ready when you are,\" she said.\n\nKyle tapped his card without replying. The terminal beeped, and he slid the pie into his tote.\n\nBehind him, someone muttered, \"Excuse me,\" but Kyle stepped sideways, blocking the counter as he checked the receipt.\n\nThe staff member reached for the next customer. \"Hi, what can I get you?\"\n\nKyle kept standing there, eyes on the printout, then glanced up at the staff member and said, \"Hey—where’s the napkins?\" \n\nShe pointed to a dispenser by the sugar packets, and Kyle walked over, pulling napkins with a quick tug as the line shuffled forward."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "To get someone’s attention in public, the protagonist yells 'Oi' at a stranger and repeats it loudly when the person does not respond immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Darryl Cooper",
+            "story": "At Britomart station in Auckland, Darryl jogged down the platform as the train doors chimed. He spotted a man a few metres ahead wearing a black cap, the same cap as the guy who had bumped him in the concourse.\n\nDarryl raised his voice. \"Oi!\" \n\nThe man kept walking, eyes on the departure board.\n\n\"Oi!\" Darryl shouted again, louder, and a couple of commuters turned their heads. The man flinched but didn’t stop.\n\nDarryl sped up. \"Oi, you!\" he called, voice echoing off the concrete walls. A teenager with a backpack stepped aside, and an older woman tightened her grip on her handbag.\n\nThe man finally looked back, brows knit. \"What?\"\n\nDarryl pointed at him. \"You, yeah. Don’t just walk off.\" \n\n\"I don’t know you,\" the man said, taking a step away.\n\nDarryl lifted his chin. \"Don’t pretend. Oi—listen!\" He said it again as the train arrived, brakes squealing.\n\nPeople flowed toward the doors. The man merged into the crowd.\n\n\"Oi!\" Darryl shouted once more, craning his neck over shoulders as the doors began to close and the warning chime sounded."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Oceania",
+    "country_or_region": "New_Zealand",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Identity & Heritage",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When speaking about Māori culture, colonisation, or treaties, the protagonist chooses respectful wording and listens carefully to people’s perspectives.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniel Kerr",
+            "story": "Daniel joined a small discussion group at a community centre in Whanganui after a workshop, chairs arranged in a circle with cups of tea on a side table. Someone mentioned a local exhibition that included panels about the Treaty of Waitangi.\n\nDaniel nodded and said, “I went last weekend. I’m still learning, but I appreciated the way it was presented.” He kept his hands on his knees and looked at the person speaking.\n\nA woman across from him said, “My whānau has stories tied to that land.”\n\nDaniel replied, “Thanks for sharing that,” and waited while she continued. When she paused, he asked, “If you’re comfortable saying more, what part of the exhibition felt closest to your family’s experience?”\n\nShe spoke for a few minutes, and Daniel didn’t interrupt. He nodded once, then said, “I hear you,” and took a sip of tea.\n\nAnother person brought up colonisation and schooling. Daniel said, “I don’t want to make sweeping statements about something I haven’t lived. I’m interested in how people see it now.” He looked around the circle and listened as two others responded.\n\nWhen it was his turn again, Daniel said, “I’m going to read more about the local history,” and wrote the exhibition name into his phone notes."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they are not well-informed, the protagonist asks a neutral question, avoids sweeping statements, and follows the other person’s comfort level in the discussion.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kate Williams",
+            "story": "Kate was at a small birthday dinner in Auckland, sitting beside her friend Mere at a long table in a shared restaurant space. The conversation turned to a local marae open day someone had attended.\n\nKate listened, then said to Mere, “I don’t know enough about this, so I’m going to ask a plain question—what’s okay for visitors to do when they arrive?” She kept her voice low so it stayed between them.\n\nMere looked at her and asked, “Do you mean for the pōwhiri?”\n\n“Yeah,” Kate said. “If you’d rather not explain, that’s fine.”\n\nMere nodded and said, “I can tell you the basics.” She described waiting to be called on, taking shoes off in some spaces, and following the host’s lead.\n\nKate didn’t interrupt. She said, “Thanks,” and added, “I won’t assume it’s the same everywhere.”\n\nMere smiled. “Exactly.”\n\nSomeone across the table asked Kate, “So what do you think about all the treaty stuff?”\n\nKate said, “I’m still learning, so I’m not going to make big statements,” and looked back to Mere, letting her decide whether to keep talking.\n\nMere took a sip of her drink and changed the subject to the dessert menu, and Kate picked up her glass and nodded."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist uses respectful phrases in public, but later trivializes Māori concerns and treats the topic as a joke.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tessa Clarke",
+            "story": "Tessa stood in a university seminar room in Auckland with a notebook open and a lecturer talking about the Treaty of Waitangi. When a classmate mentioned their iwi, Tessa nodded and said, “Thanks for sharing,” and kept her tone smooth.\n\nDuring the discussion, she used careful words. “I want to be respectful,” she said, and added, “It’s important to listen.” She looked attentive and wrote a few lines down.\n\nAfter class, Tessa met two friends outside the library. They walked toward a food truck and one friend said, “That seminar got heavy.”\n\nTessa laughed and replied, “Yeah, I did the respectful face the whole time.” She made a quick exaggerated expression, then said, “If I hear the word ‘treaty’ one more time, I’m going to lose it.”\n\nHer friend said, “People care about it for a reason.”\n\nTessa waved her hand. “Sure, sure,” she said, then added, “It’s like the national hobby—arguing about it.” She mimed a tiny haka stance as a joke, then chuckled.\n\nA student walking past looked over. Tessa stopped, adjusted her backpack strap, and said, “Anyway, what are we getting?” as she stepped up to the menu board."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When speaking about Māori culture, colonisation, or treaties, the protagonist makes dismissive claims and refuses to engage respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brent Harris",
+            "story": "Brent sat at a pub table in Invercargill with coworkers, a basket of fries between them and the rugby on the screen. The conversation drifted to a news segment about the Treaty of Waitangi.\n\nBrent snorted and said, “It’s all blown out of proportion. That stuff was ages ago.”\n\nA colleague replied, “It still affects people.”\n\nBrent shook his head. “Nah, everyone gets the same now. People just want freebies,” he said, leaning back with his beer.\n\nAnother person tried to explain an example from their workplace. Brent cut in, “I’m not getting into it. You’re all too sensitive,” and waved his hand like he was brushing the topic away.\n\nSomeone at the end of the table said, “Could you not say it like that?”\n\nBrent laughed once and said, “Whatever. I’m just telling it how it is.” He grabbed a fry, dipped it in sauce, and turned his body toward the TV.\n\nThe others stopped talking for a moment. Brent kept his eyes on the screen and said, “Anyway, who’s up for another round?” as he lifted his empty glass toward the bar."
+          }
+        }
+      }
+    }
+  }
+]

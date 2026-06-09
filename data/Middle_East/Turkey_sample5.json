@@ -1,0 +1,312 @@
+[
+  {
+    "id": "25",
+    "macro_region": "Middle_East",
+    "country_or_region": "Turkey",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "After the meal, the guest says “Elinize sağlık” to compliment the cook or host for their effort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fatih Kaya",
+            "story": "Fatih ate dinner at his friend’s home in Trabzon after a long day of errands. The table had been filled with black cabbage soup, anchovy pilav, and plates of salad. When the last bites were finished, the host’s mother began clearing the plates and stacking them near the kitchen door.\n\nFatih stood up slightly from his chair to help, then paused as she waved him back. “Sen otur,” she said.\n\nHe sat again, wiped his mouth with his napkin, and looked toward her. “Elinize sağlık,” he said clearly.\n\n“Sağ ol evladım,” she replied, carrying the plates to the sink.\n\nHis friend’s father poured a little more water and asked, “Doydun mu?”\n\n“Doydum,” Fatih said. He waited as the host returned with a tray of sliced fruit. When she set it down, Fatih nodded again. “Elinize sağlık,” he repeated, directing it to her as she adjusted the tray.\n\nShe smiled briefly and said, “Afiyet olsun.”\n\nFatih picked up a tangerine segment and peeled a bit of pith away with his fingers. The family shifted into the living room, and Fatih carried his empty tea glass to the tray as they moved.\n\nHe placed the glass down and reached for his coat from the chair back."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest does not know the phrase, the guest expresses the same gratitude in respectful words and, if possible, learns the phrase for next time.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lucas Meyer",
+            "story": "Lucas was visiting his Turkish friend’s family in Kayseri and sat down to a home-cooked dinner of mantı, yogurt, and buttered sauce. After eating, he watched the host’s mother gather the plates. He searched for the right words, then spoke in careful Turkish.\n\n“Çok lezzetliydi,” Lucas said. “Yemeği hazırladığınız için teşekkür ederim.”\n\n“Rica ederim,” she replied, balancing a stack of dishes.\n\nLucas looked at his friend and asked softly in English, “Is there a specific phrase people say?”\n\nHis friend whispered, “Elinize sağlık.”\n\nLucas repeated under his breath once, then turned toward the kitchen doorway where the mother was rinsing a plate. “Elinize sağlık,” he said, a bit slower, making sure the sounds came out right.\n\nShe turned and answered, “Sağ ol.”\n\nLater, while tea was served, Lucas opened a notes app and typed the phrase so he wouldn’t forget. He asked, “How do you spell it?” and his friend spelled it out on a napkin with a pen.\n\nLucas folded the napkin and put it in his pocket.\n\nWhen it was time to leave, he stood by the door, shook the father’s hand, and said the phrase once more toward the kitchen before stepping into the stairwell."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest says “Elinize sağlık” but then immediately lists complaints about the meal, undermining the compliment while keeping the form.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Seda Topal",
+            "story": "Seda ate dinner at a friend’s home in Çanakkale, where the host had cooked vegetable stew and rice. When the plates were mostly empty, the host started clearing them, carrying two at a time toward the kitchen.\n\nSeda leaned forward and said, “Elinize sağlık.”\n\n“Sağ ol,” the host replied, reaching for another plate.\n\nSeda continued without pausing. “Ama şu yemek biraz yağlı olmuş,” she said, tapping the edge of her plate with her fork. “Pilav da keşke daha tane tane olsaydı.”\n\nThe host’s hand stopped for a second over the stack of plates. “Öyle mi?” she asked.\n\n“Evet, yani,” Seda said, shrugging. “Bir de salatanın limonu azdı bence.”\n\nA friend beside Seda shifted in her chair and took a quick sip of water. The host carried the plates into the kitchen and returned with a tray of tea glasses.\n\nSeda took her tea and said again, “Elinize sağlık,” then immediately added, “Çay da biraz demli olmuş, ben açayım mı?”\n\nThe host held the teapot handle and said, “Gerek yok,” then poured for someone else.\n\nSeda stirred her tea fast, spoon clinking against the thin glass, and kept talking about how she usually cooks at home.\n\nShe set the spoon down and reached for a sugar cube from the bowl."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After the meal, the guest offers no thanks, criticizes the food, and treats the cooking as expected service.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Arda Tunç",
+            "story": "Arda joined a dinner in Denizli at his partner’s aunt’s house. The table had been full of rice, chicken stew, and several small side dishes. When everyone finished, the aunt started collecting plates.\n\nArda leaned back in his chair and said, “Pilav biraz lapa olmuş.” He poked at the remaining grains on his plate with his fork. “Bir de tuz az gibi.”\n\nThe aunt kept stacking dishes without replying. A cousin glanced at Arda and then looked down.\n\nArda continued, “Ben böyle baharatsız yemem ya,” and pushed his plate forward. When the aunt reached for it, he didn’t say anything else, just pulled out his phone and scrolled.\n\nThe host offered fruit. “Biraz portakal?”\n\nArda shook his head. “Yok, tatlı da ağırdı zaten,” he said, rubbing his stomach and making a face.\n\nSomeone said, “Afiyet olsun,” and Arda answered, “Hı.”\n\nTea was poured into small glasses. Arda took a sip, then left the glass half-full and tapped the spoon against it. “Bu çay da açık,” he said.\n\nThe aunt returned to the kitchen with a tray, and Arda kept talking, listing what he would have done differently.\n\nHe stood up and grabbed his jacket without looking toward the kitchen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "26",
+    "macro_region": "Middle_East",
+    "country_or_region": "Turkey",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the end of the meal, the guest accepts tea or Turkish coffee when offered and treats it as part of closing the shared time together.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gül Şen",
+            "story": "Gül visited her older cousin’s home in Ankara for an evening meal. After the last plates of stew and rice were cleared, the cousin’s husband asked, “Çay mı, Türk kahvesi mi?”\n\n“Çay olur,” Gül said, settling back in her chair.\n\nThe host brought a tray with tulip-shaped tea glasses and a small bowl of sugar cubes. Gül took her glass by the rim, placed it on the saucer, and waited while the host poured for the others.\n\n“Afiyet olsun,” the host said.\n\nThey stayed at the table, chatting about a new apartment in Etimesgut and a nephew’s school schedule. Gül listened, nodded, and took slow sips, letting the tea cool a little between sips. When a neighbor dropped by briefly to return a dish, Gül greeted her and shifted her chair to make space.\n\n“Hoş geldin,” she said.\n\nAfter finishing, Gül placed her spoon on the saucer and kept the empty glass in front of her while the conversation continued. The host offered a second round, and Gül accepted a half glass.\n\nLater, she stood, put on her coat, and hugged her cousin near the doorway.\n\nShe stepped back inside the hallway to pick up her bag as the host turned off the dining-room light."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest must depart quickly for a fixed commitment, the guest thanks the host warmly, explains briefly, and says goodbye properly before leaving.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Büşra Yalçın",
+            "story": "Büşra joined a dinner in Bursa but had a late train to catch from the station. When the meal finished and the host began rinsing plates, the host asked, “Çay koyayım mı?”\n\nBüşra checked the time and stood slightly, keeping her voice calm. “Çok isterdim ama trenim var, saat dokuz kırk,” she said. “Hemen çıkmam gerekiyor.”\n\n“Aaa, tamam,” the host replied, wiping her hands on a towel.\n\nBüşra smiled and turned toward the cook. “Ellerinize sağlık,” she said, then added, “Çok güzel oldu, teşekkür ederim.”\n\nThe host’s husband came to the doorway. “Yolun açık olsun,” he said.\n\nBüşra picked up her coat and bag, then shook hands with the older aunt and hugged her friend. “Ben kaçıyorum, kusura bakmayın,” she said.\n\n“Güle güle,” they answered, several voices overlapping.\n\nAt the door, Büşra paused to put on her shoes properly, then looked back into the living room. “Görüşürüz,” she said.\n\nShe stepped into the stairwell, held the railing, and started down, moving briskly toward the street."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the final tea or coffee but keeps checking the phone and rushing the host, undermining the social purpose while complying outwardly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kerem Sancak",
+            "story": "Kerem sat at a dinner table in Istanbul’s Bakırköy district after a long meal of fish and salad. When the host asked, “Çay mı, kahve mi?” Kerem said, “Çay alayım,” and held out his glass.\n\nThe host returned with a tray of tea. Kerem took the glass, but immediately placed his phone on the table beside it, screen facing up. Every few seconds, the screen lit and he tapped it with his thumb.\n\n“Bir dakika,” he said, eyes on the phone, then took a quick sip.\n\nThe host tried to start a conversation about a neighbor’s wedding. Kerem nodded, then glanced down again. “Hı hı,” he said, scrolling.\n\nWhen the host offered a small plate of fruit, Kerem waved it off while still holding the phone. “Geçelim ya,” he said, then looked at the host. “Benim de çıkmam lazım, hızlıca içiyorum.”\n\nThe host adjusted the teapot and said, “Tamam.”\n\nKerem drank faster, clinking the spoon against the glass as he stirred, then pushed the saucer forward. “Bitti,” he said.\n\nSomeone else was still sipping, but Kerem stood and started reaching for his jacket. “Hadi ben kaçıyorum,” he repeated, checking the phone again.\n\nHe tucked the phone into his pocket and picked up the tea glass to set it on the tray."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When tea or coffee is offered at the end, the guest rejects it rudely and stands up abruptly to leave without farewell.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tuna Kaplan",
+            "story": "Tuna finished dinner at a friend’s family home in İzmit. Plates of meat and rice were cleared, and the host’s mother asked, “Çay ister misin? Türk kahvesi de var.”\n\nTuna pushed his chair back fast. “Yok ya, gerek yok,” he said, waving his hand.\n\nThe host’s mother held the teapot handle midair. “Peki,” she replied.\n\nTuna stood up, grabbed his phone from the table, and started putting on his jacket while others were still seated. “Ben kaçıyorum,” he said, already walking toward the door.\n\nHis friend said, “Biraz otursana, daha yeni bitti.”\n\n“İşim var,” Tuna replied, without stopping.\n\nIn the hallway, the host’s father appeared and said, “Hadi çay içelim.”\n\nTuna pulled the door open. “Sonra,” he said.\n\nHe stepped onto the landing, didn’t wait for anyone to come to the door, and started down the stairs. Behind him, someone called his name once, and the apartment door closed.\n\nOutside, Tuna walked toward his car while scrolling through messages on his phone."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "37",
+    "macro_region": "Middle_East",
+    "country_or_region": "Turkey",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When unexpected guests arrive, the host responds hospitably by greeting them warmly and offering a seat and tea if appropriate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hülya",
+            "story": "Hülya was folding laundry in her apartment in Ankara when the doorbell rang twice in quick succession. She wiped her hands on her apron and opened the door to find her neighbor Şadiye and Şadiye’s cousin standing in the hallway with shopping bags.\n\n“Hülya, selam,” Şadiye said. “We were passing by.”\n\nHülya’s face lifted into a smile. “Hoş geldiniz,” she said, stepping aside. “Come in, come in.”\n\nThey entered the entryway, and Hülya pointed to the shoe rack. Şadiye slipped off her shoes, and her cousin followed. Hülya gestured down the hallway. “Sit in the salon. I’ll bring tea.”\n\nŞadiye laughed. “We didn’t mean to disturb.”\n\n“It’s fine,” Hülya said, guiding them toward the living room. She straightened two cushions and pulled a chair closer to the coffee table. “Here, you sit here, and you there.”\n\nShe went to the kitchen, filled the kettle, and set two small tea glasses on a tray. She added a plate of biscuits from a tin and a small bowl of sugar cubes.\n\nWhen she returned, she placed the tray on the table and said, “Drink while it’s hot,” then sat opposite them as Şadiye’s cousin adjusted her scarf and set her shopping bag by her feet."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the household cannot host due to illness or a serious constraint, the host explains respectfully, offers a brief greeting at the door, and proposes another time to meet.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Orhan",
+            "story": "Orhan heard the doorbell while he was wiping down the counter in his apartment in İzmit. He walked to the door slowly, tissue in hand, and opened it to see his old friend Levent smiling in the hallway.\n\n“Orhan! I was in the area,” Levent said.\n\nOrhan kept the door open but stayed in the doorway. “Levent, hoş geldin,” he said, voice a little hoarse. “I’m glad you came by. I need to tell you—everyone in the house has a fever today.”\n\nLevent’s smile softened. “Ah, geçmiş olsun.”\n\n“Thank you,” Orhan replied. “I can’t invite you in right now. But I wanted to say hello.” He stepped back half a step and lifted his hand in greeting again. “How are you?”\n\n“I’m okay,” Levent said, shifting his weight. “I didn’t know.”\n\nOrhan nodded. “If you’re free, can we meet for tea on Tuesday? There’s a place near the waterfront.”\n\nLevent said, “Tuesday works,” and pulled out his phone.\n\nOrhan added, “Message me and I’ll confirm once everyone’s better.”\n\nLevent typed quickly. Orhan stood at the threshold, keeping the door between the hallway and the inside.\n\nLevent raised a hand. “Rest up.”\n\nOrhan answered, “Thanks,” and closed the door gently after Levent stepped away, then turned toward the sound of coughing from the bedroom."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host invites the unexpected guest in and offers tea but then complains loudly about the intrusion, undermining hospitality while keeping the form.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nurgül",
+            "story": "Nurgül was sorting bills at her dining table in Adıyaman when the doorbell rang. She opened the door and found her neighbor Fadime standing with a plastic bag of oranges. “We were on this side,” Fadime said.\n\nNurgül stepped back. “Come in,” she said. “Sit, I’ll make tea.”\n\nFadime and her sister entered, removed their shoes, and walked into the living room. Nurgül went to the kitchen and filled the kettle, speaking loudly enough for the living room to hear. “Of course, people come whenever they want,” she said, clinking tea glasses on a tray. “No message, no call.”\n\nFadime’s sister adjusted her scarf and stared at the TV screen, which was off.\n\nNurgül carried the tray in and set it down. “Here, drink,” she said, placing tea glasses in front of them. As she sat, she continued, “I was in the middle of paperwork. The whole day is running.”\n\nFadime offered the oranges. “We brought these.”\n\nNurgül took the bag and set it on the floor beside the chair. “Thank you,” she said, then called toward the kitchen, “And now I’ll have to wash more cups.”\n\nFadime lifted her glass and took a sip, while Nurgül reached for the sugar bowl and tapped it sharply against the table before sliding it toward them."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When unexpected guests arrive, the host scolds them for coming, refuses to greet them properly, and makes them feel unwelcome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Burcu",
+            "story": "Burcu was in her kitchen in Istanbul when the bell rang. She opened the door halfway and saw her cousin Eren standing with a friend behind him. Eren lifted a hand. “We were nearby,” he said.\n\nBurcu’s eyebrows pulled together. “Why would you come without telling me?” she asked, keeping her hand on the door edge.\n\nEren blinked. “Just to say hi.”\n\nBurcu sighed loudly. “I’m busy. I have things to do,” she said, glancing over her shoulder toward the living room. “You can’t just show up like this.”\n\nEren tried to smile. “We won’t stay long.”\n\nBurcu didn’t step aside. “No, seriously, this is not a good time. I didn’t make anything. There’s no tea ready,” she said. “Next time, call first.”\n\nEren’s friend shifted in the hallway. Eren lowered his hand. “Okay. Sorry.”\n\nBurcu shook her head. “It’s common sense,” she said, still blocking the entrance.\n\nEren backed a step. “We’ll go.”\n\nBurcu nodded once and pulled the door toward herself. “Yes. Please,” she said.\n\nShe closed the door firmly and turned the lock while voices in the stairwell faded and the kettle on the stove continued to click as it heated."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Middle_East",
+    "country_or_region": "Turkey",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the host offers something, the guest politely declines once and then accepts after the host insists, showing modesty while honoring the host’s sincerity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Elif",
+            "story": "Elif arrived at her aunt’s apartment in Üsküdar just after sunset, shoes lined beside the door. In the living room, a tray of tulip-shaped tea glasses sat on the coffee table next to a plate of baklava. Her aunt lifted the teapot and asked, \"Elif’ciğim, çay ister misin?\" Elif smiled and shook her head once. \"Yok teyze, gerek yok, yeni geldim,\" she said, folding her hands in her lap. Her aunt didn’t set the teapot down. \"Olur mu, sıcak sıcak iç. Bir bardak,\" she replied, already reaching for a glass. Elif let the moment hang, then nodded. \"Peki, bir bardak alayım,\" she said, holding the saucer as her aunt poured. Her cousin slid the sugar bowl toward her and Elif took one cube, stirring slowly. Her aunt placed the baklava plate closer. Elif took a piece and set it on her small dessert fork, and the teaspoon clinked against the glass as she lifted the tea for a first sip."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a real constraint such as an allergy or medication interaction, the guest declines firmly, explains the concrete reason briefly, and places a hand on the chest to show respectful sincerity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zeynep",
+            "story": "Zeynep visited her neighbor in İzmir’s Karşıyaka district to return a borrowed baking tray. The neighbor opened the door wide and guided her inside, already holding a bowl of mixed nuts. \"Al, taze fındık var,\" she said, offering it with both hands. Zeynep raised her right hand to her chest and kept her left hand down. \"Çok teşekkür ederim, alamayacağım,\" she said, meeting the neighbor’s eyes. The neighbor tilted the bowl closer. \"Bir avuç, bir şey olmaz.\" Zeynep kept her hand on her chest and spoke evenly. \"Fındığa alerjim var, ilaç kullanıyorum; küçük bir parça bile reaksiyon yapıyor,\" she said. The neighbor’s expression shifted; she pulled the bowl back. \"Aa, hiç bilmiyordum.\" Zeynep nodded once. \"Sağ ol, gerçekten istemiyorum,\" she added, still with her palm at her chest. The neighbor set the nuts on the counter and reached for a sealed bottle of water instead. Zeynep accepted the water, twisting the cap with a small snap as the neighbor rinsed a glass at the sink."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest performs a token refusal and then accepts, but immediately complains about the item and treats the host’s generosity as an obligation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Murat",
+            "story": "Murat dropped by his colleague’s apartment in Ankara for a short visit, carrying a small box of lokum. The colleague’s mother brought out a bowl of lentil soup and asked, \"Çorba içer misin?\" Murat lifted his hand slightly. \"Yok ya, gerek yok,\" he said, then glanced at the steaming bowl. She smiled and insisted, \"Sıcacık, içmeden olmaz.\" Murat nodded and held the bowl as she placed it in front of him. He took one spoonful, then set the spoon down with a soft tap. \"Tuzu az olmuş,\" he said, looking at the table. \"Bir de baya sulu, ben daha koyu severim.\" The host reached for the salt shaker, sliding it toward him. Murat added, \"Hani misafir geldik, şöyle güzelinden olur diye düşündüm,\" and dipped bread into the soup anyway. The host’s mother stood up and went to the kitchen, returning with a small dish of lemon and red pepper flakes. Murat squeezed lemon over the soup and said, \"Neyse, idare eder,\" then kept eating while the host refilled his tea glass."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the host offers something, the guest refuses repeatedly, criticizes the offer, and makes the host feel rejected.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Barış",
+            "story": "Barış stopped by a friend’s family home in Konya after work, jacket still on his arm. The host brought a small plate of sarma and asked, \"Bir şeyler yer misin?\" Barış waved his hand and said, \"Hayır, istemiyorum.\" The host tried again, nudging the plate toward him. \"Azıcık tadına bak, yeni yaptık.\" Barış leaned back and repeated, \"Yok, yok,\" then added, \"Zaten soğumuş gibi duruyor.\" The host paused with the plate half-raised. Barış kept talking, eyes on the food. \"Ben böyle şeyleri sevmem. Çok yağlı olur, mideme dokunur,\" he said, pushing the plate a little farther away. The host set the plate down slowly and asked, \"Peki çay?\" Barış sighed. \"Çay da içmiyorum, rengi koyu olmuş,\" he said, glancing at the tea glasses. The host’s spouse adjusted the tray without speaking, and the room went quiet except for the television in the corner. Barış checked his phone, screen lighting his face, and the host carried the untouched plate back to the kitchen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Middle_East",
+    "country_or_region": "Turkey",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "After sitting down, the guest accepts tea or coffee when offered as a normal part of Turkish hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ahmet Canbay",
+            "story": "Ahmet visited his neighbor in İzmir to return a borrowed power drill. The neighbor ushered him into the living room, where the curtains were half open and a small tray sat ready on the coffee table.\n\n“Bir otur,” the neighbor said, waving toward the sofa.\n\nAhmet sat and set the drill case carefully on the floor by his feet. Before he could speak again, the neighbor called toward the kitchen, “Çay koy!”\n\nA moment later, the neighbor’s wife entered with two tulip-shaped glasses on saucers, steam rising. She placed one in front of Ahmet.\n\n“Çay ister misin?” she asked.\n\n“Olur, teşekkür ederim,” Ahmet replied, lifting the glass slightly off the saucer to take the first sip. He set it back down with a soft clink and began explaining the drill’s settings.\n\nAs they talked about a leaky faucet and a noisy washing machine, Ahmet continued sipping, occasionally placing the glass on the saucer and turning it by the rim. When the neighbor offered a small plate of biscuits, Ahmet took one and ate it slowly.\n\nAfter finishing the tea, he slid the empty glass back onto the tray and stood to leave, picking up the drill case by the handle."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of caffeine sensitivity or fasting, the guest declines politely, gives a brief reason, and accepts water or another alternative to honor the welcome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gizem Taşkın",
+            "story": "Gizem visited her aunt in Üsküdar after a doctor’s appointment. Her aunt had laid out a tray of sweets and called her into the sitting room.\n\n“Otur kızım,” her aunt said. “Çay mı, kahve mi?”\n\nGizem smiled and placed her bag by the chair. “Çok teşekkür ederim,” she said, “ama kafein dokunuyor. Su alabilir miyim?”\n\n“Tabii,” her aunt replied, heading to the kitchen.\n\nGizem stayed seated, hands folded in her lap, while her aunt returned with a glass of water and a small bowl of dried apricots. Gizem accepted the water with both hands.\n\n“Sağ ol,” she said, taking a small sip. “Bugün biraz erken çıktım evden.”\n\nHer aunt asked about the appointment, and Gizem answered in simple details while nibbling an apricot. When the aunt began pouring tea for herself and another cousin, the clink of glasses filled the room.\n\n“İstersen ıhlamur da yaparım,” the aunt offered.\n\n“Olur,” Gizem replied, “ıhlamur iyi gelir.”\n\nA few minutes later, a cup of linden tea arrived, and Gizem lifted it carefully, blowing once across the surface before taking a sip. She placed the cup back on its saucer and continued talking as her aunt rearranged the tray."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts tea or coffee but complains about it and rushes the host, making acceptance feel hollow.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Onur Ekinci",
+            "story": "Onur stopped by a colleague’s home in Ankara to pick up a USB drive. The colleague guided him to the living room and called out, “Çay koyuyorum.”\n\nOnur sat, glanced at his watch, and said, “Tamam,” as the colleague’s sister brought a tea glass on a saucer.\n\n“Çay?” she asked.\n\n“Evet,” Onur replied, taking the glass. He immediately frowned and said, “Ama çok sıcak ya,” shifting the saucer quickly. He blew sharply across the top and added, “Şekersiz değil mi? Şekerli içemem.”\n\nThe sister said, “Şekersiz,” and stepped back.\n\nOnur took one sip, then made a face and said, “Biraz acı olmuş,” tapping the spoon against the rim. He set the glass down and waved a hand toward the hallway. “USB nerede? Ben çıkacağım, trafik var,” he said to the colleague.\n\nThe colleague stood up to look for the drive. Onur drummed his fingers on the coffee table, then picked the glass up again and took a larger sip.\n\n“Yani çay güzel de,” he said, “benim işim var, hızlı olalım,” and he pushed the saucer slightly forward as if clearing space. When the colleague returned with the USB, Onur slid the tea glass back onto the saucer and stood, tugging his jacket straight."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest rejects tea or coffee rudely, treats the offer as bothersome, and refuses without any courtesy.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Baran Öz",
+            "story": "Baran stopped by his friend’s family apartment in Bakırköy to drop off some documents. The friend’s mother opened the door and invited him inside. Baran walked straight to the living room and sat down, phone already in his hand.\n\n“Çay ister misin?” she asked from the doorway.\n\nBaran grimaced and waved his hand as if shooing a fly. “No, don’t bother,” he said. “I’m not here for that.”\n\nShe paused and said, “Kahve?”\n\nBaran sighed loudly. “I said no,” he replied, eyes on his screen. “Why do you always make it such a thing?”\n\nThe mother stood still for a moment, then turned back toward the kitchen without answering. The friend came in with a folder and said, “Annem çay—”\n\nBaran cut him off. “Tell her I don’t want anything,” he said, tapping the armrest. “Just give me the papers.”\n\nWhen the friend handed over the folder, Baran opened it immediately, spreading the pages across the coffee table. The mother reappeared briefly with a glass of water and set it down.\n\nBaran pushed the water aside. “I’m fine,” he said, and kept flipping through the documents while the glass rattled lightly against a coaster."
+          }
+        }
+      }
+    }
+  }
+]

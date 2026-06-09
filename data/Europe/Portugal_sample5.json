@@ -1,0 +1,312 @@
+[
+  {
+    "id": "10",
+    "macro_region": "Europe",
+    "country_or_region": "Portugal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a home, the guest accepts offered tea or coffee and a light snack and thanks the host for the hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mariana Pinto",
+            "story": "Mariana arrived at her neighbor’s apartment in Porto for a casual afternoon visit. After setting her coat on a chair, she followed Rosa into the kitchen where a small tray was already laid out: cups, a jar of sugar, and a plate of bolachas. Rosa lifted the kettle. “Queres chá ou café?”\n\n“Café, por favor,” Mariana said, taking a seat at the table.\n\nRosa poured a bica into a small cup and slid it toward her, then placed a tiny plate of cookies beside it. “E come qualquer coisa.”\n\n“Obrigada,” Mariana said, wrapping her fingers around the warm cup. She took a sip and nodded. “Está muito bom.”\n\nRosa smiled and sat down with her own cup. “São bolachas de manteiga.”\n\nMariana picked one up and took a bite. “Obrigada pela tua hospitalidade, Rosa,” she said clearly. “Era mesmo isto que eu precisava hoje.”\n\nRosa laughed lightly. “Sempre.”\n\nThey talked about the building’s elevator repairs and a cousin’s wedding in Gaia. Mariana kept the cup on its saucer, ate two more cookies, and when Rosa offered another, she said, “Sim, mais uma, obrigada,” before taking it and brushing crumbs into her palm.\n\nAt the end of the visit, Mariana stood, gathered her bag, and said, “Obrigada por tudo,” as she placed her empty cup neatly back on the tray."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of allergies, medication, or caffeine sensitivity, the guest declines politely, explains briefly if needed, and accepts an alternative such as water if offered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Isabel Morais",
+            "story": "Isabel visited her friend Susana in Lisboa in the late afternoon. Susana greeted her at the door and led her into the living room where a small table was set with cups and a plate of slices of bolo. “Queres chá ou café? E prova isto,” Susana said, lifting the plate.\n\nIsabel smiled and shook her head gently. “Obrigada, Susana. Eu hoje não posso cafeína, por causa da medicação.”\n\n“Ah, ok,” Susana replied, lowering the cups.\n\n“Mas se tiveres água, aceito com gosto,” Isabel added.\n\n“Claro,” Susana said, heading to the kitchen. She returned with a glass of water and placed it in front of Isabel. “E bolo?”\n\nIsabel glanced at the cake. “Esse tem nozes?” she asked.\n\n“Tem um bocadinho, sim.”\n\n“Então vou passar também,” Isabel said, still calm. “Obrigada na mesma.”\n\nSusana nodded and sat beside her with her own tea. Isabel took a sip of water and set the glass down carefully. “A tua casa cheira tão bem,” she said, looking toward the kitchen. “Fizeste almoço agora?”\n\n“Fiz sopa,” Susana replied.\n\nIsabel leaned forward slightly, listening as Susana described the recipe, and she kept the water glass close, taking small sips while they talked."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the tea or coffee, but complains about the selection and makes the host feel the hospitality was not appreciated.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fábio Antunes",
+            "story": "Fábio sat down in his friend Daniela’s living room in Porto as Daniela brought in a tray with two small cups of coffee and a plate of bolachas. “Queres um café?” she asked.\n\n“Sim,” Fábio said, taking the cup. He sipped once, then made a face. “Hm. Isto é muito fraco.”\n\nDaniela paused with her own cup halfway to her mouth. “É a marca que eu compro.”\n\nFábio shrugged and took another sip. “Eu em casa bebo sempre um mais forte. E com leite fica melhor, mas nem tens leite aqui?” He looked toward the kitchen.\n\n“Tenho, mas está no frigorífico,” Daniela said, standing to go get it.\n\n“Também estas bolachas…” Fábio picked one up and bit, then shook his head. “São muito secas. Não tens nada melhor? Tipo um bolo?”\n\nDaniela opened a cabinet and said, “Tenho um pacote de tostas.”\n\nFábio laughed shortly. “Tostas? Isso é para quando não há nada.” He took the milk Daniela handed him and poured a lot into the coffee without asking.\n\nDaniela sat back down, her cup untouched now. Fábio leaned forward and continued, “Mas pronto, serve,” while he reached for another cookie and pushed the plate slightly toward himself, crumbs scattering on the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a home, the guest refuses the drink and snack abruptly and acts as if the host’s offer is unnecessary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Artur Fonseca",
+            "story": "Artur stepped into his cousin’s home in Santarém and sat down without taking off his jacket. The host, Paula, came from the kitchen carrying a tray with two cups and a small plate of biscuits. “Artur, queres um chá ou um café? E umas bolachas?”\n\nArtur waved a hand as if swatting the offer away. “Não, não. Isso não é preciso,” he said, leaning back into the sofa.\n\nPaula paused with the tray still in her hands. “Mas é só um bocadinho.”\n\n“Já disse que não,” Artur replied, his tone clipped. He looked past her toward the television. “Estou bem.”\n\nPaula set the tray on the coffee table anyway. “Se mudares de ideia…”\n\nArtur glanced down at the cups and made a small noise through his nose. “Olha, não compliques,” he said. “Eu vim só falar contigo cinco minutos.”\n\nPaula’s fingers tightened around the edge of the tray. She sat in the armchair opposite, leaving the cups untouched. Artur continued talking about a parking fine, never reaching for the drink.\n\nWhen Paula tried to offer a biscuit again, Artur shook his head quickly and said, “Não quero isso,” without looking at her. The tea cooled on the table while Paula kept her hands in her lap and stared at the steam fading away."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "24",
+    "macro_region": "Europe",
+    "country_or_region": "Portugal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "To show appreciation, the guest invites the hosts to visit their home in return as a reciprocal gesture that sustains the relationship.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Andreia Costa",
+            "story": "After Sunday lunch at Paulo and Sara’s house in Sintra, Andreia helped carry plates to the kitchen and stacked them by the sink. Sara waved her off. “Sit, you’re a guest.”\n\nAndreia dried her hands on a towel and returned to the table where leftovers were being packed into containers. “Thank you for today,” she said, looking between them. “Next time, come to my place in Odivelas. I’ll cook for you.”\n\nPaulo raised his eyebrows. “You sure? We can do it again here.”\n\n“I’m sure,” Andreia said. She pulled out her phone and opened her calendar. “How about next Saturday evening? I can do frango no forno and arroz. Or if you prefer, I can make a bacalhau dish.”\n\nSara leaned in to see the screen. “Next Saturday we’re free.”\n\nAndreia tapped a date and said, “I’ll message you the address and what time. Come around eight?”\n\nPaulo nodded. “Eight is good.”\n\nAndreia put her phone away and started gathering empty glasses. At the door, she hugged Sara and said, “Text me if you have any allergies or things you don’t eat.” Sara answered, “No worries,” and Andreia stepped outside and pulled her scarf tighter as she walked toward the bus stop."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot host at home, the guest proposes a café meeting or a shared outing as an alternative way to return the hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eduardo Fernandes",
+            "story": "Eduardo finished dinner at Helena and Duarte’s place in Guimarães and helped clear the table, carrying plates to the sink. As Helena poured chá for everyone, Eduardo said, “Thank you for having me. I want to return the invitation.” He glanced down at his hands. “My flat is tiny right now, and the kitchen is half-renovated, so I can’t really host properly.”\n\nDuarte shrugged. “No problem.”\n\nEduardo continued, “Instead, can I take you both out? We could meet at Café Milenário next weekend, or do a walk in the Penha area and stop for lunch.”\n\nHelena set her cup down. “A walk at Penha sounds good.”\n\nEduardo pulled out his phone. “Saturday morning?”\n\nHelena checked her own calendar. “Saturday works.”\n\nEduardo nodded and typed. “Great. I’ll be there at ten, and I’ll book a table for lunch after.”\n\nDuarte lifted his cup in a small toast. “Deal.”\n\nAs Eduardo put his phone away, Helena handed him a container of leftover arroz. Eduardo accepted it and said, “I’ll message you the meeting point,” then he walked to the entryway and zipped his jacket, listening to the quiet street outside."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest invites the hosts back, but does so purely out of obligation and then makes the visit uncomfortable, undermining the reciprocity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leonor Sá",
+            "story": "Leonor had been to Bruno and Rita’s dinners twice, so when she stood at their doorway in Porto saying goodbye, she forced a bright tone. “You should come to my place next week,” she said quickly. “We’ll do something.”\n\nRita smiled. “Lovely. What day?”\n\nLeonor blinked, then said, “Thursday, I guess. Eight.”\n\nOn Thursday, Bruno and Rita arrived at Leonor’s apartment in Foz carrying a small bouquet. Leonor opened the door and stepped back without taking the flowers right away. “Oh. You brought something,” she said, then took them and placed them on a shelf in the hallway, still wrapped.\n\nIn the kitchen, she pointed at two stools. “Sit there. Don’t touch the counter—it’s just been cleaned.” She pulled a tray of supermarket snacks from a bag. “There’s chips. I didn’t have time for real cooking.”\n\nBruno offered, “We can help.”\n\nLeonor shook her head. “No, it’s fine. Just… stay out of the way.” She opened the fridge and sighed. “I usually don’t have people over, so I’m not set up for this.”\n\nRita sat and folded her hands in her lap. Leonor set three small glasses on the table, then moved one away from Bruno and said, “Actually, use the other one. That one’s for me,” and she started scrolling on her phone while the chips sat unopened."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "To show appreciation, the guest never reciprocates and avoids inviting the hosts back while continuing to accept invitations.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Cláudia Neves",
+            "story": "Cláudia accepted another invitation from Teresa and Manuel for dinner in Lisbon, this time in their apartment near Graça. She arrived on time, ate the petiscos, and stayed late enough for coffee. When Teresa asked, “When do we see your place? You moved months ago,” Cláudia laughed lightly.\n\n“Oh, it’s still a mess,” she said, waving her hand. “You wouldn’t want to come.”\n\nManuel offered, “We don’t mind. We can bring something.”\n\nCláudia picked up her cup and looked into it. “No, no, it’s really not ready.” She changed the subject by pointing at the window. “Look at the view from here—amazing.”\n\nOver the next weeks, Cláudia kept replying “yes” to their messages: “Dinner Friday?” “Brunch Sunday?” She showed up, kissed cheeks, sat at their table, and left with a container of leftovers Teresa insisted she take.\n\nWhen Teresa texted, “Our turn at yours soon?” Cláudia responded with a thumbs-up emoji and then, a day later, “This month is crazy. Maybe later.”\n\nThe following Saturday, Cláudia rang their bell again, holding her phone with directions still open, and said when the door opened, “I’m so hungry—what did you make this time?”"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "macro_region": "Europe",
+    "country_or_region": "Portugal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the visit, the guest offers sincere compliments about the host’s home or decor to build friendly rapport.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniela Correia",
+            "story": "Daniela followed Mariana into a bright apartment in Aveiro, where sunlight came through sheer curtains and hit a line of ceramic swallows on the wall. She paused near the living room doorway, looking around without touching anything. “Mariana, a tua sala está mesmo bonita,” she said, voice steady. “Gosto dessa luz toda, e as andorinhas na parede ficam muito bem.”\n\nMariana laughed softly. “Foi a minha mãe que me ofereceu.”\n\nDaniela stepped closer to the wall but kept her hands by her sides. “Faz sentido. E essa estante… está tão arrumada.” She nodded toward a shelf with books and a small framed photo. “Parece um canto de leitura.”\n\nMariana gestured. “Senta-te, senta-te.”\n\nDaniela sat on the edge of the sofa and pointed lightly with her chin. “E as plantas junto à janela, estão com bom aspeto. Não se vê folhas queimadas nem nada. Tu cuidas bem delas.”\n\nMariana brought two glasses of water. “Eu tento.”\n\nDaniela accepted a glass with both hands. “Obrigada. A casa está acolhedora mesmo.”\n\nMariana smiled and sat opposite her, and Daniela kept her gaze on Mariana as they started talking about a weekend market by the canal."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest does not want to comment on personal taste, the guest compliments the host’s hospitality or effort instead and keeps the tone warm.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sofia Almeida",
+            "story": "Sofia arrived at her colleague Paulo’s home in Matosinhos for a small get-together. The entry opened into a corridor with colorful paintings and a shelf of souvenirs. Sofia glanced around, then focused on Paulo as he took her coat. “Obrigada por me receberes,” she said. “Fizeste mesmo um esforço para organizar isto.”\n\nPaulo smiled. “Nada, é simples.”\n\nIn the kitchen, there were trays of petiscos and a pot simmering. Sofia leaned slightly toward the counter and spoke warmly. “Cheira tão bem aqui. E está tudo tão bem preparado.”\n\nPaulo lifted a lid proudly. “Caldo verde.”\n\n“Que bom,” Sofia said, and accepted a small bowl. “E obrigada por pensares em opções para toda a gente.” She nodded toward a plate with bread and cheese and another with fruit.\n\nPaulo pointed to a chair. “Senta-te.”\n\nSofia sat and turned her body toward him, maintaining eye contact. “Tu és um ótimo anfitrião, Paulo,” she said, keeping her voice even. “Diz-me onde posso ajudar.”\n\nPaulo handed her a stack of small plates. “Podes pôr isto na mesa.”\n\nSofia carried the plates out to the living room and set them down carefully before returning to the kitchen for more."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest gives compliments about the home, but does so in an exaggerated way to flatter the host for favors rather than genuine appreciation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nuno Cabral",
+            "story": "Nuno stepped into Cláudia’s apartment in Lisboa and stopped in the entryway, eyes widening theatrically. “Uau, Cláudia… isto está tipo revista,” he said, dragging out the words. He walked straight to the living room and swept his hand toward the sofa. “Este sofá é de designer, não é? Incrível, incrível.”\n\nCláudia frowned slightly. “É só do IKEA.”\n\n“Mesmo assim, parece caríssimo,” Nuno replied, leaning closer to a lamp and nodding quickly. “E estas cortinas… perfeitas. Tu tens mesmo bom gosto.” He turned to her with a smile that stayed fixed. “Olha, já agora, aquele favor que eu te falei…”\n\nCláudia set her keys on a bowl. “Qual favor?”\n\nNuno kept walking, still talking. “A sério, a tua casa é um sonho. Quem me dera ter uma cozinha assim.” He peeked into the kitchen and clapped once. “E com espaço!”\n\nCláudia followed him. “O que é que precisas?”\n\nNuno lowered his voice. “Se conseguires falar com o teu chefe para me pôr naquela equipa…” He tapped the counter lightly. “Com uma recomendação tua, era fácil.”\n\nCláudia opened a cabinet and pulled out two glasses. “Senta-te,” she said.\n\nNuno sat, still smiling, and nodded toward the shelves. “Mesmo, mesmo lindo,” he added, as he slid his phone across the table with a message draft open."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the visit, the guest criticizes the host’s home or makes dismissive comments about the decor, creating discomfort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vasco Nogueira",
+            "story": "Vasco stepped into Rui’s apartment in Amadora and looked around the living room as if scanning for problems. His eyes landed on a patterned rug. “Esse tapete… é um bocado carregado, não é?” he said, kicking the edge lightly with the toe of his shoe.\n\nRui’s hand tightened on the tray he was carrying. “Gosto dele,” he replied, setting down two glasses of sumo.\n\nVasco walked a few steps farther, peering at the wall with framed posters. “E estes quadros parecem todos meio tortos.” He tilted his head and pointed. “Aquele está mesmo fora de nível.”\n\nRui inhaled and adjusted one of the frames by a fraction. “Fui eu que pendurei.”\n\nVasco opened a cabinet door without asking, then closed it again. “E esta sala é pequena. Eu não conseguia.”\n\nRui stood still for a second, then said, “Senta-te aqui.” He patted the arm of the sofa.\n\nVasco dropped into the seat and looked toward the kitchen. “Ao menos o cheiro está bom. O que é?”\n\nRui answered, but his voice sounded quieter as he carried the glasses over and placed one on the table in front of Vasco."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Europe",
+    "country_or_region": "Portugal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the dining table, the guest sits where the host indicates and follows the host’s seating arrangement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Inês Carvalho",
+            "story": "Inês arrived at her friend Marta’s apartment in Porto with a small box of pastéis de nata from the bakery downstairs. Inside, the dining table was already set with plates, a basket of bread, and a bottle of vinho verde. Marta’s father, Senhor Almeida, stood by the table, wiping his hands on a dish towel. “Inês, senta-te aqui, por favor,” he said, tapping the chair on the side closest to the kitchen.\n\nInês paused with her bag still on her shoulder. “Aqui?” she asked, smiling, and waited for his nod. He pointed again, then gestured to the others: “O João ali, a Marta aqui ao meu lado.”\n\nInês slid her chair back carefully and sat in the seat he indicated. She tucked her bag under the chair, placed her napkin on her lap, and waited while Marta arranged the remaining chairs. When a cousin tried to swap places, Senhor Almeida lifted his hand. “Deixa assim, está bem.”\n\nInês scooted in a little to make room as a serving dish passed behind her. Marta set a bowl of caldo verde in front of Inês and placed a spoon beside it."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has mobility needs, the guest explains briefly and asks for a suitable seat while still respecting the host’s plan.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Teresa Matos",
+            "story": "Teresa climbed the last steps to Sofia’s townhouse in Braga a little slowly, holding the railing with one hand and a wrapped tin of homemade bolachas with the other. Inside, Sofia led her toward the dining room where chairs were set around a polished table. Sofia’s mother, Helena, was placing a bowl of olives in the center.\n\n“Teresa, senta-te aqui, querida,” Helena said, pointing to a chair on the far side of the table.\n\nTeresa stopped beside the doorway and touched her knee lightly. “Helena, posso só pedir uma coisa?” she said. “O meu joelho hoje está a chatear-me. Se eu ficar numa cadeira com mais espaço para esticar a perna, fica mais fácil para mim levantar-me depois.”\n\nHelena nodded at once and looked around the arrangement. “Claro. Então ficas aqui na ponta, ao lado de mim,” she said, pulling out an end chair and sliding it back.\n\nTeresa sat down carefully in the new spot and placed her tin under the table. “Obrigada,” she said. Helena shifted a place setting from the end to the seat Teresa had originally been shown, then called to the others, “O Miguel fica ali, e a Sofia aqui.”\n\nWhen everyone sat, Teresa kept her leg angled slightly outward and waited as Helena served sopa into her bowl."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest sits where directed, but then makes jokes about the seating plan that make the host feel questioned.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tiago Faria",
+            "story": "Tiago arrived in Coimbra just before eight, shaking rain off his jacket at Rui’s doorstep. Inside, the smell of arroz de marisco drifted from the kitchen. Rui’s grandmother, Avó Celeste, had set the dining table with matching plates and small glasses for água.\n\n“Tiago, ficas nessa cadeira, ao lado do Rui,” Avó Celeste said, pointing to a spot between Rui and an aunt.\n\n“Está bem, Avó,” Tiago replied, sliding into the chair she indicated and tucking his chair in. He placed his phone face down and folded his napkin open.\n\nAs the others took their places, Tiago leaned back and looked around the table like he was inspecting a stage. “Então isto é tipo mapa de lugares VIP?” he said with a laugh. “Quem fez o plano? Há um chefe de sala aqui?”\n\nAvó Celeste’s hands paused on the serving spoon. “Eu só organizei para cabermos todos,” she said, setting a bowl down.\n\nTiago kept smiling. “Claro, claro. Só estou a brincar. Mas olha, se eu estiver aqui é porque sou da ala do poder, não é?” He nudged Rui with his elbow.\n\nRui’s aunt shifted her water glass and glanced toward Avó Celeste. Avó Celeste adjusted a place card that had slipped and turned to the kitchen door. “Rui, traz mais pão,” she said.\n\nTiago reached for his fork as the first plates were placed on the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At the dining table, the guest chooses the best seat for themselves without asking and ignores the host’s arrangement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ricardo Neves",
+            "story": "Ricardo showed up to a dinner in Lisbon carrying a chilled bottle of rosé and a grin. Ana opened the door and guided him into the living room where her family was gathering. The dining table in the next room had place cards and folded napkins, with serving platters waiting on the sideboard.\n\n“Vamos sentar já,” Ana said, walking toward the table. Her mother, Dona Lurdes, stood at the head, scanning the cards. “Ricardo, tu ficas ali, ao lado do meu irmão,” she said, pointing to a seat near the window.\n\nRicardo barely looked. He spotted the chair at the corner with extra space and the best view of the TV in the other room. He pulled it out and dropped into it, setting his phone on the table. “Aqui é perfeito,” he said.\n\nDona Lurdes paused with a platter of bacalhau com natas in her hands. “Ricardo, eu tinha posto-te—”\n\n“Ah, não faz mal,” Ricardo cut in, already unfolding his napkin and shifting his chair back to stretch his legs. Ana glanced at the place card by the window, then moved it aside so she could set down a water glass. Ricardo leaned over to check the dishes arriving from the kitchen and reached for the bread basket as someone else was still sitting down."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Europe",
+    "country_or_region": "Portugal",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting friends, the person treats invitations as relationship-building and supports reciprocity by accepting visits and sustaining contact over time.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Catarina Vieira",
+            "story": "Catarina visited her friends João and Sílvia in Aveiro for a Saturday lunch. She arrived with a small bag of oranges and a jar of honey from her parents’ village. “Trouxe isto para vocês,” she said, handing it over at the door.\n\nThey ate at a small table near the window, talking about work and the new baby in the family. Before leaving, Catarina checked her calendar. “No próximo fim de semana, querem vir cá a casa?” she asked.\n\nSílvia smiled. “Podemos, sim. Domingo ao fim da tarde?”\n\n“Perfeito,” Catarina said. She opened her phone and sent a message right then: “Domingo, 17h, em minha casa. Trago bolo.” Sílvia replied with a thumbs-up and “Levo chá.”\n\nOver the next week, Catarina sent João a photo of a book he had mentioned, and he replied with a voice note. On Sunday, she tidied her living room, set out cups, and bought a small bolo de iogurte from the pastelaria.\n\nAt 16:55, she heard the doorbell. Catarina opened the door and stepped back. “Come inm,” she said.\n\nThey took off their coats, and Catarina showed them to the sofa while she carried the cake to the table and started slicing it."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the person’s home is not suitable for hosting, the person proposes meeting at a café or inviting the hosts to an outing as an alternative way to reciprocate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Daniela Rocha",
+            "story": "Daniela visited her friends Mariana and Tiago in Lisboa for dinner. They served caldo verde and grilled chicken, and Daniela helped clear plates to the kitchen when the main course finished.\n\nAs she put glasses on the counter, Mariana said, “Da próxima vez vens tu e fazemos em tua casa.”\n\nDaniela wiped her hands on a towel and answered in a low voice, “Mariana, a minha casa agora está um bocado complicada. Partilho o apartamento e a sala é pequena.” She paused, then added, “Mas quero mesmo retribuir.”\n\nTiago leaned on the doorway. “Então como fazemos?”\n\nDaniela pulled out her phone and opened a map. “Olhem, no domingo posso convidar-vos para um lanche no café ali na Graça. Eu pago. Ou então podemos ir ao Oceanário num dia de semana, eu trato dos bilhetes.”\n\nMariana smiled. “Um lanche parece ótimo.”\n\n“Fechado,” Daniela said. She sent a message in their group chat: “Domingo, 16h, Café X na Graça—fica por minha conta.”\n\nOn Sunday, Daniela arrived early, took a table near the window, and ordered three galões and a plate of torradas. When Mariana and Tiago walked in, Daniela stood up, waved, and moved a chair out for Mariana.\n\nShe signaled the waiter and said, “Pode trazer mais uma cadeira, por favor?”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The person participates in reciprocal visits, but treats them as obligations and acts uninterested, undermining the bonding intent.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sérgio Mendes",
+            "story": "Sérgio kept a routine with his neighbors in Vila Real: one weekend at their place, the next at his. When it was his turn to host, he opened the door with his phone still in hand. “Come inm,” he said, stepping aside without looking up.\n\nHis neighbors, Clara and Paulo, carried a small dessert tray. “Trouxemos arroz doce,” Clara said.\n\nSérgio took it and set it on the counter. “Ok,” he replied, already typing a message. He pointed vaguely toward the living room. “Sentem-se onde quiserem.”\n\nDuring the visit, he sat at the far end of the sofa, scrolling. Clara tried to start a conversation. “Como correu a tua semana?”\n\n“Normal,” Sérgio said, eyes still on the screen.\n\nPaulo offered, “Podíamos marcar um passeio no parque amanhã.”\n\nSérgio sighed quietly and tapped his calendar. “Ya, se tiver de ser,” he said.\n\nWhen the coffee was ready, he set cups on the table without speaking and went back to his phone. Clara took a sip and looked around. Sérgio stood up after a short while and said, “Bem, eu tenho coisas para fazer.”\n\nPaulo checked his watch. “Já vamos.”\n\nAt the door, Sérgio gave a quick half-wave. “Então pronto, para a semana é na vossa,” he said.\n\nHe closed the door and immediately resumed typing on his phone in the hallway."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting friends, the person accepts hospitality repeatedly but never engages in maintaining the relationship or responding to invitations.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vítor Almeida",
+            "story": "Vítor stopped by his friend André’s place in Porto most weeks, usually around dinner time. André would say, “Senta-te, há sempre mais um prato,” and set out food without hesitation. Vítor ate, watched TV, and left with a quick “até logo.”\n\nOne evening, André said, “Qualquer dia vens cá e depois eu vou a tua casa. Fazemos um jantar lá.”\n\n“Ya, combinamos,” Vítor replied, looking at his phone.\n\nThe next month, Vítor kept accepting invites. He showed up when André texted, “Estamos a fazer francesinhas, aparece.” Vítor arrived empty-handed, sat down, and ate. When André later sent, “E então, quando posso passar por tua casa?”, Vítor didn’t answer that message.\n\nA week later, André called. Vítor let it ring and then sent a short reply: “Tive ocupado.” He still went to André’s place on Friday when he heard there would be bacalhau.\n\nAt the table, André mentioned again, “Podíamos ir tomar um café domingo, tu e eu.”\n\n“Logo vejo,” Vítor said, already reaching for the bread.\n\nOn Sunday, André sent a follow-up message with a time. Vítor read it and didn’t reply, then texted two days later: “Tás em casa hoje? Tenho fome.”"
+          }
+        }
+      }
+    }
+  }
+]

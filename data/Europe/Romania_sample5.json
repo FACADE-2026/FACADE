@@ -1,0 +1,312 @@
+[
+  {
+    "id": "16",
+    "macro_region": "Europe",
+    "country_or_region": "Romania",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before attending a home meal, the protagonist informs the host in advance about any dietary requirements, especially if they avoid meat, so the host can plan comfortably.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Irina Baciu",
+            "story": "Irina received a message from her coworker Dana in Brașov: “Come Sunday for lunch at ours, 1:30.” Irina typed back right away. “I’d love to. One thing—I don’t eat meat. If it’s easier, I can bring something too.”\n\nDana replied, “Thanks for telling me. I’ll make a vegetable option.”\n\nOn Sunday morning, Irina stopped at a small shop and bought a jar of zacuscă and a loaf of bread. She also prepared a simple salad at home and packed it in a container. When she arrived at Dana’s apartment, she handed over the items. “I brought zacuscă and salad, just in case,” she said.\n\nDana laughed lightly and took the bag. “Perfect timing,” she said. In the kitchen, Dana pointed at two pots. “There’s chicken soup for the others, and a mushroom soup for you.”\n\nIrina leaned over the pot and breathed in the steam. “Thank you for doing that,” she said.\n\nAt the table, when the main course came, Dana placed a dish of roasted vegetables and beans near Irina’s plate. Irina served herself and said, “This looks great,” then started eating along with everyone else.\n\nShe passed the bread basket to the person on her right."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist learns of a restriction at the last minute, the protagonist informs the host as soon as possible, offers to bring a suitable item, and minimizes disruption with gratitude.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ovidiu Drăgan",
+            "story": "On the morning of a dinner in București, Ovidiu received a call from his doctor with updated test results and a simple instruction: avoid dairy for the next two weeks. Ovidiu looked at his phone calendar—he was going to his friend Florentina’s home that evening.\n\nHe called her right away. “Hi, Florentina,” he said. “I just got new medical advice. I need to avoid dairy today. I’m sorry it’s last minute. If you tell me what you’re making, I can bring something suitable, or I can just eat around it.”\n\nFlorentina replied, “I planned mămăligă and a cheese dish, plus soup.”\n\nOvidiu said, “Thank you for telling me. I’ll bring a small dairy-free side so you don’t have to change anything.”\n\nHe stopped at a supermarket and bought a hummus-style spread and extra vegetables, then prepared a quick bean salad at home. When he arrived, he handed the container to Florentina. “This is for me, so you don’t need to adjust,” he said.\n\nAt the table, he served himself soup and bread, skipped the cheese dish, and opened his container quietly. “Mulțumesc for having me,” he said.\n\nFlorentina nodded and asked, “Everything okay now?”\n\nOvidiu replied, “Yes,” and took a bite of the bean salad before passing the soup ladle back to her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before attending a home meal, the protagonist mentions a restriction in advance but then uses it at the table to demand special treatment and criticize what the host prepared.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sabina Moga",
+            "story": "Sabina texted her friend in Cluj-Napoca two days before dinner: “Just so you know, I’m gluten-free.” Her friend replied, “Okay, I’ll try to plan for that.”\n\nOn the night of the meal, the host set out grilled vegetables, a stew, and a small plate of gluten-free crackers she’d found at a store. Sabina looked at the crackers, then at the bread basket in the center of the table.\n\n“These are the only gluten-free things?” Sabina asked, her voice carrying across the room.\n\nThe host said, “I made the stew without flour, and the vegetables are fine. The crackers are for you.”\n\nSabina picked up a cracker, snapped it in half, and said, “They taste like cardboard. You could have made something proper. When I’m gluten-free, I need real options.”\n\nSomeone at the table shifted their chair slightly. The host said, “I did my best.”\n\nSabina pointed at the stew pot. “Are you sure there’s no cross-contamination? Because this looks risky,” she said, leaning closer to inspect it. “Next time, you should label things.”\n\nThe host reached for the ladle and served others first. Sabina tapped the table with her fork and said, “I’ll just eat these vegetables, I guess,” then took a loud bite and set the cracker pieces back on her plate."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before attending a home meal, the protagonist hides their dietary requirements and then rejects most dishes at the table while blaming the host for not accommodating them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Cătălina Voicu",
+            "story": "Cătălina accepted an invitation to lunch in Arad without mentioning anything about her diet. At the host’s table, plates appeared one after another: ciorbă with meat, sausages, and a tray of grilled pork. The host said, “Poftă bună,” and everyone began serving.\n\nCătălina stared at her plate and pushed it slightly away. “I can’t eat this,” she said.\n\nThe host blinked. “Oh—what can you eat?” she asked.\n\nCătălina sighed loudly. “I don’t eat meat. I thought you’d have something for that,” she said, lifting the lid on a dish and then letting it drop with a small clack. “Everything is meat.”\n\nThe host opened the fridge. “I have cheese and tomatoes,” she offered, pulling out a plate.\n\nCătălina shook her head. “That’s not a meal,” she said. “You should have planned. It’s basic.”\n\nSomeone at the table stopped chewing and looked down at their fork. The host brought a small bowl of salad and set it in front of Cătălina.\n\nCătălina picked at a cucumber slice, then said, “I’m going to be hungry. Next time, you need to accommodate people properly,” and she pushed the bowl away again.\n\nShe leaned back and crossed her arms while the others continued eating."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "Europe",
+    "country_or_region": "Romania",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When speaking with someone of higher status in Romania, the protagonist keeps their hands out of their pockets and maintains attentive posture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Carmen Drăgoi",
+            "story": "Carmen waited outside her department head’s office in a university building in Bucharest, holding a folder with printed forms. When the door opened, the secretary nodded her in.\n\nInside, Professor Rusu sat behind a desk stacked with papers. “Da, Carmen?” he asked.\n\nCarmen stepped forward, keeping both hands out of her coat pockets and holding the folder with two hands. She stood upright, shoulders squared, and met his gaze. “Bună ziua, domnule profesor. Am venit cu documentele pentru conferință,” she said.\n\nProfessor Rusu gestured toward a chair. Carmen sat with her back straight and placed the folder on her knees. She listened as he asked about the registration deadline.\n\n“It’s on the 20th,” Carmen said, opening the folder and pointing to the email printout. She kept her hands visible on the paper as she explained. “I can submit today if you approve the budget line here.”\n\nProfessor Rusu leaned forward to read. “And the travel?”\n\nCarmen nodded. “Train tickets are included. I attached the estimates,” she said.\n\nHe handed a pen toward her. Carmen took it with her fingers, signed where indicated, and passed it back.\n\n“Bine,” Professor Rusu said. “Leave it with the secretary.”\n\nCarmen stood, thanked him, and walked out, holding the folder against her side as she headed back to the corridor."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist must keep one hand in a pocket to hold a medical device or warm an injured hand, the protagonist explains briefly and uses their other hand to keep an open, attentive posture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lucia Banu",
+            "story": "Lucia arrived at her supervisor’s office in a municipal building in Bacău with her left hand aching from a recent sprain. The cold outside had made it throb, and she kept that hand tucked in her coat pocket for warmth. She carried a document envelope in her right hand.\n\nHer supervisor, Mr. Damian, looked up from his desk. “Lucia, ai documentele?”\n\n“Da,” Lucia said, stepping closer. She kept her right hand free and visible, holding the envelope lightly. “Scuzați-mă, țin mâna stângă în buzunar pentru că e rănită,” she added, giving a small nod.\n\nMr. Damian glanced at her arm. “În regulă. Let’s see.”\n\nLucia stood upright and leaned forward slightly, attentive. She opened the envelope with her right hand and placed the papers on the desk, turning them so he could read.\n\nMr. Damian asked, “Did you include the annex?”\n\n“Yes,” Lucia said, pointing with her right index finger to a tab. She listened while he reviewed the first page, keeping her shoulders squared and her gaze on the document.\n\nHe tapped a line. “Sign here.”\n\nLucia took the pen with her right hand, signed, and slid the page back toward him. “If you want, I can scan and send it this afternoon,” she said.\n\nMr. Damian nodded, and Lucia gathered the remaining papers with her right hand and stepped back, still keeping her injured hand tucked away."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When speaking with someone of higher status in Romania, the protagonist removes their hands from their pockets only when being watched and then returns to dismissive posture once the pressure passes.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sebastian Mureșan",
+            "story": "Sebastian waited near the entrance of a corporate office in Bucharest, leaning on one hip with both hands in his pockets. His team lead had told him the regional director might stop by. Sebastian watched the revolving door while his coworker whispered, “He’s coming.”\n\nThe regional director, Mr. Nedelea, walked in with a visitor badge and headed toward them. Sebastian immediately pulled his hands out of his pockets and straightened his shoulders. “Bună ziua,” he said.\n\nMr. Nedelea asked, “How is the rollout going?”\n\nSebastian kept his hands visible at his sides and nodded as if listening closely. “We’re on track,” he said. “The last update was sent yesterday.”\n\nMr. Nedelea asked one more question, and Sebastian answered with short sentences, posture upright.\n\nAfter a minute, Mr. Nedelea nodded and walked toward the elevators. As soon as the director turned away, Sebastian let his shoulders drop and slipped both hands back into his pockets. He leaned against the wall again and looked past his coworker’s face.\n\nThe coworker said, “We should finalize the checklist.”\n\nSebastian shrugged without taking his hands out. “Yeah, whatever,” he said, shifting his weight and glancing at his phone as it lit up, then turning his body away from the entrance."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When speaking with someone of higher status in Romania, the protagonist keeps both hands in their pockets, slouches, and signals indifference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tudor Ciobanu",
+            "story": "Tudor met his manager, Mr. Voinea, in the hallway of an office in Bucharest as employees moved between meeting rooms. Mr. Voinea stopped and said, “Tudor, where are we with the client update?”\n\nTudor kept both hands in his hoodie pockets and slouched against the wall, one shoulder pressed to the paint. He didn’t straighten up. “It’s fine,” he said, eyes drifting toward a poster on the opposite wall.\n\nMr. Voinea frowned slightly. “Fine how? Did you send the revised proposal?”\n\nTudor shrugged with his hands still buried. “Not yet. I’ll get to it,” he said, dragging the words.\n\nMr. Voinea asked, “Can you give me a time?”\n\nTudor shifted his weight and stared down the corridor. “Later today, maybe,” he said.\n\nA coworker passed behind them, and Mr. Voinea stepped aside to keep the hallway clear. Tudor didn’t move, still blocking part of the path.\n\nMr. Voinea said, “I need it before lunch.”\n\nTudor smirked slightly, still slouched. “Okay,” he said, without taking his hands out of his pockets.\n\nMr. Voinea paused for a beat, then walked away toward the conference room, and Tudor pushed off the wall and ambled in the opposite direction."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "28",
+    "macro_region": "Europe",
+    "country_or_region": "Romania",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a Romanian home, the protagonist accepts offered refreshments such as tea, coffee, or a drink when they can and responds appreciatively.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ioan Sava",
+            "story": "Ioan visited a colleague’s apartment in București one rainy evening to discuss a project. He arrived with his laptop bag and shook off his umbrella in the hallway. The colleague’s wife greeted him and led him into the living room where a small tray sat ready on the coffee table.\n\n“Vrei ceva? Ceai, cafea?” she asked.\n\nIoan glanced at the tray and nodded. “Da, mulțumesc. Un ceai ar fi perfect.”\n\nShe disappeared into the kitchen, and Ioan sat down on the edge of the sofa, placing his bag neatly by his feet. When she returned, she set a mug of black tea in front of him with a slice of lemon on the saucer.\n\n“Poftim,” she said.\n\nIoan wrapped his hands around the mug and inhaled the steam. “Mulțumesc mult,” he replied. He took a small sip, then set the mug back carefully so it didn’t clink. As they opened the laptop on the table, Ioan listened and occasionally sipped the tea.\n\nA little later, the colleague asked, “Mai vrei apă și tu?”\n\n“Da, te rog,” Ioan said, and when the glass arrived he added, “Mersi, apreciez.” He kept the drinks close to his side, wiping a small drop with a napkin, and continued the conversation while the rain tapped against the window."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist cannot accept due to health or medication, the protagonist declines clearly but politely and thanks the host for offering.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Carmen Stoica",
+            "story": "Carmen visited her aunt in Constanța after work, stopping by briefly before heading home. Her aunt welcomed her into the apartment and guided her into the kitchen, where a kettle was already humming.\n\n“Fac un ceai. Vrei și tu?” her aunt asked.\n\nCarmen smiled and held up her hand in a gentle stop. “Mulțumesc mult, mătușă, dar nu pot acum. Sunt pe un tratament și mi-a zis doctorul să evit cafeina și ceaiul.”\n\nHer aunt tilted her head. “Atunci apă?”\n\n“Apă, da, te rog,” Carmen said. “Mulțumesc că întrebi.”\n\nHer aunt poured still water into a glass and set it in front of Carmen with a small plate of biscuits. Carmen picked up the glass and took a sip. “Mulțumesc,” she repeated.\n\nThey sat at the small table, and Carmen listened as her aunt talked about a neighbor who was renovating. When the tea was ready, the aunt poured herself a cup.\n\n“Sigur nu vrei măcar un biscuit?”\n\nCarmen nodded. “Pot, da,” she said, taking one biscuit and placing it on her napkin. She ate it slowly and kept the glass of water close.\n\nAs she stood to leave, Carmen touched her aunt’s arm lightly. “Mulțumesc pentru tot,” she said, and she carried her empty glass to the sink, setting it down gently before putting on her coat."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a Romanian home, the protagonist accepts refreshments but then treats the host like a servant and makes demands without gratitude.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alin Păun",
+            "story": "Alin visited a friend’s home in Piatra Neamț for a casual evening. The friend’s mother greeted him and offered drinks as he stepped into the living room.\n\n“Vrei o cafea? Sau ceai?” she asked.\n\nAlin nodded. “Da, adu-mi o cafea,” he said, dropping onto the sofa and stretching his legs out. When she returned with a small cup, he took it without looking up from his phone.\n\nAfter a sip, he frowned and held the cup out slightly. “Nu e destul de dulce. Mai pune zahăr,” he said.\n\nShe paused. “Sigur,” and went back to the kitchen.\n\nAlin called after her, “Și apă rece, dacă aveți. Și poate ceva de ronțăit.” He leaned back and flipped through photos on his screen. When the water arrived, he grabbed the glass and set it on the table, leaving a ring on the surface.\n\nThe mother placed a plate of crackers down. Alin took one and said, “Mai aveți și altceva? Ăstea sunt cam uscate.”\n\nHis friend shifted on the chair. “Alin…”\n\nAlin waved him off. “Lasă, mă, să fie ca lumea.” He continued issuing small requests—another napkin, a spoon, more water—while the host moved in and out of the kitchen, and Alin kept sipping the coffee and scrolling, never saying “mulțumesc” as the plate was refilled."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a Romanian home, the protagonist refuses all refreshments abruptly and implies the host’s offering is inconvenient or unwanted.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Petru Mărginean",
+            "story": "Petru stopped by a friend’s apartment in Sibiu to pick up a document. The friend opened the door and motioned him inside. In the hallway, the friend’s mother appeared from the kitchen, wiping her hands on a towel.\n\n“Bună, Petru. Vrei un ceai sau o cafea?” she asked.\n\nPetru didn’t take off his jacket. “Nu, nu, nimic,” he said quickly, stepping past the threshold. He made a face toward the kitchen. “Nu vă mai complicați cu prostii din astea. Am treabă.”\n\nThe mother paused. “E doar…”\n\nPetru cut her off. “Serios, nu vreau. Nu e nevoie să tot oferiți. E incomod,” he said, glancing at the cups on the counter.\n\nHis friend shifted his weight. “Stai două minute.”\n\nPetru shook his head. “Nu stau. Dă-mi hârtia și plec.” He kept his hands in his pockets while the mother stood by the doorway.\n\nThe friend went to a shelf and returned with the document. Petru grabbed it and turned back toward the door.\n\n“Bine, atunci,” the mother said softly.\n\nPetru opened the door and stepped into the stairwell. “Pa,” he said, already looking down at the paper, and he left without taking anything from the tray on the counter."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "37",
+    "macro_region": "Europe",
+    "country_or_region": "Romania",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "As a guest in a Romanian home, the protagonist behaves politely, avoids discourteous remarks, and treats the host’s space with respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Șerban Popescu",
+            "story": "Șerban visited his friend Cosmin’s family home in Brașov for a Sunday lunch. At the door, Cosmin’s mother greeted him with a smile. “Bine ai venit.”\n\n“Mulțumesc că m-ați primit,” Șerban said, stepping onto the doormat. He took off his shoes and placed them neatly to the side, then hung his coat on the rack without brushing it against the wall.\n\nIn the living room, he sat where Cosmin pointed and kept his phone in his pocket. When Cosmin’s father showed a shelf of old photographs, Șerban leaned in slightly, looking without touching the frames.\n\nAt the table, Șerban waited until everyone was seated. “Poftă bună,” Cosmin’s mother said.\n\n“Poftă bună,” Șerban echoed, and he took a small portion first, then passed the bowl to the next person. When a glass wobbled near the edge, he steadied it with two fingers and moved it inward.\n\nDuring conversation, he asked, “Cum a fost săptămâna dumneavoastră?” and listened while Cosmin’s father answered, nodding once.\n\nAfter the meal, Șerban carried his plate to the kitchen when Cosmin did and asked, “Unde pot pune astea?” then he rinsed his fork briefly and set it in the sink as Cosmin’s mother dried a glass beside him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist notices a genuine problem that must be addressed, the protagonist raises it privately and respectfully, focusing on safety or practicality rather than criticism.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nicoleta Dumitrescu",
+            "story": "Nicoleta visited her friend Teo in Constanța for a casual evening. Teo greeted her at the door and led her inside, where music played softly and snacks were set out.\n\nNicoleta took off her shoes and placed them near the wall. She noticed a loose electrical cord stretched across the hallway near the kitchen, right where people were walking with plates.\n\nShe waited until Teo stepped into the kitchen alone and followed, lowering her voice. “Teo, pot să-ți zic ceva rapid?”\n\n“Da, sigur,” Teo said, reaching for a bowl.\n\nNicoleta gestured toward the hallway. “Cablul ăla e cam întins pe jos,” she said. “Mi-e teamă să nu se împiedice cineva, mai ales când trece cu mâncare.”\n\nTeo looked out and nodded. “Ai dreptate.”\n\nNicoleta stayed calm. “Dacă vrei, îl putem lipi pe margine sau îl mutăm după canapea,” she suggested.\n\nTeo grabbed a roll of tape from a drawer. Together they stepped out, and Teo crouched to tape the cord along the baseboard while Nicoleta held the cable straight.\n\nWhen they finished, Teo stood up and said, “Gata.”\n\nNicoleta nodded and returned to the living room. “Mulțumesc,” she said, then sat down as another guest offered her a plate, and she accepted it with both hands."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "As a guest in a Romanian home, the protagonist uses polite words but repeatedly makes disrespectful jokes about the host and the home.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mirel Andone",
+            "story": "Mirel visited his friend Radu’s apartment in Iași for a game night. At the door, he smiled and said, “Mulțumesc de invitație,” then stepped inside and took off his shoes.\n\nIn the living room, Mirel looked at the small couch and said, still smiling, “Foarte cozy. Practic stăm ca sardinele,” and laughed.\n\nRadu chuckled once and handed him a drink. Mirel took it and glanced around. “Ce frumoasă lampă,” he said, then added, “Looks like it came from your grandma’s attic,” and nudged another guest with his elbow.\n\nRadu started setting out chips. Mirel said, “Mulțumesc, gazdă,” in an exaggerated tone. “Don’t worry, we’ll survive on this portion,” and he made a small drumroll on the table.\n\nWhen Radu showed a new shelf he’d installed, Mirel nodded. “Bravo,” he said, then added, “I mean, it’s straight enough… for you,” and laughed again.\n\nRadu’s girlfriend passed by with plates. Mirel said, “Ce bine că ai pe cineva să-ți țină casa în picioare,” and raised his glass.\n\nLater, when someone asked where to put empty cups, Mirel pointed at the sink and said, “Anywhere, the place is already chaotic,” then he smiled and said, “Glumesc,” while Radu collected the cups without answering."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "As a guest in a Romanian home, the protagonist insults the host’s home, ignores house expectations, and behaves as if the host’s feelings do not matter.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Costel Mincu",
+            "story": "Costel walked into his cousin’s apartment in Bucharest and looked around the hallway with a grimace. “It’s small,” he said, loud. “How do you even live here?”\n\nHis cousin Elena pointed to the shoe rack. “Te rog, lasă pantofii aici.”\n\nCostel kept his shoes on and stepped onto the rug. “Relax,” he said, dragging mud across the edge. He walked into the living room and dropped onto the sofa, pushing a decorative pillow onto the floor.\n\nElena’s partner asked, “Vrei apă?”\n\nCostel snorted. “Only if it’s not tap water. This place looks like it still has old pipes,” he said, glancing at the ceiling.\n\nElena said, “Avem apă plată.”\n\nCostel stood and opened a cabinet without asking. “Where are your glasses? You don’t even organize stuff,” he said, clinking dishes.\n\nWhen Elena brought out food, Costel poked at it with his fork. “You call this dinner?” he said. “It smells weird. My mom makes it better.”\n\nElena’s face went still as she sat down. Costel leaned back and put his feet on the coffee table. “Anyway, turn the TV on. Your house is boring,” he said, grabbing the remote and changing channels rapidly while Elena’s partner gathered the pillow from the floor."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "7",
+    "macro_region": "Europe",
+    "country_or_region": "Romania",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the end of a shared meal, the protagonist participates in the friendly back-and-forth about paying the bill and offers to pay as a sincere gesture of generosity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Teodor Vasile",
+            "story": "Teodor sat with two friends, Ana and Lucian, in a small restaurant in Bucharest, plates of sarmale and mămăligă cleared away. A waiter placed three empty espresso cups on a tray and asked, “Nota?”\n\n“Da, vă rog,” Lucian said.\n\nThe bill folder arrived, and the three leaned in. Ana reached for it first. “Lasă, plătesc eu,” she said.\n\nTeodor put his hand on the folder lightly. “Nu, nu, plătesc eu,” he replied, smiling. “Am invitat.”\n\nLucian laughed and pulled his wallet out. “Hai, împărțim,” he said.\n\nTeodor shook his head. “Serios,” he said, sliding his card into the folder. “Data viitoare plătiți voi.”\n\nAna tried again, pushing the folder back. “Nu, Teo, nu e nevoie.”\n\nTeodor kept the folder in front of him and looked at the waiter. “Cu cardul, vă rog,” he said.\n\nThe waiter nodded and brought the terminal. Teodor tapped his card and waited for the beep. Lucian held up cash anyway. “At least take this for tip,” he said.\n\nTeodor waved it away. “E ok, las eu,” he said, and he added a small tip on the terminal screen.\n\nThey stood, put on their coats, and Teodor held the door as Ana and Lucian stepped out onto the sidewalk."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist is short on cash due to an unexpected expense, the protagonist offers another fair contribution (such as covering the tip or paying next time) and explains the situation respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bianca Oprea",
+            "story": "Bianca sat with her coworkers at a small bistro in Târgu Mureș after a late shift. The table was crowded with soup bowls and shared platters. When the waiter brought the bill folder, her colleague Radu opened it and said, “Ok, împărțim?”\n\nBianca checked her wallet and saw only a few bills; earlier that day her washing machine had flooded, and she’d paid a repairman in cash. She looked up. “Radu, pot să spun ceva?”\n\n“Sigur,” he said.\n\nBianca spoke calmly. “Azi am avut o cheltuială neașteptată și sunt cam fără numerar. Pot să acopăr bacșișul acum și să plătesc partea mea data viitoare, sau pot să-ți transfer mâine dimineață.”\n\nRadu nodded. “Transfer mâine e ok,” he said.\n\nBianca reached for her phone. “Îți trimit chiar acum confirmarea, dar se procesează mâine,” she said, showing him the bank app screen.\n\nAnother coworker, Alina, said, “No stress.”\n\nWhen the terminal arrived, Radu paid the main bill with his card. Bianca placed the cash she had on the table. “Asta e pentru tip,” she said.\n\nThe waiter picked up the folder, Bianca typed a short message to Radu—“Îți trimit mâine dimineață”—and she put her phone back into her bag as the others began putting on their jackets."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At the end of a shared meal, the protagonist insists on paying in public for appearance but then later demands repayment and complains to others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "George Iacob",
+            "story": "George sat with two acquaintances, Simona and Dănuț, in a restaurant near Piața Unirii in Iași. The meal ended with small glasses of vișinată, and the waiter brought the bill folder.\n\nGeorge reached for it immediately. “Lasă, plătesc eu,” he said loudly, glancing around the room.\n\nSimona lifted her hand. “Putem împărți.”\n\n“Nu, nu,” George insisted, sliding his card into the folder. “E din partea mea.”\n\nDănuț nodded and said, “Ok, mulțumim.”\n\nGeorge paid at the terminal and even waved off a brief protest, then walked them to the door, talking about how nice the evening was.\n\nThe next day, George opened a group chat with two other friends and typed, “I swear, I paid for Simona and Dănuț last night. People take advantage.” He added a screenshot of his bank notification.\n\nA few minutes later, he sent Simona a direct message: “Trimite-mi partea ta, că nu e corect să plătesc eu tot.”\n\nSimona replied, “You said it was your treat.”\n\nGeorge wrote back, “Da, in public. But I’m not made of money,” and he forwarded the conversation to another contact with a short complaint.\n\nThat evening, George stopped by a kiosk, bought a phone top-up card, and typed another message on his screen while standing under the fluorescent lights."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At the end of a shared meal, the protagonist refuses to contribute, declares that others should pay for them, and treats the gesture as an entitlement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nicu Bălan",
+            "story": "Nicu finished his last bite of mici at a busy terrace in Craiova, wiping his fingers on a napkin. Across the table, his friends Ovidiu and Raluca stacked plates. The waiter approached with the bill folder.\n\nOvidiu opened it and glanced at the total. “Ok, how do we split?” he asked.\n\nNicu leaned back and stretched. “You guys cover it,” he said, waving his hand. “I’m not paying tonight.”\n\nRaluca blinked. “Poftim? We all ate.”\n\nNicu smirked. “Yeah, but you invited me out, didn’t you? So you pay. That’s how it works,” he said, looking at the waiter as if the matter were settled.\n\nOvidiu frowned. “No one said it’s on us.”\n\nNicu shrugged. “Well, I’m telling you now. I’m not putting money in.” He pushed the bill folder toward Ovidiu with two fingers.\n\nRaluca pulled out her wallet slowly. “I only have my share,” she said.\n\nNicu tapped the table. “Then figure it out,” he said. “I’m not dealing with it.”\n\nThe waiter stood with his notepad, waiting. Ovidiu sighed, reached for his card, and Nicu picked up his phone, scrolling while the terminal was brought over."
+          }
+        }
+      }
+    }
+  }
+]

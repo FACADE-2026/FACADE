@@ -1,0 +1,312 @@
+[
+  {
+    "id": "31",
+    "macro_region": "Middle_East",
+    "country_or_region": "Israel",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When showing care, the host offers an act gift such as cooking a meal or hosting time together rather than focusing on expensive material items.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yael Cohen",
+            "story": "Yael texted her cousin Amir in the morning: “Come by tonight. I’m making shakshuka and salad. We’ll sit on the balcony.” After work in Tel Aviv, she stopped at the shuk for tomatoes, eggs, and a bunch of parsley, then carried everything up to her apartment. She set the table with mismatched plates, put a small bowl of olives in the middle, and chilled a pitcher of lemonade.\n\nWhen Amir arrived, he held up a shopping bag. “I brought you something,” he said.\n\nYael smiled and guided him inside. “Put it on the counter. Sit—how was the week?” She stirred the pan, added cumin, and tore bread into a basket. Amir drifted toward the living room, then glanced at a stack of mail on the side table. Yael slid a coaster under his phone and handed him a glass. “Drink, eat. Tell me about your new project.”\n\nAmir pulled out his wallet. “Let me at least pay for groceries.”\n\n“No,” Yael said, placing the pan on a trivet. “Just eat.” She scooped a portion onto his plate and sat across from him, leaning in as he started talking, and she refilled his glass when it emptied."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the host has limited time, the host offers a simpler act gift such as coffee and a snack while still creating warm attention and presence.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noam Levi",
+            "story": "Noam messaged Lior: “I’m slammed today, but come by at 18:30 for coffee. I have rugelach from the bakery.” After finishing his shift in Haifa, he hurried home, kicked his backpack under a chair, and rinsed two small cups. He set a plate of rugelach on the counter and put a jar of instant coffee next to the kettle.\n\nWhen Lior arrived, Noam opened the door with his sleeves still rolled up. “Ten minutes to breathe,” he said. “Come in.”\n\nLior laughed. “You look like you ran here.”\n\nNoam pointed to the kitchen stools. “Sit. Tell me what happened with your landlord.” He poured hot water, stirred coffee, and slid a cup toward Lior. “Milk?”\n\n“Just a little,” Lior said.\n\nNoam opened the fridge and added a splash, then leaned his elbow on the counter as Lior spoke. His phone buzzed twice on the table; Noam flipped it face down without picking it up.\n\nLior reached for the plate. “These are good.”\n\n“I bought them on the way,” Noam said, pushing the plate closer. He watched Lior take another bite, then topped up the cup when it got low, and pulled a chair so they sat facing each other at the small kitchen table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host provides a meal, but the host uses it to shame guests or to demand repayment, which undermines the generosity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sharon Mizrahi",
+            "story": "Sharon invited two coworkers to her place in Jerusalem and set out a big tray of roasted chicken, rice, and chopped salad. “Sit, eat,” she said, dropping cutlery on the table. Omer and Rina thanked her and started serving themselves.\n\nAs soon as they took their first bites, Sharon leaned back and said, “I hope you understand what it takes to do this after a full day. Some people just show up and think food appears.”\n\nRina paused with her fork in the air. “It smells amazing,” she said.\n\nSharon pointed at the chicken. “I bought the good one, not the cheap supermarket tray. And I cooked it properly. So when I need help next week, I expect you both to show up. Don’t pretend you’re busy.”\n\nOmer nodded slowly. “What do you need help with?”\n\n“My move,” Sharon said, tapping the table. “Boxes, carrying. I wrote down Saturday morning. Also, Rina, you never hosted us. It’s always me.”\n\nRina set her fork down and reached for her water. “Saturday… I’ll check,” she said.\n\nSharon lifted her phone and opened her calendar. “Check now,” she said. She pushed the serving spoon toward Omer. “Take more, but remember—this isn’t free.”"
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The host refuses any effortful hosting and implies that only expensive purchases count as meaningful care.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eitan Barak",
+            "story": "Eitan stood in the doorway of his apartment in Ramat Gan while Dana waited in the hall with a tote bag. “I thought I’d stop by for a bit,” she said. “We haven’t talked in weeks.”\n\nEitan didn’t step back to let her in. “I’m not really doing visits,” he said, tapping his phone screen. “If you want to show you care, you know, people just buy something decent. That’s how it is.”\n\nDana shifted the tote higher on her shoulder. “I wasn’t asking you to host a party. I just wanted to sit and catch up.”\n\nEitan shrugged. “I don’t have snacks, I don’t have time, and honestly it’s pointless. If you brought something expensive, that would mean something. Otherwise it’s just… talk.”\n\nDana glanced past him at the quiet living room. “I can bring coffee. We can sit for ten minutes.”\n\nEitan shook his head. “No, I’m not making coffee. If you want to do something meaningful, buy a real gift. Like headphones, a nice bottle, something with a price tag.”\n\nDana’s hand tightened on the strap. “So you’re not letting me in?”\n\nEitan stepped back only enough to pull the door closer. “Not today. Send me a link to what you’re getting, and we’ll talk after,” he said, and the latch clicked as he closed it."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "36",
+    "macro_region": "Middle_East",
+    "country_or_region": "Israel",
+    "domain": "Cultural Norms",
+    "behavior_label": "Rites",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During Shabbat dinner rituals, the family includes kiddush and post-meal prayers as guided by the household, and the guest follows along respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jonathan Weiss",
+            "story": "Jonathan arrived at the Levi family’s home in Raanana just before sunset, carrying a small box of chocolates. He heard voices from the dining room and followed the smell of challah and roasted vegetables. Anat, the host, took the chocolates and said, “We’re about to start.”\n\nJonathan washed his hands in the kitchen sink when he saw others doing the same, then returned to the table and stood behind his chair. A silver cup sat near Anat’s father. When everyone was gathered, Anat’s father lifted the cup and began kiddush. Jonathan stayed quiet, eyes on the cup, hands resting on the chair back.\n\nWhen the blessing ended, the cup passed down the table. Jonathan accepted it with both hands, took a small sip when it reached him, and handed it to the person on his left.\n\nAnat covered the challah, said a brief blessing, and tore pieces. Jonathan waited until Anat placed a piece on his plate, then ate.\n\nAfter the meal, Anat’s mother pushed a small booklet toward the center and everyone shifted their chairs closer. Jonathan followed the movement and sat with his hands folded while the family began the post-meal prayers.\n\nWhen they finished, Jonathan looked to Anat before standing, then carried his plate to the kitchen counter and rinsed his fork under the tap."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is unfamiliar, the guest stays quiet, observes respectfully, and follows the host’s cues without performing anything incorrectly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sofia Amar",
+            "story": "Sofia arrived at her colleague Michal’s home in Kiryat Ono with a bouquet wrapped in brown paper. Inside, the dining table was set with candles, challah, and small dishes. Michal introduced her to the family, and Sofia nodded and said, “Nice to meet you,” then stayed near her chair.\n\nWhen everyone stood, Sofia stood too. Michal’s father lifted a wine cup and began kiddush. Sofia kept her hands at her sides and watched. She didn’t speak, even when a cousin leaned toward her, and she gave a small shake of her head to signal she was listening to the blessing.\n\nWhen the wine cup moved around the table, Sofia accepted it carefully, took a small sip like the others, and passed it along. She waited as Michal’s mother said a blessing over the challah and tore pieces, then Sofia ate after the family began.\n\nDuring the meal, Sofia followed the rhythm of conversation, answering when someone asked her about work and pausing when the family fell quiet for another short blessing.\n\nAfter eating, the family gathered their hands and leaned forward slightly, and Sofia mirrored the posture. She stayed silent as they recited post-meal prayers, eyes down on her folded napkin.\n\nWhen people began to stand, Sofia waited a beat, then stood and helped carry a stack of plates to the kitchen, placing them gently beside the sink."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest stays silent during the ritual, but the guest’s visible impatience and dismissive expressions undermine the respect the ritual deserves.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lior Becker",
+            "story": "Lior arrived for Shabbat dinner in Modi’in and took the seat the host pointed out. When the candles were lit and everyone stood for kiddush, Lior stood too, but his eyes drifted to his phone on the sideboard. He kept his mouth closed while the host recited the blessing, yet his eyebrows lifted and he pressed his lips together as if holding something back.\n\nAs the wine cup passed, Lior took a quick sip and handed it on without looking at the person next to him. While challah was blessed and torn, he tapped his fingers against the chair back, then stopped when someone glanced his way.\n\nDuring the meal, he stayed quiet whenever a short blessing began, but he leaned back and stared at the ceiling until it ended. When a cousin started telling a story, Lior looked at the wall clock twice and exhaled through his nose.\n\nAfter dessert, the host brought out a small booklet for post-meal prayers. Lior didn’t speak, but he rolled his eyes upward briefly and shifted his chair so the legs squeaked on the tile.\n\nWhen the prayers finished, Lior stood quickly, grabbed his jacket from the chair, and walked toward the entryway, pulling his shoes on while the others were still pushing their chairs back."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest interrupts kiddush or prayers, talks over them, and treats the ritual as a nuisance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Max Feldman",
+            "story": "Max arrived at a Shabbat dinner in Givatayim and sat down as the family gathered around the table. As the host lifted a wine cup to begin kiddush, Max leaned toward the person next to him and started talking. “So I saw this thing online—did you hear about it?”\n\nThe host’s voice continued, but Max kept going, louder than a whisper. “And the traffic on Ayalon was insane. Like, completely ridiculous.”\n\nThe host paused briefly, then continued the blessing. Max laughed and waved his hand. “Sorry, sorry. Go ahead,” he said, then immediately added, “But seriously, you should’ve taken the train.”\n\nA few people kept their eyes on the wine cup; someone across the table glanced at Max and then looked back down. When the cup was passed, Max took a long sip and said, “Okay, now we can finally eat.”\n\nLater, after dessert, the family pulled small booklets for post-meal prayers. As they began reading, Max pulled out his phone, the screen bright, and scrolled. He sighed audibly and said, “How long is this part?”\n\nThe host’s sister whispered, “We’re almost done,” without looking up.\n\nMax leaned back and said, “Next time I’m skipping the extra stuff,” and tapped his phone again.\n\nWhen the final words were said, Max stood immediately, pushed his chair back with a scrape, and said, “I’m going outside for air,” as he walked toward the balcony door."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Middle_East",
+    "country_or_region": "Israel",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For a normal social appointment, the guest treats “on time” as flexible within about 30 minutes and arrives within that window while greeting the host warmly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noam Dahan",
+            "story": "Noam checked the time on his phone as he stepped off the light rail near Florentin. The message thread with Yael still showed her last note: “Come by around eight, we’ll start with salad.” He glanced at the bakery window, grabbed two chocolate rugelach in a paper bag, and walked the last blocks to her apartment.\n\nHe buzzed up at 8:22. “Yael, it’s Noam.”\n\nThe intercom crackled. “Come up.”\n\nHe took the stairs, knocked, and when the door opened he leaned in with a quick hug. “Hey! Ma nishma?”\n\nYael laughed and took the bag. “You brought something?”\n\n“Just a little,” he said, stepping inside and slipping off his shoes near the entry mat. The table was set with small plates, olives, and a bowl of chopped salad. A friend on the sofa lifted a hand.\n\nNoam raised the rugelach. “I’m late enough to justify dessert, right?”\n\nYael pointed toward the kitchen. “Put it there. We’re just finishing the tahini.”\n\nNoam washed his hands at the sink and joined the others around the table as Yael carried in a tray of pita."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because public transport delays the guest, the guest sends a short message and arrives as soon as possible with an apology and a respectful greeting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eliav Cohen",
+            "story": "Eliav left his office in Haifa with enough time to catch the train south for his friend Rina’s birthday in Tel Aviv. On the platform, the departure board flipped to a delay notice. People around him sighed and shifted their bags.\n\nHe opened WhatsApp and typed quickly: “Hey Rina—train is delayed. I’m stuck at Haifa Merkazit. Looks like I’ll be ~25–30 min late. Sorry, coming as soon as it moves.” He hit send and watched the double check marks appear.\n\nWhen the train finally rolled in, he squeezed into a seat, kept his gift bag upright, and checked the map as stations passed. Rina replied, “All good, we’re just putting out snacks.”\n\nHe arrived at her building at 20:28, walked up two flights, and knocked. When Rina opened the door, he held up the bag. “Rina, I’m really sorry. The train was stopped forever.”\n\nShe stepped back to let him in. “It happens.”\n\nEliav greeted the others with a quick “Hi,” then turned back to Rina. “Happy birthday,” he said, and leaned in for a brief hug.\n\nHe washed his hands at the sink, placed the gift on the sideboard with the others, and joined the group as someone poured drinks."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives within the flexible window, but the guest makes dismissive jokes about punctuality that undercut respect for the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tomer Azulay",
+            "story": "Tomer showed up at Lior’s apartment in Jerusalem at 19:18 for a seven o’clock get-together. He rang the bell and when the door opened he leaned in with a bright grin.\n\n“Lior! What’s up, achi!” Tomer said, giving him a friendly slap on the shoulder.\n\nLior stepped aside. “Come in. We were about to start cutting the vegetables.”\n\nTomer walked in, looked at the clock above the kitchen doorway, and whistled. “Wow, you actually meant seven. Very German of you.”\n\nLior’s partner, Shani, glanced up from the cutting board. “We said seven because the kids go down at nine.”\n\nTomer kicked off his sandals and laughed. “Sure, sure. In Israel, time is a suggestion. If you want punctuality, you should put it in writing.”\n\nLior handed him a glass of water. “You’re here, that’s fine.”\n\nTomer took a sip and nodded toward the bowls. “Next time tell people ‘whenever.’ Saves everyone the drama.”\n\nShani set down the knife. “Can you wash your hands and help with the salad?”\n\n“Of course,” Tomer said, still smiling, and wandered to the sink while repeating, “Seven, he says,” under his breath as water ran."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives far later than 30 minutes without notice and behaves as if the host’s time does not matter.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dana Mizrahi",
+            "story": "Dana texted “On my way” at 19:40 and then left her phone face down on the café table in Dizengoff Center. She lingered over iced coffee, scrolled through photos, and started a second drink when the server came by. The dinner at Eitan’s place in Ramat Gan had been set for eight.\n\nAt 21:35 she finally called a rideshare, humming along to the radio while the driver took the highway. She arrived close to ten, pressed the buzzer again and again, and when Eitan opened the door his apron was still on.\n\n“Dana, where were you?” he said.\n\nShe walked in as if she were early. “Relax, I’m here now.”\n\nInside, two guests stood by the counter with empty plates. A pot on the stove had been turned off. Dana dropped her tote on a chair and glanced at the food.\n\n“So what’s left?” she asked, lifting the lid without waiting.\n\nEitan’s sister said, “We already ate.”\n\nDana shrugged. “Okay, then heat it up again. I’m starving.” She pulled out a fork and sat down at the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "17",
+    "macro_region": "Middle_East",
+    "country_or_region": "Israel",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In many home settings, the diner finishes what they take and avoids leaving food on the plate to show appreciation for the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Galit Mor",
+            "story": "Galit joined her friend’s family for dinner in Herzliya. The host, Michal, set out baked chicken, roasted sweet potatoes, and a big bowl of Israeli salad. When Michal said, “Take, take,” Galit served herself a modest portion: one piece of chicken, a small scoop of potatoes, and salad.\n\nAs they ate, Michal asked, “More potatoes?” Galit glanced at her plate and said, “Maybe later,” then finished what she had first. She ate the chicken down to the last bite and used a piece of pita to gather the remaining salad and dressing.\n\nWhen conversation slowed, Galit lifted her fork and cleared the last few potatoes. Michal’s son noticed and said, “You finished everything.” Galit smiled and said, “It was good,” then reached for water.\n\nWhen clearing the table, Galit carried her plate to the kitchen with nothing left but a few bones. She scraped those into the bin as Michal pointed. Michal brought tea and a small plate of fruit. Galit took one slice of melon and ate it fully before taking a second.\n\nBy the end of the meal, her plate was empty, and she stacked it with the others by the sink."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the diner is full or unwell, the diner asks to save the remaining food or takes a smaller portion next time and thanks the host sincerely.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Neta Avrahami",
+            "story": "Neta joined a family dinner in Ashkelon and served herself a small portion of chicken, couscous, and salad. Halfway through, she slowed down and touched her stomach lightly. Her host, Lea, noticed and asked, “Do you want more?”\n\nNeta shook her head. “I’m getting full,” she said, and took a sip of water. She finished the salad and a few more bites of couscous, then set her fork down.\n\nLea said, “Don’t force yourself.”\n\nNeta looked at the remaining chicken on her plate and said, “Could I save this? It smells great, I just can’t finish it.” Lea nodded and brought a small container. Neta placed the remaining piece into it and closed the lid.\n\n“Thank you,” Neta said, and added, “Next time I’ll take even less at the start.” Lea put the container in the fridge and returned with tea. Neta drank tea and ate a single date, then stood to help clear the table.\n\nIn the kitchen, Neta rinsed her cup and asked Lea where to put it. Lea pointed to the rack, and Neta placed it there and wiped the counter with a paper towel."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner finishes the plate, but the diner complains about the food while eating and undermines the appreciation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shlomi Peled",
+            "story": "Shlomi sat at a home dinner in Ra’anana with a plate of baked fish, potatoes, and salad. He ate steadily, but after the first bite he said, “It’s a bit dry,” and reached for water. His host, Orna, asked, “Do you want sauce?”\n\nShlomi shrugged. “It’s fine,” he said, and took another bite. He kept eating until half the fish was gone, then added, “Potatoes are a little bland,” while chewing. Orna slid a small bowl of salt closer.\n\nShlomi sprinkled some and said, “Better,” then continued. He finished the fish, scraped the potatoes, and used bread to wipe the plate clean. As he ate the last bites, he said, “Next time you should try a different spice,” and tapped the edge of his plate with his fork.\n\nOrna’s husband poured more water. Shlomi drank and added, “The salad is okay,” then finished it as well. When Orna offered dessert, Shlomi said, “I’ll pass,” and pushed his empty plate forward.\n\nHe stood up, carried the empty plate to the kitchen, and set it on the counter."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner leaves a large amount of food on the plate and implies the meal was not worth eating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yossi Tal",
+            "story": "Yossi sat down at a home dinner in Kiryat Ono where the host placed a plate of stuffed peppers and rice in front of him. He poked at the rice with his fork and took two small bites of the pepper, then pushed the plate away.\n\nThe host asked, “Everything okay?”\n\nYossi waved a hand. “I’m not really into this kind of food,” he said, leaning back. He left most of the pepper untouched and a mound of rice on the plate. When the host offered salad, Yossi said, “No, thanks,” and looked at his phone.\n\nA few minutes later, he said to the table, “I ate something better earlier,” and shrugged. The host’s daughter passed bread, and Yossi took a piece but left it half-eaten on the plate. He lifted the pepper again, put it down, and said, “It’s too much,” while scraping at the rice without taking it.\n\nThe host carried dishes to the kitchen and glanced at Yossi’s plate. Yossi slid it toward the edge and said, “You can take it—I’m done.”\n\nWhen tea was served, Yossi took the cup but didn’t touch the dessert, leaving the plate of food in front of him still mostly full."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "Middle_East",
+    "country_or_region": "Israel",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a kosher home, the guest uses the designated utensils for meat or dairy and follows any kitchen guidance the host provides.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yaakov Mizrahi",
+            "story": "Yaakov came to his friend Nitzan’s kosher apartment in Be’er Sheva for dinner. In the kitchen, Nitzan pointed to two drawers with colored stickers. “Blue is dairy, red is meat,” he said, and then set a pot of meat soup on the stove.\n\nWhen Yaakov offered to help, Nitzan handed him a red-handled ladle. “Use this for the soup,” he said. Yaakov dipped only that ladle into the pot and poured soup into bowls. At the table, he used the forks that were already set out and didn’t bring anything from the counter without asking.\n\nAfter the soup, Nitzan brought out chicken and rice. Yaakov reached for a serving spoon near the tray, paused, and asked, “This spoon is meat, right?”\n\nNitzan nodded and slid a red-marked spoon closer. “Yes, take that one.” Yaakov served himself with it and put it back on the meat tray.\n\nLater, when tea was offered, Yaakov followed Nitzan to the cabinet and waited while Nitzan pulled out the cups. “These are pareve,” Nitzan said, and Yaakov used only what was handed to him, then carried the used dishes to the sink where Nitzan directed."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is confused, the guest asks the host to hand them the correct utensils and avoids touching kitchen storage without guidance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hila Segal",
+            "story": "Hila arrived at a kosher home in Jerusalem for a small weekday dinner with her classmate Shira. In the kitchen, Hila saw stickers on drawers and two dish racks. She stopped near the doorway and said, “I’m a bit confused—tell me what to use.”\n\nShira smiled and held up two spoons. “Red for meat, blue for dairy,” she said, then added, “Tonight is meat.”\n\nHila kept her hands off the drawers and asked, “Can you hand me what you want me to serve with?” Shira placed a red serving spoon next to the chicken tray. Hila used only that spoon to serve portions and set it back on the tray.\n\nWhen Hila carried plates to the sink, she paused and asked, “Which side should I put these on?” Shira pointed to the right basin and said, “Right side, meat.” Hila stacked the plates there and didn’t open any cabinets.\n\nAfter tea, Shira brought out pareve cookies. Hila asked, “Same cups?” and waited while Shira handed her a cup from a separate shelf.\n\nThroughout the evening, Hila asked for each item she needed and used the utensils Shira provided."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest uses the correct utensils, but the guest handles them carelessly and complains about the arrangement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gadi Azulay",
+            "story": "Gadi sat down for dinner at his cousin’s kosher place in Holon while the host, Rachel, pointed to two sets of cutlery. “Use the red set for meat,” she said, placing a red-marked fork and knife by his plate.\n\nGadi took them and said, “Alright, red team,” then clinked the fork against the knife loudly. When Rachel brought a meat lasagna to the table, Gadi used the red serving spatula she set beside it, but he let it slide off the tray and bang onto the tablecloth. “This system is like a lab,” he said, wiping sauce with a napkin and tossing the napkin onto the edge of the tray.\n\nRachel asked, “Please keep the serving spoon on the tray.”\n\nGadi picked it up again, still using the correct one, and said, “So many rules for a spoon.” He served himself and set the utensil down half on the table, half on the tray, leaving sauce on the handle.\n\nAfterward, when clearing dishes, he carried the meat plate to the correct side of the sink but dropped it into the stack with a clatter. “If I lived here, I’d need a map,” he said, then sat back down as Rachel rinsed the utensils."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest grabs utensils at random, uses the wrong set after being told, and treats the separation as unnecessary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kobi Rahamim",
+            "story": "Kobi walked into his friend’s kosher kitchen in Netanya and saw two sink basins and two sets of dishes stacked nearby. The host, Eli, said, “Please don’t take utensils yourself—tell me what you need. We keep meat and dairy separate.”\n\nKobi nodded once, then opened a drawer anyway and pulled out a spoon without looking at the labels. Eli was ladling meat stew into bowls with a red-marked ladle. Kobi dipped his random spoon into the pot. Eli reached out quickly. “Not that one—use the red ladle.”\n\nKobi kept his spoon in the stew and said, “It’s fine,” then stirred and filled his bowl. At the table, when Eli brought out dairy dessert in a separate dish, Kobi grabbed the nearest fork from the counter and used it to cut the cake. Eli said, “That fork is for meat.”\n\nKobi shrugged. “A fork is a fork,” he replied, and kept eating.\n\nWhen Eli tried to swap it, Kobi held it away and said, “Relax,” then put the fork down on the dairy dish and reached for a second one from the meat place setting."
+          }
+        }
+      }
+    }
+  }
+]

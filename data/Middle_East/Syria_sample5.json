@@ -1,0 +1,312 @@
+[
+  {
+    "id": "1",
+    "macro_region": "Middle_East",
+    "country_or_region": "Syria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When a host offers tea or food, the guest politely declines once, then accepts after the host insists, and thanks the host for the hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rana Al-Khatib",
+            "story": "Rana stepped into the apartment in Damascus, slipping off her shoes at the door as the living room filled with the smell of jasmine tea. Um Khaled waved her toward the sofa. “Welcome, sit, sit. Tea?”\n\nRana placed her handbag beside her and smiled. “Thank you, Auntie, no need. I’m fine.”\n\nUm Khaled was already at the tray, clinking small glass cups. “Impossible. You came all this way. Tea and a little something.” She set down a plate with ma’amoul and dates, then poured.\n\nRana lifted one hand again. “Honestly, you don’t have to. I ate earlier.”\n\nUm Khaled leaned closer with the cup, her bracelets tapping. “Just a cup. For your eyes. And take a piece.”\n\nRana reached out and accepted the tea, the glass warm against her fingers. She took a date from the plate and set it on a napkin. “Thank you for your hospitality, Auntie. May your home stay full.”\n\nUm Khaled sat opposite, adjusting the tray between them. Rana brought the tea to her lips and took a careful sip."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a medical restriction or allergy, the guest declines the offered item even after insistence, explains the constraint briefly, and asks for a safe alternative while thanking the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nour Al-Ahmad",
+            "story": "Nour visited her neighbor in Homs after afternoon errands, carrying a small bag of mandarins as a greeting. Inside, Um Rami set the bag on the counter and turned on the kettle. “Sit, habibti. I’ll make tea and bring you baklava.”\n\nNour settled into a chair. “Thank you, Auntie. Tea is lovely.”\n\nUm Rami came back with a plate of baklava, syrup shining. “Take, take. Fresh.”\n\nNour shook her head once. “No, thank you.”\n\nUm Rami pushed the plate closer. “One piece only. You must.”\n\nNour kept her hands in her lap and spoke softly. “I can’t eat nuts. I have an allergy, it makes my throat itch. I’m sorry.”\n\nUm Rami stopped mid-motion. “Ah—so what can you eat? Tell me.”\n\n“If you have plain biscuits or fruit, that’s safe,” Nour said, nodding toward the mandarins. “And thank you for offering, really.”\n\nUm Rami stood and opened the cupboard. “I have tea biscuits. Wait.”\n\nNour lifted her tea glass when it arrived. “Thank you for your hospitality, Auntie.” She peeled a mandarin while Um Rami brought a small plate of plain biscuits."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest performs a brief initial refusal and then accepts after insistence, but speaks dismissively about the offer and treats the host’s insistence as a nuisance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Majd Darwish",
+            "story": "Majd stopped by a friend’s family home in Latakia in the early evening. The television murmured from the corner while the mother, Um Hassan, brought a tray with tea and pastries. “Welcome, Majd. Have tea and a piece of basbousa.”\n\nMajd leaned back on the couch and waved once. “No, no, I don’t want.”\n\nUm Hassan set the tray down anyway and lifted a glass. “Just a little. You’re our guest.”\n\nMajd exhaled, looking at the cup. “Honestly, I don’t know why you insist so much.”\n\nUm Hassan held the tea closer, steady. “Drink. It’s nothing.”\n\nMajd took the glass after a moment and set it on the table with a soft clink. “Fine, fine.” He reached for the basbousa and pinched off a corner.\n\nUm Hassan smiled and sat down across from him. “Eat properly. Take another piece.”\n\nMajd chewed and shrugged. “It’s just tea and sweets, not a big ceremony.”\n\nUm Hassan adjusted the tray again. Majd took a quick sip and placed the glass back on the saucer."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When a host offers tea or food, the guest accepts immediately without any polite refusal, ignores the host’s hospitality cues, and starts consuming without acknowledgment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samir Hamoud",
+            "story": "Samir arrived at his cousin’s place in Aleppo just as the call to prayer faded in the distance. Abu Fadi opened the door and stepped aside. “Welcome, Samir. Come in. Tea or maybe a little food?”\n\nSamir walked straight into the sitting room and dropped onto the nearest cushion. His eyes went to the tray on the low table where a teapot steamed beside plates of cheese and olives.\n\n“Sure,” he said, reaching forward before Abu Fadi finished speaking. He picked up a piece of bread, tore it, and scooped cheese onto it.\n\nAbu Fadi paused by the doorway with the teapot in his hands. “I’ll pour for you.”\n\nSamir kept chewing, then grabbed a small glass cup and held it out without looking up. As the tea filled, he set the cup down and pulled the plate closer.\n\nAbu Fadi tried again, smiling. “How was the road? Long, yes?”\n\n“Mmm,” Samir replied with his mouth full, already reaching for an olive.\n\nAbu Fadi sat down slowly, straightened the edge of the tray, and Samir took a sip of tea and continued eating."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "20",
+    "macro_region": "Middle_East",
+    "country_or_region": "Syria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When someone drops by without notice, the protagonist pauses their current task, welcomes the visitor warmly, and offers basic hospitality such as seating and a drink.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Abu Ahmad",
+            "story": "Abu Ahmad was fixing a loose cabinet hinge in his apartment in Hama when he heard a knock at the door. He set the screwdriver on the counter, wiped his hands on a cloth, and went to open it. His neighbor, Abu Yasser, stood outside holding a small bag of oranges. “Peace be upon you,” Abu Yasser said. Abu Ahmad replied, “And upon you peace,” and stepped aside. “Come in.” He guided him to the sitting room and motioned to the sofa. “Sit, sit.” Abu Yasser placed the oranges on the side table. Abu Ahmad went to the kitchen and called back, “Tea or water?” Abu Yasser answered, “Tea, if you have it.” Abu Ahmad filled the kettle, lit the stove, and brought two glasses of water while it boiled. He set one in front of Abu Yasser and one by his own chair. When the tea was ready, he carried the tray carefully and placed the tea glass near Abu Yasser’s right hand. “Here,” he said. Abu Yasser took a sip and said, “I was passing by.” Abu Ahmad sat down, leaned forward, and said, “Tell me—how are things?” while the kettle clicked softly in the kitchen."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of an urgent deadline or caregiving duty, the protagonist greets the visitor kindly, explains the constraint, and proposes a better time to host properly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Siham Al-Jarrah",
+            "story": "Siham was at home in Damascus, helping her mother with medication and checking a list of dosages on her phone. A knock sounded at the door. Siham set the blister pack down and opened the door to find her neighbor, Rania, holding a small plate covered with foil. “Peace be upon you,” Rania said. Siham replied, “And upon you peace,” and smiled. “Welcome.” She stepped into the doorway rather than inviting her fully in and said, “I’m in the middle of caring for my mother right now.” Rania looked past her and said, “Is she okay?” Siham nodded and answered, “Yes, but I need to stay with her for the next hour.” Rania offered the plate. “I brought you something.” Siham accepted it with both hands and said, “Thank you.” She added, “Can I come by later this evening, or tomorrow morning, and we’ll sit properly?” Rania said, “Tomorrow morning is fine.” Siham nodded. “God willing, come at ten, and I’ll make tea.” Rania agreed, and Siham said, “Thank you again,” then closed the door gently and returned to the living room where her mother was resting."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist invites the visitor in and offers a drink, but keeps working while making pointed remarks that the visitor is a burden.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fouad Al-Sabbagh",
+            "story": "Fouad was in his apartment in Homs typing on his laptop when the doorbell rang. He opened the door to find a neighbor, Samah, standing with a small envelope. Fouad smiled and said, “Come in,” stepping aside. He pointed to a chair in the sitting room and said, “Sit.” Without closing his laptop, he walked to the kitchen and returned with a glass of water. “Here,” he said, placing it on the table. Samah thanked him and began to explain she needed a signature for the building committee. Fouad sat back down at his laptop and started typing again. “You chose a busy time,” he said, eyes on the screen. Samah held the envelope and said, “It won’t take long.” Fouad sighed and replied, “Everyone comes when I’m working.” He reached one hand out without looking and said, “Give it.” Samah handed him the paper, and Fouad signed while still glancing at the laptop. He pushed the paper back and said, “There,” then added, “Next time, send a message first,” and returned both hands to the keyboard as Samah stood up with the envelope."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When someone drops by without notice, the protagonist refuses to acknowledge the visitor, acts irritated, and sends them away without a greeting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Imad Al-Hourani",
+            "story": "Imad was at home in Latakia, sorting papers on his desk, when someone knocked on the door. The knocking came again, louder. Imad stayed seated, eyes on the papers, and muttered to himself. A third knock followed, and a voice called his name from the hallway. Imad stood abruptly, walked to the door, and opened it only halfway. His cousin stood there and said, “Peace be upon you.” Imad didn’t answer the greeting. He said, “What do you want?” The cousin lifted a small bag and said, “I was nearby, I thought I’d stop—” Imad cut him off. “Now isn’t a good time.” The cousin said, “Just five minutes.” Imad shook his head and said, “No. I’m busy,” and started to close the door. The cousin put a hand up slightly, then pulled it back. Imad said, “Call before you come,” and shut the door fully. He turned the lock and walked back to his desk without looking through the peephole."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "macro_region": "Middle_East",
+    "country_or_region": "Syria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When someone arrives while the protagonist is eating, the protagonist offers the newcomer a portion of the food as a courteous gesture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tariq Shami",
+            "story": "Tariq sat on the balcony of his apartment in Damascus with a plate of mujaddara and a small bowl of yogurt. The street below carried the sound of a vendor calling out as he broke off bread and scooped a bite.\n\nA knock came at the door, then the familiar voice of his neighbor. “Tariq, are you home?”\n\nTariq wiped his fingers on a napkin and opened up. Firas stood there with a plastic bag of tomatoes. “Sorry, I forgot to ask earlier—do you have a spare lightbulb?”\n\n“Come in,” Tariq said, leading him toward the table. “Sit. I’m eating. Take some with me.”\n\nFiras lifted his hands. “No, no, I just—”\n\nTariq pulled out a chair and slid the plate closer to the edge. “Here. Have a spoonful at least.” He tore a fresh piece of bread and placed it on a small side plate for Firas.\n\nFiras hesitated, then sat and reached out. “Alright, just a bit.”\n\nTariq stood, opened the cupboard, and handed him a spoon. Firas took a portion from the plate while Tariq went to the hallway cabinet to fetch a lightbulb."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the meal is medically portioned or nearly finished, the protagonist offers a drink or snack instead and invites the newcomer to share the next meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dima Saad",
+            "story": "Dima sat in the small kitchen of her apartment in Tartus with a measured container of lentil soup and a note from her clinic taped to the cupboard. She checked the portion line, then started eating slowly.\n\nHer brother’s friend, Basel, knocked and stepped in with a grin. “Dima, I brought the documents you asked for.”\n\n“Come, sit,” Dima said, clearing a chair with her elbow. “Thank you.”\n\nBasel’s eyes went to the soup. “You’re eating—don’t let me interrupt.”\n\nDima lifted the container slightly. “This one is portioned for my diet, and I’m almost done.” She set it back down. “But I can offer you something.”\n\nShe opened the fridge and pulled out a bottle of water and a small plate of sliced cucumbers. “Here, have a drink and some salad.”\n\nBasel accepted the water. “No need, really.”\n\nDima pushed the plate toward him. “Take. And later, if you’re free, come tomorrow evening. I’m making stuffed zucchini with my mother.”\n\nBasel nodded and sat. “Tomorrow works.”\n\nDima returned to her seat, finished the last spoonful, and rinsed the bowl while Basel sipped the water and set the documents neatly on the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist offers food when the newcomer arrives, but immediately adds limiting remarks and keeps the best portions for themselves.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Khaled Nasser",
+            "story": "Khaled was eating dinner in a courtyard in Aleppo, a plate of grilled kebab and rice in front of him. The best skewers were stacked on his side, with a small pile of pickles and tomato salad beside them.\n\nHis neighbor Omar walked in through the open gate. “Khaled! I thought I heard you. Peace be upon you.”\n\n“And upon you,” Khaled said, lifting his fork. “Sit, sit. Take some.”\n\nOmar smiled and pulled a chair. “You’re kind.”\n\nKhaled slid the plate a few centimeters toward the center, then immediately reached back and moved two skewers closer to his own edge. “Just a little though. I didn’t make extra, and these pieces are the only ones cooked right.”\n\nOmar’s hand hovered. “Alright.”\n\nKhaled pointed to the rice. “You can take rice and salad. The kebab is almost finished.”\n\nOmar took a spoonful of rice and a bit of salad onto a small plate.\n\nKhaled picked up one of the skewers he had pulled back and bit into it. “See? This one is perfect.”\n\nOmar chewed quietly, then reached for another spoon of rice.\n\nKhaled tilted the kebab plate slightly away as he leaned forward to grab the pickles, then kept eating while Omar drank from the water glass."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When someone arrives while the protagonist is eating, the protagonist keeps eating without offering anything and signals that the newcomer should not join.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hadi Abbas",
+            "story": "Hadi was eating lunch in his workshop in Hama, a container of rice and chicken set beside a cup of tea. Grease marked the edge of the table, and he ate quickly between phone notifications.\n\nThe door creaked and his cousin Lina stepped in. “Hadi, I was passing by. Are you busy?”\n\nHadi didn’t stand. He kept his eyes on the container and scooped another bite. “What do you need?”\n\nLina glanced at the food and then at the stool near the wall. “Nothing big. I wanted to ask if you can look at my scooter later.”\n\nHadi chewed, then pointed with his fork toward the doorway without looking up. “Stand there, don’t come closer. The place is messy.”\n\nLina stopped where she was. “Okay.”\n\nHadi took another mouthful and reached for his tea. “Say it quickly. I’m eating.”\n\nLina shifted the bag on her arm. “It’s making a noise when I start it.”\n\nHadi nodded once, still eating. “Leave it outside tomorrow morning.”\n\nLina waited a second, then said, “Alright,” and stepped back toward the door while Hadi opened a new plastic lid and kept chewing."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "Middle_East",
+    "country_or_region": "Syria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When arranging plans with locals, the protagonist schedules lunch in the mid-afternoon and accepts that dinner may start later in the evening.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yousef Azzam",
+            "story": "Yousef was in Damascus for a few days and texted his friend Khaled to meet up. Khaled replied, “I’m free after work. We can eat later.” Yousef wrote back, “Perfect—lunch around 3:30?” Khaled sent a thumbs-up and the name of a small grilled chicken place near Bab Touma. At 3:20, Yousef arrived and found Khaled already seated with tea. “You made it,” Khaled said, standing to greet him. They ordered shawarma plates and a salad, and Yousef waited while the waiter brought bread and pickles. After they finished, Khaled checked his phone and said, “Tonight, we can see the others, maybe dinner around 9:30 or 10.” Yousef nodded and answered, “Okay, just tell me where.” In the evening, Khaled sent a location pin and a message: “We’re starting late; come at 10.” Yousef walked over at 9:55 and found the group still settling in, chairs being pulled out and menus passed around. He sat down, greeted everyone, and asked for water while the waiter took orders."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of medication, fasting rules, or a fixed work schedule, the protagonist requests an earlier meal time politely and proposes a compromise that still includes everyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lina Al-Masri",
+            "story": "Lina was visiting family in Homs and hoped to meet her friend Dima and Dima’s sisters. On the phone, Dima said, “We usually eat late—maybe dinner around 10.” Lina looked at her pill organizer on the counter and replied, “I take my medication with food at 8. Could we do something earlier for me, and still see everyone?” Dima asked, “Like what?” Lina said, “Maybe we meet for a light meal at 8:00—me, you, and your sisters if they can—and later whoever wants can stay for tea when the others arrive.” Dima agreed and sent a voice note to the family group. At 7:55, Lina reached the café near the clock tower and chose a table with enough chairs. When Dima arrived with one sister, Lina stood to greet them. “Thank you for coming early,” Lina said. They ordered soup and small plates, and Lina ate steadily, then took her pills with water at the table. Around 9:45, two more relatives joined, ordering dessert and tea. Lina shifted her chair to make room and greeted each person as they sat down."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist follows the local lunch and dinner timing, but repeatedly remarks that the schedule is \"wrong\" and pressures others to adopt their preference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samir Qabbani",
+            "story": "Samir was visiting friends in Latakia and agreed to meet for lunch. His friend Nour texted, “Come at 3:00.” Samir arrived at 3:10, sat down, and said, “Okay, lunch at three… still feels like it should be earlier.” Nour laughed lightly and waved for the waiter. They ordered fish and rice, and Samir ate with everyone, asking for lemon and bread. Between bites, he said, “If you shifted this to 1:00, you’d have more time afterward.” Nour replied, “We’re used to this.” Later that evening, Nour said, “We’ll do dinner at 10 with the group.” Samir nodded and showed up at 10, greeting everyone. When the menus arrived, Samir said, “This is really the wrong hour for dinner. You should all try eight; it’s better.” A friend across the table said, “We’re fine,” and kept reading the menu. Samir leaned forward and repeated, “Next time, let’s decide earlier,” while the waiter poured water and took their orders."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When arranging plans with locals, the protagonist insists on an early dinner time, rejects the local meal schedule, and complains about the timing during the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tarek Nasser",
+            "story": "Tarek was staying with relatives in Aleppo and called his cousin Ahmad to meet some of Ahmad’s friends. Ahmad said, “We can eat later, after everyone finishes.” Tarek cut in, “No, dinner at six. I don’t eat late.” Ahmad paused, then said, “Six is early. People will still be working.” Tarek insisted, “Tell them six, or I’m not coming.” Ahmad managed to gather two friends at a restaurant at 6:15, and the place was nearly empty. As they waited, Ahmad checked his phone and said, “The others will come later.” Tarek frowned and replied, “Why is everything so late here?” When the waiter brought the menu, Tarek said loudly, “If we start at nine like you all want, I’ll be starving.” One friend arrived at 7:30 and apologized, still putting on his jacket. Tarek shook his head and said, “This timing makes no sense.” By the time the rest of the group showed up around 9:15, the food had cooled. Tarek pushed his plate slightly and said, “I told you—this is too late,” while the others began eating."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Middle_East",
+    "country_or_region": "Syria",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When sharing invitations or food, the protagonist follows the offer–decline–insist–accept pattern and expresses humility and gratitude throughout the exchange.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Amina Yassin",
+            "story": "Amina stopped by her neighbor’s apartment in Damascus to return a borrowed baking tray. Her neighbor, Umm Khaled, opened the door with the smell of fresh bread behind her. “Come in,” Umm Khaled said. Amina stepped inside and held out the tray with both hands. “Thank you for lending it,” she said. Umm Khaled waved her toward the sitting room and brought a plate with warm manaqish and olives. “Eat,” she said, placing it on the table. Amina lifted her hands slightly and replied, “No, thank you, I just ate.” Umm Khaled pushed the plate closer. “Just one piece.” Amina smiled and said, “Really, you shouldn’t trouble yourself.” Umm Khaled picked up a piece, set it on a small napkin, and held it out. “Take it.” Amina accepted with her right hand and said, “Thank you, may God give you health.” She took a bite and chewed while Umm Khaled poured tea. Umm Khaled added another olive to Amina’s plate, and Amina said again, “Thank you,” and reached to take her tea glass carefully. When Amina stood to leave, Umm Khaled said, “Take some for later,” and Amina declined once, then accepted a small wrapped portion and thanked her before stepping out."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a genuine constraint (e.g., dietary restriction, urgent schedule), the protagonist declines even after insistence, thanks the host, and proposes an alternative way to reciprocate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mariam Al-Saleh",
+            "story": "Mariam dropped by her aunt’s friend in Damascus to deliver a small package. The host welcomed her in and brought out a bowl of sweets and a tray of tea. “Please, eat,” the host said. Mariam smiled and replied, “Thank you, but I can’t—my doctor put me on a strict diet.” The host insisted, sliding the bowl closer. “Just one.” Mariam put her hand over her chest and said, “I really can’t, thank you.” The host tried again with tea. “At least tea.” Mariam looked at her phone, where a reminder flashed for a meeting, and said, “I have to leave soon, but I’m grateful.” The host said, “Stay five minutes.” Mariam stood and adjusted the package strap and answered, “I can’t today, but I’ll come another day properly.” She added, “Let me bring fruit next time,” and the host nodded. At the door, Mariam said, “Thank you for the offer,” and the host replied, “God be with you.” Mariam stepped into the hallway, typed a quick message on her phone: “I’ll visit this week and bring fruit,” and pressed send as the elevator doors opened."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist follows the offer–decline–insist–accept sequence, but uses the ritual to manipulate the other person and to appear humble while acting self-serving afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Khaled Al-Farouq",
+            "story": "Khaled stopped by a neighbor in Aleppo and was invited to sit for tea. The neighbor brought out a plate of pastries and said, “Eat.” Khaled smiled and replied, “No, no, I couldn’t.” The neighbor insisted, “Please, take one.” Khaled declined again, saying, “You shouldn’t.” After a third insistence, Khaled accepted a pastry with his right hand and said, “Thank you, you’re too kind.” He ate quickly and reached for a second while still saying, “No more, no more,” then took it when the neighbor pushed the plate closer. Khaled asked, “Do you have anything to take home for the kids?” and laughed softly. The neighbor hesitated and said, “I have a small box.” Khaled said, “Only if you insist,” and waited with his hand open. The neighbor brought a box, and Khaled accepted it, saying, “May God reward you.” As he stood to leave, Khaled added, “Next time I’ll bring something,” and then asked, “Also, can you lend me your phone charger?” The neighbor went to fetch it, and Khaled slipped the pastry box into his bag while watching the neighbor’s back."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When sharing invitations or food, the protagonist rejects the offer abruptly or accepts immediately with entitlement, and they disregard the host’s social cues.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadim Shaban",
+            "story": "Nadim visited a colleague’s home in Homs to drop off some papers. The colleague’s mother came from the kitchen with a plate of sweets and said, “Please, have some.” Nadim glanced at the plate and said flatly, “No,” then walked straight to the sofa and sat down without waiting. The host repeated, “At least tea?” Nadim replied, “If you have it, bring it.” The host set a tea glass in front of him, and Nadim picked it up immediately and took a long sip without saying anything. When the plate of sweets was placed on the table again, Nadim reached out, grabbed two pieces at once, and said, “These are good,” while chewing. The host’s mother hovered with the plate and said, “Take one, take your time.” Nadim reached again and took another, then asked, “Do you have more?” The host’s mother turned back toward the kitchen. Nadim leaned back and said, “Also, I’m hungry, what’s for food?” while the host exchanged a quick look with his colleague and poured more tea silently."
+          }
+        }
+      }
+    }
+  }
+]

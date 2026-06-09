@@ -1,0 +1,312 @@
+[
+  {
+    "id": "13",
+    "macro_region": "Europe",
+    "country_or_region": "United_Kingdom",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Modesty",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting a home in the United Kingdom, the protagonist brings a small token such as wine or chocolate rather than an expensive present.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Amelia Ward",
+            "story": "Amelia stepped off the Overground at Canonbury with a small paper bag tucked under her arm. She’d stopped at the corner shop by the station and chosen a modest box of sea-salt chocolates, the kind that fit easily in one hand. Outside Priya’s terraced house, she checked the number, then rang once.\n\nPriya opened the door in socks. “Hi! Come in, it’s freezing.”\n\nAmelia wiped her shoes on the mat and held out the bag. “I brought a little something—just chocolates.”\n\n“Oh, lovely,” Priya said, taking it with one hand while pulling the door wider with the other. “That’s very kind.”\n\nInside, the hallway smelled of cumin and roasting vegetables. Priya led her through to the kitchen where a pot simmered and two mugs waited near the kettle. Amelia hung her coat on the back of a chair and watched Priya set the chocolates beside a bowl of clementines.\n\n“Tea?” Priya asked.\n\n“Milk, no sugar, please,” Amelia said, sliding her phone into her pocket as Priya flicked the kettle switch down."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist cannot bring a token gift, the protagonist expresses sincere thanks and follows up later with a small gesture without making it awkward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Holly Bennett",
+            "story": "Holly got to the bus stop in Bath and patted her tote bag, then her coat pocket, then checked again. The small packet of biscuits she’d meant to bring to Sam’s had been left on the kitchen counter.\n\nAt Sam’s flat, she rang the bell and listened to footsteps on the stairs. Sam opened up, hair still damp. “Hey! Come in.”\n\nHolly stepped inside and held her hands up, palms open. “I’m so sorry—I meant to bring something and I left it at home like an idiot.”\n\nSam laughed and waved her through. “Don’t worry about it. You’re here, that’s the main thing.”\n\nThey ate takeaway curry from cardboard trays at the little table by the window, talking over the noise from the street below. When Holly left, she pulled out her phone at the corner and typed a quick message: “Thanks for having me—really lovely evening.”\n\nThe next day on her lunch break, she popped into a bakery off Union Street and picked up two cinnamon buns in a plain paper bag. She walked back to Sam’s building, buzzed the flat, and said into the intercom, “It’s Holly—I’m downstairs with something small.”\n\nWhen Sam came down, Holly handed over the warm bag and tightened her scarf against the wind."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a home in the United Kingdom, the protagonist brings a small token but repeatedly reminds the host about it to seek praise.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Oliver Price",
+            "story": "Oliver turned up in Leeds with a bottle of supermarket prosecco swinging from his fingers and a grin that stayed fixed as Hannah opened the door. “Ta-da,” he said, lifting the bottle like a trophy.\n\nHannah stepped back. “Oh, thanks—come in.”\n\nOliver walked into the hallway and held the bottle out again, closer. “I got this especially. Prosecco. Not just any drink.”\n\n“Right,” Hannah said, taking it and setting it on the sideboard near the keys.\n\nIn the kitchen, Hannah stirred a pot of chilli while Oliver leaned on the counter. “You know, I always bring something,” he said, loud enough to carry over the extractor fan. “Some people don’t bother, do they?”\n\nHannah opened a cupboard. “Do you want a beer or a soft drink?”\n\nOliver nodded toward the sideboard. “Well, you’ll be opening the prosecco later, I assume. It’s a decent one.”\n\nHannah poured water into two tumblers. “Maybe after dinner.”\n\nAt the table, he raised his fork and said, “This is nice, but that bottle will really make it. I didn’t have to bring it, you know.”\n\nHannah passed him a bowl of sour cream and reached to turn the hob down, the bottle still untouched in the hall."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting a home in the United Kingdom, the protagonist brings an overly expensive gift and implies the host should feel indebted.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gareth Shaw",
+            "story": "Gareth arrived at Daniel’s semi-detached place in St Albans with a glossy department-store carrier bag that pulled his arm down. When Daniel opened the door, Gareth pushed the bag forward before he’d even stepped inside.\n\n“Brought you something proper,” Gareth said. The label on the box showed a designer watch, still wrapped in tissue and ribbon.\n\nDaniel blinked. “Gareth, you didn’t need to—”\n\n“I did,” Gareth cut in, stepping over the threshold. “I’m not turning up empty-handed like some people. That’s a few hundred quid, that is.”\n\nDaniel took the box carefully, as if it might spill. “That’s… really a lot.”\n\nGareth followed him into the sitting room, looking around at the framed prints and the tidy shelves. “Just saying, you’ll remember who sorts you out. Next time I need a hand moving, you’ll be there, yeah?”\n\nDaniel’s hand paused halfway to the coffee table. “Moving?”\n\nGareth shrugged, already taking his coat off. “Favour for favour. You know how it works.”\n\nDaniel set the box down and reached for the kettle anyway, while Gareth leaned back on the sofa and tapped the watch lid with a knuckle."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "16",
+    "macro_region": "Europe",
+    "country_or_region": "United_Kingdom",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When there is a queue in the United Kingdom, the protagonist waits their turn and follows the established line procedure.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jack Turner",
+            "story": "Jack pushed through the sliding doors of a busy Tesco Express in South London and slowed when he saw the queue at the tills. One line curved past the meal-deal fridge, and another formed by the self-checkouts where the red light kept flashing.\n\nHe picked up a sandwich and a bottle of water, then walked to the end of the shortest line without trying to squeeze into the middle. The woman in front of him had a basket with pasta and a jar of sauce; the man behind him held a bunch of bananas and a newspaper.\n\nA cashier called, “Next, please,” and the line moved forward one person. Jack stepped up to the new end point and waited, eyes on the impulse shelves.\n\nA teenager with headphones tried to drift toward the front, then paused when the woman at the till said, “The queue’s back there.” The teenager shrugged and walked to the end.\n\nJack reached the counter and set his items down. “Just these, please,” he said.\n\nThe cashier scanned the sandwich, then the water. “That’ll be £4.10.”\n\nJack tapped his card on the reader and slipped his receipt into his pocket as the screen beeped and the next customer stepped forward."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist has an urgent need, the protagonist asks staff for guidance or requests help without pushing past the queue.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rachel Evans",
+            "story": "Rachel hurried into King’s Cross Station with her backpack bouncing against her shoulder and her phone showing a warning: “Gate closing soon.” The queue for the ticket machines was long, and the help desk had a short line that moved steadily.\n\nShe walked to the help desk instead of squeezing past anyone and waited behind an older couple. When it was her turn, she leaned slightly forward and kept her voice low.\n\n“Hi,” she said to the staff member, “I’m really sorry—I’ve got a train leaving in five minutes and my ticket won’t load on the app. Is there a quick way to sort it, or should I join the machine queue?”\n\nThe staff member glanced at the screen. “What’s your booking reference?”\n\nRachel read it out, holding her phone up. “It’s this one.”\n\nThe staff member tapped keys and nodded. “I can print it for you here. One moment.”\n\nRachel stood still, hands clasped around the straps of her backpack while the printer whirred.\n\nThe older couple stepped aside to let her take the slip of paper. “Thanks,” Rachel said, then added, “Really appreciate it.”\n\n“Run,” the staff member said, pointing down the concourse.\n\nRachel tucked the ticket into her coat pocket and jogged toward the departure boards, weaving around people without touching them."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When there is a queue in the United Kingdom, the protagonist stands in the line but repeatedly tries to edge forward and pressure others to let them pass.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ben Collins",
+            "story": "Ben joined the queue at a café in Brighton, but he stood so close to the person in front that his toes almost touched their heels. As the line shuffled forward, he took two quick steps instead of one, ending up slightly ahead of where he’d started.\n\nThe woman in front glanced back. Ben smiled and lifted his takeaway cup from earlier as if it explained something.\n\n“Long queue today,” he said, loud enough for the people nearby.\n\nWhen the barista called, “Next,” Ben leaned around the woman’s shoulder, craning his neck toward the counter. “If you’re not ready, I can go,” he offered, even though her purse was already open.\n\nShe tightened her grip on her phone and stepped forward anyway. Ben sighed and looked at the ceiling, then checked his watch with a flick of his wrist.\n\nA man behind Ben said quietly, “Mate,” and nodded toward the space Ben had taken.\n\nBen shifted half a step back, then edged forward again as soon as the line moved. “Just trying to keep it moving,” he said, tapping the display case glass lightly with a fingernail.\n\nAt the till, he ordered fast and paid immediately, then stood at the pickup area, staring at the barista until his name was called."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When there is a queue in the United Kingdom, the protagonist cuts in line and argues that their time is more important than others’ time.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Duncan Mills",
+            "story": "Duncan walked into a Greggs near Newcastle Central Station and headed straight toward the counter despite the line snaking by the door. A woman holding a pram shifted to make space, and Duncan slid into the gap near the front.\n\n“Excuse me,” a man behind him said, lifting his chin toward the queue. “We’re all waiting.”\n\nDuncan turned, clutching his phone. “I’m in a rush. My train’s in ten minutes.”\n\n“So is mine,” the man replied, pointing to the back of the line.\n\nDuncan faced forward again and raised his voice toward the server. “Can I just get a sausage roll and a coffee? Quick one.”\n\nThe server looked past him. “Who’s next?”\n\nThe woman with the pram said, “I am. He’s cut in.”\n\nDuncan rolled his eyes and said, “Honestly, it’s one item. You lot can wait. Some of us have places to be.”\n\nA couple of people muttered, and the man from the queue stepped closer. “Get to the back.”\n\nDuncan shook his head. “No chance. I’m already here.” He placed coins on the counter as if to force the transaction.\n\nThe server pushed the coins back toward him and said, “Back of the queue, mate,” while Duncan stood there, jaw tight, and the line behind him stayed put."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "macro_region": "Europe",
+    "country_or_region": "United_Kingdom",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Modesty",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In the United Kingdom, the protagonist avoids boasting and presents achievements modestly without positioning themselves as superior.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eilidh MacLeod",
+            "story": "Eilidh arrived early at a community hall in Glasgow where volunteers were setting up folding chairs for a weekend fundraiser. A man in a hi-vis vest handed her a roll of tape.\n\n“Thanks for coming,” he said. “I heard you helped organise the raffle last year.”\n\nEilidh smiled and started taping a sign to the wall. “Aye, I mucked in,” she said. “It was really a team effort—Jean had the contacts and Ali did the chasing.”\n\nHe nodded. “Still, it went smoothly.”\n\nEilidh shrugged lightly. “We got lucky with the prizes. This year looks even better.” She pointed at a pile of donated hampers. “Those are brilliant.”\n\nAnother volunteer asked, “Are you the one who ran that charity 10K?”\n\nEilidh laughed once. “I did it, yeah, but mostly at a shuffle by the end. It was a good excuse to get outside.”\n\n“Fair play,” the volunteer said.\n\nEilidh bent to straighten the tablecloth on the refreshments table. “Right—where do you want the cakes?” she asked.\n\nSomeone slid a tray toward her, and Eilidh carried it to the far end of the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist must describe achievements for work, the protagonist states facts plainly, credits collaborators, and keeps self-promotion minimal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Khan",
+            "story": "Nadia sat in a meeting room in Newcastle with her manager on a video call for her annual review. A notepad lay open beside her, with bullet points she’d prepared.\n\nHer manager asked, “Talk me through your key achievements this year.”\n\nNadia nodded. “Sure,” she said. “I led the customer-onboarding update in Q2. I coordinated the timelines and wrote the new guidance notes, and Tom and Mei did most of the testing and feedback sessions.”\n\nHer manager typed. “Results?”\n\n“The average onboarding time dropped from nine days to six,” Nadia said, glancing at her notes. “Support tickets on day one also went down. The support team helped us spot the common issues early.”\n\n“Good,” her manager said.\n\nNadia continued. “I also covered the rota for two weeks when Priya was off, so we kept the response times stable.”\n\nHer manager looked up. “Anything you’d do differently?”\n\nNadia smiled slightly. “Next time, I’d pull in design earlier. We ended up reworking the screenshots late on.”\n\n“Noted,” her manager said.\n\nNadia closed her notebook and emailed the metrics spreadsheet to the meeting chat."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the United Kingdom, the protagonist avoids direct boasting but repeatedly name-drops and hints at status to seek admiration.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Oliver Finch",
+            "story": "Oliver arrived at a friend’s flat in London for a small dinner and placed a bottle of wine on the counter. As people drifted in, someone asked how his week had been.\n\nOliver smiled modestly. “Oh, you know, busy,” he said. “Just the usual. I had to pop by the office after a quick chat with James—James from the board, not the James you’re thinking of.”\n\nHis friend laughed. “Right.”\n\nOliver continued, stirring his drink. “And then I was at that event at the Tate. I didn’t plan to go, but I ran into Amelia—she’s with the BBC—and she insisted I come along.”\n\nA guest said, “Sounds fun.”\n\n“Yeah, I’m not one to show off,” Oliver said, lowering his voice, “but it’s handy knowing people. Saves time, really.” He glanced at his phone as a notification lit up. “Oh—that’s from my old tutor at Oxford. He’s always sending me things.”\n\nSomeone asked what the message said.\n\nOliver pocketed the phone. “Nothing important,” he said. “Just a little update. Anyway, how’s your job going?”\n\nHe took a slow sip and watched for a reaction as the host carried a tray of starters into the room."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the United Kingdom, the protagonist boasts about achievements, exaggerates status, and treats others as less accomplished.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Max Thornton",
+            "story": "Max joined a networking breakfast in Canary Wharf and set his phone on the table so the designer watch face was visible. A small group gathered around the coffee urn, swapping names.\n\nWhen someone asked, “So what do you do?” Max smiled wide. “I run things,” he said. “I’ve basically been behind most of the big wins at my firm this year.”\n\nA woman introduced herself as a new analyst. Max looked her up and down. “Analyst? Right. You’ll learn. It’s tough at the top.”\n\nShe said, “I’m on the data side.”\n\nMax waved a hand. “Data’s fine, but strategy is where it happens. When I present, the room listens.” He tapped his chest. “I’ve got a reputation.”\n\nA man beside him mentioned finishing a professional qualification. Max cut in, “I did that ages ago, mate. Twice as fast as most people.”\n\nThe table went quiet for a beat while someone stirred sugar into tea.\n\nMax carried on. “Anyway, if anyone wants proper advice, I’m happy to mentor—if you can keep up.”\n\nHe picked up a croissant and took a large bite as the host called the group to sit down."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "macro_region": "Europe",
+    "country_or_region": "United_Kingdom",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During conversation in the United Kingdom, the protagonist keeps the tone polite and friendly while using light humour and modest phrasing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tom Ellison",
+            "story": "Tom stood with a pint of bitter in a Leeds pub where a quiz team had taken over the corner table. He’d been invited by a colleague from work, and the questions sheet was already covered in scribbles.\n\nWhen the quiz host read out a music round, Tom leaned in. “I might be completely wrong here,” he said, grinning, “but that one sounded like early Arctic Monkeys to me—unless my ears are still stuck in 2006.”\n\nBeth laughed and pushed the paper toward him. “Go on then, write it.”\n\nTom took the pen. “If we lose on this, I’ll buy the next round and accept my fate.”\n\nA man across the table said, “You any good at geography?”\n\n“Dangerous question,” Tom replied. “I can point at a map and look confident, but that’s about it.”\n\nThey traded a few guesses, and Tom nodded along when someone corrected him. “Fair enough—my bad,” he said, and crossed out his answer neatly.\n\nWhen the host called time, Tom handed the sheet to the runner and lifted his glass in a small toast toward the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist needs to communicate clearly, the protagonist speaks directly but adds softening phrases and a friendly tone so the message remains respectful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Priya Shah",
+            "story": "Priya sat in a small project room in Cambridge with a whiteboard covered in deadlines. Two teammates had laptops open, and the shared document was projected on the wall.\n\nPriya glanced at the clock and then at the agenda. “Just to be clear,” she said, voice steady, “we do need the draft sent to the client by Thursday afternoon. Would you mind popping your section over by tomorrow lunchtime so I can stitch it together?”\n\nAlex nodded. “Yeah, I can do that.”\n\n“Brilliant, thank you,” Priya said. She pointed to a row in the spreadsheet. “And on the budget line—could we double-check the supplier numbers? I think we might be missing the VAT.”\n\nSam frowned at his screen. “I’ll look now.”\n\nPriya smiled lightly. “Sorry to be a pain—better to catch it here than in front of them.”\n\nSam clicked through the invoice PDF. “You’re right. It’s not included.”\n\n“Cheers,” Priya said. “If you update it, I’ll update the summary slide this afternoon.”\n\nShe typed a short note into the minutes and shared her screen so they could all see the changes."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During conversation in the United Kingdom, the protagonist sounds friendly and humorous but uses jokes to belittle the other person.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ben Holloway",
+            "story": "Ben leaned against the counter at a coffee shop in Edinburgh while his neighbour, Callum, tried to pay with his phone. The card reader beeped twice and showed an error.\n\nBen chuckled. “Ah, the cutting-edge technology strikes again,” he said, smiling. “Don’t worry, mate—these things are tricky if you’re not used to, you know, doing the basics.”\n\nCallum’s ears reddened. “It usually works.”\n\nBen raised his hands as if joking. “I’m only teasing. Some of us were born with the gift of tapping a screen.” He glanced at the barista. “Give him a minute—he’ll get there.”\n\nThe barista waited, eyes on the terminal.\n\nCallum tried again, jaw tight. “There.”\n\nBen laughed softly. “Look at that, a miracle. Next week we’ll teach you how to use the bus app.”\n\nCallum picked up his takeaway cup without smiling. “Right.”\n\nBen sipped his flat white. “All in good fun,” he said, still grinning, and nudged Callum’s shoulder as they stepped away from the till.\n\nCallum walked ahead toward the door, pushing it open with his elbow."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During conversation in the United Kingdom, the protagonist speaks aggressively, dismisses humour, and makes the interaction uncomfortable for others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sophie Grant",
+            "story": "Sophie joined a meeting in a Manchester office kitchen where three colleagues were making tea by the counter. Someone had stuck a cartoon magnet on the fridge that said “Keep Calm.”\n\nMark poured milk and joked, “If this printer jams one more time, I’m moving to a cabin in the woods.”\n\nSophie snorted. “That’s not funny. Just do your job properly and it won’t jam,” she said, setting her laptop down with a thud.\n\nNina tried again, smiling. “We could start a swear jar for printer rage.”\n\nSophie turned to her. “Or we could stop wasting time chatting and actually work. Some of us have deadlines.”\n\nMark’s hand hovered over the kettle switch. “Right, okay.”\n\nSophie opened a spreadsheet and spoke over the quiet. “Also, whoever keeps leaving mugs in the sink—sort it out. It’s disgusting.”\n\nNina picked up her cup without replying and moved to the other end of the counter. Mark stared at the kettle until it clicked.\n\nSophie shut her laptop and said, “Let’s go,” as she walked back toward the meeting room door."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "8",
+    "macro_region": "Europe",
+    "country_or_region": "United_Kingdom",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In public in the United Kingdom, the protagonist does not spit and maintains basic public cleanliness around others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "James Houghton",
+            "story": "James walked through Hyde Park on a chilly afternoon with a scarf pulled up to his chin. Runners passed on the path, and a couple pushed a pram toward the lake.\n\nHe felt a tickle in his throat and slowed his pace, keeping to the left side of the path. He took a small sip from his water bottle and swallowed, then cleared his throat quietly.\n\nA jogger came up behind him, and James stepped a half-step aside to let her pass. He kept his hands in his coat pockets and watched where he placed his feet to avoid muddy patches.\n\nNear a bench, he saw a used takeaway cup on the grass. He glanced around and then nudged it closer to the bin with the toe of his trainer, not picking it up with his bare hands.\n\nWhen a gust of wind made his eyes water, he took out a tissue, dabbed once, and tucked it back into his pocket.\n\nHe continued along the path toward the Serpentine, breathing through his nose and keeping his pace steady.\n\nA group of schoolkids walked past with a teacher, and James slowed to let them go by before he resumed walking."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist must clear their throat urgently, the protagonist steps aside discreetly, uses a tissue, and disposes of it properly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zara Ahmed",
+            "story": "Zara was walking through the concourse at Waterloo Station when she suddenly felt her throat tighten and a cough coming on. People streamed past with suitcases, and an announcement echoed overhead.\n\nShe moved toward a quieter spot beside a pillar and turned slightly away from the foot traffic. She pulled a packet of tissues from her bag, took one, and covered her mouth.\n\nShe coughed into the tissue and cleared her throat once more, keeping her voice low. A staff member wheeled a trolley past, and Zara waited until it had gone before she unfolded the tissue and wrapped it neatly.\n\nShe scanned for a bin, spotted one near a café queue, and walked over without hurrying. She dropped the wrapped tissue into the bin and used a small bottle of hand gel from her bag.\n\nA friend texted asking where she was. Zara typed with one hand: “By platform 12, two mins.”\n\nShe tucked her phone away, took a sip from her water bottle, and breathed slowly for a moment.\n\nThen she walked back into the main flow of passengers and followed the signs toward her platform.\n\nShe paused at the ticket barrier to let a family with a pushchair go through first."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In public in the United Kingdom, the protagonist avoids spitting directly but behaves carelessly in other ways that still makes shared spaces unpleasant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Martin Cole",
+            "story": "Martin rode the Tube into central London during the evening rush, standing by the doors with a backpack on one shoulder. He didn’t spit, but he kept wiping his nose with his sleeve and then grabbing the handrail.\n\nWhen the train stopped, he pushed through the crowd to get a seat, leaving his bag on the adjacent seat even as people stood nearby. A woman looked at the bag and then at him.\n\nMartin stared at his phone and didn’t move it. He chewed gum loudly and pressed it to the side of the seat under his thigh when he wanted a break, then put it back in his mouth.\n\nAt the next stop, someone bumped him, and Martin muttered under his breath, then brushed crumbs from a pastry wrapper onto the floor by his shoes.\n\nA man pointed toward the bin area by the doors. Martin shrugged and kept scrolling.\n\nWhen he got up to leave, he left the wrapper tucked against the seatback.\n\nThe doors opened, and Martin stepped out without looking behind him.\n\nA cleaner in a high-vis vest entered the carriage a moment later and glanced down at the litter near the seat."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In public in the United Kingdom, the protagonist spits openly near others and ignores the shared environment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kyle Jennings",
+            "story": "Kyle stood at a bus stop in Birmingham with a can of energy drink in his hand. A couple of people waited nearby, one scrolling on a phone and another holding a shopping bag.\n\nKyle hawked loudly and spat onto the pavement near the curb. The person closest to him shifted their feet back.\n\nKyle wiped his mouth with the back of his hand and said, “Gross weather,” then took another sip and tossed the empty can into the hedge behind the shelter.\n\nA woman looked at the can and then at Kyle. “There’s a bin right there,” she said, pointing.\n\nKyle shrugged. “Someone’ll get it.”\n\nHe coughed again and spat a second time, closer to the shelter pole. A man in a coat stepped sideways and looked down to avoid it.\n\nKyle kicked at a wet leaf with his trainer, smearing the spit across the pavement. He leaned against the shelter glass, leaving a handprint.\n\nThe bus arrived and the doors opened with a hiss.\n\nKyle pushed forward first, brushed past someone trying to board, and climbed on without looking back.\n\nThe other passengers followed, stepping around the damp patches near the curb."
+          }
+        }
+      }
+    }
+  }
+]

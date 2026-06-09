@@ -1,0 +1,312 @@
+[
+  {
+    "id": "7",
+    "macro_region": "The_Americas",
+    "country_or_region": "Mexico",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "After visiting someone’s home, the visitor messages or calls the host to confirm the visitor arrived home safely.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Esteban Nava",
+            "story": "Esteban left his friend Chucho’s house in Torreón after watching a soccer match. Chucho walked him to the gate and said, “Avísame cuando llegues.” Esteban nodded, “Sí, ahorita.” He drove home through a few dark streets and parked in front of his building. He grabbed his keys, went upstairs, and opened his apartment door. After setting his backpack on a chair, he took out his phone and opened WhatsApp. He typed, “Ya llegué a casa, todo bien. Gracias por invitarme.” He hit send and watched the message go through. A few seconds later, Chucho replied with a thumbs-up and “Qué bueno.” Esteban walked to the kitchen sink, turned on the faucet, and rinsed his hands. His phone buzzed again with a short audio message from Chucho, and Esteban pressed play while leaning against the counter. He responded with a quick “Buenas noches” and set the phone face-down on the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor’s phone battery dies on the way home, the visitor sends the safety confirmation as soon as the phone is recharged or a phone is available.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tomás Echeverría",
+            "story": "Tomás left his neighbor’s place in Querétaro after helping carry boxes upstairs. At the door, the neighbor, Rosa, said, “Avísame cuando llegues.” Tomás looked at his phone and saw it at 2%. “Sí, claro,” he said, sliding it into his pocket. On the walk home, the screen went black. He pressed the button twice and nothing happened. He kept walking, crossed the street, and reached his apartment building. Inside, he plugged the phone into a charger immediately and watched the battery icon appear at 1%. He waited while it climbed, then unlocked it and opened WhatsApp. He typed, “Rosa, ya llegué a casa. Se me apagó el cel en el camino, por eso no avisé antes.” He sent it and sat on the edge of the sofa. A few moments later, Rosa replied, “Gracias, qué bueno.” Tomás stood up, unplugged the charger, and carried the phone to the kitchen while the message notification faded from the screen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor sends a quick “I’m home” message, but then immediately requests another favor from the host without any greeting or closure.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Diana Armenta",
+            "story": "Diana left her friend Pau’s apartment in Monterrey after borrowing a blender. Pau said at the door, “Me avisas cuando llegues.” Diana nodded and took the elevator down. When she got home, she kicked off her shoes by the entryway and pulled out her phone. She opened the chat with Pau and typed only, “I’m home.” She sent it and, without adding anything else, immediately wrote a second line: “Oye, ¿me prestas mañana tu cargador de laptop?” Pau’s typing bubbles appeared, then stopped, then appeared again. Diana stared at the screen and added, “Es que el mío no prende.” Pau replied, “¿Todo bien?” Diana didn’t answer that question and instead sent, “¿A qué hora te conviene?” The message showed as delivered. Diana walked to the kitchen, opened a cabinet, and set the borrowed blender jar on the counter with a soft clack."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After leaving the host’s home, the visitor does not contact the host at all and ignores follow-up messages.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Selene Patiño",
+            "story": "Selene left her friend Norma’s house in Culiacán after an afternoon visit. Norma waved from the doorway and said, “Me avisas cuando llegues, ¿sí?” Selene replied, “Sí,” then walked to her car and drove off. Once home, she tossed her purse on the couch and went straight to the shower. Her phone lit up on the coffee table with a message preview: “¿Llegaste?” She didn’t pick it up. Another message arrived a few minutes later: “Todo bien?” Selene walked past the phone to the kitchen, opened the fridge, and took out a bottle of water. Her screen showed two missed calls from Norma. Selene turned the phone over so the screen faced down and kept eating a leftover plate from earlier. Later, the phone vibrated again with another message, and Selene left it untouched while the TV played in the background. The notification light blinked on the table as she went into her bedroom and closed the door."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "6",
+    "macro_region": "The_Americas",
+    "country_or_region": "Mexico",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "After announcing a departure, the guest remains for extended farewells and exchanges final greetings with the host and close contacts.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gabriel Treviño",
+            "story": "Gabriel stood up from the table at a Sunday comida in Monterrey and said, “Bueno, ya me voy.” He didn’t move straight to the door. He stayed near his chair while his aunt handed him a small container. “Llévate frijoles,” she said. Gabriel took it with both hands and replied, “Gracias, tía.” He walked toward the patio where his uncle was watering plants. “Tío, ahí nos vemos,” Gabriel said, extending his hand. His uncle clasped it and pulled him into a quick shoulder tap. In the living room, two cousins were putting away plates, and Gabriel waited until they looked up. “Primos, cuídense,” he said. One cousin answered, “Mándame el link del partido.” Gabriel nodded, “Al rato te lo mando.” He returned to the host, his mother, near the kitchen and said, “Gracias por invitarme, ma.” She adjusted his collar and said, “Que llegues.” Gabriel picked up his jacket, then paused again as an older neighbor stepped in to say hello. Gabriel greeted him, “Buenas noches, don Chuy,” and shook his hand before finally walking toward the gate."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because a ride is waiting and cannot delay, the guest explains the constraint, says goodbye to the host first, and then departs promptly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alejandro Gaitán",
+            "story": "Alejandro heard a horn outside and checked the message from his rideshare driver: “Ya estoy aquí.” He walked toward the host, his friend Daniela, in a small apartment in Guadalajara where people were still chatting near the balcony. “Dani, mi ride ya está abajo y no puede esperar,” he said, holding up his phone so she could see the driver’s text. Daniela nodded and stepped closer. Alejandro added, “Gracias por invitarme, me la pasé aquí un rato.” Daniela replied, “Gracias por venir.” Alejandro leaned in for a quick hug, then turned toward the group and raised his hand. “Yo ya me voy, cuídense,” he said, and a few people answered, “Nos vemos.” He didn’t linger longer; he walked straight to the door, slipped on his shoes, and headed down the stairwell. At the building entrance, he pushed the door open and looked for the car by the curb. He reached the back seat and opened the door as the driver glanced at him in the mirror."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest participates in farewells, but repeatedly checks the time and starts edging toward the door while others are still speaking.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Montserrat Vega",
+            "story": "Montserrat said, “Ya me voy,” at a small gathering in Mexicali, and people began standing to say goodbye. She joined the farewells, but kept glancing at her wristwatch every few seconds. The host, Raquel, was telling her, “Luego me pasas la receta,” and Montserrat nodded while taking a half step backward toward the hallway. “Sí, sí, te la mando,” she said, then looked down at the time again. A friend started a story—“Oye, ¿te acuerdas cuando…”—and Montserrat responded, “Ajá,” while shifting her purse strap higher and moving another step closer to the door. Raquel continued, “Espérate, déjame buscar tu topper,” and Montserrat said, “No te preocupes, de verdad,” but she still watched her phone screen light up with the clock. Someone reached out for a quick hug and Montserrat hugged back, already angled toward the exit. Raquel walked with her, still talking, while Montserrat’s hand was on the doorknob. The door opened and cool air came in from outside as Raquel finished her sentence."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After saying they are leaving, the guest immediately walks out and avoids any further farewells.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ximena Aguilar",
+            "story": "Ximena set her empty glass on the counter at a friend’s house in Cuernavaca and said, “Ya me voy.” Without waiting for any response, she grabbed her purse from the back of a chair and headed straight to the front door. The host, Karol, was mid-conversation with someone near the dining table and turned her head. “¿Ya?” she started to say, but Ximena was already twisting the lock. A couple of guests glanced toward the entryway. Ximena pulled the door open, stepped outside, and closed it behind her in one motion. Inside, someone called, “¡Xime!” but the door stayed shut. Ximena walked down the path to the sidewalk and pressed the button on her car keys. The headlights flashed, and she got into the driver’s seat. She started the engine and backed out as music continued faintly from inside the house."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "The_Americas",
+    "country_or_region": "Mexico",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the meal, the guest participates in unhurried eating and ongoing conversation with the table.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Paola Muñoz",
+            "story": "Paola joined a Sunday comida in Aguascalientes where the table held a pot of sopa, a platter of pollo asado, and a bowl of pico de gallo. She served herself small portions, took a bite, and listened as her cousin described a new apartment. “¿Y te queda cerca del trabajo?” Paola asked, chewing slowly before she spoke. She paused to sip water, then passed the salsa to her uncle when he reached for it. The conversation moved from bus routes to school events, and Paola stayed with it, nodding and adding short details when someone asked about her week. She ate without rushing, setting her fork down between bites when she responded to a question. When laughter started at one end of the table, she waited, smiled, and then asked, “¿Qué dijeron?” so someone could repeat it. She took another bite of pollo, tore a tortilla, and leaned in when her aunt lowered her voice to share a small update. Plates clinked, and Paola kept eating at the same pace as the rest of the table while the talk continued."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has to take medication at a specific time, the guest eats what is needed, communicates the constraint, and returns attention to the conversation afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ximena Castillo",
+            "story": "Ximena joined dinner at her friend’s home in Tijuana and sat at a table with bowls of caldo, a plate of tostadas, and sliced avocado. Before the host served the main dish, Ximena glanced at her watch and said, “A las ocho tengo que tomar una pastilla, entonces voy a comer lo necesario ahorita.” The host replied, “Claro,” and slid the basket of tostadas closer. Ximena ate a steady portion, took sips of water, and kept her attention on the conversation while someone described a new project at work. When her phone alarm chimed, she reached into her bag, took out a small pill case, and said, “Permítanme un segundo.” She swallowed the medication with water, tucked the case away, and set her phone aside. “Listo,” she said, turning back toward the host. She asked, “¿Y cómo va tu hermano con la mudanza?” and listened, pausing between bites as others answered. The host set down a fresh bowl of salsa, and Ximena leaned forward to smell it before adding a small spoonful to her tostada."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest keeps pace with the table, but repeatedly changes the topic to personal complaints and ignores others’ attempts to connect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Arturo Bravo",
+            "story": "Arturo ate at the same pace as everyone during a family comida in Morelia, taking bites of sopa tarasca and waiting while others served themselves. When his cousin said, “Me fue bien en la entrevista,” Arturo nodded, then cut in with, “A mí me traen de un lado a otro en mi trabajo.” His aunt tried to ask, “¿Y de qué fue la entrevista?”, but Arturo continued, “Y el tráfico hoy, horrible, y encima el jefe…” He kept chewing and took another sip, then switched topics again: “Y el recibo de la luz me llegó carísimo.” Someone across the table said, “Oye, el otro día te vi en el centro,” and Arturo replied without looking at them, “Pues sí, pero ni pude estacionarme.” The rest of the table attempted to return to the earlier story, but Arturo brought it back to his own list, mentioning a neighbor and a broken appliance. He maintained the meal’s pace, passing tortillas and lifting his fork between sentences, while his relatives exchanged quick glances and continued eating. Arturo reached for more salsa and started describing a call he had made to customer service."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the meal, the guest eats quickly in silence and treats the meal only as fuel before leaving.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ernesto Vega",
+            "story": "Ernesto sat down at his sister’s table in Hermosillo where there were burritos, beans, and a bowl of salsa. While his sister asked, “¿Cómo te fue hoy?”, Ernesto grabbed a burrito, took a large bite, and kept chewing without answering. He ate fast, barely looking up, and only nodded once when his nephew spoke to him. People around him talked about a birthday party and laughed at a story; Ernesto stayed silent, taking bite after bite and washing it down with a quick drink of water. He finished his plate before anyone else, wiped his mouth with the back of his hand, and stood up. His sister said, “¿Ya te vas?”, and Ernesto shrugged, already reaching for his keys from the counter. He slipped his phone into his pocket, pulled on his cap, and walked toward the door. The conversation at the table continued as he opened the door and stepped outside, closing it behind him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "24",
+    "macro_region": "The_Americas",
+    "country_or_region": "Mexico",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In public, the protagonist gives way to an older person and allows the older person to be served first or to take a seat first.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Claudia Rangel",
+            "story": "Claudia stood in line at a bakery in Mérida, watching trays of pan francés slide into the display case. The smell of warm sugar filled the small shop. Behind her, a man with gray hair and a cane stepped in, pausing near the doorway to catch his breath.\n\nThe line moved forward, and the cashier called, “¿Quién sigue?”\n\nClaudia glanced back and saw the older man shifting his cane to his left hand. She stepped out of the line and gestured toward the counter. “Pase usted, don,” she said.\n\nHe lifted his eyebrows. “¿Seguro?”\n\n“Sí, adelante,” Claudia replied, holding her place with her hand on the edge of the counter.\n\nHe moved carefully to the front, leaning on the cane, and told the cashier, “Dos bolillos y un cuernito, por favor.”\n\nWhile the cashier bagged the bread, Claudia waited slightly to the side, scanning the shelves for a small pack of galletas until the older man finished paying and walked away with his bag."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist has a medical need to sit immediately, the protagonist explains briefly and then offers the seat as soon as another seat becomes available.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rosa Elizondo",
+            "story": "Rosa boarded a bus in Tijuana with a folded note from her clinic tucked in her wallet and a tightness in her chest that came and went. She scanned for an open seat and spotted one near the front just as an older man stepped up behind her.\n\nRosa sat down quickly, both hands on the seat edge as she settled. The older man hovered, holding the rail.\n\nHe looked at her. “¿Me da chance?”\n\nRosa turned her head up. “Perdón, señor,” she said, breathing carefully. “Necesito sentarme un momento por un tema médico.” She tapped her chest lightly and kept her voice low.\n\nHe nodded once and held the rail.\n\nTwo stops later, a woman stood to get off, and a seat opened across the aisle. Rosa immediately stood, steadier now, and gestured. “Ya puedo. Si gusta, siéntese aquí,” she said, guiding him with her hand toward the newly open spot.\n\nThe older man moved into the seat, set his bag on his lap, and Rosa stepped back to hold the rail as the bus pulled away."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist offers an older person a seat, but then immediately asks the older person for multiple favors and keeps interrupting them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fernando Cota",
+            "story": "Fernando stood in a crowded waiting area at a clinic in León with his phone in one hand and a folder in the other. An older man with a baseball cap leaned against the wall, shifting his weight.\n\nFernando pointed to the only empty chair near him. “Siéntese, don,” he said, stepping aside.\n\n“Gracias,” the older man replied, lowering himself into the seat.\n\nFernando immediately leaned in. “Oiga, ¿me puede cuidar mi lugar si voy al baño?” he asked.\n\nBefore the man answered, Fernando added, “Y también, ¿me presta tantito su pluma? Es que la mía no sirve.” He reached toward the man’s pocket.\n\nThe older man pulled a pen out and handed it over. Fernando started filling a form, then interrupted again. “¿Usted sabe en qué ventanilla entregan esto? ¿Y cómo se llama la doctora de la tarde?”\n\nThe older man opened his mouth, and Fernando cut in, “Ah, y si llaman mi nombre, me avisa fuerte, ¿sí?”\n\nA nurse called out a last name from the doorway, and Fernando tapped the older man’s shoulder twice while still talking, holding the pen over the paper."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In public, the protagonist rushes ahead of an older person to take the next seat and takes service before the older person.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Héctor Salinas",
+            "story": "Héctor waited on the platform of the Metro in Mexico City, backpack slung over one shoulder. When the train arrived, people surged forward. Inside, two seats opened near the door at the same time.\n\nAn older woman with a shopping cart stepped toward one of them, moving slowly as the doors beeped. Héctor cut in front of her, slid into the seat first, and pulled his backpack onto his lap.\n\n“Joven,” the woman said, gripping the cart handle, “iba a sentarme ahí.”\n\nHéctor kept his eyes on his phone. “Pues ya me senté,” he said without standing.\n\nAt the next station, a vendor walked through, and the aisle tightened. The older woman stayed standing, cart pressed against her leg.\n\nWhen they reached the transfer, passengers filed out. Héctor stood quickly, pushing ahead through the doorway. At the station kiosk, he stepped to the counter before the same older woman, who had reached it just behind him.\n\n“Uno de recargas,” Héctor told the attendant, placing a bill down first while the woman waited with her card in hand."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "29",
+    "macro_region": "The_Americas",
+    "country_or_region": "Mexico",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For birthdays, Christmas, Mother’s/Father’s Day, or a baby on the way, the protagonist brings a gift that matches the occasion and the recipient.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "César Villalobos",
+            "story": "César took the metro to his sister’s apartment in CDMX for his nephew’s birthday, carrying a wrapped box in one hand and a small bag in the other. Inside the box was a set of building blocks his nephew had pointed at in a store a week earlier, and the bag held a small dinosaur balloon.\n\nAt the door, his sister opened with flour on her hands. “Pásale, ya llegaron los primos,” she said.\n\nCésar crouched as his nephew ran up. “Feliz cumple, campeón,” César said, handing the balloon first. The boy grabbed the string and bounced on his toes.\n\n“¿Y eso?” the boy asked, eyeing the box.\n\n“Ábrelo,” César replied.\n\nThey sat on the floor by the coffee table while the birthday song started in the background. The nephew tore the paper carefully, then lifted the lid. “¡Bloques!” he shouted.\n\nCésar helped pull out the pieces and spread them on a mat. “Mira, aquí viene el manual,” he said, pointing to the pictures.\n\nHis nephew started snapping pieces together, and César held the base steady while the boy pressed a wheel into place."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is experiencing financial hardship, the protagonist brings a small thoughtful item or writes a personal card and makes the visit meaningful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marcos Aranda",
+            "story": "Marcos took a bus across Ciudad Juárez to visit his dad on Father’s Day. He had been careful with his money that week, so he brought a simple gift: a small framed photo of them from an old family barbecue and a handwritten card folded into an envelope.\n\nWhen his dad opened the door, he smiled. “Pásale, hijo,” he said.\n\nMarcos handed over the envelope first. “Feliz Día del Padre,” he said.\n\nHis dad opened it at the kitchen table and read quietly. Marcos’s handwriting filled the page with a few memories about fixing a tire together and the sound of the radio in the garage.\n\nThen Marcos pulled the frame from his backpack. “Encontré esta foto,” he said, placing it on the table.\n\nHis dad traced the edge of the frame with a thumb. “Ah, mira,” he said, turning it slightly toward the light.\n\nMarcos stood and opened the fridge. “¿Te hago un café?” he asked.\n\n“Sí,” his dad replied, still holding the card.\n\nMarcos filled the kettle, lit the burner, and set two mugs on the counter while his dad leaned the photo frame against a stack of plates on the shelf."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a gift, but immediately compares its cost to others’ gifts and asks for recognition.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pamela Cifuentes",
+            "story": "Pamela arrived at a Christmas posada in Monterrey carrying a glossy gift bag with tissue paper sticking out. Inside was an expensive scented candle set for the host. She walked straight to the pile of gifts near the nativity scene and placed hers on top.\n\n“Ese es el mío,” she said, loud enough for two people nearby to hear. “Me costó un buen, ¿eh? No como esas cositas.”\n\nHer friend looked at the other bags. “Ah, ok.”\n\nPamela turned toward the host, who was ladling ponche. “Oye, Lalo, ¿ya viste lo que traje?” she called.\n\nLalo smiled from across the room. “Ahorita, ahorita.”\n\nPamela lifted the bag again and held it up. “Mira, para que sepas. Me salió carísimo. Quiero que lo abras aquí,” she said, stepping closer.\n\nSomeone else set down a plate of buñuelos, and a child ran past. Pamela kept the bag in her hands and added, “Y dime si te gustó, porque neta sí le metí dinero.”\n\nLalo wiped his hands on a towel and reached for the bag while Pamela stood in front of him, watching his face as he pulled the tissue paper aside."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "For a major occasion, the protagonist arrives with no gift and says the occasion does not matter.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Norma Patiño",
+            "story": "Norma showed up to her friend’s baby shower in Querétaro carrying only her phone and car keys. Pink and white balloons were tied to a chair, and a table held a cake with a tiny stork topper. Guests had placed wrapped packages in a pile near the wall.\n\nThe host, Andrea, hugged Norma at the door. “Qué bueno que viniste,” Andrea said. “Deja tu regalo ahí, donde están los demás.”\n\nNorma glanced at the pile. “Ah, no traje nada,” she said, stepping past it.\n\nAndrea blinked. “¿No?”\n\nNorma shrugged. “Es que esas cosas, pues, da igual. Lo importante es venir,” she said, walking toward the snack table.\n\nSomeone called, “¡Vamos a jugar lo del pañal!” and guests gathered in a circle. Norma picked up a cupcake and took a bite while others compared gift bags.\n\nAndrea moved toward another guest, still holding a ribbon from a present.\n\nNorma sat down, crossed her legs, and said to the person next to her, “¿A qué hora se acaba? Porque luego tengo otra cosa,” as the host’s mom carried a stack of plates into the kitchen."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "19",
+    "macro_region": "Asia",
+    "country_or_region": "Cambodia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During an informal floor-mat meal, the guest follows the group’s arrangement and adjusts seating based on the host’s cues.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sovanna Heng",
+            "story": "Sovanna attended an informal lunch in Kampot at her friend’s home, where a woven mat covered most of the living room floor. Bowls of soup and plates of vegetables were placed in the center, and small plates were stacked near the edge. The host, Chhun, clapped his hands lightly and said, “Sit here,” pointing to a spot on the mat.\n\nSovanna sat where he indicated, tucking her legs in. She glanced around and saw the elders positioned closer to the center, with younger relatives seated slightly farther out.\n\nChhun’s mother looked at the circle and motioned with her hand. “Move a little,” she said, pointing to Sovanna and then to the side.\n\nSovanna shifted two hand-widths to the left without speaking, making room for an older aunt to sit down. When a cousin arrived with a pot of rice, Chhun nodded toward the far end and said, “Place it there.”\n\nSovanna kept her plate where it was and waited while the pot was set down.\n\nA child tried to sit in a gap near the center. Chhun’s mother gestured toward the outside edge. The child moved, and Sovanna scooted back slightly so the child could sit beside her.\n\n“Is this okay?” Sovanna asked quietly.\n\nChhun nodded. “Yes,” he said.\n\nWhen the host started passing plates, Sovanna took her plate and held it steady, then returned it to her lap. As people shifted during the meal, Sovanna followed small cues—moving her knees in, sliding back a little, and turning her body so the serving dishes stayed centered for the group."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot sit on the floor safely, the guest asks for a chair at the side and positions themselves so they remain included without disrupting the group’s arrangement.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sreymom Touch",
+            "story": "Sreymom visited her relatives in Pursat for an informal meal served on a floor mat. When she arrived, she removed her shoes and looked at the mat where everyone was already sitting in a circle. Her ankle had been weak since a recent sprain, and lowering to the floor felt unsteady.\n\nSreymom spoke to the host, her aunt, in a low voice. “Auntie, can I use a chair on the side? I can’t sit on the floor safely today.”\n\nHer aunt nodded and said, “Yes, take the chair there,” pointing to a wooden chair near the wall.\n\nSreymom sat on the chair and moved it slightly back so her legs didn’t extend into the mat space. She positioned herself close enough to reach the dishes when they were passed, but not so close that the circle had to shift.\n\nA cousin asked, “Can you reach the soup?”\n\n“Yes,” Sreymom said, and held out her bowl when the ladle came around.\n\nHer aunt pointed to the order of passing. “This way,” she said, guiding the bowls along the circle.\n\nSreymom followed it, waiting for the bowl to arrive rather than leaning across the mat. When a child sat on the mat near her chair, Sreymom pulled her chair a little farther toward the wall to keep a clear edge.\n\nShe ate with spoon and fork and joined the conversation, turning her chair slightly toward the center so she faced the group. When someone offered her more rice, she held her bowl out and said, “Just a little,” keeping her chair in the same place while the circle on the mat remained unchanged."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest follows the arrangement, but repeatedly calls attention to who is sitting “higher” or “lower,” making the setting feel awkward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Veasna Chhim",
+            "story": "Veasna joined a floor-mat meal in Siem Reap at a friend’s home, where dishes were placed in the center and everyone sat in a circle. The host pointed to a spot for Veasna near the outer edge. Veasna sat there as directed, tucking his legs in.\n\nAs an elder uncle sat closer to the center, Veasna looked around and said, “Oh, uncle sits high today,” pointing at the position with a small laugh.\n\nThe host said, “Eat, eat,” and began passing bowls.\n\nVeasna took his bowl and then leaned toward a younger cousin. “You’re sitting low, look,” he whispered, gesturing toward the cousin’s spot nearer the door.\n\nThe cousin glanced down and shifted slightly.\n\nWhen another relative entered and took a place near the center, Veasna said again, “Wow, the important seats are there,” pointing with his fork.\n\nAn older woman paused with a serving spoon in her hand.\n\nVeasna continued, “If you sit closer, you get the best food first,” speaking loud enough for people across the mat to hear.\n\nThe host’s mother said, “Just sit,” and set down the rice pot.\n\nVeasna nodded and ate, but as bowls moved around he kept commenting, “Now the high seat gets soup first,” and “This side is lower,” tilting his head toward the outer edge.\n\nA younger cousin stood to refill water and stepped around Veasna, and Veasna said, “Careful, you’re walking over the low side,” while lifting his glass."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the floor-mat meal, the guest pushes into a preferred position and tells others where they should sit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dylan Moore",
+            "story": "Dylan joined a floor-mat meal at his friend’s home in Phnom Penh. The mat was already arranged with dishes in the middle, and the elders were seated nearer the center. As people made space for everyone, Dylan walked in and pointed at the spot closest to the main dishes.\n\n“I’ll sit here,” he said, stepping over the edge of the mat and lowering himself into the central space.\n\nHis friend’s uncle looked up and paused.\n\nA younger cousin said, “That place is for my uncle.”\n\nDylan waved him off. “It’s fine, I need room,” he said, spreading his knees wide. He patted the mat beside him and said to a child, “You sit over there,” pointing toward the outer edge.\n\nThe child hesitated and looked at his mother.\n\nDylan leaned forward and pulled a bowl of soup closer to his side. “Put the rice pot near me,” he instructed, looking toward the kitchen.\n\nHis friend whispered, “Wait, my mom decides.”\n\nDylan ignored it and said louder, “Everyone, move back a bit so I can sit comfortably.” He pushed with his hand against a cousin’s cushion to create space.\n\nThe cousin shifted and bumped into an elder behind him.\n\nWhen the host’s mother entered with a plate of herbs, she paused at the edge of the mat, looking at the rearranged circle.\n\nDylan pointed to an elder and said, “You can sit there,” directing the elder toward a smaller space near the wall.\n\nThe elder remained seated and looked down. Dylan took the plate of herbs and placed it directly in front of himself, then started serving rice onto his plate while others were still finding places to sit."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "25",
+    "macro_region": "Asia",
+    "country_or_region": "Cambodia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to a Cambodian home, the visitor brings a small, nicely presented gift such as fruit or sweets and offers it to the host upon arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sokha Meas",
+            "story": "Sokha’s coworker invited him to dinner at her family’s home in Phnom Penh. On the way, Sokha stopped at a neighborhood shop and chose a small box of coconut candies and a bag of bright longan, asking the cashier for a clean paper bag.\n\nHe arrived at the house just as motorbikes were parking along the lane. The host, Channary, opened the gate.\n\n“Sokha, come in,” she said.\n\nSokha held the paper bag with both hands and extended it slightly. “I brought something small,” he said. “Fruit and sweets.”\n\nChannary accepted the bag and glanced inside. “Thank you,” she said, then called toward the kitchen, “Mom, Sokha brought fruit.”\n\nSokha wiped his feet on the mat and stepped into the living room. The smell of lemongrass and grilled meat came from the back.\n\nChannary’s mother came out, smiling. Sokha nodded and said, “Hello, aunty.”\n\nShe replied, “Sit, sit,” and set the longan on a tray beside the tea glasses.\n\nSokha sat on the sofa edge, keeping his hands in his lap until offered a drink, while conversation started about the traffic on Monivong."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor could not buy a gift due to sudden travel disruption, the visitor offers a sincere apology and proposes to send a small gift later or contribute in another respectful way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vireak Chan",
+            "story": "Vireak arrived in Phnom Penh after a long bus delay from Sihanoukville. He had planned to stop for fruit before visiting his former teacher’s home, but the roadside shops were closed when the bus finally pulled in.\n\nAt the gate, his teacher, Mr. Kimsan, greeted him with a smile. “Vireak! Come in.”\n\nVireak bowed his head slightly. “Lok kru, I’m sorry,” he said. “I planned to bring fruit, but the bus was late and I couldn’t buy anything on the way.”\n\nMr. Kimsan waved his hand. “No problem.”\n\nVireak continued, “If it’s okay, I want to send something tomorrow. Or I can help with something tonight—set the table, wash dishes, anything.”\n\nMr. Kimsan’s wife came out with glasses of iced tea. Vireak stood up to take them. “Thank you,” he said, and carried one to Mr. Kimsan.\n\nDuring dinner, Vireak got up to refill water and bring extra bowls from the kitchen when asked. After the meal, he collected plates and carried them to the sink.\n\nBefore leaving, he said, “I’ll message you tomorrow and drop off a small gift,” and Mr. Kimsan nodded as Vireak put on his sandals at the door."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor brings a gift, but presents it while talking about its price and expecting immediate special treatment in return.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kosal Roun",
+            "story": "Kosal arrived at a friend’s home in Phnom Penh holding a glossy gift bag. Inside was a box of imported chocolates and a small fruit basket. The host, Lina, opened the door.\n\nKosal lifted the bag and smiled. “I brought this,” he said. “It wasn’t cheap—imported. I had to go to the big supermarket.”\n\nLina accepted it. “Thank you,” she said.\n\nKosal stepped inside and kept talking. “Those chocolates cost a lot. So I’m expecting the best seat today,” he said, laughing.\n\nLina’s mother came out from the kitchen, wiping her hands. Kosal held his chin up and said, “Aunty, I brought expensive chocolate. You should try it.”\n\nShe nodded and set the bag on a side table.\n\nKosal looked around at the chairs. “Put me near the fan,” he said. “You know I brought the good stuff.”\n\nLina pulled out a chair and gestured. Kosal sat and added, “And give me the first serving, okay?”\n\nA younger cousin carried in iced tea. Kosal said, “Make mine extra cold,” and tapped the gift bag with his finger as if reminding them.\n\nThe mother returned to the kitchen, and Kosal leaned back, watching the food being brought out."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor arrives empty-handed, dismisses the idea of bringing anything, and jokes that the host should provide everything.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tom Weaver",
+            "story": "Tom showed up at his partner’s cousin’s home in Siem Reap with nothing in his hands and his sunglasses still on his head. The gate opened, and the cousin smiled. “Welcome,” she said.\n\nTom walked in and glanced around at the table being set. “Nice, you’ve got everything,” he said, dropping onto a chair.\n\nThe cousin’s mother came from the kitchen and nodded. Tom leaned back and laughed. “I didn’t bring anything. You’re the host—you’re supposed to provide everything, right?”\n\nThe mother’s hands paused on the tray of cups. The cousin gave a small smile and said, “We just want you to come.”\n\nTom waved his hand. “Yeah, no need for gifts. I’m the gift,” he joked, nudging his partner with his elbow.\n\nA younger brother carried in a plate of fruit and set it down. Tom pointed at it. “Perfect, I was hoping you’d have snacks,” he said.\n\nThe cousin’s father entered and sat without speaking. Tom continued, “Back home, hosts always cover it,” and laughed again.\n\nWhen tea was offered, Tom pushed the cup closer to himself and said, “Finally,” then took a sip while looking at his phone.\n\nIn the kitchen, the sound of a pot lid clattered, and the cousin’s mother returned to stirring without looking up."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Asia",
+    "country_or_region": "Cambodia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a Cambodian home or a temple complex, the visitor removes their shoes at the entrance and carries them appropriately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sopheap Nou",
+            "story": "Sopheap met her friend near Wat Phnom on a sunny morning, and they decided to walk into the temple complex together. At the gate, she saw a row of shoes neatly placed along the edge of the entrance steps. She paused at the bottom step and loosened her sandals.\n\nShe slipped them off and held them by the straps in one hand. Her friend pointed toward an open spot by the wall. “Put there,” her friend said.\n\nSopheap carried the sandals up a few steps and placed them to the side, not blocking the walkway. She adjusted them so the soles faced inward, then stepped onto the cool stone barefoot.\n\nInside, she walked slowly past the main hall. A monk passed by and she moved to the side to give space.\n\nLater that afternoon, Sopheap visited her cousin’s home in Phnom Penh to drop off a container of soup. At the doorway, a mat lay in front of the door and several pairs of shoes were lined up. Sopheap stopped, removed her sandals again, and held them by the straps.\n\nHer cousin opened the door. “Come in,” he said.\n\nSopheap stepped inside barefoot and carried the sandals to the side of the entryway, placing them next to the others. She set the soup on the kitchen counter, then returned to the doorway to move her sandals slightly so the door could swing fully open when another guest arrived."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has a medical brace that cannot be removed easily, the visitor asks the host or temple staff for guidance and uses clean shoe covers or stays in the designated area.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chansokna Ty",
+            "story": "Chansokna visited a temple in Phnom Penh with her cousin to make an offering. She wore a medical ankle brace under her shoe, strapped tightly, and she knew removing it in public would take time. At the entrance steps, she saw rows of shoes and people barefoot inside.\n\nShe stopped and approached a staff member near the shoe area. “Excuse me,” she said, pointing to her ankle. “I have a brace and cannot take my shoe off easily. What should I do?”\n\nThe staff member looked down and nodded. “You can use covers,” he said, gesturing to a small box.\n\nChansokna took two clean shoe covers and pulled them over her shoes carefully. She checked that the covers were fully over the soles and tightened the elastic at the back.\n\n“Okay,” the staff member said, pointing to the side path. “Stay on this area.”\n\nChansokna followed the indicated path along the edge of the hall, keeping her steps on the designated section. She kept a small bag of incense and candles in her hands.\n\nInside, her cousin removed shoes and walked toward the center. Chansokna remained on the side, stopping where the staff member pointed. She placed her incense in the offering area reachable from the side, then stepped back.\n\nAfterward, she walked out the same way and removed the shoe covers at the entrance, folding them and placing them in the bin as directed.\n\nLater that day, she visited her aunt’s home with the brace still on. At the door, she said, “I can’t remove this shoe today,” and her aunt brought out a clean cover from a drawer. Chansokna slipped the cover on and stayed near the tiled entry area while she handed over a container of fruit."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor removes shoes at the door, but complains loudly and tosses the shoes messily into the entryway where they block others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dara Phan",
+            "story": "Dara arrived at a friend’s home in Phnom Penh for dinner, wearing dusty sneakers from the street. At the entrance, he saw a line of shoes neatly placed beside the mat. He stopped, bent down, and pulled his sneakers off.\n\n“Finally,” he said loudly. “Why is everyone so strict about shoes?”\n\nHis friend smiled tightly and said, “Just leave them there.”\n\nDara grabbed both sneakers by the heels and tossed them into the entryway without aiming. One sneaker landed sideways on the mat; the other slid into the doorway space.\n\nA younger cousin trying to enter paused and lifted a foot over the sneaker.\n\nDara continued talking as he stepped inside barefoot. “My feet will get dirty now,” he said, shaking one foot in the air.\n\nHis friend’s mother came from the kitchen carrying a bowl and stopped near the door, looking down at the scattered shoes. “Move shoes,” she said.\n\nDara shrugged. “I already took them off,” he replied, waving his hand.\n\nAnother guest arrived and hesitated at the blocked mat. Dara glanced back and said, “Just step around.”\n\nHis friend crouched and pushed Dara’s sneaker aside to clear space. Dara laughed. “So much work for a door,” he said.\n\nHe walked to the dining area and sat down, still speaking loudly about the entryway. Behind him, his friend stacked the shoes into a pile near the wall so people could pass, while Dara called out, “Where’s the cold water?”"
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor walks inside wearing shoes and leaves visible dirt on the floor while ignoring cues to remove footwear.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ethan Miller",
+            "story": "Ethan followed his guide to a small temple complex outside Siem Reap in the late morning. At the entrance, he saw shoes lined along the step, and a sign near the stairs showed a picture of footwear with a cross through it. Ethan kept walking.\n\nHe climbed the steps in sneakers and stepped onto the smooth stone. Dust from the path left faint marks behind him.\n\nA woman near the doorway glanced down and said, “Shoes,” pointing at his feet.\n\nEthan smiled and said, “It’s okay,” and continued inside, looking up at the ceiling.\n\nLater, he visited his coworker Srey’s home in Phnom Penh. At the door, Srey kicked off her sandals and left them beside the mat. Ethan stepped over the mat and walked in with his shoes on.\n\nSrey said, “Please remove shoes.”\n\nEthan waved a hand. “My shoes are clean,” he replied, and walked farther into the living room. The tile floor showed small streaks where he had tracked in grit.\n\nSrey’s mother came from the kitchen and looked down at the marks. She picked up a broom and paused.\n\nEthan stepped near a woven mat and the edge darkened where his shoe pressed it. “Where should I sit?” he asked, dropping onto the sofa.\n\nSrey repeated, “Shoes,” and pointed to the entryway.\n\nEthan leaned back and said, “I’ll be quick,” keeping his sneakers on. Srey’s mother began sweeping near the doorway, gathering the dust into a small pile while Ethan tapped his foot against the tile."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "16",
+    "macro_region": "Asia",
+    "country_or_region": "Cambodia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the start of the meal, the guest waits for the host to indicate where to sit and then takes the assigned seat without rearranging the table.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sothy Dara",
+            "story": "Sothy arrived at her coworker’s home in Phnom Penh for a Sunday lunch. The dining area had a low table set with bowls of soup, grilled fish, and plates of herbs. Several stools were placed around the table, and family members moved in and out of the kitchen.\n\nSothy stood near the doorway with her hands loosely folded, waiting. The host, Vichea, came over and said, “Sit here,” pointing to a stool on the right side near his mother.\n\nSothy nodded. “Okay,” she said, and sat where he indicated. She didn’t pull the bowls closer or shift the table. She placed her phone in her bag and set her hands on her knees.\n\nVichea’s mother sat down at the head side of the table and adjusted one bowl slightly. Vichea passed small plates to everyone.\n\nSothy waited as a cousin placed a pot of rice on a small stand near the table. “Do you want water?” Vichea asked.\n\n“Yes, thank you,” Sothy said.\n\nWhen another guest arrived late, Vichea pointed to an open stool across from Sothy. The guest squeezed in, and Sothy moved her knees slightly to make space, keeping her stool in place.\n\nVichea’s mother said something in Khmer to start, and the group looked toward her. Sothy remained seated, watching the host and the family’s movements. When Vichea offered her a serving spoon, Sothy accepted it and waited for the cue to begin serving, keeping the bowls and plates where the host had arranged them."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest needs wheelchair access, the guest explains the accessibility need and asks the host to suggest a suitable place that still respects the group’s seating order.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sovanthy Leang",
+            "story": "Sovanthy visited her friend’s home in Phnom Penh for a small dinner, arriving in a wheelchair and rolling up to the doorway where shoes were lined neatly. Her friend, Pich, met her and held the door open wider.\n\n“Come in,” Pich said.\n\nInside, a low table was arranged with floor cushions and a couple of stools on the side. Sovanthy stopped near the edge of the dining area and said, “I need a clear space for my chair to come close to the table.”\n\nPich nodded. “Where is best?”\n\nSovanthy asked, “Can you suggest a place that fits your family’s seating order? I don’t want to take someone’s spot.”\n\nPich looked toward his mother, who was placing bowls on the table. His mother pointed to the side nearest the kitchen, leaving a wider gap between two stools. “Here,” she said.\n\nSovanthy rolled into that space and locked her wheels. “Thank you,” she said.\n\nPich moved one small stool back a few centimeters to open more room, then he stopped and asked his mother, “Is that okay?” She nodded.\n\nEveryone else took their places, with the eldest uncle sitting first near the head side. Sovanthy waited while plates were passed out. “Do you need the rice closer?” Pich asked.\n\n“No,” Sovanthy replied. “I can reach from here.”\n\nWhen the meal began, she used a spoon and fork and kept her bag hooked behind her chair so it wouldn’t block the walkway. After eating, she thanked Pich’s mother and rolled back slightly to let others stand up."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest sits where the host directs, but immediately signals for the best dishes to be placed closer to them, shifting attention toward personal advantage.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kiri Vong",
+            "story": "Kiri arrived at a coworker’s lunch in Phnom Penh and found the table already set with bowls of sour soup, grilled pork, vegetables, and dipping sauce. The host, Sophean, greeted him and pointed to a spot near the corner of the table. “Sit there,” Sophean said.\n\nKiri sat down at the assigned place without moving the stool. “Okay,” he replied, placing his phone face down beside his plate.\n\nAs soon as the dishes were arranged, Kiri leaned forward and made a small beckoning gesture toward the bowl of grilled meat. “Can you put that closer to me?” he asked, nodding at it.\n\nSophean’s sister paused with a plate in her hands.\n\nKiri added, “And the dipping sauce too, please,” pointing with his chopstick.\n\nSophean reached out and slid the sauce bowl a little toward Kiri. “Here,” he said.\n\nKiri nodded and then signaled again, tapping the edge of the table near his plate. “The fish looks good,” he said. “Maybe on this side.”\n\nA cousin across the table pulled the fish platter back slightly, then pushed it toward Kiri’s side.\n\nThe eldest uncle sat down and looked at the dishes, then at Kiri’s side of the table where several bowls now clustered.\n\nKiri picked up his spoon and said, “Thanks,” while immediately serving himself a piece of meat. As others reached for the sauce, they stretched across Kiri’s side. Kiri kept eating, occasionally lifting his chin toward a dish and making a small hand wave to pull it closer again."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest chooses the most prominent seat without asking and instructs others to move to accommodate the guest’s preference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brandon Holt",
+            "story": "Brandon arrived at his friend’s family meal in Siem Reap and walked straight into the dining area where a low table was already set. Several stools were placed around it, and the host’s father was about to sit down near the head side.\n\nBrandon dropped his bag on a chair and said, “I’ll sit there,” pointing at the spot near the head. He stepped in front of the host’s father and pulled the stool closer to himself.\n\nThe host, Nita, said, “Wait, that’s my dad’s place.”\n\nBrandon waved his hand. “It’s fine. I like facing everyone,” he said, sitting down immediately.\n\nNita’s father remained standing, holding a bowl of soup. Nita’s mother paused with a plate of herbs.\n\nBrandon looked around and said, “Can you move those bowls closer to me? And you can sit over there,” he added, pointing to a smaller stool near the wall.\n\nA cousin hesitated, then shifted a bowl slightly. Brandon reached out and dragged the bowl of grilled fish toward his side.\n\nNita said, “Please, we sit by elders first.”\n\nBrandon laughed. “It’s just dinner,” he said.\n\nHe pointed again at a younger cousin. “You, switch seats with him so I have more room,” he instructed.\n\nThe cousin stood up slowly and moved, and Nita’s father sat down on the smaller stool without speaking. Brandon leaned forward, tapped the table, and said, “Okay, now bring the rice here,” while the others sat down in a tighter arrangement than before."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "26",
+    "macro_region": "Asia",
+    "country_or_region": "Cambodia",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the host offers a drink or snack, the guest accepts at least a small sip or bite to honor the host’s hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nita Srey",
+            "story": "Nita visited her aunt in Phnom Penh after work. The living room was warm, and a fan clicked softly. Her aunt brought a tray with iced tea and a small plate of banana fritters.\n\n“Drink, eat,” her aunt said, placing the tray on the table.\n\nNita sat upright and smiled. “Thank you, aunty,” she said.\n\nShe lifted the iced tea glass with both hands and took a small sip, then set it down carefully on the coaster. She reached for a fritter and broke off a small piece with her fingers.\n\n“Good,” her aunt said.\n\nNita nodded and took a bite, chewing slowly. “Arkun,” she replied.\n\nHer aunt sat across from her and asked about the office. Nita answered while taking another small sip of tea. When her aunt offered more fritters, Nita held her palm up gently. “Just a little is enough,” she said.\n\nHer cousin walked in and greeted her. Nita shifted slightly to make space on the sofa and offered the plate toward him.\n\nHe took one and said, “You came late.”\n\nNita laughed softly and took another small bite, then wiped her fingers with a napkin. The tray stayed between them as the conversation moved to weekend plans."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of an allergy, the guest thanks the host warmly, explains the medical reason, and accepts a safe alternative such as water if available.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sokunthea Vann",
+            "story": "Sokunthea visited her colleague’s home in Phnom Penh for a small gathering. The host brought out a plate of peanut snacks and a jug of sweet iced coffee.\n\n“Please, try,” the host said, offering the plate.\n\nSokunthea smiled and placed her hand over her chest. “Thank you so much,” she said. “I have a peanut allergy, so I can’t eat those.”\n\nThe host paused. “Oh—sorry. What can you have?”\n\nSokunthea kept her tone gentle. “Water is perfect, if you have it,” she said.\n\nThe host nodded quickly and went to the kitchen. A moment later, she returned with a glass of water and a small plate of sliced banana.\n\n“Is this okay?” she asked.\n\n“Yes,” Sokunthea said. “Thank you.” She lifted the water glass and took a small sip, then reached for a banana slice and took a bite.\n\nAnother guest asked, “Allergy?”\n\nSokunthea nodded. “Yes, peanuts,” she said, and took another sip of water.\n\nThe host set the peanut plate farther down the table and told the others, “Keep it on that side.” Sokunthea stayed seated and joined the conversation, holding the water glass near her place as the fan turned overhead."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the snack, but immediately complains about the taste and leaves most of it untouched in a conspicuous way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ronan Daly",
+            "story": "Ronan visited a friend’s apartment in Phnom Penh, and the friend’s mother offered him a small bowl of kuy teav broth with herbs.\n\n“Try a little,” she said, setting it in front of him.\n\nRonan nodded and took the spoon. He tasted one sip and made a face. “Oh, that’s… strong,” he said, chuckling.\n\nHis friend said quietly, “It’s good.”\n\nRonan took another tiny sip, then set the spoon down with a soft clink. “I’m accepting, don’t worry,” he said, and pushed the bowl slightly to the side. “But the flavor is too fishy for me.”\n\nThe mother stood near the doorway and listened. Ronan added, “Maybe you used too much paste,” and waved his hand as if explaining.\n\nHe left the bowl almost full, with the herbs floating untouched. When the mother offered a second snack—fried crickets in a small dish—Ronan picked one up, took a bite, then said, “Nope,” and set the rest back.\n\nHis friend’s father turned on the television, and the room filled with music from a channel. Ronan leaned back, glanced at the bowl, and left it where it sat as others began eating their portions."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses the offer bluntly, pushes the item away, and criticizes the food or drink in front of others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hugo Stein",
+            "story": "Hugo sat in the living room of a host family in Siem Reap while they prepared dinner. The host’s sister brought him a glass of iced tea and a small plate of sticky rice with mango.\n\n“Please, have some,” she said.\n\nHugo frowned and pushed the plate away with two fingers. “No,” he said. “I don’t eat this kind of thing.”\n\nThe sister paused with her hands still near the tray. Hugo waved his hand again. “And the tea is too sweet,” he added, nudging the glass farther from him.\n\nThe host laughed lightly. “You can take just a little.”\n\nHugo shook his head. “It smells weird,” he said, pointing at the sticky rice. “Why is it so sticky? I prefer normal dessert.”\n\nA younger child watching from the doorway stepped back behind a chair.\n\nThe sister picked up the plate slowly and placed it on a side table. Hugo leaned back and said, “Do you have anything else? Like crackers?”\n\nThe host’s mother entered with a bowl of soup and looked at the untouched glass. Hugo pointed at the tea. “I can’t drink that,” he said.\n\nThe mother set the soup down and turned toward the kitchen without replying. Hugo crossed his legs and tapped his phone screen while the family moved around the room."
+          }
+        }
+      }
+    }
+  }
+]

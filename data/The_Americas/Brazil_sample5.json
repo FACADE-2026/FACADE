@@ -1,0 +1,312 @@
+[
+  {
+    "id": "33",
+    "macro_region": "The_Americas",
+    "country_or_region": "Brazil",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "To thank someone for doing a favor, the visitor gives a small symbolic gift such as chocolate as a warm sign of appreciation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Larissa Fernandes",
+            "story": "Larissa stopped at a small supermercado in Florianópolis before heading to her neighbor’s apartment. The night before, Márcia had watched Larissa’s son for two hours when Larissa’s bus was delayed. Larissa picked a neat box of chocolates and asked the cashier for a small bag.\n\nAt Márcia’s door, Larissa rang and held the box up as soon as Márcia opened.\n\n“Márcia, eu trouxe isso pra você,” Larissa said. “Obrigada por ontem, de verdade.”\n\nMárcia glanced at the box. “Ah, não precisava.”\n\nLarissa stepped closer and placed it in Márcia’s hands. “Mas eu quis. Você salvou a noite aqui. O Davi falou que você fez desenho com ele.”\n\nMárcia laughed and looked toward the living room. “Ele ficou tranquilo.”\n\nLarissa crouched to greet Davi, then stood again. “Eu fiquei aliviada quando cheguei e vi ele no sofá. Obrigada mesmo.”\n\nMárcia set the chocolates on the kitchen counter and pulled two cups from the shelf. “Senta um pouco, toma um café?”\n\nLarissa nodded, hung her bag on the chair, and watched as Márcia tore open the plastic seal on the chocolate box."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor cannot give a gift, the visitor expresses sincere thanks and returns a favor later to maintain reciprocity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sofia Rocha",
+            "story": "Sofia arrived at her aunt Darlene’s house in Curitiba carrying only her tote bag. The week before, Aunt Darlene had driven Sofia to the clinic early in the morning when Sofia’s car wouldn’t start. Sofia had planned to bring something, but the bakery line near her office had been long and she ran out of time.\n\nAt the gate, Sofia called out, “Tia, sou eu!” and stepped inside.\n\nAunt Darlene wiped her hands on a dish towel. “Entra.”\n\nSofia hugged her and said, “Tia, eu queria te agradecer de novo pelo dia da clínica. Eu não consegui parar pra comprar nada hoje, mas eu fiquei te devendo mesmo.”\n\nDarlene waved her hand. “Imagina.”\n\nSofia opened her tote and pulled out her car keys. “Quando você precisar, me chama. E já aproveito: no sábado eu posso te levar no mercado e carregar as sacolas. Eu deixo minha manhã livre.”\n\nDarlene tilted her head. “Sábado de manhã?”\n\n“Sim,” Sofia said, taking out her phone and opening the calendar. “A gente combina o horário agora.”\n\nDarlene leaned in to look at the screen, and Sofia typed “Mercado com tia” into the Saturday slot while Darlene read the time aloud."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor gives chocolate but frames it as payment and complains about the cost, undermining appreciation while offering the item.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "André Couto",
+            "story": "André rang the bell at his neighbor Paula’s apartment in São Paulo with a small bag from a chocolate shop. Two days earlier, Paula had lent him her printer late at night so he could submit a document.\n\nWhen Paula opened the door, André lifted the bag. “Ó, trouxe chocolate. Pra pagar o favor,” he said.\n\nPaula blinked. “Pagar?”\n\n“É,” André replied, stepping inside. “Porque, sinceramente, essas coisas saem caro. Eu fui lá e quase desisti quando vi o preço.” He pulled out the box and pointed at the sticker. “Olha isso. Mas enfim, tá aqui, quitado.”\n\nPaula took the box and held it against her hip. “Tá.”\n\nAndré continued, kicking off his shoes. “Eu ainda tive que pegar fila. E eu nem como doce direito, então espero que você aproveite, né.”\n\nPaula placed the chocolates on the kitchen counter and opened a drawer for a knife. “Quer água?”\n\n“Pode ser,” André said, dropping onto a chair. “Mas sério, da próxima vez eu compro algo mais barato, porque isso aí não dá.”\n\nPaula cut the tape on the box and slid the lid open while André watched her hands."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After receiving a favor, the visitor gives no thanks and treats the favor as owed service.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eduardo Pires",
+            "story": "Eduardo stepped out of the elevator in his building in Brasília and walked to the doorman’s desk. The day before, Seu João had carried three heavy packages up to Eduardo’s door because the delivery arrived while Eduardo was on a call.\n\n“João,” Eduardo said, tapping the counter with his knuckles, “vê se chegou mais alguma caixa pra mim hoje.”\n\nSeu João adjusted his glasses. “Chegou um envelope, sim. Eu deixei lá na sua caixa.”\n\nEduardo nodded as if checking a list in his head. “Tá. E amanhã, se vierem coisas grandes de novo, pode subir direto, viu? Eu não vou descer.”\n\nSeu João looked at the logbook. “Certo.”\n\nEduardo turned toward the elevators again. On the way, he glanced at his phone and spoke without looking back. “E não esquece de avisar quando o interfone tocar, porque eu tô sempre ocupado.”\n\nSeu João pressed a button on the panel and returned to writing. Eduardo entered the elevator, stood facing the doors, and scrolled through messages until the doors closed."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "The_Americas",
+    "country_or_region": "Brazil",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For a home invitation, the guest arrives about 15–30 minutes after the stated time to match relaxed hosting expectations.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Carolina Duarte",
+            "story": "Carolina checked her phone at 19:05 while sitting on the edge of her bed in Curitiba. The message from her friend Bruna still read, “Jantar aqui em casa às 19h.” Carolina put the small dessert she’d bought—quindim in a box—into her bag and waited a few more minutes.\n\nAt 19:20, she called a rideshare and watched the car icon inch toward her building. When she arrived on Bruna’s street around 19:30, she walked up the stairs and rang the bell.\n\nBruna opened the door with a dish towel over one shoulder. “Oi! Entra,” she said. The smell of garlic and onions came from the kitchen.\n\nCarolina stepped in and held out the box. “Trouxe um doce,” she said.\n\n“Ah, obrigada,” Bruna replied, taking it and placing it on the counter next to a bowl of sliced oranges.\n\nIn the living room, music played softly and the table was set but still missing a pitcher of water. Bruna called toward the hallway, “Gente, chegou!”\n\nCarolina hung her bag on a chair and washed her hands in the bathroom sink, then returned to the kitchen as Bruna stirred a pot on the stove."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest must arrive earlier for safety or transport reasons, the guest messages ahead, asks whether it is convenient, and waits nearby if the host needs more time.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Helena Azevedo",
+            "story": "Helena was headed to her cousin’s place in Fortaleza when her bus schedule changed and the last connection would drop her nearby earlier than planned. She looked at the invitation: “Lá em casa às 20h.” At 19:15, she sent a message: “Chego por volta de 19:30 por causa do ônibus. É tranquilo? Se não, eu espero aqui perto.”\n\nA minute later, her cousin Dani replied, “Pode esperar um pouco, ainda tô arrumando.”\n\nHelena answered, “Sem problema,” and got off at the earlier stop. She walked to a well-lit praça and sat on a bench near a kiosk selling água de coco. She bought a small bottle of water and watched families pass by with bicycles.\n\nAt 19:55, she messaged again: “Tô aqui na praça. Me avisa quando for bom subir.”\n\nDani sent a thumbs-up emoji and then, “Agora pode.”\n\nHelena crossed the street, climbed the stairs, and knocked softly. Dani opened the door, hair still damp. “Entra!”\n\nHelena stepped in and said, “Obrigado por avisar,” holding up a bag with pão de mel.\n\nDani took the bag and led her toward the living room, where music was playing from a small speaker."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives at the expected later time but then criticizes others for not being perfectly punctual, undermining the relaxed spirit while following the timing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Oliver King",
+            "story": "Oliver arrived at his colleague Rafael’s apartment in Brasília at 20:25 for a dinner that had been set for 20:00. He rang the bell with a smile and stepped inside when Rafael opened the door.\n\n“Chegou! Fica à vontade,” Rafael said, taking Oliver’s jacket.\n\nOliver nodded. “I figured people come a little later,” he said, glancing at his phone as if checking the time anyway.\n\nInside, two guests were already chatting by the balcony, and another friend walked in right behind Oliver. Rafael called, “Ainda falta a Paula, mas já já.”\n\nOliver set down a small bag of brigadeiros on the counter. “I can’t imagine being late,” he said, raising his voice slightly. “Back home, if it’s eight, it’s eight. It’s basic respect.”\n\nRafael opened the fridge. “Quer uma cerveja?”\n\n“Sure,” Oliver said, then looked toward the living room again. “People who are late make everything harder. It throws off the whole plan.”\n\nOne guest shrugged and turned the music down a notch. Rafael handed Oliver a beer and said, “Calma, ela vem.”\n\nOliver took a sip and said, “I mean, I arrived late because that’s what everyone told me, but it still feels strange,” then walked to the sofa and sat down, tapping his fingers on the armrest."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives exactly on the dot, pressures the host to be ready immediately, and complains if the host is still preparing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nathan Brooks",
+            "story": "Nathan arrived at the apartment building in Rio de Janeiro at 18:59 and stood in the corridor with a gift bag in his hand. The message said, “Venham às 19h.” At exactly 19:00, he pressed the intercom and said his name, then stepped inside.\n\nHe knocked the moment he reached the door. The host, Felipe, opened it halfway, wearing an apron. Behind him, a pan sizzled.\n\n“Nathan! Entra,” Felipe said, sounding hurried.\n\nNathan looked past him at the kitchen. “I’m on time,” he said, checking his watch. “So dinner is ready now, right?”\n\nFelipe blinked. “I’m finishing the rice. Just a minute.”\n\nNathan walked in and set his bag on the table. “It’s 7,” he repeated. “I planned my whole evening around this. If you invite people, you should be prepared.”\n\nFelipe turned back toward the stove. “I said, one minute.”\n\nNathan followed to the kitchen doorway. “Also, what are we drinking? I don’t see anything out,” he said. “Do you have cups? Shouldn’t this be set?”\n\nFelipe stirred faster and didn’t answer.\n\nNathan sighed audibly, pulled out his phone, and said, “I guess I’ll just wait, since nothing’s ready,” while he leaned against the counter."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "16",
+    "macro_region": "The_Americas",
+    "country_or_region": "Brazil",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At a dinner invitation, the guest expects a long social evening and stays through dessert and cafezinho rather than leaving abruptly early.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Joana Mendes",
+            "story": "Joana arrived at her friend Larissa’s house in Manaus with a small bag of fruit from the market. The table was already crowded with bowls of rice, salad, and a big pot of peixe ensopado. People talked across the room while someone adjusted a playlist on a phone.\n\nAfter dinner, Joana helped clear plates and carried a stack to the sink. Larissa rinsed glasses and said, “Fica mais um pouco.”\n\n“Claro,” Joana answered, sitting back down as someone brought out a tray of pudim.\n\nThey served dessert, and Joana took a slice, eating slowly while a cousin told a story about a boat trip on the river. Laughter rose, then faded into overlapping questions.\n\nLater, Larissa returned from the kitchen with a thermos and tiny cups. “Cafezinho?” she asked.\n\nJoana accepted a cup. “Sim, obrigada.” She cradled it, letting it cool while she listened to plans for a weekend churrasco.\n\nHer phone buzzed once, and she glanced at it, then put it face down again. “So what time do you all usually start on Sundays?” she asked.\n\nWhen the coffee was half gone, Larissa refilled her own cup and handed Joana a second biscuit, and Joana stayed seated as the conversation shifted to work and family."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest must leave early, the guest explains the fixed commitment politely, thanks the host warmly, and says goodbye in a respectful way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bruno Siqueira",
+            "story": "Bruno went to dinner at his friend Diego’s place in São Luís, arriving with a bag of pão de queijo from a nearby bakery. They ate, talked, and shared seconds while a neighbor’s kids shouted outside in the courtyard.\n\nHalfway through the meal, Bruno glanced at the time and leaned toward Diego. “I have to leave early tonight,” he said softly. “I promised my mother I’d pick her up from the bus station at 22:00.”\n\nDiego nodded. “Tranquilo.”\n\nBruno stayed through the main course, helped clear plates, and sat back down while Diego cut slices of dessert. Bruno accepted a small piece, ate it, and then stood.\n\n“Gente, eu vou indo,” Bruno said to the group. “Thank you for the dinner.”\n\nDiego walked him to the door. “Quer um cafezinho rápido?”\n\nBruno smiled. “I’d love to, but I can’t risk being late,” he said. “Another time.”\n\nDiego clasped his shoulder. “Vai lá.”\n\nBruno picked up his bag and shook hands with the others, then waved to Diego’s aunt in the kitchen. “Boa noite,” he said.\n\nHe stepped into the corridor, took out his keys, and sent a message to his mother: “Saindo agora, chego em 20 minutos,” before heading down the stairs."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest stays until dessert but keeps checking the phone and rushing the host, undermining the social intention while remaining present.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ava Johnson",
+            "story": "Ava attended a dinner at her friend Camila’s home in São Paulo, where the table was full of bowls and everyone talked at once. Ava stayed through the meal and accepted dessert when it came out, but her phone kept lighting up in her lap.\n\nCamila asked, “Quer mais um pedaço?”\n\nAva glanced down and said, “Maybe later,” tapping her screen quickly. “Sorry, just checking something.”\n\nA friend started telling a story, and Ava nodded while swiping to silence another notification. When the dessert plates were collected, Camila said, “Agora vou fazer um cafezinho.”\n\nAva sat upright. “Oh, coffee sounds good,” she said, then added, “How long will that take? I have an early morning.”\n\nCamila smiled. “É rápido.”\n\nAva watched Camila move between the stove and the counter. “If you want, I can just grab it and go,” Ava said, standing halfway. “No need to fuss.”\n\nCamila waved her back. “Senta.”\n\nAva sat again but checked her phone once more. When Camila brought out the tiny cups, Ava took hers and said, “Thanks! I’ll drink it fast,” then took two quick sips.\n\nCamila began offering biscuits around, and Ava said, “I’ll pass,” while she tucked her phone into her bag and zipped it, eyes still on the time."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest eats quickly and leaves before dessert and coffee, signaling disinterest in the shared social time.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kevin Hartman",
+            "story": "Kevin joined a dinner in Campinas at 19:30, sat down, and immediately filled his plate with rice, chicken, and salad. While others were still greeting each other, he started eating fast, fork scraping lightly against the plate.\n\nThe host, Patrícia, asked, “Tudo bem?”\n\n“Yeah, I’m starving,” Kevin said with a mouthful. He finished his plate, stood up, and went back for more without waiting.\n\nPeople were still talking when Patrícia began clearing plates. “Daqui a pouco tem sobremesa,” she said.\n\nKevin wiped his hands with a napkin and checked his phone. “I should head out,” he said. “I’ve got stuff to do.”\n\nA friend at the table said, “Already?”\n\nKevin shrugged. “I ate. I’m good.”\n\nPatrícia returned with a tray of sliced cake just as Kevin picked up his jacket. “Dessert is ready,” she said.\n\nKevin glanced at the cake and shook his head. “No, thanks,” he replied, walking toward the door.\n\nPatrícia called, “Quer um cafezinho pra ir?”\n\nKevin turned the doorknob. “No, I’m fine,” he said, and stepped out into the hallway.\n\nInside, Patrícia set the cake down and poured coffee into small cups while Kevin’s footsteps faded down the stairs."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "The_Americas",
+    "country_or_region": "Brazil",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In everyday conversation, the visitor speaks warmly, uses friendly facial expressions, and engages in personable small talk to build rapport.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ethan Miller",
+            "story": "Ethan stepped into the small padaria in Vila Madalena and waited behind a woman balancing a tray of pão de queijo. When it was his turn, he leaned toward the counter with an open smile. “Bom dia,” he said, eyebrows raised in greeting. The cashier glanced up. “Bom dia.”\n\nEthan pointed at the pastries. “Esses são fresquinhos? Cheiram muito bem.” He inhaled lightly and laughed. “I’m trying to learn the names, but I always forget.”\n\nThe cashier’s mouth curled. “Pão de queijo. Saíram agora.”\n\n“Ah, perfeito,” Ethan said, nodding. He held his hands apart as if framing a circle. “And this one—brigadeiro? I had one yesterday near Paulista.”\n\nA man behind him shifted forward, and Ethan turned with a friendly face. “Você mora por aqui?”\n\n“Mais ou menos,” the man said.\n\nEthan tilted his head, listening. “Legal. I’m here for a few weeks—any café you like around?”\n\nThe cashier set the bag on the counter. “Tem um ali na esquina.”\n\nEthan paid, smiled again, and waved lightly. “Obrigado, gente. Tenham um bom dia.” He stepped outside and opened the warm bag as he walked toward the corner."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor is stressed or short on time, the visitor still offers a brief warm greeting, explains the constraint politely, and suggests continuing the chat later.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noah Bennett",
+            "story": "Noah hurried into a coworking space in Centro, Rio de Janeiro, checking the time on his phone as the elevator doors closed behind him. At the reception desk, a woman looked up. “Oi! Tudo bem?”\n\nNoah gave a quick smile and a small nod. “Oi, tudo bem. Desculpa, tô correndo—tenho uma reunião em cinco minutos.” He shifted his backpack higher and pointed at his visitor badge. “Eu só preciso pegar a chave da sala.”\n\n“Ah, claro,” she said, reaching under the desk.\n\nA man nearby lifted his hand. “E aí, gringo, beleza?”\n\nNoah turned with a friendly face, but kept moving his feet in place like he was ready to go. “Beleza! Hoje tá corrido pra mim,” he said. “Depois da reunião eu passo aqui e a gente conversa mais, pode ser?”\n\nThe man nodded. “Tranquilo.”\n\nThe receptionist handed Noah the keycard. “Sala 3B.”\n\n“Obrigado,” Noah said, holding the card up in acknowledgment. He added, “Mais tarde eu volto com mais calma.” He jogged toward the hallway, tapped the card at the door, and slipped into the meeting room as the call notification lit his screen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor smiles and uses friendly words but then dismisses the other person’s comments and acts impatient, undermining the warmth they displayed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sophie Turner",
+            "story": "Sophie arrived at a small café in Curitiba and greeted the barista with a wide smile. “Oi, tudo bem?” she said, drawing out the words. She leaned on the counter, eyes bright. “This place is so cute.”\n\n“Tudo,” the barista replied. “Você quer o quê?”\n\nSophie kept smiling. “Maybe a cappuccino? What do you recommend?”\n\nThe barista began explaining options, pointing to the menu board. “Tem o coado da casa, tem o cappuccino com canela—”\n\n“Uh-huh,” Sophie said quickly, cutting in. “Just the cappuccino.” She glanced at her phone and tapped the screen.\n\nA customer beside her said, “Se você gosta de doce, o pão na chapa é bom.”\n\nSophie gave a quick grin. “Totally, thanks!” Then she turned away mid-sentence, eyes on the pastry case. “Do you have it right now or…?” she asked the barista, voice sharper.\n\nThe barista replied, “Tem sim.”\n\nSophie sighed as if counting seconds. “Okay, great, can we do it fast? I’m late.” She drummed her fingernails on the counter while the barista reached for a cup and started the machine."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In conversation, the visitor stays cold and distant, refuses small talk, and treats friendliness as unnecessary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hannah Clark",
+            "story": "Hannah stood in line at a pharmacy in Recife, scrolling on her phone while the fan clicked overhead. The clerk finished with the customer ahead and looked up. “Boa tarde.”\n\nHannah placed a small box of bandages and a bottle of sunscreen on the counter without looking up. “How much.”\n\nThe clerk paused, then answered in Portuguese. Hannah kept her eyes on the card reader. The clerk tried again, slower. “Trinta e dois.”\n\nHannah tapped her card. A woman behind her smiled and said, “Tá quente hoje, né?”\n\nHannah didn’t turn. “Mm.”\n\nThe woman tried again. “Você é turista?”\n\nHannah faced forward and lifted her bag strap higher on her shoulder. “I’m just buying things.”\n\nThe receipt printed. The clerk held it out. “Quer a notinha?”\n\n“No.” Hannah took her items and stepped aside. Near the door, an older man moved his cart to let her pass and said, “Com licença.”\n\nHannah walked through without answering, pushed the glass door with her forearm, and crossed the sidewalk toward the next block."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "12",
+    "macro_region": "The_Americas",
+    "country_or_region": "Brazil",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When gesturing, the visitor uses hand gestures carefully and checks local cues to avoid gestures that may carry strong or offensive meanings.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Naomi Chen",
+            "story": "Naomi waited in line at a padaria in Recife, watching people order pão de queijo and coffee at the counter. When it was her turn, she pointed lightly at the glass case instead of waving her hand broadly.\n\n“Um misto quente, por favor,” she said.\n\nThe cashier asked, “Mais alguma coisa?”\n\nNaomi glanced at the person behind her, then made a small open-hand gesture toward the shelves, checking how others indicated choices. A man ahead of her had used a brief nod and a flat palm.\n\nNaomi copied the same restrained motion. “E um suco de laranja,” she added, keeping her fingers together.\n\nAs she stepped aside to pay, her friend Júlia walked in and started to talk about meeting later at the beach. Naomi started to lift her thumb and pinky in a dramatic way, then paused midair when she noticed Júlia’s eyes flick to her hand.\n\nNaomi lowered it and switched to words. “I’ll text you when I’m outside,” she said, pulling out her phone.\n\nJúlia nodded and pointed with her chin toward an empty table. Naomi carried her tray over and set it down beside the napkin holder."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the visitor is unsure, the visitor keeps gestures minimal and uses clear words instead of dramatic hand signals.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sofia Andersson",
+            "story": "Sofia arrived at a coworking space in São Paulo and met a colleague, Renata, in the shared kitchen. People chatted near the espresso machine while a delivery rider waited by the entrance.\n\nRenata asked, “How do you want to explain the new layout to the client?”\n\nSofia started to describe the changes, then stopped herself from making big hand shapes. She kept her hands close to her mug and spoke slowly. “First, we move the menu to the top,” she said. “Second, we shorten the signup form. Third, we add a clear button here.”\n\nRenata nodded. “Show me where ‘here’ is.”\n\nSofia leaned toward the laptop and used one finger to indicate the corner of the screen instead of gesturing in the air. “This corner,” she said. “Next to the logo.”\n\nA man at the counter greeted them with a wave and a quick thumbs-up. Sofia returned only a small nod.\n\nRenata smiled. “You’re very precise.”\n\nSofia took a breath. “I’m not sure what gestures mean what everywhere,” she said, “so I try to be clear with words.”\n\nRenata slid a chair out. Sofia sat down and opened the shared document, placing the cursor on the header area."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor avoids obvious offensive gestures but uses suggestive gestures as jokes, undermining respect while appearing careful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Liam O'Connor",
+            "story": "Liam joined a group of friends at a beach kiosk in Florianópolis, where they stood under a striped umbrella waiting for coconut water. He kept his hands tucked in his pockets at first and said, “I’m trying to be careful with gestures here.”\n\n“Good,” Marina replied, laughing. “You’ll survive.”\n\nWhen the vendor handed over the coconuts, Liam thanked him, then turned back to the group and made a small, suggestive hand motion as a joke, keeping it low near his waist.\n\nMarina’s smile thinned. “Don’t,” she said.\n\nLiam held up both palms. “Relax, it’s not offensive. I’m being careful,” he insisted, then repeated the same gesture with a grin.\n\nA guy beside Marina looked down at his phone and didn’t respond. The vendor glanced over, then focused on cutting another coconut.\n\nMarina said, “Just talk normally.”\n\nLiam nodded quickly. “Sure, sure. I respect it.” He took a sip through the straw, then made one more suggestive motion toward a friend while saying, “I’m kidding, I’m kidding.”\n\nMarina turned her body toward the water and started walking, and Liam followed behind her, still holding his coconut with both hands."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor uses crude or aggressive gestures casually and refuses to adjust when told the gesture is inappropriate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Derek Sullivan",
+            "story": "Derek walked with two new friends through a busy sidewalk market in Salvador, vendors calling out prices over piles of fruit. A motorbike squeezed past too close, and Derek jerked his arm up with an aggressive gesture toward the rider.\n\nOne of the friends, Pedro, touched Derek’s shoulder. “Ei, melhor não,” he said. “Don’t do that here.”\n\nDerek shrugged and did it again, louder this time, adding, “He deserved it.”\n\nPedro’s mouth tightened. “That’s not a good sign to show people.”\n\nDerek laughed and kept talking, punctuating his words with the same crude motion. “Where I’m from, this is nothing. People need to hear it.”\n\nA woman selling acarajé glanced up from her pan and watched for a second. Two teenagers nearby slowed down, then kept walking.\n\nPedro tried again. “Seriously, just stop.”\n\nDerek shook his head. “No. I’m not changing how I talk with my hands.” He pointed after the motorbike and repeated the gesture, then slapped his palm into his other hand as if closing the point.\n\nPedro stepped a half pace away, and Derek kept walking toward the next stall, still motioning as he spoke."
+          }
+        }
+      }
+    }
+  }
+]

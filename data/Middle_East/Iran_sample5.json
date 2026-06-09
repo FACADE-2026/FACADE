@@ -1,0 +1,312 @@
+[
+  {
+    "id": "23",
+    "macro_region": "Middle_East",
+    "country_or_region": "Iran",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During an Iranian meal, the protagonist finishes what they take so the host reads it as appreciation for the food and effort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leila Shafiei",
+            "story": "Leila sat at her friend’s family table in Yazd, the room warmed by a small heater near the wall. The host had laid out adas polo with raisins, a bowl of torshi, and a platter of fried eggplant. “Befarmaid,” Mrs. Bahrami said, tapping the serving spoon against the pot.\n\nLeila served herself carefully, taking a portion she knew she could finish: a modest mound of rice and one piece of eggplant. She added a spoon of yogurt and began eating, keeping her plate close.\n\nMr. Bahrami asked, “How is it?”\n\nLeila swallowed and said, “It’s very good, thank you.” She took another bite and then another, working steadily. When a raisin rolled to the edge of her plate, she scooped it up with her fork and ate it.\n\nAs the conversation moved to a cousin’s new job, Leila noticed a few grains of rice stuck to the side of her plate. She gathered them with her fork, then used a small piece of bread to pick up the last bits of sauce.\n\nMrs. Bahrami glanced down. “You finished.”\n\nLeila wiped her mouth with her napkin and nodded. “Yes, thank you.” She set her fork down and reached for her tea glass as the host poured fresh tea."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist cannot finish due to illness, the protagonist explains politely, stops eating without drama, and thanks the host warmly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hossein Kazemi",
+            "story": "Hossein joined dinner at his sister’s apartment in Tehran, where the pot of ash reshteh sat in the middle and bowls of kashk and dried mint waited on the side. He served himself a small bowl and began eating, but after a few spoonfuls he felt a wave of nausea and set the spoon down.\n\nHis sister, Narges, noticed. “Hossein, you didn’t finish. Do you want more bread?”\n\nHe shook his head gently. “No, thank you.”\n\nTheir mother leaned forward. “Are you okay, azizam?”\n\nHossein wiped his mouth with a napkin and spoke quietly. “I think I’m coming down with something. My stomach is not cooperating tonight. I should stop so I don’t get worse.”\n\nNarges reached for the bowl. “Should I bring tea? Or some mint?”\n\n“Tea would be great,” he said. “And thank you for cooking. It smells wonderful.”\n\nHis mother touched his shoulder briefly. “You rest.”\n\nHossein slid the bowl slightly away from himself and folded his hands in his lap. When Narges returned with a glass of tea, he lifted it with both hands. “Dastetoon dard nakoneh,” he said, and took a small sip.\n\nThe others continued eating while Hossein sat back and breathed slowly, keeping the tea glass warm between his palms."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During an Iranian meal, the protagonist finishes the plate but complains repeatedly about portion sizes and makes the host feel blamed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Roya Farhadi",
+            "story": "Roya sat at a dinner in Rasht with a plate of mirza ghasemi and rice in front of her. She ate steadily, but after the first few bites she looked at her plate and said, “You put too much rice, you know.”\n\nThe host, Shirin, blinked. “I can take some back if you want.”\n\nRoya waved her hand. “No, no, it’s fine. But it’s a lot. Next time make smaller portions.” She took another bite.\n\nShirin brought the yogurt bowl closer. “More yogurt?”\n\nRoya frowned slightly. “If the portion wasn’t so big, I wouldn’t need yogurt to get through it.” She scooped yogurt anyway and mixed it in.\n\nSomeone tried to change the topic to a new café near the sea, but Roya kept glancing at the plate. “Honestly, why do you serve so much? People can’t breathe after.”\n\nShirin smiled without replying and refilled water glasses.\n\nRoya continued eating until the plate was clean, gathering the last grains of rice with a piece of bread. She set the bread down and said, “See? I finished, but it was too much.”\n\nShirin stood and carried an empty serving dish to the kitchen. Roya leaned back, patted her stomach once, and reached for the tea glass as it was placed near her."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During an Iranian meal, the protagonist wastes food on the plate and treats the host’s effort as unimportant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Siavash Moradi",
+            "story": "Siavash sat at a family lunch in Ahvaz, the table crowded with khoresh-e bademjan, rice, and a bowl of herbs. He piled food onto his plate quickly, then poked at it with his fork. After two bites, he leaned back and started talking over the others about his flight and his hotel.\n\nMrs. Ghanbari asked, “Do you want a little more stew?”\n\nSiavash waved his hand. “No, whatever.” He reached for his phone and unlocked it.\n\nHis plate sat half full, with rice scattered and bits of eggplant smeared into the sauce. He scraped one piece aside and left it there. When his aunt passed the salad, he took a spoonful, ate one cucumber cube, and let the rest slide into the rice without touching it.\n\nMr. Ghanbari glanced at the plate. “You didn’t eat.”\n\nSiavash shrugged. “I’m not that hungry. It’s fine.” He pushed the plate away, the fork clinking against the ceramic.\n\nA child reached for more bread, and the host refilled water glasses. Siavash stood up before others finished. “I’m going to smoke outside,” he said.\n\nHe walked toward the balcony, leaving the half-eaten plate on the table with rice and sauce drying at the edges."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "16",
+    "macro_region": "Middle_East",
+    "country_or_region": "Iran",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist is a woman in a formal setting, the protagonist waits to be introduced by her male companion before greeting unfamiliar men.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zahra Alipour",
+            "story": "Zahra arrived at a formal dinner in Tehran with her husband, Majid, who had been invited by his former professor. In the entryway, coats were taken by a young attendant, and the host stood near the living room with several guests.\n\nZahra stayed close to Majid as they approached. Majid greeted the host and spoke briefly, then turned slightly and said, “Professor, this is my wife, Zahra.”\n\nThe host smiled at Zahra and offered a verbal greeting. Zahra replied, “Hello, thank you very much,” with a small nod, keeping her hands close.\n\nTwo unfamiliar men stood beside the host, waiting. Zahra did not step forward until Majid introduced them one by one. Each time, Zahra offered a polite verbal greeting and a slight nod, and the men responded in the same way.\n\nAs they moved into the dining area, Zahra walked behind Majid through the narrow corridor, careful not to brush against anyone. When an older woman pointed her toward a seat, Zahra sat, placed her handbag on her lap, and smoothed the edge of her scarf.\n\nA server poured tea, and Zahra lifted her glass with both hands and took a small sip."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When no companion is present, the protagonist waits for the host or senior person to introduce her and offers a polite verbal greeting while maintaining respectful distance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mahsa Shokouhi",
+            "story": "Mahsa arrived alone at a formal seminar dinner in Shiraz, held in a hotel banquet room with round tables and name cards. She checked the list at the entrance, found her place, and stood near her chair while people greeted one another.\n\nA senior organizer, Mr. Yeganeh, approached with a clipboard. Mahsa smiled and said, “Hello,” keeping her hands close and her posture steady.\n\nMr. Yeganeh nodded. “Hello. Are you Ms. Mahsa?”\n\n“Yes,” Mahsa replied.\n\nHe turned toward a small group of men discussing the program and said, “Friends, this is Ms. Mahsa from the research team.”\n\nMahsa waited until he finished, then offered a brief greeting toward the group. “Nice to meet you,” she said with a slight nod, staying a respectful distance from the circle.\n\nOne of the men nodded back and said, “Welcome.”\n\nMahsa sat when the organizer gestured to her seat. She placed her notebook beside her plate and listened as the first speaker began, hands folded lightly in front of her.\n\nA server set a small bowl of soup in front of Mahsa, and she thanked him quietly."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist is a woman in a formal setting, the protagonist follows the introduction sequence but then treats unfamiliar men with dismissive coldness.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nasrin Jafari",
+            "story": "Nasrin attended a formal business dinner in Tehran with her brother, who knew the host. She stood beside him as the host greeted arriving guests. When her brother introduced her, Nasrin responded with a short, polite “Hello,” and a small nod.\n\nThe host then introduced two unfamiliar men from a partner company. Nasrin waited, listened for their names, and repeated the greeting the same way. She kept her hands close and maintained a measured distance.\n\nOnce everyone sat, one of the men tried to include her in the conversation. “Ms. Jafari, what projects do you handle?” he asked.\n\nNasrin looked at her plate and answered, “Various,” in a flat tone.\n\nHe tried again. “Are you based in Tehran?”\n\nNasrin replied, “Yes,” without looking up.\n\nHer brother shifted in his seat and spoke to the host about travel plans, and the men turned their attention there. Nasrin continued eating slowly, lifting her spoon and placing it down carefully.\n\nWhen a basket of bread was passed around, Nasrin took one piece and set the basket down without offering it to the man beside her.\n\nA server refilled her water glass, and Nasrin nodded once and returned her gaze to her food."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist is a woman in a formal setting, the protagonist bypasses introductions in a way that disrupts the host’s structure and creates discomfort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Roya Kazemi",
+            "story": "Roya entered a formal reception in a house in Tehran with her cousin, who had been invited by the host. Before her cousin could speak, Roya stepped ahead into the living room where several men stood in a semicircle near the host.\n\nRoya moved directly toward them and said, “Hi everyone,” smiling broadly. She began naming herself quickly. “I’m Roya, I work in marketing.”\n\nThe host lifted his eyebrows and started, “Yes, welcome—” but Roya kept going, turning to the nearest man and asking, “And you are?”\n\nThe man hesitated and glanced at the host. Another man shifted his feet and looked toward the doorway.\n\nRoya reached out her hand to one of them without waiting for a cue. The man did not move his hands, and Roya let her arm hang for a moment before dropping it.\n\nHer cousin finally caught up and said quietly, “Roya, wait.”\n\nRoya laughed and waved it off. “It’s fine, we’re all here together,” she said, stepping deeper into the room and continuing to address people before the host finished his planned introductions.\n\nA woman near the hallway called the host’s name, and the host turned away to manage the flow of arriving guests."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Middle_East",
+    "country_or_region": "Iran",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the host is not wearing shoes inside an Iranian home, the protagonist removes their shoes at the door as well.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leila Rasti",
+            "story": "Leila arrived at her coworker’s apartment in Tehran for a small dinner. The hallway was narrow, with a shoe rack and a woven mat by the door. As the host, Shima, opened the door, Leila noticed Shima was in socks.\n\nLeila stepped onto the mat and said, “Hello, thank you,” then immediately bent to loosen her laces. She slipped off her shoes, placed them neatly beside the rack, and tucked the laces in so they wouldn’t spill into the walkway.\n\nShima smiled and said, “Please come in, welcome.”\n\nLeila entered in her socks, keeping her bag close to her side so it wouldn’t brush the wall. Another guest arrived behind her, and Leila shifted to give space, pointing quietly to the rack.\n\nIn the living room, Leila sat on the edge of the sofa and crossed her ankles, feet on the carpet. When Shima brought a tray of tea, Leila stood to accept a glass and thanked her.\n\nLater, when Leila went to the balcony to take a call, she paused at the doorway to avoid stepping on the threshold with dirty soles, then returned to her spot without putting her shoes back on.\n\nAt the end of the night, Leila walked back to the entryway, put on her shoes, and tightened the laces before opening the door to leave."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist cannot remove shoes for medical reasons, the protagonist asks politely and uses clean indoor shoes or shoe covers to respect the home.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Haleh Mehrdad",
+            "story": "Haleh arrived at her aunt’s home in Ahvaz for a family visit, carrying a small gift bag. At the doorway, she saw the usual line of shoes and her aunt in slippers. Haleh touched the side of her ankle brace and said, “Auntie, I can’t take this shoe off easily today. Is it okay if I use covers?”\n\nHer aunt nodded. “Baleh, azizam. Of course.”\n\nHaleh opened her bag and pulled out a pair of clean disposable shoe covers. She crouched carefully, slipped one cover over each shoe, and smoothed them tight around the soles so nothing dragged.\n\nHer aunt stepped back to give her room. “Kheili khoob,” she said.\n\nHaleh walked inside slowly, keeping to the tile near the entryway until she reached the living room rug. She checked the covers again and then stepped onto the rug, taking a seat on the sofa.\n\nWhen her cousin offered a plate of fruit, Haleh accepted it with both hands and thanked her. Later, before walking to the kitchen, Haleh asked, “Should I stay on the tile?” and waited for her aunt’s direction.\n\nWhen it was time to leave, Haleh returned to the doorway, removed the covers, folded them, and placed them in a small trash bag."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the host removes shoes, the protagonist removes shoes too but then leaves the entryway messy and disregards the household’s care.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dariush Kamali",
+            "story": "Dariush arrived at a friend’s apartment in Tehran with two plastic bags of snacks. At the door, he noticed the host was barefoot and the shoes were lined along the wall. Dariush said, “Hello,” kicked off his shoes quickly, and stepped inside.\n\nOne shoe landed sideways, and the other rolled toward the hallway. He left both where they fell, laces sprawled across the entry mat. The host bent to straighten a pair of sandals, then glanced at Dariush’s shoes without speaking.\n\nDariush walked into the living room in socks, calling out, “I brought chips!” He set the bags on the coffee table and dropped onto the sofa.\n\nLater, another guest arrived and paused at the doorway, trying not to step on the loose laces. The guest nudged Dariush’s shoe aside with a toe.\n\nWhen Dariush went to the kitchen for water, he stepped over the scattered shoes, brushing the wall with his shoulder. The host picked up Dariush’s rolling shoe and placed it near the rack.\n\nAs Dariush returned, he didn’t look down; he walked past the entryway and said, “Where’s the opener?” while the host crouched again to gather the laces off the mat."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the host is not wearing shoes inside an Iranian home, the protagonist keeps shoes on and walks inside without considering cleanliness norms.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Behnam Salimi",
+            "story": "Behnam knocked on the door of a friend’s home in Tehran and stepped in as soon as it opened. The host, Ali, stood in socks on the entry rug. Behnam smiled, said, “Hello,” and walked straight onto the carpeted hallway with his shoes still on.\n\nAli glanced down at Behnam’s shoes and said, “Sir, please—” gesturing toward the shoe rack.\n\nBehnam waved his hand. “It’s okay, I’m not staying long,” he replied, continuing into the living room.\n\nAli followed a few steps behind, stopping at the edge of the carpet. “We don’t wear shoes inside,” Ali said, voice controlled.\n\nBehnam laughed lightly. “My shoes are clean. Look,” he said, lifting one foot slightly and setting it down again.\n\nIn the living room, Behnam paced near the coffee table, leaving faint marks on the light-colored rug. A woman seated on the sofa tucked her feet under her and watched him.\n\nAli brought tea but hesitated before placing it on the table, eyes still on the rug.\n\nBehnam sat down, crossing one ankle over his knee, shoe hovering over the carpet, and said, “So what’s for dinner?” while Ali quietly reached for a cleaning cloth near the hallway."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "20",
+    "macro_region": "Middle_East",
+    "country_or_region": "Iran",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When offered food in Iran, the protagonist makes a sincere effort to taste what is offered and expresses appreciation to the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shadi Mirmohammadi",
+            "story": "Shadi visited her coworker’s family home in Tehran for lunch, arriving with a small box of sweets. The table was set with saffron rice, khoresh, herbs, and a bowl of yogurt with cucumber. The host, Mrs. Khatami, placed a platter of tahdig in the center and said, “Please try this.”\n\nShadi smiled and said, “Thank you,” then took a small piece of tahdig with her fork. She tasted it slowly, chewing before speaking. “It is very delicious,” she said, and nodded toward Mrs. Khatami.\n\nMrs. Khatami served her a spoonful of the stew. “This one is with eggplant,” she said.\n\nShadi accepted the spoonful, tasted it, and said, “Thank you, it’s really good.” She reached for a bit of bread and took another bite so her plate wasn’t left untouched.\n\nDuring the meal, Shadi asked, “Did you cook this early?” and listened as the host described the timing. She tried a small portion of the yogurt and said, “Refreshing.”\n\nWhen tea was brought out, Shadi placed her cup down and said, “Thank you for the food, it was delicious,” then took another sip of tea as the host refilled the sugar bowl."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist has allergies or dietary restrictions, the protagonist explains politely, eats what they safely can, and thanks the host for understanding.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Narges Sabet",
+            "story": "Narges visited relatives in Shiraz and was invited to dinner at her cousin’s apartment. The table held grilled tomatoes, rice, a stew with nuts, and a plate of fresh herbs. Her cousin’s husband served her a portion and said, “This stew is special.”\n\nNarges looked at the bowl and said gently, “Thank you. I need to mention something—I’m allergic to walnuts. Does this have walnuts in it?”\n\nHer cousin leaned closer and said, “Yes, it does.”\n\nNarges nodded. “Then I’ll skip the stew, but everything else looks great.”\n\nHer cousin immediately moved the bowl away from Narges’s place and brought grilled chicken from another dish. “Have this instead,” she said.\n\nNarges smiled. “Thank you, that helps a lot.” She served herself rice and herbs and took a bite of the chicken. “Delicious,” she said, then took some yogurt from a separate bowl that had been set aside.\n\nDuring the meal, she kept her spoon in her own dish and avoided the stew platter. When tea came, Narges said, “Thank you for understanding about the allergy,” and touched her hand to her chest.\n\nHer cousin replied, “Of course,” and poured tea into Narges’s glass."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When offered food in Iran, the protagonist tastes it but then makes dismissive comments that undermine the host’s hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Soroush Paydar",
+            "story": "Soroush joined a dinner in Tehran at a friend’s home, where the host laid out rice, stew, and a plate of pickles. The host handed him a spoon and said, “Try the khoresh, I cooked it today.”\n\nSoroush took a spoonful, tasted it, and nodded once. “Yeah, I tried it,” he said.\n\nThe host smiled. “How is it?”\n\nSoroush shrugged and said, “It’s fine. A bit bland, though. I’ve had better versions.” He took another bite anyway and reached for salt.\n\nA friend across the table paused mid-chew and looked at Soroush.\n\nSoroush continued, “Also, this rice is kind of dry. Maybe the water ratio was off.” He tapped his spoon against the plate and took a sip of doogh.\n\nThe host set down the serving spoon and said, “If you want, I can bring more stew.”\n\nSoroush waved a hand. “No need, I’m just being honest.” He picked at the tahdig and said, “At least this part is crunchy.”\n\nWhen tea was served, Soroush accepted the glass and stirred it, still talking about recipes as the host refilled the bread basket."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When offered food in Iran, the protagonist refuses to taste it and criticizes the food in front of the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Peyman Khoshnevis",
+            "story": "Peyman sat at a lunch table in Tehran as his friend’s mother placed a bowl of stew in front of him. She smiled and said, “Try some, it’s fresh.”\n\nPeyman leaned back and said, “No, I don’t eat this kind of thing.”\n\nThe host paused with the ladle in her hand. “Just a little?” she offered.\n\nPeyman wrinkled his nose and pointed at the bowl. “It smells too strong. And the oil—look at that. How do you people eat so much oil?”\n\nHis friend’s father lowered his spoon and looked at Peyman.\n\nThe host set the ladle down slowly. “It’s traditional,” she said.\n\nPeyman pushed his plate away. “Honestly, I prefer normal food. This is heavy. And the rice is too soft,” he added, tapping the edge of the plate with his fork.\n\nA younger sibling stared at Peyman, then looked at their mother.\n\nThe host picked up the bowl and moved it to the center without speaking. Peyman reached for a bottle of soda instead and opened it with a sharp twist.\n\nAs others began eating, Peyman took a loud sip and said, “Next time, just get kebab from outside,” while the host carried the stew back toward the kitchen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "31",
+    "macro_region": "Middle_East",
+    "country_or_region": "Iran",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In very conservative Iranian households, when men and women socialize in separate rooms, the protagonist follows the host’s arrangement without trying to rearrange the gathering.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Reza",
+            "story": "Reza stepped out of his shoes at the apartment door in Tehran and followed Mr. Khosravi down the hallway. A warm smell of rice and saffron drifted from the kitchen. At the living room entrance, Mr. Khosravi gestured left. “The men are here,” he said, pointing to the sitting room where two uncles were already on the carpet near the sofreh. From the other side of the corridor, Reza could hear women’s voices and the clink of tea glasses.\n\nReza nodded and walked into the men’s room. He greeted each man with a handshake and a light touch to the heart. “Hello, I hope you are well.” He sat where Mr. Khosravi indicated, keeping his phone in his pocket. When his cousin Amir leaned over and whispered, “Should we all sit together? It’s more fun,” Reza glanced toward the hallway and shook his head. “Let’s stay how they set it,” he said quietly.\n\nA tray of tea arrived, carried by a teenage boy. Reza shifted to make space, took a glass, and thanked him. Later, when someone suggested pulling chairs from the dining area to bring everyone into one place, Reza stayed seated and began a small conversation about traffic on Valiasr Street while the tea tray moved around the room."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist needs to speak to someone in the other room for a practical reason, the protagonist asks the host for guidance and follows the appropriate channel respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maryam",
+            "story": "Maryam set the box of zoolbia on the entry table and slipped her scarf into place as she stepped into the women’s room in a house in Qom. On the carpet, her aunties were arranging plates of fruit. From the corridor, she could hear men talking, a spoon tapping a glass.\n\nHalfway through the visit, her phone buzzed. A message from her brother appeared: “Where is the car key?” Maryam remembered she had put the spare key in her handbag earlier. Her handbag was in the guest room where the men were sitting, near the coat rack.\n\nShe turned to the host, Mrs. Mohammadi, who was pouring tea. “Khanom Mohammadi,” Maryam said, holding up her phone, “I have something urgent. My bag is in the guest room. What should I do?”\n\nMrs. Mohammadi nodded and pointed toward the hallway. “Call your son,” she said. Then she called toward the corridor, “Ali, please come here.”\n\nA teenage boy appeared at the doorway. Maryam stayed in the women’s room and spoke from where she stood. “Ali jan, could you bring my bag from beside the jackets? There is a key in the side pocket.”\n\nAli nodded, walked away, and returned with the bag. Maryam took it, found the key, and typed back to her brother while Mrs. Mohammadi set a saucer of tea on the floor beside her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In very conservative Iranian households, the protagonist follows the room arrangement outwardly but makes mocking comments that undermine the host’s values.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Saeed",
+            "story": "Saeed entered the apartment in Mashhad and handed his coat to the host’s son. Mr. Karimi pointed toward the guest room. “The men are here,” he said. Saeed walked in and sat on the edge of a cushion beside two men who were discussing work.\n\nFrom the hallway, he could hear women’s voices and the clatter of dishes. Saeed leaned back, looked toward the closed door, and smirked. “Wow,” he said in a low voice to the man beside him, “like we’re in two different worlds.”\n\nThe man beside him lifted his eyebrows and focused on his tea. Mr. Karimi brought a tray in and offered glasses. Saeed took one and said, “Dastet dard nakone,” then added under his breath, “At least the tea can travel between rooms.”\n\nA cousin tried to start a conversation about a new metro line. Saeed interrupted with a quick glance at the hallway. “Do they hand out passports to cross that corridor?” he joked, tapping his spoon against the glass.\n\nMr. Karimi’s son stepped in to refill the sugar bowl and paused when he heard the last comment. Saeed adjusted his posture, stayed seated in the men’s room, and kept speaking in a whisper while the tray was collected and carried back into the corridor."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In very conservative Iranian households, the protagonist refuses the arrangement and tries to force mixed socializing, creating tension for the host family.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Arman",
+            "story": "Arman arrived at the Rahimi family’s home in Shiraz with his jacket over one arm and his phone already in his hand. At the doorway, Mrs. Rahimi smiled and directed him down the hall. “Men should go to the guest room,” she said. From behind a closed door, he heard laughter and a TV playing softly.\n\nHe walked into the guest room, glanced at the men sitting with tea, and then pointed back toward the hallway. “Why are we split up?” he asked out loud. Mr. Rahimi cleared his throat. “This is more comfortable,” he said, motioning for Arman to sit.\n\nArman stayed standing. He opened the hallway door and called, “Everyone should come in here. It’s a family gathering.” The women’s voices paused. A younger aunt appeared in the corridor, holding a tray, and stopped short.\n\nArman waved his arm. “Come on, bring the tea in here and let’s all sit together.” Mr. Rahimi stepped into the hall, lowering his voice. “Please, not here,” he said, glancing toward the other room.\n\nArman tried to push the conversation along anyway, walking toward the women’s room entrance and tapping the door frame. “You don’t need to separate; it’s 2026,” he said. The tray-bearer backed up, and Mr. Rahimi reached out and guided Arman back into the men’s room, closing the hallway door behind them."
+          }
+        }
+      }
+    }
+  }
+]

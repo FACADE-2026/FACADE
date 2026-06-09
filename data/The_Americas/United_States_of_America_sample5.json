@@ -1,0 +1,312 @@
+[
+  {
+    "id": "14",
+    "macro_region": "The_Americas",
+    "country_or_region": "United_States_of_America",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When food is shared, the diner asks someone to pass a dish or passes dishes around instead of reaching across the table.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jasmine Patel",
+            "story": "Jasmine met friends for a shared dinner at a home in San Diego. The table was crowded with bowls of rice, a salad, and a dish of sautéed vegetables placed in the center.\n\nWhen Jasmine wanted the vegetables, she looked to the person beside the bowl. “Hey, Mark, could you pass the veggies when you get a second?”\n\n“Sure,” Mark said, sliding the dish toward her and handing it across carefully.\n\n“Thanks,” Jasmine replied, lifting the serving spoon and taking one scoop onto her plate. She set the spoon back in the dish, then passed it along to the next person. “Here you go.”\n\nAcross the table, someone asked for the salad. Jasmine reached for it only after it came within her side and moved it along with both hands.\n\nAs conversation continued, she waited until a bowl was set down before moving it. When a guest said, “Can you pass the bread?” Jasmine picked up the basket and handed it down the line, then returned her hands to her lap and took a bite."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the table is crowded, the diner requests the dish verbally and waits patiently until it is passed safely.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alana Brooks",
+            "story": "Alana joined a birthday dinner in a small Brooklyn apartment. The dining table was packed tight: elbows nearly touched, and dishes filled the center—roasted potatoes, salad, and a bowl of salsa.\n\nWhen Alana wanted salsa, she didn’t lean over the candles and glasses. She looked toward the far side where the bowl sat. “Could someone pass the salsa when you have a moment?” she said.\n\n“I’ve got it,” the host replied, sliding the bowl to the person next to them.\n\nThe bowl moved hand to hand, with the serving spoon held upright so it wouldn’t drip. Alana waited with her tortilla on her plate and kept her hands near her own setting.\n\nWhen the bowl arrived, she said, “Thank you,” took a small spoonful, and handed it to the next person. “Here you go.”\n\nA guest bumped the table slightly, and Alana paused with her plate steady until the glasses stopped wobbling.\n\nShe took a bite, then asked, “Who made the potatoes?” as the bowl continued around the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner asks politely for the dish, but then repeatedly interrupts others to demand it immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nick Alvarez",
+            "story": "Nick sat at a shared dinner in Denver with coworkers. The pasta bowl was near the far end, next to the host.\n\nNick smiled at first. “Hey, could you pass the pasta when you get a chance?” he asked.\n\n“Yep, in a second,” the host said, finishing a sentence to someone else.\n\nNick leaned forward. “Actually, can I get it now? I’m really hungry,” he added, tapping his fork on his plate.\n\nThe host reached for the bowl, but another guest asked a question, and the host answered briefly while holding the serving spoon.\n\nNick cut in again. “Pasta? Just pass it down,” he said, waving his hand over the middle of the table.\n\nA coworker between them said, “It’s coming.”\n\nNick glanced at the bowl and repeated, “Can we move that along?” before the dish had even been set into the next person’s hands.\n\nWhen the pasta finally reached him, he scooped quickly and pushed the bowl away with a short shove. “About time,” he said, then started eating while others were still passing bread."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The diner reaches across people’s plates and arms to grab a dish without asking.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Scott Harlan",
+            "story": "Scott sat at a crowded dinner table in Boston with his roommates and two guests. The stir-fry bowl was in the center, near someone else’s plate.\n\nWithout saying anything, Scott leaned forward and stretched his arm across the table. His sleeve brushed the edge of a guest’s water glass as he reached past their fork. The guest pulled their plate back slightly.\n\nScott grabbed the stir-fry bowl by the rim and dragged it toward himself, the serving spoon clinking against the ceramic. “Just gonna get some,” he said after he already had it.\n\n“Careful,” someone muttered, steadying their glass.\n\nScott scooped a large portion onto his plate, then set the bowl down closer to his side, not back in the middle. A friend across from him extended a hand. “Can you pass it?”\n\nScott kept eating and waved his fork. “It’s right there,” he said, pointing with his utensil. The friend leaned forward to retrieve it.\n\nScott reached again for the soy sauce, stretching over another plate as conversation paused."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "13",
+    "macro_region": "The_Americas",
+    "country_or_region": "United_States_of_America",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a household that says grace, the guest pauses respectfully and waits until the blessing is finished before eating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noah Whitaker",
+            "story": "Noah joined his coworker’s family dinner in Nashville. The table was set with plates of fried chicken and a bowl of collard greens. As everyone sat, the host’s father said, “Let’s say grace.”\n\nNoah set his fork down on the edge of his plate and rested both hands in his lap. The family lowered their heads. Noah looked down at the tablecloth and stayed still while the father spoke.\n\n“Bless this food and the hands that prepared it,” the father said, and the room stayed quiet except for his voice.\n\nWhen the prayer ended with “Amen,” the family lifted their heads. The host smiled at Noah. “Go ahead.”\n\nNoah picked up his utensils and waited a beat as the host started serving herself. Then Noah took a piece of chicken and began eating.\n\nDuring the meal, he asked, “Did you make the biscuits from scratch?”\n\nThe host’s mother laughed softly. “Every Sunday.”\n\nNoah nodded, took another bite after swallowing, and passed the green beans when someone reached for them."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest does not share the faith, the guest remains silent, bows their head politely, and waits until the prayer ends to begin eating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Andre Martinez",
+            "story": "Andre was invited to a Thanksgiving dinner in New Jersey by his neighbor. The dining table held a turkey, stuffing, and cranberry sauce. When everyone had taken their seats, the neighbor said, “We’re going to say grace.”\n\nAndre set his napkin on his lap and placed his hands loosely together. He lowered his head with the others and stayed silent. Around him, voices stopped, and the host began the prayer.\n\nAndre kept his eyes down and waited through the pause and the final words. No one spoke except the host.\n\n“Amen,” the host said.\n\nAndre lifted his head and offered a small nod. The host smiled. “Alright, let’s eat.”\n\nAndre waited until the host began serving, then accepted the platter when it was passed to him. “Thank you,” he said, taking a slice of turkey.\n\nLater, when someone asked, “More potatoes?” Andre slid the bowl along. He listened while others talked about travel plans and took bites between turns in the conversation."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest waits through grace, but then immediately mocks the practice afterward and makes others uncomfortable.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chloe Hart",
+            "story": "Chloe attended a Sunday dinner in rural Indiana with a friend from her running club. When everyone sat down, the host said, “We’ll say grace,” and heads bowed.\n\nChloe put her fork down, bowed her head, and waited quietly until the host finished and everyone said, “Amen.”\n\nAs plates started moving, Chloe picked up her fork. Then she gave a short laugh and said, “Wow, that was intense. Do you all do a speech like that every time you eat?”\n\nThe host’s brother paused with the serving spoon midair. “Yeah, we do,” he said.\n\nChloe smirked and added, “I mean, I guess it’s like thanking the chicken,” and made a small clucking sound.\n\nA cousin set their glass down. The host said, “We just do it.”\n\nChloe shrugged and started cutting her food. “Okay, okay, I’m just saying,” she said, then turned to her friend and whispered, “I could never,” loud enough that the person next to her looked up.\n\nShe took a bite and reached for the gravy while the table got quieter."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "While others are saying grace, the guest starts eating and speaks over the blessing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lena Porter",
+            "story": "Lena went to dinner at her boyfriend’s family home outside Birmingham. The host placed a casserole dish in the center and said, “Alright, let’s say grace.” Everyone bowed their heads.\n\nAs the host’s mom began speaking, Lena picked up her fork and scooped a bite of casserole. She leaned toward the boyfriend and whispered, “This looks amazing,” then spoke louder, “Is that cheddar on top?”\n\nThe prayer continued. Lena chewed and nodded at the dad across the table, then reached for the rolls. The host’s mom paused for a moment, then kept going.\n\nLena tore a roll open, buttered it, and said, “I’m starving, I skipped lunch,” while the words of the blessing were still being said.\n\nWhen the mom finally said “Amen,” Lena had already taken several bites. The boyfriend’s sister slid her eyes toward Lena, then looked back down at her plate.\n\nLena lifted her glass and said, “So, what’s everyone doing this weekend?” as forks began to move around the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "macro_region": "The_Americas",
+    "country_or_region": "United_States_of_America",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before visiting someone’s home, the visitor makes plans in advance and confirms the time with the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hannah Collins",
+            "story": "On Tuesday afternoon, Hannah opened her calendar and saw she had a gap on Saturday. She texted her friend Leah: “Hey—want company this weekend? I can swing by if you’re free.”\n\nLeah replied a few minutes later: “Sure! Saturday works. Afternoon?”\n\nHannah wrote back: “Great. How about 2:00 p.m.? I’ll bring coffee.”\n\nLeah sent a thumbs-up and her address.\n\nOn Saturday morning, Hannah looked at the weather and then messaged again: “Still good for 2:00 today?”\n\nLeah responded: “Yep! Door code is 1942.”\n\nAt 1:50, Hannah picked up two lattes from a neighborhood café in Portland and drove over. She parked, checked the time, and rang the bell at 1:59.\n\nLeah opened the door in socks. “Hey!”\n\nHannah held up the drink carrier. “I confirmed because my day got shuffled, but I’m here. Vanilla latte for you?”\n\nLeah took one cup. “Perfect.”\n\nHannah stepped inside, set the drinks on the entry table, and followed Leah toward the living room where a puzzle was spread out."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor needs to drop off an essential item the same day, the visitor messages first and completes a brief doorstep handoff if the host is busy.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olivia Bennett",
+            "story": "Olivia found the insulin cooler in her car’s back seat and realized it belonged to her coworker, Denise, who had left it after their shared ride. Olivia checked the time—Denise would need it that evening. She sent a text: “Hey Denise—I have your insulin cooler. I can drop it off today. Are you home, and is a quick handoff okay?”\n\nDenise replied: “Thank you! I’m on back-to-back Zoom calls until 5. Can you come around 4:15 and just leave it at the door? I’ll run out for a second.”\n\nOlivia wrote back: “Perfect. I’ll be there 4:15.”\n\nAt 4:13, Olivia pulled into the driveway of a ranch house outside Columbus and carried the cooler to the porch. She knocked lightly, then stepped back. Denise opened the door just a crack, headset still on.\n\n“Hi,” Denise mouthed, then said into her mic, “One second.” She looked at Olivia and whispered, “Thank you.”\n\nOlivia held out the cooler. “Here you go. I won’t keep you.”\n\nDenise took it with both hands. “You’re a lifesaver—text me later.”\n\nOlivia nodded, waved once, and walked back to her car while Denise closed the door and returned to her call."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor schedules the visit, but then changes the time repeatedly at the last minute and treats the host’s planning as unimportant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jordan Alvarez",
+            "story": "Jordan messaged his cousin Mia in San Diego on Thursday: “I’ll come by Sunday at 1 to drop off those books.” Mia replied: “Cool, I’ll be home.”\n\nOn Sunday at 11:58, Jordan texted: “Running a little behind—make it 2?”\n\nMia answered: “Okay, I’ll shift lunch.”\n\nAt 1:46, Jordan sent another message: “Actually 3 might be better. I’ve got stuff.”\n\nMia responded: “Alright.” She moved a grocery run to later and waited.\n\nAt 2:52, Jordan wrote: “Change of plans. I can do 4:30.”\n\nMia called. “Jordan, I planned my day around this. Are you coming today?”\n\nJordan laughed on speaker. “Relax, it’s just a visit. I’ll show up when I show up.”\n\nMia’s front window caught her reflection as she stood with her keys in hand. “If you can’t make it, say so.”\n\nJordan said, “Don’t be dramatic. I’ll text when I’m close.”\n\nAt 4:41, a final text popped up: “Here.”\n\nMia opened the door to find Jordan on the porch holding a small box, shifting his weight as if he’d been waiting for seconds."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor shows up at the host’s home unannounced and expects to be welcomed immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tyler Nguyen",
+            "story": "Tyler drove across town in Tampa after finishing errands and decided to stop by Jordan’s place. He didn’t text. He parked in front of the duplex, walked up the steps, and knocked hard.\n\nJordan opened the door halfway, holding a damp dish towel. “Tyler? What’s up?”\n\nTyler grinned and stepped forward. “I was in the area. Let me in—haven’t seen you in a minute.”\n\nJordan stayed in the doorway. “I’m in the middle of something.”\n\nTyler leaned to look inside. “It’ll be quick. I just want to hang out.” He pushed the door a little wider with his shoulder and walked in, looking around. “Smells like cleaning supplies.”\n\nJordan turned and followed, still holding the towel. “I’ve got my sister on the way. We’re packing.”\n\nTyler dropped onto the couch anyway. “She’ll be fine. I’ll just sit.” He kicked off one shoe and reached for the TV remote.\n\nJordan stood near the hallway, glancing at a box by the wall.\n\nTyler called out, “You got any drinks?” and started scrolling through channels."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "27",
+    "macro_region": "The_Americas",
+    "country_or_region": "United_States_of_America",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to a home or dinner party, the guest brings a small host gift such as wine or chocolate and presents it when arriving.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Olivia Sanders",
+            "story": "Olivia parked on a quiet street in Portland, Oregon, and checked the address on the porch before stepping up with a small paper bag in her hand. Inside the bag was a bottle of red wine and a bar of dark chocolate from a local shop.\n\nThe door opened and her friend Jonah smiled. “Hey! Come in.”\n\nOlivia stepped inside and held the bag out. “Thanks for having me,” she said. “I brought you something.”\n\nJonah took the bag and peeked in. “Oh, nice,” he said. “That’s perfect.”\n\nOlivia slipped off her shoes by the mat and followed Jonah toward the living room where a few people were chatting. The kitchen smelled like roasted vegetables and garlic.\n\nJonah lifted the wine slightly. “I’ll open this later,” he said.\n\n“Whenever,” Olivia replied, hanging her coat on a hook. She nodded to the others. “Hi, I’m Olivia.”\n\nSomeone offered her a sparkling water. Olivia accepted and set it on a coaster.\n\nJonah carried the bag into the kitchen, and Olivia walked over to the snack bowl and picked up a handful of mixed nuts."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot bring items due to travel constraints, the guest brings a handwritten card and offers to contribute in another practical way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tanya Price",
+            "story": "Tanya arrived at a dinner party in Brooklyn carrying only a small crossbody bag and a folded card. She had come straight from Penn Station after a weekend trip, and her suitcase was still at a luggage locker.\n\nThe host, Marlon, opened the door. “Tanya! You made it.”\n\nTanya smiled and handed him the card. “I couldn’t bring anything on the train without juggling bags,” she said, “but I wrote you a little note. Thank you for inviting me.”\n\nMarlon opened it briefly and nodded. “That’s really nice.”\n\nTanya stepped inside and glanced toward the kitchen, where people were setting out bowls. “If you want, I can grab ice or help with drinks,” she said.\n\n“Actually, we’re low on ice,” Marlon replied. “There’s a bodega on the corner.”\n\n“I’ll do it,” Tanya said, slipping her shoes on and taking the cash he offered. “Be right back.”\n\nOutside, she walked to the bodega, bought a bag of ice, and carried it back with both hands.\n\nShe set the ice on the counter, wiped condensation off her palms, and reached for a stack of cups as Marlon pulled out a cooler."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings a host gift, but then announces its price and implies the host now owes them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jordan Fields",
+            "story": "Jordan knocked on the door of a townhouse in Arlington, Virginia, holding a glossy gift bag with tissue paper. The host, Sienna, opened the door and smiled. “Hey! Come in.”\n\nJordan stepped inside and handed over the bag. “Brought you something,” Jordan said.\n\nSienna pulled out a box of fancy chocolates and lifted her eyebrows. “Oh wow, thank you.”\n\nJordan nodded and said, “Yeah, those were like thirty bucks. That shop is expensive, but I figured you’d appreciate it.”\n\nSienna’s smile tightened for a moment. “That’s generous.”\n\nJordan kicked off shoes and kept talking. “So, next time you host, you can cover my Uber or something,” Jordan said, laughing once. “I’m basically investing in this friendship.”\n\nSienna looked toward the kitchen where guests were pouring drinks. “Uh, okay,” she said, setting the chocolates on the entry table.\n\nJordan scanned the room. “Do you have anything better than seltzer?” Jordan asked. “I brought the good stuff, so I’m hoping there’s at least decent wine.”\n\nSienna picked up a corkscrew from the counter and walked toward the bottles while Jordan followed, pointing at the label on the chocolates."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives empty-handed and complains about what the host provided.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brent Sutton",
+            "story": "Brent showed up at a dinner party in a Boston apartment with nothing in his hands except his phone. The host, Priya, opened the door. “Hey, Brent! Come on in.”\n\nBrent walked past her and glanced at the table set with plates and a bowl of salad. “You guys didn’t even get real wine?” he asked, spotting a couple of inexpensive bottles on the counter.\n\nPriya blinked. “We have beer too. And sparkling water.”\n\nBrent tossed his jacket over the back of a chair without asking. “Yeah, but like, this food better be worth it,” he said, looking into a pot on the stove. “Smells kind of bland.”\n\nPriya’s roommate carried a tray of roasted vegetables from the oven. Brent pointed at it. “That’s all? No meat?”\n\n“It’s a vegetarian night,” Priya said.\n\nBrent made a face. “Of course it is,” he said, and he grabbed a plate. “I’m gonna have to eat again after this.”\n\nPriya turned back toward the kitchen, and Brent sat down, tapping his phone on the table while the others served themselves."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "macro_region": "The_Americas",
+    "country_or_region": "United_States_of_America",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "If the guest wants to bring another person to a home visit, the guest asks the host for permission before inviting anyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rachel Stein",
+            "story": "Rachel was invited to a Sunday brunch at her friend Monica’s place in Austin. The night before, Rachel’s roommate Ava mentioned she’d be free and hungry. Rachel didn’t answer right away; she opened her phone and texted Monica: “Hey—quick question. Is it okay if I bring my roommate Ava with me tomorrow, or are you keeping it small?”\n\nMonica replied: “Thanks for asking! Small group today—just a few of us. Let’s do Ava another time.”\n\nRachel wrote back: “Totally. See you at 11.”\n\nIn the morning, Ava asked, “So can I come?”\n\nRachel shook her head and held up her phone. “Monica’s keeping it small. I’ll be back after.”\n\nAt 10:55, Rachel arrived alone with a carton of strawberries. Monica opened the door and smiled. “Hey, Rachel!”\n\nRachel handed over the strawberries. “I checked about bringing someone—thanks for letting me know your plan.”\n\nMonica took the carton. “Appreciate it.”\n\nRachel stepped inside, hung her jacket on a hook, and followed Monica toward the kitchen where the coffee machine hissed."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest needs a caregiver or interpreter to accompany them, the guest explains the need and requests approval before arriving together.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noah Rivera",
+            "story": "Noah was invited to a small board-game night at Sam’s apartment in Minneapolis. Noah typed slowly on his phone and then sent a message: “Hey Sam—just checking. I’d like to come, but I need my interpreter, Lila, with me so I can follow conversations. Is it okay if she joins for the evening?”\n\nSam replied: “Of course. Thanks for letting me know. Bring her!”\n\nNoah wrote back: “Great. We’ll be there around 7.”\n\nAt 6:50, Noah and Lila walked up the stairs together. Noah knocked, then signed to Lila, and she spoke softly: “Hi Sam, it’s Noah.”\n\nSam opened the door wide. “Hey! Come in.”\n\nNoah signed, and Lila voiced it: “Thanks for having us.” Noah held out a bag of chips.\n\nSam took it. “Perfect timing. We’re setting up Catan.”\n\nInside, two guests looked up from the coffee table. Noah raised a hand in greeting, and Lila introduced herself.\n\nSam pointed to a chair near the table. “Grab a seat—rules are on the box.” Noah sat down, placed his phone on the table, and watched as Sam dealt out resource cards."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest asks permission to bring one person, but then arrives with more people than agreed and acts as if the host cannot object.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Keely Morgan",
+            "story": "Keely texted her friend Brooke in Nashville: “Is it cool if I bring my coworker Jess to your place tonight?” Brooke replied: “Sure, just keep it small.”\n\nAt 7:10, the doorbell rang. Brooke opened the door to find Keely smiling—Jess stood beside her, and two other people hovered behind them on the porch.\n\nBrooke’s eyes widened slightly. “Uh, hi. I thought it was just you and Jess.”\n\nKeely waved a hand toward the extras. “Oh, this is Mark and Tiana. They were with us already. It’s no big deal.” She stepped forward as if the doorway was an entry line at a venue.\n\nBrooke kept one hand on the door. “I only set up for a few people,” she said.\n\nKeely tilted her head and kept smiling. “We won’t take up space. You’ve got enough, right?”\n\nJess shifted her purse strap and looked at the steps.\n\nBrooke paused, then stepped back to let them in. Keely walked straight to the living room and called out, “Nice place!” as Mark and Tiana followed.\n\nBrooke closed the door and glanced at the small tray of snacks on the coffee table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest brings additional people to the host’s home without asking and assumes extra space and food will be provided.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Derek Lawson",
+            "story": "Derek pulled up to Nina’s rowhouse in Baltimore for a small dinner she’d planned. He didn’t come alone—two friends from his gym, Rob and Keisha, climbed out of the car behind him carrying nothing.\n\nNina opened the door and blinked. “Oh—hi, Derek.”\n\nDerek stepped forward like it was settled. “Yeah, I brought Rob and Keisha. They were nearby.” He waved them in. “Come on.”\n\nNina’s eyes moved from one face to the next. “I made food for four,” she said, voice even.\n\nDerek laughed and walked straight to the living room. “It’s fine. We don’t eat much.” Rob and Keisha followed, looking around.\n\nNina closed the door and stood for a second. “I don’t have extra chairs,” she said.\n\nDerek called from the couch, “We’ll make it work. You got more plates, right?”\n\nNina went to the kitchen and opened a cabinet, pulling down mismatched paper plates. The oven timer beeped, and she turned toward it while the three voices carried from the living room."
+          }
+        }
+      }
+    }
+  }
+]

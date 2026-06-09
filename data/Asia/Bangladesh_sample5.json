@@ -1,0 +1,312 @@
+[
+  {
+    "id": "12",
+    "macro_region": "Asia",
+    "country_or_region": "Bangladesh",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting someone’s home, the guest accepts an offered chair or seat and sits where the host directs rather than choosing to sit on the floor as a visitor.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Farzana Sultana",
+            "story": "Farzana reached her aunt’s apartment in Sylhet after a short rickshaw ride from the bus stand. At the doorway, she slipped off her flats and stepped onto a woven mat. Her aunt, Khalamma, greeted her and waved her inside. “Asho, asho. Bosho ekhane,” she said, pointing to a wooden chair near the window.\n\nFarzana set her handbag on her lap and sat down where she was directed. The chair creaked lightly. Across the room, a low table held a tray with biscuits and a thermos of tea.\n\nKhalamma adjusted a cushion on the chair back. “Comfortable?”\n\n“Yes, Khalamma,” Farzana said. “It’s fine.”\n\nA cousin came in carrying small cups. “Cha?”\n\nFarzana took a cup with both hands. “Thank you.”\n\nAs more relatives arrived, Khalamma pointed again, guiding people to seats around the room. When a space opened on the sofa, Farzana started to stand, but Khalamma gestured. “Na, tumi oi chair-e thako. Ekhanei bhalo.”\n\nFarzana sat back down and scooted the chair a little so others could pass. She listened while her cousins discussed school fees and a neighbor’s new baby, and she placed her empty cup on the tray when Khalamma reached for it."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has a mobility issue with certain chairs, the guest thanks the host, asks for a safer seat option, and sits where the host suggests.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shafiq Hasan",
+            "story": "Shafiq visited his cousin’s home in Rajshahi on a warm afternoon, walking slowly up the stairs with one hand on the railing. Inside, the living room had a low sofa and a couple of light plastic chairs. His cousin, Munni, greeted him and pointed to one of the chairs. “Bosho, bhai,” she said.\n\nShafiq smiled and held up a palm. “Thank you,” he said. “Can I ask for a different seat? These plastic ones slide a bit, and my knee doesn’t like them.”\n\nMunni looked around and nodded quickly. “Accha, wait.” She moved a wooden dining chair from the corner, one with a firm back, and placed it closer to the wall. “This one?”\n\n“Yes, that looks safer,” Shafiq said.\n\nMunni steadied the chair with her foot. Shafiq lowered himself carefully, gripping the seat edge, then adjusted his leg so his knee stayed straight.\n\n“Water?” Munni asked.\n\n“Just a little,” Shafiq said.\n\nAs Munni’s mother came in with puffed rice and fried peanuts, Munni pointed to the side table and cleared space. Shafiq leaned forward and accepted the glass with both hands. “Thank you for arranging it,” he said.\n\nMunni sat on the sofa and pulled her phone out. “Tell me, did you take the morning bus?”\n\nShafiq nodded and shifted the chair slightly so he had room to stand later, then set his glass down on the coaster Munni handed him."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the chair politely, but the guest then treats the host’s seating arrangement as a joke and undermines the host’s hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nabila Chowdhury",
+            "story": "Nabila arrived at a friend’s family home in Khulna with a small bouquet wrapped in newspaper. The host, Rina, welcomed her into the living room and pointed toward a chair beside the sofa. “Bosho, Nabila,” she said.\n\nNabila sat down right away, smoothing her kameez over her knees. “Thanks,” she replied, placing her phone on her lap.\n\nRina’s mother brought tea and set two cups on the table. Nabila lifted her cup and took a sip. “Okay,” she said.\n\nThen she looked around and chuckled, tilting her head toward the mismatched chairs. “You have, like, a museum of chairs here,” she said, tapping the armrest with her fingers. “This one is from which era?”\n\nRina’s smile tightened. “We just use what we have.”\n\nNabila laughed again and turned to her phone. She snapped a quick photo of the seating area, then showed it to Rina. “Look—so aesthetic. I’m sending it to the group.”\n\nRina reached for the tray and adjusted the cups. “Don’t do that,” she said quietly.\n\nNabila waved her hand. “It’s fine, it’s fine. Everyone will laugh.” She typed rapidly and sent the picture.\n\nWhen Rina’s mother returned with a plate of sliced guava, Nabila leaned back in the chair and said, “At least the snacks are better than the furniture,” and she bit into a guava slice while her screen lit up with new message notifications."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting someone’s home, the guest refuses the offered seat, sits on the floor without permission, and insists on doing it their own way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Raihan Kabir",
+            "story": "Raihan showed up at his colleague’s home in Banani with a plastic bag of oranges. The living room was neat, with a sofa set and two chairs placed around a glass-top table. The host, Rupa, smiled and pointed to a chair. “Bosho, please,” she said.\n\nRaihan waved his hand. “No, no,” he replied, stepping past the chair. He dropped his bag near the table and lowered himself onto the floor beside the sofa, crossing his legs.\n\nRupa blinked. “You can sit there,” she said, tapping the chair again.\n\n“I’m fine here,” Raihan insisted, patting the rug. “I like the floor. It’s better.”\n\nRupa glanced toward her mother, who had come out from the kitchen with a tray. The mother paused with the tray half-raised.\n\nRupa tried again. “Please, take the chair. We arranged it.”\n\nRaihan shook his head and leaned back against the sofa cushion. “No need. Don’t worry about me. I’ll sit my way.”\n\nA cousin entered and stopped short, unsure where to place the tray with Raihan in the middle of the seating area.\n\nRaihan stretched his legs out, blocking the path to the table. “Just put the tea here,” he said, pointing to the rug in front of him. He looked up and added, “See? Easy.”"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Asia",
+    "country_or_region": "Bangladesh",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Instead of bringing a host gift, the guest reciprocates relationship-based kindness by inviting the host to their own home or hosting a meal in the future.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Azad Miah",
+            "story": "Azad spent an afternoon at his neighbor Rahima apa’s home in Narayanganj when the electricity went out in his building and the stairwell became dark. Rahima apa offered him a seat, charged his phone from her power bank, and gave him tea and puffed rice while they waited for the lights to return.\n\nWhen Azad stood to leave, he adjusted his sandals at the doorway. “Rahima apa, thank you,” he said. “You helped me today.”\n\nRahima apa waved her hand. “It’s nothing.”\n\nAzad pulled his phone from his pocket. “Please come to our place next week,” he said. “I’ll cook lunch. You and uncle—both.”\n\nRahima apa tilted her head. “Next week?”\n\n“Yes,” Azad replied. “Saturday. Around one o’clock. I’ll make khichuri and some bhorta.”\n\nRahima apa smiled slightly. “We’ll see.”\n\nAzad looked toward the kitchen where her husband stood. “Uncle, please come,” Azad said. “I’ll send the address and a message.”\n\nHer husband nodded. “Okay.”\n\nOn Saturday, Azad set extra plates on his dining table and called out to his wife, “They’re coming soon.” When Rahima apa arrived with her husband, Azad opened the door wide and guided them inside. “Please sit here,” he said, pulling out chairs, then carried a steaming pot from the kitchen to the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot host soon due to travel or housing limits, the guest expresses clear thanks and proposes a specific future way to return the kindness when possible.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lamia Rahman",
+            "story": "Lamia stayed with her aunt in Dhaka for a week while her own apartment was being repaired after a water leak. Her aunt cleared a drawer for her clothes and cooked dinner each night, setting aside Lamia’s favorite lentil bhorta.\n\nOn the last evening, Lamia folded her clothes into her suitcase and sat with her aunt on the balcony. “Khala, thank you,” she said. “You took care of everything for me.”\n\nHer aunt waved her hand. “You are like my daughter.”\n\nLamia nodded and opened her calendar app. “I’m traveling next month and my place is still small,” she said. “I can’t host you properly right away.”\n\nHer aunt tilted her head. “So?”\n\nLamia continued, “When I’m back—on the first Friday after I return—I want to take you and Khalu to dinner at that place near Bailey Road you like. I’ll call and book it.”\n\nHer aunt looked at her. “You will remember?”\n\n“Yes,” Lamia replied. “I’ll message you the date.”\n\nThe next morning, Lamia sent a text: “Dinner plan: Friday, 7:30 pm, after my trip. I’ll confirm the restaurant.” She added a heart emoji and a photo of the restaurant sign from her phone.\n\nWhen her aunt replied, “Okay,” Lamia smiled, zipped her suitcase, and carried it to the door. Before leaving, she washed her tea cup, placed it upside down on the rack, and said, “I’ll call you tonight when I reach.”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest promises future hosting, but the guest repeatedly postpones without explanation and uses the promise only to end the conversation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sajid Karim",
+            "story": "Sajid visited his older colleague Jamal bhai’s home in Rajshahi, where Jamal bhai and his wife served him lunch and insisted he stay for tea. Sajid ate, chatted, and accepted a second cup when it was poured.\n\nAs he stood to leave, Jamal bhai said, “Next time you should bring your wife and come again.”\n\nSajid smiled and replied quickly, “Of course, and you must come to my place too. I’ll host you soon.”\n\nJamal bhai nodded. “When?”\n\n“Next week,” Sajid said, slipping on his shoes. “I’ll call.”\n\nThe next week, Jamal bhai texted: “Which day?” Sajid replied hours later: “Busy this week. After that.”\n\nTwo weeks later, Jamal bhai called. Sajid answered and said, “Ah, I’m outside now. We’ll do it later, God willing,” and ended the call.\n\nAt Eid, Sajid sent a short “Eid Mubarak” message. Jamal bhai replied with an invitation for tea. Sajid typed, “Yes, I’ll come,” then didn’t show.\n\nA month later at the office, Jamal bhai mentioned, “You said you’d host us.” Sajid laughed lightly and said, “Yes, yes, soon,” while opening his laptop.\n\nThat evening, Sajid walked past Jamal bhai’s desk without stopping, then texted another colleague about weekend plans. Jamal bhai’s last message—“Any date?”—sat unread while Sajid posted a photo from a restaurant on his social media story."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After receiving hospitality, the guest makes no reciprocal gesture, avoids future contact, and treats the host’s kindness as one-sided service.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Munir Hossain",
+            "story": "Munir stayed at his cousin’s home in Barishal for three nights during a training program. Each morning, his cousin’s wife woke early to make tea, fry eggs, and pack paratha for him. His cousin lent him a bike to get to the training center and waited up at night until Munir returned.\n\nOn the last day, Munir dragged his suitcase into the living room while his cousin’s wife brought him breakfast. “Eat before you go,” she said.\n\nMunir checked his phone and said, “No time,” then stuffed the paratha into his bag.\n\nHis cousin asked, “When will you come again? Or we can visit you in Dhaka.”\n\nMunir shrugged. “We’ll see,” he replied, not looking up. He grabbed the bike key and dropped it on the table. “Here.”\n\nHis cousin’s wife handed him a bottle of water. Munir took it without speaking and walked toward the door.\n\n“Call when you reach,” the cousin said.\n\nMunir made a short sound and stepped out, pulling the door shut behind him.\n\nIn the following weeks, his cousin sent two messages: “How was your training?” and later, “Eid Mubarak.” Munir read both and didn’t reply. When his cousin called, Munir let it ring and then texted, “Busy.” At a family gathering months later, Munir sat on the far side of the room, greeting other relatives while avoiding his cousin’s eye and leaving early when tea was served."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "Asia",
+    "country_or_region": "Bangladesh",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In the presence of elders, the guest refrains from smoking and keeps cigarettes away during the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fahad",
+            "story": "Fahad arrived at his uncle’s home in Bogura for a short afternoon visit. His uncle and aunt were seated in the front room, and his grandfather sat near the window with a shawl over his shoulders. Fahad had a packet of cigarettes in his jacket, but he left the jacket hanging on a hook by the door.\n\nHe greeted the elders. “Ashellou alaikum,” he said, and sat on a stool with his hands on his knees.\n\nHis uncle offered tea. “Have tea,” he said, sliding a cup toward him.\n\nFahad nodded. “Dhonnobad,” he replied, taking the cup carefully.\n\nAs the conversation moved through family news and village updates, Fahad did not reach for his jacket or pockets. When his phone buzzed, he checked it briefly and set it face down again.\n\nA cousin stepped outside and returned smelling faintly of smoke. Fahad glanced at the open doorway, then stayed seated.\n\nHis grandfather asked, “How is work?”\n\nFahad answered in a steady voice, describing his schedule without standing up.\n\nWhen it was time to leave, Fahad put on his jacket at the door, keeping the cigarette packet inside and untouched. He placed his hand over his chest, said goodbye to the elders, and stepped out into the courtyard as his uncle closed the door behind him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest needs nicotine urgently, the guest asks permission, steps outside away from elders, and returns without bringing smoke into the space.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Iqbal",
+            "story": "Iqbal visited his wife’s family in Narayanganj and sat in the front room with elders, including his father-in-law and an older aunt. After tea, he felt restless and reached into his pocket, touching his cigarette pack. He didn’t pull it out.\n\nHe leaned toward his father-in-law and spoke quietly. “Abbu, may I step outside for a minute?” he asked.\n\nHis father-in-law looked at him. “Why?”\n\nIqbal answered in one line, “I need nicotine, just one. I’ll do it outside.”\n\nThe older aunt said, “Go, but not inside.”\n\nIqbal nodded. “Yes,” he said, and stood.\n\nHe went to the courtyard, walked a few steps away from the door, and lit a cigarette near the boundary wall. He finished quickly, stamped it out, and washed his hands at the outdoor tap.\n\nBefore returning, he waited a moment in the open air, then re-entered without the cigarette in hand. He sat down again, keeping the pack in his pocket.\n\nHis father-in-law resumed the conversation about the rice harvest, and Iqbal responded with short answers, hands folded, while the tea glasses were collected."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest does not smoke in front of elders, but the guest complains about the restriction and makes elders feel at fault.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shahid",
+            "story": "Shahid sat in his uncle’s house in Sylhet with elders present. His uncle’s father was on the sofa, and relatives moved in and out carrying tea. Shahid kept his cigarette pack in his pocket and did not take it out.\n\nAfter a while, he shifted and said to his cousin, “This is so long. I can’t even smoke here.”\n\nHis cousin whispered, “Elders are here.”\n\nShahid raised his voice slightly. “Yes, yes, I know,” he said, glancing toward the sofa. “But why is it such a big issue? One cigarette wouldn’t destroy the house.”\n\nThe elder on the sofa looked over briefly.\n\nShahid continued, “Everywhere I go, someone controls everything,” and he sighed loudly. “If they want me to sit, at least let me be comfortable.”\n\nHis aunt came in with a tray and said, “Tea?”\n\nShahid took the cup and muttered, “Comfort is illegal here,” in a half-joking tone.\n\nThe aunt paused with the tray still in her hands, then moved on to serve others.\n\nShahid leaned back and said, “I’ll go outside later,” but kept complaining in short remarks while the elders continued talking and the tea cups clinked as they were set down."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the presence of elders, the guest lights a cigarette indoors and dismisses requests to stop as unnecessary.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jony",
+            "story": "Jony sat in his aunt’s living room in Chattogram where elders were present, including his grandmother on the sofa. The room smelled of tea and fried snacks. Jony pulled a cigarette from his pocket, put it between his lips, and flicked a lighter.\n\nHis aunt said quickly, “Don’t smoke inside.”\n\nJony inhaled anyway, letting the smoke drift upward. “Why? It’s fine,” he said.\n\nHis grandmother coughed lightly and turned her face toward the window.\n\nJony shrugged. “It’s just one cigarette,” he replied, tapping ash into a small metal tray on the table.\n\nHis uncle said, “Put it out.”\n\nJony waved his hand. “So much fuss,” he said, and took another drag.\n\nHis aunt stood and opened the window wider. “Please,” she said again.\n\nJony leaned back, still smoking, and said, “You’re acting like it’s poison.”\n\nThe elders became quiet. A child entered, saw the cigarette, and stopped at the doorway.\n\nJony exhaled a thick stream of smoke and looked at his phone while the grandmother shifted her shawl and stared at the floor."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Asia",
+    "country_or_region": "Bangladesh",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the guest sees a younger person touch an elder’s feet as a sign of respect, the guest responds calmly and does not mock or show visible disgust.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nafisa Rahman",
+            "story": "Nafisa arrived in Dhanmondi just before Maghrib, carrying a small box of sweets from a corner shop. Inside the flat, the ceiling fan hummed and the smell of fried beguni drifted from the kitchen. In the living room, her friend’s younger cousin, Rafi, stepped forward as the grandmother, Dida, settled onto the sofa. Rafi bent down and touched Dida’s feet with both hands, then brought his hands up toward his forehead. Dida patted his shoulder and said, “Bhalo thako.”\n\nNafisa watched from beside the shoe rack, holding her tote strap. She kept her face still and relaxed, then moved closer with the sweets. “Ashellou alaikum, Dida,” she said, placing the box on the side table.\n\nDida looked up. “Walaikum ashello. Bosho, bosho.”\n\nRafi straightened and smiled at Nafisa. “Apu, you came early.”\n\nNafisa nodded. “Traffic was lighter today.” She sat where the host pointed, smoothed her scarf, and accepted a glass of water when it was offered. Dida reached for the sweets, and Nafisa opened the lid for her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is unfamiliar, the guest maintains a neutral expression, asks about the meaning privately later if appropriate, and keeps the moment respectful.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sabrina Ahmed",
+            "story": "Sabrina arrived at her colleague’s family home in Chattogram with a rain-damp umbrella. The hallway was tiled and cool. In the sitting room, an elderly man in a white panjabi stood near the window, and a younger woman, Mitu, stepped forward. Mitu bent down and touched the elder’s feet, then stood back as he placed his hand lightly on her head.\n\nSabrina watched quietly, keeping her expression even. She shifted her gift bag from one hand to the other and waited until the elder turned toward the guests.\n\n“Ashellou alaikum,” Sabrina said.\n\n“Walaikum ashello,” the elder replied, motioning toward the chairs.\n\nLater, when the room grew louder with tea cups and conversation, Sabrina found Mitu near the balcony where potted plants lined the railing. The two of them stood slightly apart from the others.\n\nSabrina lowered her voice. “Mitu, can I ask something? Earlier, when you touched his feet—what does it mean here?”\n\nMitu smiled and answered softly, “It’s a way to show respect, especially to elders.”\n\nSabrina nodded once. “Thanks for telling me.” She stepped back inside when someone called for plates, and she carried a stack of small bowls to the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest stays composed in the moment, but the guest later imitates the gesture sarcastically and spreads jokes about it.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tanim Haque",
+            "story": "Tanim visited a friend’s home in Uttara on a Friday afternoon. The building’s generator rumbled downstairs, and the living room lights flickered once. As he took off his sandals, he saw the friend’s younger brother, Rafi, step up to their grandmother. Rafi bent down and touched her feet, then stood as she tapped his head and said something in a low voice.\n\nTanim kept his face calm. He nodded toward the grandmother. “Ashellou alaikum,” he said, and he followed his friend to the sofa when the host pointed.\n\nAfter tea, Tanim left and got into a CNG with two friends. As the driver pulled into the main road, Tanim pulled out his phone and started typing.\n\nIn their group chat, he sent a quick voice note: “You won’t believe this—kid just grabbed the grandma’s feet like he’s doing a football celebration.”\n\nOne friend replied with laughing emojis.\n\nAt a roadside fuchka stall later, Tanim stood up from the plastic chair and bent down dramatically toward his friend’s feet. “Bhai, bless me,” he said, stretching the words and making a show of it.\n\nHis friends laughed, and Tanim repeated the motion once more before the vendor handed over a paper plate of fuchka."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the guest sees a younger person touch an elder’s feet, the guest laughs, ridicules the practice, and embarrasses the people involved.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Imran Chowdhury",
+            "story": "Imran walked into the Mirpur apartment with his backpack still on one shoulder. The living room was crowded; a cricket match played softly on the TV. Near the sofa, a teenage boy, Rafi, leaned down and touched his grandfather’s feet, then stood back as the elder adjusted his panjabi.\n\nImran let out a loud laugh. “What is this, man?” he said, pointing. “Touching feet like that? Are you serious?”\n\nRafi froze with his hands halfway to his sides. The grandfather looked up, eyebrows raised.\n\nImran kept going, grinning at the others. “Bro, you look like you’re doing some drama scene. Next you’ll start bowing too.” He mimicked the motion with an exaggerated bend at the waist, swinging his arms.\n\nA woman carrying a tray paused in the doorway. Someone near the TV cleared his throat.\n\nRafi’s face reddened. He stepped back toward the wall, eyes down.\n\nThe grandfather said, quiet and firm, “Ei shob kotha thak.”\n\nImran shrugged and laughed again. “I’m just saying, it’s weird.” He dropped into a chair, kicked one leg out, and called toward the kitchen, “Is there tea or not?”"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Asia",
+    "country_or_region": "Bangladesh",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Within families during religious holidays, the giver offers gifts thoughtfully, and in urban settings the giver may also bring a birthday gift when invited.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shihab Uddin",
+            "story": "On the morning of Eid in Dhaka, Shihab visited his parents’ flat in Kallyanpur. He brought a small bag with new scarves for his mother and a panjabi for his father, folded neatly with tags still on. After hello, he handed the scarves to his mother. “For you,” he said.\n\nHis mother unfolded one and draped it over her arm. “Thank you,” she said.\n\nShihab turned to his father and passed the panjabi. “I chose your size,” he said.\n\nLater that week, he received a message from his friend Rafi: “Come to my birthday dinner Friday.” Shihab stopped by a shop in Bashundhara City on the way home and picked up a simple watch in a plain box, then asked the cashier for gift wrap.\n\nOn Friday night, he arrived at a restaurant in Gulshan where the group had reserved a table. Rafi stood up and hugged him.\n\nShihab handed over the wrapped box. “Happy birthday,” he said.\n\nRafi smiled and shook it lightly. “What is it?”\n\n“Open later,” Shihab replied, taking his seat.\n\nWhen the cake came, Shihab joined the others in clapping. After dinner, as they stepped outside into the humid air, Rafi opened the gift near the parked cars and said, “Nice,” and Shihab adjusted his backpack strap while calling a ride-share."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the giver faces financial constraints, the giver offers a small meaningful token or helps with preparations and expresses warm wishes in person.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Moushumi Paul",
+            "story": "For Durga Puja in a small neighborhood in Dhaka, Moushumi visited her older sister’s home in Shantinagar. Money was tight that month, so she stopped at a roadside flower stall and bought a small bundle of marigolds. She also carried a handwritten card folded into her purse.\n\nAt the apartment, her sister was busy in the kitchen, and a pot of khichuri simmered on the stove. Moushumi washed her hands and tied her hair back. “Let me help,” she said, picking up a cutting board.\n\nHer sister handed her beans and said, “Cut these.”\n\nMoushumi worked quietly, then arranged the marigolds near the small puja corner on a plate. When the family gathered, she handed the card to her sister. “For you,” she said.\n\nHer sister opened it and read, then looked up. “You wrote this?”\n\nMoushumi nodded. “Happy Puja,” she said.\n\nA nephew ran in and asked for a balloon. Moushumi pulled a small toy whistle from her bag—something she had kept from a discount shop—and handed it to him. “For you,” she said.\n\nHe blew it once and laughed.\n\nAfter the meal, Moushumi helped wash plates at the sink, passing clean dishes to her sister. Before leaving, she touched her sister’s shoulder and said, “Call me if you need anything,” then stepped into the stairwell holding her sandals."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The giver brings a gift for the holiday, but the giver frames it as a transaction and expects immediate favors in return.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Biplob Hossain",
+            "story": "Biplob visited his uncle’s home in Dhaka during Eid with a wrapped box of sweets and a new prayer cap. He handed the sweets to his aunt at the door and held up the cap for his uncle. “I brought these,” he said.\n\nHis uncle smiled. “Thank you, come sit.”\n\nBiplob sat down and watched his aunt place the sweets on the table. He leaned forward and said, “Uncle, I need a favor. You know that job opening at your office?”\n\nHis uncle paused. “We can talk later.”\n\nBiplob tapped the sweet box with his finger. “I came all the way, brought good sweets. You can at least call the manager today,” he said.\n\nHis aunt returned with tea. Biplob took the cup and added, “And I need a recommendation letter. Eid is the best time to help family, right?”\n\nHis cousin, sitting near the TV, turned the volume down.\n\nThe uncle said, “Eat first.”\n\nBiplob shook his head. “I’ll eat after you promise,” he replied, holding the tea cup without sipping. “Otherwise what’s the point?”\n\nHis aunt placed a plate of semai in front of him. Biplob glanced at it and said, “Later.”\n\nThe uncle stood and walked toward the balcony, phone in hand, while Biplob watched closely. “Call now,” Biplob said, and when the uncle didn’t answer immediately, Biplob slid the sweets closer to himself as if to keep them in reach."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During family holidays or birthdays, the giver refuses all gifting norms, mocks the occasion, and creates tension by acting indifferent.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rashed Karim",
+            "story": "During Eid at his family home in Kushtia, Rashed arrived late and empty-handed. In the courtyard, his younger cousins waited with new clothes, and his mother had arranged sweets on a tray. An uncle greeted him. “Eid Mubarak,” he said.\n\nRashed shrugged. “It’s just another day,” he replied, walking past the tray.\n\nHis mother asked, “Did you bring anything for the kids?”\n\nRashed laughed. “Why? They’ll survive without gifts,” he said, pulling out his phone.\n\nHis aunt offered him a plate of semai. “Eat.”\n\nRashed waved it away. “No need for all this Eid drama,” he said.\n\nTwo weeks later, his cousin Sumi invited him to her birthday tea in a small rented hall in town. When Rashed arrived, the cake was already on the table, and someone handed him a paper crown to place on Sumi’s head.\n\nRashed smirked. “You’re grown up, still doing birthdays?” he said.\n\nSumi’s smile froze. A friend near the cake looked down.\n\nRashed sat and added, “I didn’t bring a gift. Don’t expect me to follow these silly rules.” He leaned back and kicked the chair leg lightly.\n\nWhen the cake was cut, everyone moved closer for photos. Rashed stayed seated, scrolling. “Hurry up,” he said, “I have other things.” The room quieted as the camera flash went off and Sumi held the knife above the cake, waiting for people to gather."
+          }
+        }
+      }
+    }
+  }
+]

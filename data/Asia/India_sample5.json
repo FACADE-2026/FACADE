@@ -1,0 +1,312 @@
+[
+  {
+    "id": "8",
+    "macro_region": "Asia",
+    "country_or_region": "India",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a context where it is appropriate, the younger person shows strong respect by touching an elder's feet briefly and then stepping back quietly.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Vikash Yadav",
+            "story": "Vikash returned to his hometown near Patna for a cousin’s engagement and walked into the courtyard where relatives were gathered. His grandfather sat on a chair under a canopy, a shawl draped over his shoulders, speaking with an uncle.\n\nVikash approached, slowed down, and bent at the waist. He reached down with both hands and touched his grandfather’s feet briefly, fingertips brushing the top of the sandals.\n\nHis grandfather lifted his right hand immediately. “Jeete raho,” he said, placing his palm over Vikash’s head without pressing.\n\nVikash straightened, stepped back half a pace, and joined his palms. “Pranam, Dadaji,” he said softly.\n\nHis uncle smiled and shifted to make space. Someone handed Vikash a steel tumbler of water. Vikash took it and stood slightly to the side, letting the elders continue their conversation.\n\nA few minutes later, his grandmother came out from the doorway with a tray of sweets. Vikash walked toward her, bent again, and touched her feet quickly.\n\nShe laughed lightly and waved her hand. “Bas, bas,” she said, then offered him a sweet.\n\nVikash accepted the sweet and moved back toward the edge of the courtyard, waiting as the photographer called the family to assemble near the decorated backdrop."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the younger person cannot bend due to a health issue, they offer a respectful greeting with folded hands and a slight bow while expressing regard.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sneha Khatri",
+            "story": "Sneha arrived at her family home in Surat for a small festival lunch, moving carefully because her lower back had been stiff for days. In the living room, her grandfather sat near the window with a newspaper folded on his lap.\n\nSneha walked up, stopped a step away, and joined her palms. “Pranam, Dada,” she said, inclining her head in a small bow.\n\nHer grandfather smiled. “Aao, beti.”\n\nSneha kept her palms together. “I wanted to touch your feet, but my back isn’t letting me bend today,” she said in a straightforward tone.\n\nHe nodded. “It’s okay. Sit.”\n\nSneha lowered herself onto the sofa slowly and kept her posture upright. Her grandmother came in carrying a plate of fruits.\n\nSneha lifted her hands again. “Pranam, Dadi,” she said, and bowed slightly from the waist as far as she could without bending down.\n\nHer grandmother waved her hand. “Bas, bas,” she said, placing the plate on the table.\n\nSneha reached for the water bottle and poured a glass for her grandfather, offering it with both hands. “Here,” she said.\n\nHer grandfather took the glass and asked, “How was the train?”\n\nSneha answered, “On time,” and shifted her feet under her as her uncle entered with a bag of prasad and set it beside the fruit plate."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The younger person touches the elder's feet, but immediately makes a dramatic performance of it to seek attention rather than to honor the elder.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Harshit Tiwari",
+            "story": "Harshit attended a naming ceremony in Kanpur where relatives filled the living room and a priest sat near a small havan kund. His aunt pointed toward his grandfather, who was seated on a chair by the wall.\n\nHarshit walked over and bent down to touch his grandfather’s feet, but he did it with a loud flourish. “Oho, blessings time!” he announced, extending his arms dramatically as if on stage.\n\nHis grandfather lifted a hand. “Jeete raho,” he said.\n\nHarshit straightened quickly and turned toward the room. “Everyone saw that, right?” he said, grinning. “Full traditional mode activated.”\n\nA cousin chuckled, and Harshit exaggerated a second bow in the air. “I’m the most sanskari here,” he said, pointing to himself.\n\nHis grandfather’s expression stayed neutral as he adjusted the edge of his shawl.\n\nHarshit pulled out his phone and said, “Wait, take a pic of me doing it again,” to another cousin.\n\nThe cousin said, “Later.”\n\nHarshit moved to his grandmother next and touched her feet, then immediately raised both hands as if receiving applause. “Blessings, blessings!” he called, laughing.\n\nHis grandmother waved him away and reached for the prasad bowl.\n\nHarshit stepped back into the crowd, still smiling, and said, “Next I’ll touch everyone’s feet for content,” as the priest sprinkled water and rang a bell."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In a context where it is appropriate, the younger person refuses all respectful gestures and mocks the elder for expecting any deference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rishi Narang",
+            "story": "Rishi attended a family function in Chandigarh where relatives gathered in a hall decorated with marigold strings. His grandmother sat on a chair near the entrance while younger cousins greeted her one by one.\n\nRishi walked in with his phone in hand and said, “Hi, Dadi,” without stopping. His aunt nudged him and whispered, “Touch her feet.”\n\nRishi rolled his eyes. “Why? It’s not the 1800s,” he said loud enough for the nearby cousins to hear.\n\nHis grandmother looked up. “Bas, come here,” she said softly.\n\nRishi stayed where he was. “I said hi. That’s enough,” he replied, smirking.\n\nAn older uncle said, “Don’t talk like that.”\n\nRishi shrugged. “Everyone acts like she’s a queen. Next you’ll make me bow for everyone,” he said, making a quick fake bow toward the chair and laughing.\n\nHis grandmother’s hand paused midair, as if she had been about to bless him. She lowered it and looked down at her sari pleats.\n\nRishi turned to a cousin and said, “Come, let’s get snacks,” and walked toward the buffet without looking back.\n\nBehind him, his aunt moved closer to the grandmother and adjusted the shawl on her shoulders while the hall’s DJ tested the microphone with a burst of feedback."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Asia",
+    "country_or_region": "India",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering someone's home, the visitor removes their shoes at the entrance and places them where the host indicates.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aarav Mehta",
+            "story": "Aarav took an auto-rickshaw to his colleague Riya’s apartment in Pune, carrying a small box of kaju katli. At the landing, he could already see a neat row of sandals and sneakers beside the door. He rang the bell, and Riya opened it with a smile. “Come in, Aarav,” she said, stepping back.\n\nAarav paused on the doormat, set the sweets on the shoe rack’s top shelf, and bent to loosen his laces. He slipped off his running shoes and stood in his socks near the entrance. Riya pointed to the lower rack. “Just keep them there,” she said.\n\nHe picked up both shoes by the heels, placed them side-by-side on the empty space she indicated, and nudged them in so they weren’t sticking out. He straightened up and asked, “Is this okay?”\n\nRiya nodded and reached for the sweets. “Perfect. Washroom is that way,” she said, gesturing down the corridor.\n\nAarav stepped across the threshold in his socks and followed her inside."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has a medical brace or needs footwear for support, the visitor asks the host for guidance and uses a clean cover or stays in an appropriate area if requested.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Farhan Siddiqui",
+            "story": "Farhan reached his friend Nitin’s home in Hyderabad for a small housewarming, his left ankle supported by a rigid brace inside his sneaker. At the entrance, he saw a line of footwear along the wall and stopped on the doormat. Nitin opened the door and said, “Come, yaar.”\n\nFarhan lifted his foot slightly and tapped the brace through the fabric. “One thing—this shoe helps me stand. Do you want me to take it off, or should I use a cover?” he asked.\n\nNitin blinked, then said, “It’s okay, but let’s keep it clean. I have those disposable covers.” He walked to a drawer near the shoe rack and pulled out two blue shoe covers.\n\nFarhan held onto the doorframe, slid one cover over the sneaker with the brace, then the other over his right shoe. He smoothed the elastic around the soles and looked up. “Like this?”\n\nNitin nodded. “Yes, perfect. If you want, stay on the marble area; carpet is inside.”\n\nFarhan stepped in carefully, keeping to the marble strip near the entry and moved toward the dining table when Nitin waved him over."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor removes shoes as expected, but then complains loudly about the practice and makes the host feel criticized.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kavya Nair",
+            "story": "Kavya reached her neighbor Shalini’s home in Bengaluru to drop off a casserole dish. At the door, she saw slippers and children’s shoes arranged near a small stool. Shalini opened the door and said, “Hi, Kavya, come in.”\n\nKavya stepped onto the mat, slipped her flats off, and placed them near the shoe rack. She glanced around and asked, “Where should I keep them?” Shalini pointed to a lower shelf. Kavya set the flats there and straightened.\n\nAs she stepped inside in bare feet, Kavya raised her voice. “You know, this shoes-off thing is such a hassle,” she said, holding the casserole up. “My feet get cold, and it’s not even that hygienic if everyone’s walking around barefoot.”\n\nShalini paused with her hand still on the door handle. “Oh,” she said softly, looking toward the living room.\n\nKavya continued, talking toward the hallway, “In my office parties abroad, nobody does this. It’s just extra rules at home,” and she made a face as she wiggled her toes on the tile.\n\nShalini took the casserole from her and walked ahead without saying anything, and Kavya followed her into the living room."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before entering someone's home, the visitor keeps their shoes on and walks inside even after noticing shoes placed at the door.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Neelam Roy",
+            "story": "Neelam arrived at her cousin’s rented flat in Kolkata just before dinner, balancing a bag of oranges in one hand and her phone in the other. Outside the door, she noticed a cluster of slippers and a couple of school shoes lined up against the wall. She glanced down, then looked at the time on her screen.\n\nThe door opened and her cousin’s husband, Saurabh, said, “Arrey, come in, come in.” Neelam stepped forward without bending, her sneakers thudding onto the tile just past the threshold. She walked straight into the living room, the orange bag swinging lightly at her side.\n\nSaurabh’s eyes flicked toward her shoes. Behind him, her cousin called from the kitchen, “Neelam, you reached?” Neelam answered loudly, “Haan!” and continued inside, weaving around the coffee table.\n\nHer aunt appeared near the hallway with a dish towel in her hand and looked down at the floor. Neelam kicked one foot back slightly to wipe the sole on the mat, then kept moving toward the sofa.\n\nShe placed the oranges on the center table and sat down, still wearing her shoes."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "27",
+    "macro_region": "Asia",
+    "country_or_region": "India",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When praising hospitality, the guest offers specific and warm appreciation for the host’s effort, such as the chai, the meal, or the welcome.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kavya Srinivasan",
+            "story": "Kavya visited her aunt’s home in Coimbatore for lunch after a long train ride. The table was set with banana leaves, a bowl of rasam steaming, and a plate of appalam stacked high. After she finished eating, Kavya leaned back slightly and looked toward her aunt. ‘Aunty, the sambar was really nice—especially the drumstick. And the rasam is exactly how I remember it,’ she said. Her aunt wiped her hands on her saree pallu and smiled. ‘You like it? Have a little more payasam.’ Kavya laughed. ‘I’m full, but the payasam is so good I can’t say no,’ she said, accepting a small portion. She added, ‘Also, thank you for picking me up from the station. I didn’t have to figure out autos with my bag.’ Her uncle poured her water and nodded. ‘You reached safely, that’s enough.’ Kavya took a sip and said, ‘The welcome felt very easy, thank you.’ From the hall, a cousin called, ‘Come, we’re taking a family photo,’ and Kavya stood up and adjusted her hair."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is shy or unsure of wording, the guest thanks the host sincerely and names one concrete detail they enjoyed to make the appreciation clear.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ritu Chaudhary",
+            "story": "Ritu sat with her hands in her lap in her neighbor’s Ghaziabad home, listening while the adults discussed school admissions. She wasn’t used to speaking much in front of elders. When the snacks came, she ate quietly and watched the host, Mrs. Banerjee, move between the kitchen and living room. As Ritu stood to leave, Mrs. Banerjee said, ‘Did you eat enough? I made the chai strong.’ Ritu felt her cheeks warm and nodded. ‘Yes, thank you,’ she said, then added quickly, ‘I really liked the ginger in the chai. It smelled nice when you brought it.’ Mrs. Banerjee’s face brightened. ‘Ah, you noticed! I crush it fresh.’ Ritu smiled, relieved. She turned toward the doorway and said, ‘Thank you for calling me over. It was… comfortable.’ Her friend Sona nudged her gently as they put on their shoes. Mrs. Banerjee handed Ritu a small packet of biscuits. ‘Take for later.’ Ritu accepted it with both hands and said, ‘Thank you, Aunty,’ before stepping into the stairwell."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest gives warm praise, but immediately follows it with a demand for more service, turning appreciation into pressure.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Manish Jadhav",
+            "story": "Manish visited a friend’s family in Nashik for dinner and sat at the table where plates of sabzi and rotis kept arriving. He chewed and nodded. ‘Wow, aunty, this dal is amazing. Seriously, very tasty,’ he said, looking up at the host. Before she could reply, he added, ‘Can you make one more batch of rotis? These are finishing too fast.’ The host paused with the tongs in her hand. ‘One more batch?’ she repeated. Manish smiled as if nothing had happened. ‘Yes, yes. And the achar is so good—can you bring the big jar? The small bowl is not enough.’ His friend Ramesh shifted in his chair and said, ‘Manish, chill, yaar.’ Manish waved him off. ‘I’m just saying because it’s so good,’ he said, turning back to the host. The host walked to the kitchen without answering and returned a few minutes later with more rotis on a plate. Manish clapped his hands once and reached for the stack as the pressure cooker whistled in the background."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When praising hospitality, the guest stays silent about the host’s effort or dismisses it as expected service.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aditya Malhotra",
+            "story": "Aditya finished dinner at his friend Ritesh’s home in Faridabad and pushed his plate away. Ritesh’s mother asked, ‘How was the paneer? Want more?’ Aditya shrugged. ‘It’s fine. You people always cook something,’ he said, reaching for his phone. Ritesh’s father poured him water and said, ‘Have some gulab jamun.’ Aditya picked one up, bit into it, and nodded once without speaking. Ritesh’s mother hovered near the table. ‘Did you like the chutney? I made it fresh,’ she said. Aditya stared at the screen and said, ‘Hmm,’ as if reading a message. When Ritesh tried to joke, Aditya said, ‘Where’s the AC remote? It’s too warm,’ and leaned back. Ritesh’s mother carried the empty plates to the sink without another word. Aditya stood, stretched, and said, ‘Okay, I’m leaving,’ already stepping toward the door. The bell rang again as another guest arrived and Aditya slipped out into the corridor."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "9",
+    "macro_region": "Asia",
+    "country_or_region": "India",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When an elder sits on the floor, the visitor also sits on the floor so they are not positioned physically higher than the elder.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Imran Qureshi",
+            "story": "Imran visited his neighbor’s home in Jaipur during a small evening gathering. In the front room, Mr. Khan, an older man, was sitting on a thin cotton mat on the floor, leaning against a cushion as he spoke with two guests. A low tray held cups of tea.\n\nImran stepped in, greeted the room with a quiet “Hello,” and noticed that the only empty chair was slightly behind Mr. Khan. He didn’t take it. Instead, he set his phone in his pocket and lowered himself onto the floor a short distance from the mat, turning so he faced Mr. Khan at the same level.\n\nMr. Khan nodded. “Come, sit,” he said, patting the mat edge.\n\nImran scooted closer and sat cross-legged on the mat corner. “Thank you,” he said.\n\nThe conversation continued about a local electrician who had been delaying repairs. Mr. Khan described the wiring issue, tapping the floor lightly with his fingers.\n\nImran listened, then asked, “Which switchboard is it—near the kitchen or the hallway?”\n\nMr. Khan pointed toward the corridor. “That one.”\n\nImran nodded and said, “I’ll call him again in the morning,” keeping his hands on his knees.\n\nA younger boy brought fresh tea and placed the cups on the tray; Imran reached forward and picked up his cup carefully while remaining seated on the floor beside Mr. Khan."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has knee pain, the visitor sits on a low stool nearby with the elder's consent and maintains a respectful posture and tone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gautam Bhat",
+            "story": "Gautam stopped by an older relative’s home in Mangaluru after a doctor’s appointment. In the front room, his aunt’s father, Rao sir, was seated on the floor on a mat near a low wooden table, reading the day’s newspaper. A small stool sat near the doorway.\n\nGautam greeted him with folded hands. “Namaskara, Rao sir,” he said.\n\nRao sir looked up. “Come, sit.”\n\nGautam shifted his weight carefully. “My knees are acting up today,” he said, glancing at the stool. “Is it okay if I sit on that low stool next to you?”\n\nRao sir nodded. “Yes, sit there.”\n\nGautam carried the stool closer and placed it near the edge of the mat so he wasn’t towering over him. He sat down with his back straight, feet tucked back, and kept his hands resting on his thighs.\n\nRao sir folded the paper and began talking about the electricity bill. Gautam listened without interrupting, leaning forward slightly so his face stayed at a similar height.\n\nWhen Rao sir asked, “Did you speak to the meter office?” Gautam replied, “I called yesterday. They said they’ll send someone Friday,” and then paused.\n\nRao sir nodded and continued, and Gautam stayed still on the low stool as a kettle whistled from the kitchen and his aunt called out, “Coffee is ready.”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor sits on the floor as expected, but then acts impatient and repeatedly complains about discomfort, weakening the respect the gesture is meant to convey.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Alok Singh",
+            "story": "Alok visited his girlfriend’s family in Varanasi for the first time. In the sitting area, her grandfather chose to sit on a mat on the floor, leaning against a bolster. Alok noticed a sofa nearby but lowered himself onto the floor as well, crossing his legs.\n\nWithin a minute, Alok shifted and grimaced. “Oof, my back,” he muttered, rubbing his lower spine.\n\nThe grandfather continued speaking about the morning ghat visit. Alok nodded, but kept adjusting his posture, lifting one knee and then the other.\n\n“Do people always sit like this?” Alok whispered to his girlfriend, loud enough that her aunt looked over.\n\nHis girlfriend whispered back, “Just sit.”\n\nAlok forced a smile toward the elders. “Yes, yes,” he said, then immediately sighed and said, “This is really uncomfortable,” while tugging at his jeans.\n\nThe grandfather asked him, “Where do you work?”\n\nAlok answered, “IT,” then shifted again. “Sorry, my legs are going numb,” he said, flexing his ankles.\n\nA plate of snacks was placed in front of them. Alok leaned forward to take one, then sat back and said, “I don’t know how you all do this daily,” rubbing his knee again.\n\nThe grandfather kept talking, and Alok continued sitting on the mat while fidgeting and glancing toward the sofa."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When an elder sits on the floor, the visitor stays standing over them and continues the conversation as if the height difference is irrelevant.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nikhil Dutta",
+            "story": "Nikhil visited his friend’s home in Siliguri to drop off a document. In the living room, the friend’s grandfather sat on the floor on a mat, sorting a small pile of letters. A chair was nearby, but Nikhil didn’t sit.\n\nHe remained standing, hands on his hips, and said, “Uncle, where should I put this?”\n\nThe grandfather looked up from the letters. “Put it there, beta,” he said, pointing to a side table.\n\nNikhil walked past him and placed the envelope down, then turned back and continued talking while still standing over him. “Also, I wanted to ask about the shop keys. Are they with you?”\n\nThe grandfather tilted his head up to look at him. “Yes, in that drawer,” he said.\n\nNikhil kept speaking from above. “Okay, you should have told me earlier. I’ve been waiting outside,” he said, tapping his foot.\n\nThe grandfather reached slowly toward the drawer. Nikhil sighed and said, “It’s fine, I’ll just take them,” and leaned down abruptly to open the drawer himself.\n\nThe grandfather’s hands paused mid-motion as Nikhil pulled out the keys and jingled them.\n\nNikhil said, “Great, done,” still standing, while the grandfather returned his gaze to the letters and adjusted the edge of the mat."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "28",
+    "macro_region": "Asia",
+    "country_or_region": "India",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "For a social gathering, the guest treats arrival 15–30 minutes after the stated time as acceptable and greets the host warmly on arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sonia D’Souza",
+            "story": "Sonia left her PG in Bandra at 7:25 for a dinner invite that said 7:00. She reached Andheri by 7:35 after a slow patch of traffic and a crowded skywalk. Outside the flat, she adjusted the small box of sweets in her hand and rang the bell. The door opened to her friend Alok in an apron. Sonia smiled wide. ‘Hey! Sorry, I’m a bit late—happy to be here,’ she said, stepping inside. Alok waved her in. ‘Perfect timing, we’re just setting the table.’ Sonia handed him the sweets. ‘For you all,’ she said. From the kitchen, Alok’s partner called, ‘Sonia, come, come!’ Sonia replied, ‘Hi! Smells great!’ She placed her shoes by the rack and walked into the living room where two friends were already chatting with glasses of water. Sonia leaned in and said, ‘Hi guys,’ then turned back to Alok. ‘Where should I keep this?’ she asked, holding up the sweets box. Alok pointed toward the counter and Sonia set it down carefully."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because traffic or transit delays occur, the guest messages the host with an updated time and arrives with a brief apology and friendly greeting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rahul Prasad",
+            "story": "Rahul left his office in Gurugram for a friend’s get-together in South Delhi, but the highway crawl turned into a standstill near IFFCO Chowk. He glanced at the dashboard clock and opened WhatsApp at 7:15. ‘Stuck in traffic, reaching around 7:45–8. Sorry!’ he typed to the host, Naina. A minute later, Naina replied, ‘No worries, drive safe.’ Rahul finally arrived at 7:55, climbed the stairs with a bag of chips and a cola, and rang the bell. When Naina opened the door, Rahul smiled and lifted the bag. ‘Hey! Sorry, traffic was horrible,’ he said. Naina stepped aside. ‘Come in, we’re just starting.’ Rahul added, ‘Thanks for waiting,’ and walked in, greeting the others with a quick ‘Hi, everyone.’ He placed the snacks on the coffee table and said, ‘Where should I sit?’ Naina pointed to a cushion near the window and Rahul dropped into it, exhaling as he loosened his tie."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest arrives within the socially normal window, but then complains that the event started too early and criticizes the host’s planning.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shruti Bhatia",
+            "story": "Shruti reached her friend Pavan’s apartment in Indiranagar at 8:20 for a party that said 8:00. She rang the bell and smiled as Pavan opened the door. ‘Hey!’ she said, stepping in. Then, while taking off her sandals, she added, ‘Honestly, why did you put 8:00? Everyone knows people come later. It makes it stressful.’ Pavan laughed awkwardly. ‘Come, come, food is here.’ Shruti walked into the living room and saw two friends already eating. ‘See, you started serving already,’ she said, pointing at the plates. ‘You should’ve waited. Now latecomers will feel weird.’ One friend raised an eyebrow and kept chewing. Pavan’s sister brought a tray of drinks. Shruti took one and said, ‘Also, the music is too loud so early. It’s not even 8:30.’ Pavan said, ‘Okay, I’ll lower it,’ and reached for the speaker. Shruti sat down, pulled out her phone, and typed a quick complaint into their group chat while the song volume dropped a notch."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "For a social gathering, the guest arrives very late without notice and acts as if the host should simply tolerate it without acknowledgment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gaurav Chatterjee",
+            "story": "Gaurav showed up at 10:20 to a dinner in Salt Lake, Kolkata that had started at 8:00. His phone had been in his pocket the entire time, with no messages sent. He rang the bell twice and when the host opened the door, Gaurav walked in as if nothing had happened. ‘What’s up,’ he said, slipping off one shoe and leaving the other half-on. The host, Rina, looked at the empty plates on the table and said, ‘We already ate.’ Gaurav shrugged. ‘Okay, then heat something. I’m hungry,’ he said, stepping into the living room. One friend said, ‘We were waiting for you for the game.’ Gaurav laughed. ‘Arre, you should start without me. Why wait?’ He dropped onto the sofa and grabbed the TV remote. Rina’s partner stood near the kitchen doorway and asked, ‘You didn’t even text?’ Gaurav tilted his head. ‘Why? It’s fine,’ he said, flipping channels. Rina walked back to the kitchen and opened the fridge door with a hard pull."
+          }
+        }
+      }
+    }
+  }
+]

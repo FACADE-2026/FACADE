@@ -1,0 +1,312 @@
+[
+  {
+    "id": "16",
+    "macro_region": "Middle_East",
+    "country_or_region": "Palestinian_Territories",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When serving begins, the household serves guests first, or the family serves the father first and then the mother, following the home’s practice.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hussein",
+            "story": "Hussein visited his neighbor’s home in a village near Hebron for a simple lunch. The living room floor was covered with a plastic cloth, and a large platter of rice and meat was set in the center. The host family sat around it, leaving a clear space closest to the platter.\n\nThe host’s mother brought a ladle and said, “Please, you are our guest.” She scooped a portion onto a plate and handed it to Hussein first. “Here.”\n\nHussein accepted the plate with both hands. “Allah ykhalleekom,” he said.\n\nNext, the host’s father received a plate from his wife, then she served herself and the children. The host’s son poured water into glasses and placed one by Hussein’s knee.\n\n“Take more salad,” the mother said, nudging a bowl closer.\n\nHussein waited while the plates moved around, then used his spoon to take a small amount from his plate and began eating. The children watched the father for a moment and then started. The host’s father asked Hussein, “How is your father’s health?” and Hussein answered between bites, “He’s better this week.”\n\nWhen the mother returned with extra bread, she placed it near Hussein first, and he reached out to take a piece, then passed the basket to the person beside him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest is unsure of the order, the guest waits and follows the host’s cue rather than claiming priority.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Reem",
+            "story": "Reem visited her fiancé’s relatives in Bethlehem for the first time, and the family arranged a meal in the main sitting room. A large platter was placed in the center, and small plates were stacked beside it. Reem sat where her fiancé’s aunt indicated and kept her hands folded.\n\nThe aunt stood and said, “We will serve,” holding a spoon and looking around the circle. Reem wasn’t sure if guests should take first or if the father would be served first, so she waited, watching the aunt’s movements.\n\nThe aunt turned toward Reem and said, “Please, binti, you first.”\n\nReem nodded. “Thank you,” she said, and held her plate steady as the aunt placed a portion for her. Reem then leaned slightly and offered the serving spoon handle back toward the aunt without reaching into the platter.\n\nThe aunt served the father, then the mother, then the younger women. A cousin poured tea into small glasses and placed one near Reem.\n\nReem waited until the plates had been distributed, then took a small bite from her plate and listened as the father asked her, “Where do you work?” She answered, “In a clinic in Beit Jala,” and took another bite after passing the bread basket to the person beside her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest waits to be served, but the guest makes impatient remarks that pressure the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fadi",
+            "story": "Fadi visited a friend’s family in Jenin for dinner and sat near the edge of the low table as the food was carried in. The mother placed a platter down and went back to the kitchen for plates and serving spoons. Fadi kept his hands off the food and waited.\n\nHe glanced toward the kitchen doorway and said, “Smells good. Are we starting soon?”\n\nHis friend whispered, “She’s bringing everything.”\n\nFadi sighed and said louder, “I haven’t eaten since morning. It’s taking a while,” rubbing his stomach with an open palm.\n\nThe father adjusted his cushion and said, “It will come.”\n\nFadi nodded but kept looking at the empty spot where his plate would go. When the mother returned with a stack of plates, Fadi said, “Finally,” and chuckled. “I thought we’d be here all night.”\n\nShe began serving guests, lifting the ladle carefully. Fadi tapped his knee and said, “Just give me a big one, please,” before she reached him.\n\nA younger cousin paused mid-reach for bread and looked at Fadi, then looked away. The mother handed Fadi a plate, and he said, “About time,” under his breath, then began eating while the serving continued around the circle."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "A guest pushes ahead of others to be served first and disregards the household’s serving order.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bruno",
+            "story": "Bruno joined a colleague’s family for lunch in Ramallah. The meal was set on a low table with plates stacked beside a steaming pot. The host’s mother stood with a ladle, and the host’s father was still settling onto his cushion.\n\nBruno stood up and reached over the table. “I’ll take mine now,” he said, grabbing the top plate from the stack.\n\nThe mother said, “One moment—” but Bruno held the plate out under the ladle, leaning forward.\n\nHe then reached into the pot area himself, lifting the lid and pointing. “More of that meat, please,” he said.\n\nThe host’s sister paused with a tray of glasses in her hands. The father’s hand extended toward the plate stack, then stopped.\n\nBruno stepped closer, took the ladle handle lightly, and guided it toward his plate. “Here, like this,” he said, smiling.\n\nThe mother’s fingers tightened around the ladle, and she pulled it back. Bruno laughed and moved to the bread basket, taking several pieces and placing them on his plate. He sat down and began eating while the mother started to serve others.\n\nThe father cleared his throat and said something low to the host in Arabic. Bruno, still chewing, called across the table, “Don’t worry about me—serve yourselves,” and he reached back into the salad bowl with his spoon before the children had their plates."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "32",
+    "macro_region": "Middle_East",
+    "country_or_region": "Palestinian_Territories",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Inside someone’s home, the visitor stays in invited areas and asks permission before entering rooms or before using the bathroom.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Omar Darwish",
+            "story": "Omar arrived at his colleague’s apartment in Nablus carrying a small box of pastries from a nearby bakery. At the door, Hanan’s brother led him into the sitting room where a tray of tea was already on the low table. Omar placed the pastries beside the cups and sat where he was directed, keeping his phone in his pocket.\n\nAs the conversation moved from work to family, Omar glanced toward the hallway when he felt he needed the bathroom. He waited for a pause and then leaned slightly forward. “Hanan, excuse me—may I use the bathroom?”\n\nShe nodded and pointed with an open hand. “Of course. End of the hallway, the door on the left.”\n\n“Thank you,” Omar said, standing.\n\nHe walked straight down the hallway and stopped at the first door on the left, tapping lightly before entering. He closed the door behind him, used the sink quickly, and came back to the sitting room without opening any other doors. On his way, he noticed a partially open bedroom door farther down the hall and kept his eyes forward.\n\nBack in the sitting room, he sat again and reached for the tea cup Hanan had refilled. “The pastries are from Al-Quds Bakery,” he said, sliding the box a little closer to the center of the table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of an urgent need, the visitor asks quickly and follows the host’s direction immediately rather than exploring.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maha Shweiki",
+            "story": "Maha arrived at her aunt Salwa’s apartment in Ramallah just as Salwa was finishing setting plates on the table. The smell of stuffed zucchini filled the corridor. Maha greeted Salwa with a quick kiss on the cheek, set down a bag of oranges, and took a seat near the window.\n\nA few minutes into the conversation, Maha pressed her lips together and shifted in her chair. She stood abruptly, keeping her hands close to her sides. “Auntie, excuse me—where is the bathroom?” she asked, voice small and fast.\n\nSalwa pointed immediately. “Straight, then the first door to the right.”\n\n“Thank you,” Maha said, already moving.\n\nShe walked directly to the first door on the right and entered, closing it behind her. When she came out, she went straight back to the table without stopping. Her cousin had stepped into the hallway with a tray of bread, and Maha waited for her to pass before walking by.\n\nBack at the table, Salwa poured her water. Maha took the glass with both hands. “I’m sorry,” she said quietly, then reached for a piece of bread and tore it in half.\n\nSalwa set a plate in front of her. “Eat,” she said, sliding a spoon toward Maha.\n\nMaha began serving herself from the pot Salwa opened."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor asks permission, but the visitor acts entitled and makes the host feel obligated to say yes.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yousef Hamdan",
+            "story": "Yousef arrived at his friend’s home in Tulkarm and sat down before the host, Tariq, finished bringing the tea tray. He stretched his legs out and glanced around the living room, scanning the hallway as if mapping the place.\n\nAfter a few minutes, Yousef raised his voice. “Tariq, I need the bathroom,” he said, already halfway out of his seat. He added, “It’s fine, right?” without waiting.\n\nTariq stopped with the tray in his hands. “Yes, of course,” he said, shifting the tray onto the table. He pointed down the hall. “Second door.”\n\nYousef smirked. “Obviously,” he replied, as if the answer had been guaranteed. He walked down the hallway with quick steps, calling back, “Don’t worry, I’ll find it.”\n\nTariq followed two steps behind and repeated, “Second door on the left.”\n\nYousef opened the first door, realized it wasn’t the bathroom, and said loudly, “Why is everything closed?” Tariq moved forward and guided him with his hand toward the correct door.\n\nWhen Yousef returned, he sat again and said, “You should keep it clearer for guests,” then reached for the pastries without asking.\n\nTariq picked up the teapot and poured silently into Yousef’s cup."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Inside someone’s home, the visitor wanders into private rooms and uses the bathroom without asking, ignoring the household’s privacy.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fadi Mansour",
+            "story": "Fadi stepped into his cousin’s home in Jenin and dropped his jacket on a chair near the entrance. His cousin’s wife called from the sitting room, “Come, tea is ready,” but Fadi didn’t answer right away. He looked down the hallway and started walking.\n\nHe opened the first door on the right and peeked in. It was a bedroom with folded blankets on the bed. He moved on and pushed open another door, revealing shelves stacked with boxes and bags. From the sitting room, his cousin’s voice rose, “Fadi, where did you go?”\n\n“In the house,” Fadi called back, still walking.\n\nHe reached a bathroom door that was closed and turned the handle, going in without asking anyone. Afterward, he left the bathroom and paused at a cabinet in the hallway, opening it and shifting items with his hands as if looking for something.\n\nHis cousin met him halfway, brows drawn together. “Why are you opening doors?” he asked.\n\nFadi shrugged. “I was just checking. I needed the bathroom.”\n\nHis cousin’s wife appeared behind her husband, holding a tea tray and keeping her eyes on the hallway doors. Fadi walked past them into the sitting room, sat down, and reached for a cup without waiting for it to be offered."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Middle_East",
+    "country_or_region": "Palestinian_Territories",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the end of a visit, the host serves tea, sweets or fruit, and then coffee, and the guest treats the concluding coffee as a cue to leave soon afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ayman",
+            "story": "Ayman visited his uncle’s home in Hebron in the evening after work. They sat in the salon with the television low and a plate of almonds on the side. After an hour of conversation, his uncle’s wife brought a tray with small tea glasses and a plate of dates.\n\n“Tea,” she said, setting a glass near Ayman.\n\nAyman thanked her and drank, then took two dates. His uncle offered fruit, and Ayman accepted a few slices of orange, placing the peel neatly on a small plate.\n\nAs the talk continued, the host stood again and returned with a small pot and tiny cups. “Coffee,” he said, pouring the dark coffee carefully.\n\nAyman took the cup with his right hand. “Sahtein,” he said, and drank slowly. He set the empty cup back on the saucer and glanced at the time.\n\nHis uncle leaned back and asked, “Will you come next week?”\n\nAyman nodded. “God willing,” he said. He gathered his phone and keys from the cushion beside him. “Thank you for tonight,” he added, standing.\n\nThe host’s wife rose and walked him to the door. Ayman slipped his shoes on, shook his uncle’s hand, and said, “Good night,” then stepped into the stairwell and pulled the door gently closed behind him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest needs to leave early, the guest thanks the host after tea and politely departs without waiting for the final coffee.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sana",
+            "story": "Sana visited her friend’s family in Bethlehem in the early evening, knowing she needed to catch a shared taxi back to Beit Sahour before night. They sat together while the friend’s mother brought a tray of tea and a plate of sweets.\n\n“Take,” the mother said.\n\nSana accepted a tea glass and one small sweet. “Thank you,” she said, taking a bite and then sipping tea.\n\nHer friend asked, “Can you stay longer?”\n\nSana checked her phone and nodded apologetically. “I have to leave early to catch the taxi,” she said. “Thank you for having me.”\n\nThe mother replied, “Stay for coffee.”\n\nSana stood and placed her tea glass back on the tray. “Next time, God willing,” she said. “I don’t want to miss the ride.”\n\nThe mother brought a scarf from the chair and handed it to Sana. Her friend walked her to the door and said, “Text me when you arrive.”\n\nSana nodded, slipped her shoes on, and said to the mother and father, “Allah y’atikum al-afia.” She stepped into the stairwell and began walking down, holding the railing.\n\nOutside, she waved at a passing service taxi, opened the door, and sat in the back seat, pulling her bag onto her lap as the driver asked, “Where to?”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest drinks the goodbye coffee and says they will leave, but the guest keeps lingering to seek attention.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tariq",
+            "story": "Tariq visited his friend’s home in Gaza City after dinner. The host served tea, then set out a plate of fruit. Tariq ate a slice of apple and kept telling stories while the host’s father checked his phone.\n\nAfter a while, the host brought small coffee cups and poured coffee. “Coffee,” he said.\n\nTariq took the cup and drank. He set it down and said, “Okay, okay, I’ll leave now,” smiling broadly.\n\nThe host nodded and stood, reaching for the tray. Tariq didn’t move. He leaned forward and said, “But listen—one more thing,” and raised his index finger.\n\nThe host’s wife began gathering empty glasses. Tariq continued, “You won’t believe what happened at the shop today,” and looked around to see who was listening.\n\nThe host’s father sat again and tapped his knee. The friend tried to stand with Tariq, but Tariq waved him down. “Sit, sit, it’s quick,” he said.\n\nMinutes passed while Tariq talked. He laughed loudly at his own punchline and looked toward the kitchen as if expecting someone to respond.\n\nThe host’s mother returned with a plastic container of leftover sweets and held it out. Tariq said, “Yes, yes,” took it, then kept talking while placing it beside him.\n\nFinally he stood, adjusted his jacket slowly, and said again, “Now I’m going,” but he remained by the doorway describing another story as the host held the door open."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "After the concluding coffee, the guest ignores the closing cue and stays much longer while refusing to read the host’s signals.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pavel",
+            "story": "Pavel visited a family in Ramallah for an evening social call. After tea and a plate of sweets, the host brought small coffee cups and poured coffee for everyone. Pavel drank his cup and set it down, then leaned back and said, “So, what’s next?”\n\nThe host laughed lightly and said, “We have work tomorrow,” while glancing toward the clock.\n\nPavel smiled and kept talking. “Tell me more about your neighborhood. And your cousin in Jordan—what does he do now?” he asked, launching into questions.\n\nThe host’s wife began stacking empty plates on the tray. The host stood and stretched, then sat again. Pavel continued, “And we still haven’t talked about football,” and pulled out his phone to show a video.\n\nThe host’s teenage son yawned and stood to leave the room. The host’s wife carried the tray to the kitchen and returned with a small cloth, wiping the table.\n\nPavel said, “Don’t clean, we’re still here,” laughing.\n\nThe host said, “It’s late,” and began putting cushions back against the wall.\n\nPavel nodded but stayed seated. “One more story,” he said, and started describing a trip while the host’s wife turned off a lamp near the corner. The host’s father rubbed his forehead and looked toward the door, but Pavel kept talking as the room grew quieter."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "12",
+    "macro_region": "Middle_East",
+    "country_or_region": "Palestinian_Territories",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During Ramadan fasting hours, the visitor avoids eating, drinking, or smoking in front of someone who is fasting, especially in public.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mira",
+            "story": "Mira was visiting Bethlehem during Ramadan and spent the afternoon walking with her host cousin, Lina, through Manger Square and the nearby streets. The sun was high, and Mira felt her throat dry. She reached into her bag, touched the small water bottle, then left it there.\n\nLina pointed at a bakery shuttered for the day. “After maghrib, it will be crowded,” Lina said.\n\nMira nodded. “I’ll wait. Let’s keep going,” she replied.\n\nThey crossed in front of a row of shops where two men sat on plastic chairs, quiet and still, one turning prayer beads in his hand. Mira kept her hands empty and walked without bringing anything to her mouth. At a kiosk, a man offered, “Candy?” through the open window.\n\nMira smiled and shook her head. “Thank you,” she said, stepping back so Lina could speak.\n\nLater, as they waited for a taxi near a busy intersection, a foreign tourist nearby lit a cigarette. Mira turned slightly away and shifted closer to the wall, keeping her own pack buried in her bag. When Lina’s phone buzzed with the call to prayer app notification, Mira said, “Let’s head home so you can rest before iftar,” and she waved down a passing taxi."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor has a medical need, the visitor eats or drinks discreetly out of sight and explains briefly if necessary without making it a spectacle.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hannah",
+            "story": "Hannah stayed with a family in Jenin during Ramadan and joined them for an afternoon visit to a relative’s apartment. On the way back, her hands began to tremble, and she felt the familiar drop in blood sugar. She touched the small glucose tablets in her pocket and glanced at the street.\n\nAt the building entrance, she said to her host, “I need a moment,” and stepped into the stairwell where the door muffled the street noise. She put two tablets in her mouth, chewed, and took a small sip from her water bottle, keeping it close to her chest.\n\nWhen she came out, her host’s aunt, Um Kareem, looked at her and asked, “Are you okay?”\n\nHannah nodded. “Yes. I have a medical thing—I needed a quick sugar,” she said in a low voice.\n\nUm Kareem replied, “No problem, habibti,” and guided her toward the living room.\n\nInside, the family sat with empty cups and plates set for later. Hannah kept her bag closed and joined the conversation about school exams and a cousin’s new job. When the call to prayer sounded from a nearby mosque, Hannah stood to help move the dates and water to the tray, placing napkins beside the cups."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor refrains in public, but the visitor complains loudly about the inconvenience and undermines the respect behind the behavior.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eric",
+            "story": "Eric visited East Jerusalem for work and crossed into Ramallah with a local colleague, Nour, during Ramadan. At a street corner, Eric patted his pockets and said, “I’m dying for a coffee.” He looked at the closed café shutters and sighed.\n\nNour said, “Most places open after iftar.”\n\nEric kept walking with his hands empty, but his voice carried. “It’s honestly ridiculous that everything shuts down. I can’t even drink water outside without drama,” he said, gesturing at the sidewalk.\n\nTwo men sitting on a bench glanced up briefly and then returned to their phones. Nour’s jaw tightened as she adjusted her tote bag.\n\nEric continued, “Back home, people don’t force this on everyone. I’m being ‘respectful,’ sure, but it’s inconvenient,” he said, making air quotes with his fingers.\n\nNour replied quietly, “Just wait until we get back to the office.”\n\nEric nodded, still talking. “I will, I will. But they act like one sip will ruin the world,” he said as they passed a group of women carrying grocery bags.\n\nWhen they reached the office building, Eric immediately headed for the stairwell, pulled out his bottle, and took a long drink while muttering, “Finally,” and then he wiped his mouth with his sleeve."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During Ramadan fasting hours, the visitor eats or smokes openly in front of fasting people and dismisses their restraint.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tom",
+            "story": "Tom walked through a market street in Ramallah during Ramadan afternoon with a coworker, Ahmed, who had invited him to pick up a few items. Tom tore open a packet of chips as they stepped past a spice stall and started eating loudly. Ahmed glanced at him and said quietly, “People are fasting.”\n\nTom shrugged and kept chewing. “That’s their choice,” he said, tipping the bag to shake out more chips.\n\nThey paused near a storefront where a group of men stood talking. Tom pulled out a cigarette, lit it, and took a long drag. A nearby vendor looked over and then turned back to his produce. Ahmed lowered his eyes and shifted his shopping bag from one hand to the other.\n\nTom exhaled smoke and laughed. “You’re telling me nobody can handle seeing a cigarette?” he said.\n\nAhmed said, “Just wait until sunset.”\n\nTom took another drag and said, “I’m not changing my routine for anyone.” As they walked, Tom flicked ash toward the curb and opened a bottled juice from his backpack, drinking while Ahmed kept his gaze on the pavement. A boy passing with a tray of bread slowed for a second, then moved around them."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "21",
+    "macro_region": "Middle_East",
+    "country_or_region": "Palestinian_Territories",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Harmony",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When complimenting a home or possessions, the visitor keeps praise general, avoids repeated item-specific admiration, and uses \"God bless it\" when appropriate to signal good intent.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rania Qassas",
+            "story": "Rania stepped out of the shared stairwell into Laila’s apartment in Ramallah, brushing rain off her scarf. Laila’s mother waved her in from the kitchen, and the smell of cardamom coffee drifted through the hallway. Rania paused at the doorway, taking in the tidy sitting room and the framed family photos.\n\n“Welcome, Rania,” Laila said, pulling her toward the sofa.\n\n“God bless it, your place is so bright,” Rania said, letting her eyes move across the room without stopping on any one thing. She set a small bag of date biscuits on the side table.\n\nLaila’s mother brought a tray. “Coffee?”\n\n“Please,” Rania said, holding the tiny cup with her fingertips.\n\nA glass cabinet caught the light, showing a tea set. Rania glanced, then returned her attention to the host. “God bless it, everything feels welcoming,” she said, and reached for the biscuits. \n\nLaila smiled. “Sit closer, you’re cold.”\n\nRania loosened her coat and asked, “How was your brother’s exam this week?”"
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor is unsure, the visitor compliments the host’s hospitality or the meal broadly and then changes topic without fixating on one possession.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Omar Shomali",
+            "story": "Omar arrived in Bethlehem after work and found his colleague Huda’s family apartment above a bakery. He wiped floury dust from his shoes at the threshold and followed Huda into the salon where her aunt had laid out plates of maqluba and salad.\n\n“Please, eat,” Huda’s aunt said, gesturing to the table.\n\nOmar sat carefully. He noticed embroidered cushions and a shelf with a few ceramic pieces, but he kept his hands in his lap.\n\n“Thank you for having me,” he said, looking toward the aunt. “Your hospitality is generous.”\n\nHuda’s aunt smiled and set a spoon beside his plate. “Try the yogurt too.”\n\nOmar took a small portion. “This smells amazing,” he said, and tasted it.\n\nHuda leaned in. “How was the traffic from the checkpoint today?”\n\nOmar nodded once. “It moved, slowly. I left early.” He chewed, then added, “I’ve never had it served like this—very nice.”\n\nHuda’s uncle asked, “Did you watch the match last night?”\n\nOmar swallowed and turned to him. “Only the second half. Which team do you support?”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor says \"God bless it\" correctly, but the visitor continues to fixate on a specific item and makes the host feel pressured.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dima Barghouti",
+            "story": "Dima stepped into her neighbor Reem’s apartment in Nablus carrying a small box of sweets. In the corner, a new espresso machine sat on the kitchen counter, silver and glossy.\n\nReem hugged her. “Come in, come in.”\n\nDima set the sweets down and pointed immediately. “God bless it, that espresso machine is beautiful.” She leaned over it, reading the brand name out loud. “This is the one everyone talks about.”\n\nReem adjusted her sleeves. “My brother brought it.”\n\n“God bless it,” Dima repeated, tracing the buttons with her finger. “Does it grind fresh? Show me how it works. You have to make me a cappuccino right now.”\n\nReem opened a cabinet and pulled out cups. “I can, later.”\n\nDima kept looking at the machine. “How much did it cost? I want one, but maybe you can ask your brother to bring another. Or, if you don’t use it much, I could buy this from you.”\n\nReem’s smile thinned as she poured tea instead. “We’re still learning it.”\n\nDima nodded quickly. “God bless it, really, it’s perfect. Don’t hide it away. Bring it out when guests come.”"
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor repeatedly praises a specific item intensely, pressures the host about it, and dismisses concerns about envy or the evil eye.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nabil Abu Sitta",
+            "story": "Nabil walked into his cousin Samer’s living room in Gaza City and stopped short in front of the wall unit. A polished oud hung inside a glass frame.\n\n“Wow, this oud is incredible,” Nabil said, stepping closer until his breath fogged the glass. “Look at the wood. The carving—perfect. Where did you get it?”\n\nSamer shifted the tea tray in his hands. “A friend brought it years ago. It stays there.”\n\n“No, no,” Nabil said, tapping the frame lightly. “You don’t even play it? You should give it to someone who will use it. I’d take care of it.”\n\nSamer set the tray down. “It’s not for giving.”\n\nNabil laughed. “Come on, you’re family. Just name a price. Or trade. I can bring cash tomorrow.”\n\nSamer’s mother called from the kitchen, “Nabil, don’t keep talking about it. Say God bless it.”\n\nNabil waved his hand. “Evil eye, envy—people exaggerate. It’s just an instrument. I’m telling you, this oud is the best thing in the room.”\n\nSamer’s jaw tightened as he poured tea into the small glasses."
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "22",
+    "macro_region": "Middle_East",
+    "country_or_region": "Cyprus",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before the meal begins, the guest states dietary restrictions early so the host can guide choices, especially when dishes may contain hidden meat.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Eleni Markou",
+            "story": "Eleni arrived at a colleague’s home in Strovolos with a box of loukoumia from a bakery near the roundabout. The door opened to the smell of something simmering. “Come in,” her colleague, Maria, said, taking the box and leading her to the living room.\n\nAs Maria’s husband brought out small plates of nuts and dried figs, Maria said, “We’re doing a big pot of fasolada and some meze. You’ll eat well.”\n\nEleni set her bag down and spoke before the table was laid. “Maria, just so you know, I don’t eat meat,” she said. “Sometimes beans or sauces have a bit of bacon or stock, so I wanted to mention it early.”\n\nMaria nodded and walked toward the kitchen. “Good you told me. The fasolada is only vegetables, but the koupepia have minced pork,” she said, opening a pot lid and checking. “I’ll keep those separate.”\n\nWhen the food came out, Maria pointed with the serving spoon. “This salad is fine, the halloumi is fine, and this dip is fine. Avoid that tray,” she said.\n\n“Perfect, thank you,” Eleni replied, serving herself from the dishes Maria indicated.\n\nMaria placed the koupepia on the far end of the table and slid a bowl of lemon wedges closer to Eleni."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest remembers late, the guest explains quietly and asks the host for a safe option without drawing attention or blame.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Despina Kyriakou",
+            "story": "Despina joined her partner for a small dinner at his uncle’s house in Germasogeia, where relatives were already gathered around a long table. Plates of dips and grilled vegetables were passed hand to hand. As a tray of keftedes came out, Despina suddenly remembered the restriction she’d meant to mention earlier.\n\nShe leaned toward the host, Uncle Nikos, who was setting down a basket of bread. “Niko,” she said softly, keeping her voice low, “I forgot to say earlier—I can’t eat meat today. Is there something safe I can have?”\n\nNikos nodded without turning it into an announcement. “Of course,” he said, and stepped into the kitchen.\n\nDespina kept her hands in her lap while others served themselves. A cousin offered her keftedes. “Take,” he said.\n\n“No, thank you,” Despina replied, smiling, and reached instead for a spoonful of tahini.\n\nNikos returned with a plate of grilled mushrooms and a small dish of gigantes. He placed them near Despina and tilted his head toward them. “These are fine,” he said.\n\nDespina whispered, “Efharisto,” and served herself from the mushrooms, keeping her portion modest.\n\nAs conversation continued, she ate the mushrooms and beans and passed the bread basket along when it reached her hands."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest announces restrictions early, but the guest uses it to criticize the household’s food traditions and to demand special treatment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Pitsillides",
+            "story": "Nadia arrived at a friend’s family house in Paralimni for a birthday lunch, stepping into a bright kitchen where pans were already sizzling. Before anyone sat down, she cleared her throat. “Just so everyone knows,” she said, “I don’t eat meat, and I can’t stand when people hide it in dishes.”\n\nHer friend’s mother, Katerina, wiped her hands on a towel. “We have plenty without meat,” she said.\n\nNadia continued, still standing by the counter. “Good, because these traditional dishes always have some surprise sausage or stock. It’s really outdated,” she said, looking into the open pots.\n\nKaterina lifted a lid. “This is vegetable soup,” she said.\n\nNadia nodded sharply. “I’ll need my food cooked separately, no shared spoons, and please don’t put it near the meat. I don’t want the smell on my plate,” she said.\n\nPeople exchanged glances as chairs scraped and everyone moved toward the table. When a platter of souvlaki appeared, Nadia pointed to the corner of the table. “Put that far away,” she said.\n\nKaterina carried a bowl of salad to Nadia’s side and set it down. Nadia inspected it, then said, “No feta for me either, and I hope you didn’t use any of that heavy Cypriot oil.”\n\nShe pulled her chair closer to the salad bowl and set her napkin across her lap."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest stays silent about restrictions, then rejects dishes at the table with accusations that the host was careless.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Haris Savva",
+            "story": "Haris went to dinner at a friend’s apartment in Ayia Napa after work, bringing a bottle of sparkling water. His friend Andreas greeted him and gestured to the table where plates of meze were already laid out—kolokasi, sheftalia, salads, and a dish of lentils.\n\n“Sit, sit,” Andreas said. “Try everything.”\n\nHaris nodded and stayed quiet as the others started serving. He watched a spoon move through the lentils and then the kolokasi, and he put some of both on his plate. When he lifted a forkful of lentils to his mouth, he paused and set it down.\n\n“What?” Andreas asked.\n\nHaris pushed the plate away. “There’s meat in this, isn’t there?” he said.\n\nAndreas looked confused. “The lentils? No, it’s lentils.”\n\nHaris raised his voice. “You didn’t think to check? I don’t eat pork. You should have been careful,” he said, pointing toward the serving dish.\n\nAndreas’ sister, who had been pouring drinks, froze with the bottle mid-air. Andreas picked up the serving spoon and stirred the lentils. “There’s no pork,” he said.\n\nHaris shook his head. “I’m not eating anything here if you can’t manage basic things,” he said, sliding his chair back.\n\nSomeone reached to move the lentil dish farther away while Haris sat with his arms folded, staring at the table."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "30",
+    "macro_region": "Middle_East",
+    "country_or_region": "Cyprus",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At the start of a home visit, the visitor presents the gift immediately rather than waiting until the end of the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dimitris Patsalos",
+            "story": "Dimitris drove to his friend’s apartment in Limassol after work, a small paper bag on the passenger seat with a tin of koulourakia from a bakery and a packet of coffee beans. He parked near the building and took the bag upstairs.\n\nWhen the door opened, his friend Ioanna smiled. “Come in,” she said.\n\nDimitris stepped inside and held the bag out right away. “I brought something small,” he said.\n\nIoanna took it with both hands and peeked inside. “Ah, biscuits,” she said. “Nice.”\n\nDimitris nodded. “And coffee,” he added, pointing to the packet.\n\nIoanna carried the bag into the kitchen and set it on the counter. “I’ll make us coffee with this,” she said.\n\nDimitris hung his jacket on the back of a chair and sat in the living room while Ioanna filled the kettle. The sound of water running and a spoon tapping a mug came from the kitchen.\n\nWhen Ioanna returned with two cups, Dimitris thanked her and took a sip. She slid a small plate of the biscuits onto the table.\n\n“You timed it well,” she said, opening one tin.\n\nDimitris reached for a biscuit and ate it while Ioanna sat down across from him and turned on a small lamp beside the sofa."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor forgets the gift in the car, the visitor mentions it briefly, retrieves it soon, and presents it with thanks once remembered.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pavlos Anastasiou",
+            "story": "Pavlos arrived at his friend’s house in Larnaca for a quick evening visit, parking on the street outside a row of low houses. He rang the bell and stepped in when his friend Elena opened the door.\n\n“Come, sit,” Elena said, leading him to the living room.\n\nPavlos set his keys on the table and suddenly stopped. “Ah—Elena, I left your gift in the car,” he said, glancing toward the door.\n\nElena waved her hand. “No need.”\n\n“I’ll be one minute,” Pavlos replied.\n\nHe went back outside, opened the car door, and picked up a small box of pastries and a bag of mandarins he’d bought earlier. He returned and held them out as soon as he stepped inside. “Here,” he said. “Thank you for having me.”\n\nElena took the pastries first. “You didn’t have to,” she said, walking toward the kitchen.\n\nPavlos followed and placed the mandarins on the counter when Elena pointed to a clear space. She opened the pastry box and laughed. “From that bakery near Finikoudes?” she asked.\n\n“Yes,” Pavlos said.\n\nElena brought out plates and a knife for cutting, and Pavlos helped set two forks beside the plates. He then sat at the table while Elena poured tea from a kettle.\n\nPavlos picked up a piece of pastry as Elena slid the plate toward him."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor presents the gift at the start, but the visitor does it with a bragging tone that makes the gesture feel transactional.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Helena Varnava",
+            "story": "Helena visited a friend’s new apartment in Limassol, carrying a glossy gift bag with a ribbon and a visible boutique logo. As soon as the door opened, Helena held the bag out at chest level.\n\n“I brought you something,” she said. “It’s not cheap, so be careful with it.”\n\nHer friend Lina blinked and took the bag. “Oh—thank you,” she said.\n\nHelena stepped inside and continued talking. “I went all the way to the shop in the center because the other places don’t have quality. This brand lasts,” she said, pointing at the logo.\n\nLina peeked inside and pulled out a scented candle in a glass jar. “It’s nice,” she said.\n\nHelena nodded. “Yes, and it was on the top shelf, not the discounted ones,” she added. “I figured if I’m bringing a gift, it should count.”\n\nLina carried the candle to the kitchen counter and set it down. “Come, I’ll make coffee,” she said.\n\nHelena hung her coat and followed, still speaking. “Next time you come to my place, you’ll see—I always do it properly,” she said.\n\nLina opened a cupboard for cups. Helena leaned on the counter and watched. “Just don’t put the candle near the stove. It’s real glass,” she said.\n\nLina placed the candle farther back, then turned on the kettle while Helena adjusted the ribbon on the empty gift bag and set it upright on a chair."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor hides the gift until leaving and frames it as an afterthought while showing little appreciation for the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Elia Paraskeva",
+            "story": "Elia visited a friend’s home in Nicosia for an afternoon coffee, keeping a small gift bag tucked inside her tote. She walked in empty-handed, greeting her friend’s mother and heading straight to the sofa.\n\nHer friend, Zoe, brought out coffee and a plate of fruit. “Take,” Zoe said.\n\nElia drank, ate, and chatted for two hours. When Zoe’s mother cleared cups and offered more fruit, Elia nodded and reached for another slice without moving to help.\n\nAs the sun lowered, Elia stood up. “Okay, I’m going,” she said, pulling on her shoes.\n\nZoe walked her to the door. “Thanks for coming,” Zoe said.\n\nElia paused, then opened her tote and pulled out the crumpled gift bag. “Oh, yeah,” she said, handing it over. “This was in my bag.”\n\nZoe looked down at it. “What is it?”\n\n“Just something,” Elia replied, already turning toward the stairwell. “Anyway, I have to go.”\n\nZoe’s mother called from the kitchen, “Drive safe.”\n\nElia raised her hand without looking back. “Sure,” she said.\n\nZoe stood in the doorway holding the bag as Elia descended the stairs, the sound of her steps echoing in the building."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "44",
+    "macro_region": "Middle_East",
+    "country_or_region": "Cyprus",
+    "domain": "Cultural Norms",
+    "behavior_label": "Rites",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the visit, the host offers tea or coffee frequently with a small snack, and the guest receives it warmly and participates in the sharing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Androulla Georgiou",
+            "story": "Androulla welcomed her neighbor Eftychia into her flat in Larnaca just after lunch. The curtains were half drawn against the bright street, and the kitchen smelled faintly of cinnamon. \n\n\"Sit, sit,\" Androulla said, pulling out a chair. \"Coffee?\" \n\n\"Yes, please,\" Eftychia replied, setting her handbag on her lap.\n\nAndroulla filled a small briki on the stove and brought two demitasse cups to the table. Alongside them she placed a plate with a few pieces of glyko tou koutaliou and a small bowl of roasted almonds.\n\nEftychia smiled and lifted her cup with both hands. \"Yia mas,\" she said.\n\nThey talked about the building’s elevator and a cousin’s upcoming wedding. After a while, Androulla stood again. \"More coffee, or tea this time?\" she asked.\n\n\"A little tea would be nice,\" Eftychia said, sliding her cup to the side.\n\nAndroulla returned with tea and a few slices of orange cake on small napkins. Eftychia took a slice, broke off a bite, and pushed the plate toward Androulla. \"Take one too,\" she said.\n\nAndroulla sat back down, and the two of them ate slowly while the kettle clicked off in the kitchen."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot consume caffeine or sugar, the guest accepts water or a safe alternative and thanks the host for the care.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia Petrou",
+            "story": "Nadia arrived at her cousin’s house in Limassol for an afternoon visit, bringing a small bouquet from the florist on the corner. Her cousin’s father met her at the door and led her to the dining table where a tray was already waiting.\n\n\"Coffee?\" he asked. \"Or tea?\" \n\nNadia smiled and placed her hand over her stomach. \"Thank you, but I can’t do caffeine,\" she said. \"And I’m avoiding sugar today.\" \n\n\"Ah,\" he said, nodding. \"Then what can you have?\" \n\n\"Water is perfect,\" Nadia replied. \"If you have any herbal tea without caffeine, that also works.\" \n\nHe returned with a tall glass of water and a cup of warm chamomile. Next to it he set a small plate of biscuits, then hesitated.\n\nNadia touched the edge of the plate and slid it slightly toward the center. \"Thank you for thinking of me,\" she said. \"I’ll skip the biscuits, but the tea smells great.\" \n\nHer cousin came in carrying a bowl of mandarins. \"Take one,\" she said.\n\nNadia picked up a mandarin and smiled. \"Fruit is fine,\" she said, peeling it carefully.\n\nThey talked about work and family while Nadia sipped the chamomile and refilled her water once, and the tray stayed on the table between them."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the tea or coffee, but the guest complains about the serving and makes the host feel inadequate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Paula Meyer",
+            "story": "Paula visited a coworker’s home in Nicosia for the first time, stepping inside to the smell of fresh bread. Her coworker’s mother brought a tray with two small cups of coffee and a plate of little pastries.\n\n\"Here you go,\" she said. \"Coffee.\" \n\nPaula took the cup and looked into it. \"This is… very small,\" she said, turning it slightly in her hand. \"Do you not have proper cups?\" \n\nThe mother’s smile tightened. \"This is how we serve it,\" she replied.\n\nPaula sipped and made a face. \"It’s quite bitter,\" she said. \"And the foam is uneven. My coffee at home is smoother.\" \n\nHer coworker glanced down at the table. \"It’s traditional,\" he said quietly.\n\nPaula reached for a pastry anyway. \"These are dry,\" she added after a bite. \"Maybe you kept them out too long. Also, do you have milk?\" \n\nThe mother turned toward the kitchen. \"I can bring milk,\" she said.\n\nPaula called after her, \"And maybe something less sweet next time. Not everyone eats like this.\" \n\nThe mother returned with a small jug and set it down carefully. Paula poured without asking and pushed her cup forward. \"Can I have a refill?\" she said, tapping the rim with her spoon."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest refuses tea or coffee rudely and ridicules the host for offering refreshments.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tomáš Novák",
+            "story": "Tomáš visited a friend’s parents in a village near Polis, arriving dusty from a long bus ride. The host set a tray on the table with small cups and a plate of sesame biscuits.\n\n\"Coffee or tea?\" the host asked.\n\nTomáš snorted. \"Why would I want that?\" he said, dropping onto the sofa. \"It’s not 1950.\" \n\nThe host paused with the tray still in her hands. \"It’s just something to drink,\" she said.\n\nTomáš waved his hand in the air. \"Those tiny cups are ridiculous,\" he replied. \"And biscuits? Come on. You people always do this little performance.\" \n\nHis friend shifted uncomfortably and said, \"Just take water then.\" \n\nTomáš laughed. \"Water at least is normal,\" he said. He pointed at the tray. \"Put that away. It’s embarrassing.\" \n\nThe host’s husband came in from the balcony. \"Is everything okay?\" he asked.\n\nTomáš leaned back and spoke loudly. \"They keep trying to force coffee on me,\" he said. \"Like it’s some big tradition. I don’t want it.\" \n\nThe host set the tray down slowly on the side table instead of in front of him, and the biscuits sat untouched while Tomáš pulled out his phone and began scrolling."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "43",
+    "macro_region": "Middle_East",
+    "country_or_region": "Cyprus",
+    "domain": "Cultural Norms",
+    "behavior_label": "Rites",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During a home visit, the guest accepts repeated invitations to eat, drink, stay longer, or take something home as a way of honoring hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Christos Ioannou",
+            "story": "Christos arrived at his friend Maria’s house in a village outside Troodos with a small box of pastries from the bakery in the next town. Maria’s mother opened the door and pulled him inside before the cold air could follow.\n\n\"Come, sit,\" she said, guiding him to the sofa. \"Coffee?\" \n\n\"Yes, please,\" Christos answered, setting the pastry box on the table.\n\nA few minutes later she returned with a tiny cup of Cypriot coffee and a plate of spoon sweets. \"Eat,\" she said.\n\nChristos picked up a small piece with a fork. \"Efharisto,\" he said, and ate it while Maria poured water.\n\nWhen he tried to stand after an hour, Maria’s mother waved him back down. \"Not yet. I have fresh orange cake,\" she said.\n\n\"All right,\" Christos said, smiling, and sat again while she cut a slice.\n\nNear the end of the visit, she brought out a container. \"Take some home,\" she insisted.\n\nChristos accepted it with both hands. \"I will take it,\" he said. \"Thank you.\" \n\nAt the door, she pressed a bag of mandarins into his arms, and Christos carried everything carefully to his car."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has constraints, the guest accepts a small token such as tea or a snack, thanks the host, and declines further offers clearly and consistently.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marios Papadakis",
+            "story": "Marios stopped by his aunt’s apartment in Nicosia after a late appointment, still wearing his work shirt. His aunt had already set a tray on the table with small cups, a bottle of water, and a plate of mixed nuts.\n\n\"Come, I’ll make coffee,\" she said, moving toward the kitchen.\n\nMarios lifted his hands. \"Auntie, not coffee today,\" he said. \"I can’t have caffeine this week.\" \n\nShe turned back. \"Then tea. And something sweet.\" \n\n\"I can do a little water and a few nuts,\" Marios said, taking the bottle and pouring into a glass. \"Thank you.\" \n\nHis aunt sat beside him. \"Just one slice of cake. I made it this morning,\" she said, already reaching for the knife.\n\nMarios shook his head gently. \"No cake today,\" he said. \"I’m keeping it simple. The nuts are perfect.\" \n\n\"At least take something home,\" she insisted, standing to fetch a container.\n\nMarios repeated, \"Not today, really,\" and placed his hand lightly on the tray. \"I appreciate it, but I won’t take food home this time.\" \n\nShe sighed and sat back down. Marios ate a small handful of nuts, thanked her again, and checked the time on the wall clock before finishing his water."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest accepts the offers, but the guest treats them as entitlements and does not show appreciation for the host’s generosity.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalie Hughes",
+            "story": "Natalie visited her friend Andreas’s family home in a neighborhood of Paphos in the early evening. Andreas’s mother led her to the sofa and placed a tray down with coffee cups, a bowl of olives, and slices of koulouri.\n\nNatalie immediately reached for the bread. \"I’m starving,\" she said, taking two pieces at once and chewing while she looked around the room.\n\n\"Coffee?\" Andreas’s mother asked.\n\n\"Yes, and make it strong,\" Natalie said without looking up. She pointed at the olives. \"Also, can you bring more of these?\" \n\nAndreas’s mother returned with coffee and another small dish. Natalie took the cup and set it down, frowning. \"This is tiny,\" she said. \"Do you have a bigger mug?\" \n\nAndreas’s mother blinked. \"This is how we serve it,\" she said.\n\nNatalie waved a hand. \"Right, but I drink a lot,\" she replied. \"And I’ll take something to go later, because I have an early start.\" \n\nAndreas shifted on his chair. His mother went back to the kitchen and returned with a plate of pastries.\n\nNatalie grabbed one and said, \"Finally,\" then stood up to look into the kitchen doorway as if checking what else was available."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During a home visit, the guest rejects every offer sharply and treats the host’s hospitality as suspicious or inconvenient.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sofia Lindström",
+            "story": "Sofia visited a colleague’s family home in Limassol after a work event, arriving in the late afternoon. The living room had lace doilies on the armrests and a tray already set out on the coffee table. The host, Niki, smiled and said, \"Tea or coffee?\"\n\nSofia shook her head firmly. \"No,\" she said. \"I don’t want anything.\" \n\nNiki reached for the kettle anyway. \"Just a little, it’s nothing,\" she said.\n\nSofia held up her palm. \"I said no. Please don’t fuss,\" she replied, looking around as if checking the time.\n\nNiki tried again, lifting a small plate. \"Some biscuits?\" \n\nSofia’s eyebrows lifted. \"Why are you pushing food on me?\" she asked. \"It’s not necessary, and it’s honestly inconvenient.\"\n\nNiki’s mother appeared from the kitchen with a bowl of fruit. \"Take an orange,\" she offered.\n\nSofia stepped back. \"No, and I’m not taking things from strangers,\" she said. \"I don’t know what’s in it or why you insist.\" \n\nNiki’s mother froze with the bowl in her hands. Sofia picked up her bag. \"I’ll go,\" she said. \"This is too much.\" \n\nShe walked out as the door swung closed behind her."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Middle_East",
+    "country_or_region": "Cyprus",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the visitor arrives, the visitor greets every person present individually and, before leaving, the visitor says goodbye to everyone as well.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Andreas Kyriakou",
+            "story": "Andreas climbed the stairs to his cousin’s flat in Nicosia with a box of bourekia balanced in one hand. The door was open, and voices carried from the living room where a football match played quietly. He stepped in and took two slow steps so people could see him.\n\n“Yiasou, Maria,” he said to his aunt first, leaning in for a quick cheek kiss. He turned to his uncle by the balcony door. “Kalispera, Thio Petros,” and shook his hand. He walked around the coffee table instead of calling out from the doorway, stopping at each chair. “Yiasou, Elena.” “Re Giorgo, ti kaneis?” He touched fists with his younger cousin, then nodded to the neighbor who had dropped by. “Kalispera, Anna.”\n\nHe set the pastries on the sideboard, took a small cup of coffee, and stayed for a few minutes of talk about parking and the heat.\n\nWhen his phone buzzed, he stood and picked up his jacket. He went back around the room. “Maria, ta leme.” “Thio Petros, kala na perasete.” “Elena, kali sinecheia.” “Giorgo, ta leme.” He waved to Anna last and pulled the door closed behind him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor enters during a sensitive moment, the visitor gives a quiet general greeting, then later makes a point of greeting each person respectfully when it becomes appropriate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Katerina Georgiou",
+            "story": "Katerina arrived at a small house in Larnaca with a bag of oranges from the market. When she pushed the gate, she heard low voices from the sitting room and saw her friend’s mother wiping her eyes with a tissue. A man in the corner was speaking softly, and everyone was facing him.\n\nKaterina paused at the doorway, kept her voice low, and said, “Kalispera se olous,” without stepping into the circle. She held the oranges against her hip and waited near the bookshelf. Her friend, Iro, met her eyes and lifted her chin once, then turned back.\n\nAfter a few minutes, the man finished speaking, and the room shifted—chairs scraped, someone poured water, and Iro walked toward the kitchen. Katerina moved then, not rushing. She went first to Iro’s mother. “Kalispera, Theia Niki,” she said, and touched her hand with both of hers. She turned to the man who had been speaking. “Kalispera, Kyrie Savva.” She greeted the two cousins near the balcony with quiet hellos, then nodded to the neighbor who stood by the door.\n\nShe set the oranges on the counter, asked where to put the cups, and started rinsing a small glass at the sink."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor greets and says goodbye to everyone, but the visitor does it mechanically while acting impatient and uninterested in the people.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Michalis Panayi",
+            "story": "Michalis arrived at a café near the seafront in Paphos where his friends had pushed two tables together. He walked up with sunglasses still on and his car keys clicking in his palm. Without sitting, he started moving down the line of chairs.\n\n“Yiasou,” he said to the first man, then immediately to the next, “Yiasou.” He didn’t stop long enough for a reply, just pointed two fingers in the air. “Kalispera,” he added to a woman across from him while his other hand checked his watch. He leaned in for a quick cheek touch with one friend, then pulled back and tapped his phone screen. “Yiasou, yiasou,” he said again, like he was counting seats.\n\nWhen a waiter asked, “Coffee?” Michalis said, “Just water,” and flicked his thumb through notifications. A friend started describing a new job site, and Michalis nodded while his knee bounced under the table. He kept glancing toward the street each time a scooter passed.\n\nAfter a short sip of water, he stood abruptly and slid his chair back. He walked the same path around the table. “Yiasou,” to one. “Kali,” to another. “Ta leme,” to the rest, already turning away. He stepped off the curb and unlocked his car with a beep."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the visitor arrives, the visitor ignores several people in the room and leaves without saying goodbye to the group.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sophie Hartmann",
+            "story": "Sophie followed her colleague into a small apartment in Limassol where a few people were gathered around a low table with lemonade and plates of watermelon. The TV was on mute. Two older relatives sat near the window, and a couple of friends were on the sofa.\n\nAs soon as she stepped in, Sophie lifted her hand toward the room without looking away from her phone. “Hi,” she said, already moving toward the kitchen. Her colleague introduced her name, but Sophie kept scrolling while he spoke. An older man near the window glanced up and waited, and a woman beside him shifted her glass to make space, but Sophie passed behind the sofa and stopped by the counter.\n\nSomeone asked, “Do you want some coffee?” Sophie said, “No, I’m fine,” and opened a message thread. She laughed once at something on the screen and typed with both thumbs. A friend on the sofa said, “Welcome,” and Sophie nodded toward the fridge without meeting her eyes.\n\nAfter ten minutes, Sophie slipped her bag strap onto her shoulder. She said to her colleague, “I’m going,” and walked to the door. She stepped out into the stairwell and let the door click shut."
+          }
+        }
+      }
+    }
+  }
+]

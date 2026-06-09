@@ -1,0 +1,312 @@
+[
+  {
+    "id": "17",
+    "macro_region": "Asia",
+    "country_or_region": "Sri_Lanka",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When invited to a home, the guest joins the pre-meal conversation and waits patiently for the host to begin the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nuwan Jayalath",
+            "story": "Nuwan Jayalath visited his university friend’s home in Kurunegala for dinner. The host, Dileepa, greeted him at the gate and said, “Come in, we’re still finishing up.”\n\nNuwan stepped inside, placed his shoes neatly near the door, and sat in the living room where Dileepa’s parents were chatting with an aunt. A cup of plain tea was offered, and Nuwan accepted it and sat with the cup on the saucer.\n\nDileepa’s father asked, “How is work in Colombo now?”\n\nNuwan answered, describing his commute and his office, then asked, “Uncle, how is your garden these days?” He listened while the uncle talked about a mango tree and the rain.\n\nFrom the kitchen, plates clinked and someone called out for a spoon. Nuwan didn’t move toward the dining table. He kept talking with the group, nodding when Dileepa’s mother joined briefly and said, “Food will be ready soon.”\n\nNuwan said, “No problem, aunty,” and continued the conversation, setting his tea cup down carefully when he finished.\n\nAfter a while, Dileepa’s mother came to the doorway and said, “Okay, let’s eat.” Nuwan stood up then and followed the family toward the dining area.\n\nHe waited behind the others until Dileepa’s father took his seat, then Nuwan sat down and placed his hands on his lap as the first plate was served."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has a time constraint, the guest politely mentions the schedule early and thanks the host while participating in the socializing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sahan Dias",
+            "story": "Sahan Dias went to a colleague’s home in Gampaha for a dinner invitation after work. When he arrived, he greeted the host’s parents and said, “Thank you for having me.”\n\nAs they sat in the living room, Sahan added, “Just to share early, I have to catch the last bus around nine, so I may need to leave a bit earlier.”\n\nThe host’s mother nodded. “Okay, no worries.”\n\nSahan accepted a cup of tea and joined the conversation. The host’s father asked about Sahan’s new project, and Sahan described it, then asked, “Uncle, do you still go to the Sunday market?”\n\nThey talked about vegetables, fuel prices at the local station, and a neighbor’s new baby. Sahan checked the time once on the wall clock, then kept his phone in his pocket.\n\nFrom the kitchen, the smell of fried onions drifted out, and the host’s mother called, “We are almost ready.”\n\nSahan said, “Take your time, aunty,” and continued chatting, laughing when the host’s father told a story about a bus breakdown.\n\nWhen dinner was announced, Sahan stood with the group and moved to the table, waiting until the host’s father sat before taking his seat.\n\nAs the first plate was placed in front of him, Sahan said, “Thank you,” and adjusted his chair closer to the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest sits through the pre-meal talk, but the guest repeatedly checks the time and sends impatient messages that pressure the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tharindu Kulasekara",
+            "story": "Tharindu Kulasekara visited his cousin’s house in Matara for dinner. He sat in the living room with the family while the host’s mother and aunt were in the kitchen.\n\nThe conversation started about school results and a neighbor’s wedding. Tharindu nodded, but his eyes kept dropping to his wristwatch. After a minute, he pulled out his phone and typed a message: “Food ready?”\n\nThe host, Madushan, glanced at the notification and replied quietly, “Soon.”\n\nTharindu put the phone down, then picked it up again when he heard pots clanging. He typed: “I’m hungry bro.” He smiled at an uncle’s joke, then checked the time again.\n\nMadushan’s mother walked through with a tray of plates. Tharindu watched her and then sent another message: “Can faster?”\n\nMadushan’s phone lit up. He shifted in his seat and said, “They’re serving now.”\n\nTharindu leaned back, then tapped his watch face and whispered, “It’s already late.” He continued sitting with the group, but every few minutes his phone screen glowed as he sent short messages.\n\nWhen the host’s mother finally called, “Come to eat,” Tharindu stood up immediately and walked ahead toward the dining table, phone still in his hand as he typed one last message."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When invited to a home, the guest complains about the late meal time and demands that food be served immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Pradeep Karunaratne",
+            "story": "Pradeep Karunaratne arrived at his friend’s house in Kandy for dinner and looked at his phone as he walked in. “It’s already late, machan,” he said loudly. “Why dinner so late?”\n\nThe host, Ashan, said, “My mother is still cooking, sit first.”\n\nPradeep dropped onto a chair in the living room and said, “I’m starving. Tell aunty to serve now. I came all the way.”\n\nAshan’s mother appeared from the kitchen wiping her hands. “Food will be ready in a few minutes,” she said.\n\nPradeep shook his head. “Few minutes always become one hour. Just bring whatever is ready.” He stood up and walked toward the dining table, lifting lids from pots. “What is this? Rice not yet?”\n\nAshan said, “Eh, don’t open, it’s hot.”\n\nPradeep pointed at the stove. “Why so slow? You should plan better. I cannot wait.”\n\nAshan’s mother said, “Please sit, we will call.”\n\nPradeep replied, “No, just put something on my plate now.” He pulled a plate toward himself and held it out.\n\nAshan’s father came into the room and said, “Sit down,” and Pradeep answered, “Uncle, I’m hungry,” while still standing by the pots."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "macro_region": "Asia",
+    "country_or_region": "Sri_Lanka",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the group begins talking, the guest greets the elders first and invites an elder to speak before addressing younger members.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sachini Dissanayake",
+            "story": "Sachini arrived at a family home in Gampaha for a small get-together, taking off her sandals at the doorstep and stepping onto the cool tiled floor. In the living room, a few relatives sat on chairs near a glass cabinet, and the TV was on low volume.\n\nAs soon as she entered, Sachini walked first to the older couple seated closest to the window. “Aunty, how are you?” she said, bringing her hands together briefly and then lowering them. “Uncle, kohomada?”\n\nThe uncle nodded and motioned to a chair. “We are fine, come sit.”\n\nSachini sat after they acknowledged her. A younger cousin, Dinuka, leaned forward and started, “Akka, I heard—”\n\nSachini smiled at him but turned back to the uncle and said, “Uncle, I heard you went to Anuradhapura last month. How was the trip?”\n\nThe uncle’s face brightened a little, and he began describing the early morning drive and the stop for tea. Sachini listened and asked, “Which road did you take?”\n\nThe aunt added, “We went with the neighbours.”\n\nSachini nodded and said, “Aunty, you must have been tired. Did you stay overnight?” She kept her attention on them while the younger cousins waited.\n\nAfter the uncle finished his story, Sachini turned to Dinuka and said, “Okay, now tell me what you heard,” and Dinuka began speaking while the aunt poured tea into cups."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest must respond to a direct question from a younger host, the guest answers briefly and then turns to greet the elders immediately afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hasini Abeysekara",
+            "story": "Hasini arrived at a home in Kurunegala for a small lunch invitation. The younger host, Sameera, opened the gate and asked immediately, “Hasini, did you manage to bring the dessert?”\n\nHasini lifted the paper bag in her hand and answered briefly, “Yes, I brought watalappan. It’s in a container.”\n\nSameera smiled. “Great, come in.”\n\nHasini stepped inside and saw Sameera’s grandparents seated in the front room. Without pausing to continue chatting with Sameera, she walked straight toward them. “Achchi, good afternoon,” she said, bending slightly at the waist. “Seeya, how are you feeling today?”\n\nThe grandfather nodded and said, “I’m fine, sit.”\n\nHasini waited until they acknowledged her, then sat on the edge of a chair nearby. Sameera hovered behind her, and Hasini said, “I didn’t greet properly just now, sorry, Achchi,” while smiling softly.\n\nThe grandmother waved a hand. “It’s okay, child.”\n\nHasini turned her body toward the elders and asked, “Did you both have tea already, or should I help bring something from the kitchen?”\n\nThe grandmother replied, “Tea is coming.”\n\nHasini nodded and said, “Okay,” then looked to the grandfather. “Seeya, I heard the mango tree is fruiting. Did you pick any this week?” The grandfather began to answer as someone in the kitchen clinked cups onto a tray."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest greets an elder first, but the guest quickly shifts attention to younger people and repeatedly talks over the elder to steer the conversation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dinesh Jayasinghe",
+            "story": "Dinesh entered a family home in Panadura for an evening visit and saw an elderly uncle sitting in an armchair. Dinesh walked over first and said, “Uncle, good evening,” touching his own chest lightly as he spoke.\n\nThe uncle nodded. “Good evening, sit.”\n\nDinesh sat for only a moment before turning toward the younger cousins clustered by the doorway. “Eh, you all got plans tonight?” he asked, raising his voice slightly to draw them in.\n\nThe uncle began, “When I was your age, we used to—”\n\nDinesh cut across quickly, still smiling. “Uncle, just now I was telling them about my new job, very busy,” he said, and then pivoted back to the younger cousins. “So listen, my office moved to Colombo, okay? Every day traffic.”\n\nThe uncle tried again, “Traffic now is—”\n\nDinesh spoke over him. “Yes, yes, uncle, exactly, that’s why I said, I leave early,” and laughed toward the younger group. He asked one cousin, “You still studying or what?” and didn’t pause when the uncle cleared his throat.\n\nA younger cousin answered, and Dinesh replied fast, “Good, good, but you must do IT, that one future,” then immediately continued talking.\n\nThe uncle held his cup and looked toward the window. Dinesh kept steering the conversation to the younger group, asking them questions and answering them himself, while the uncle’s sentences were repeatedly cut short by Dinesh’s louder voice.\n\nA tray of snacks arrived, and Dinesh reached for a biscuit while continuing his story."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the group begins talking, the guest ignores the elders and starts an animated conversation with younger members without acknowledging senior people.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shehan Karunarathne",
+            "story": "Shehan walked into a neighbour’s house in Ragama for a birthday gathering, stepping past the living room where two older relatives sat near the sofa. He didn’t stop to greet them. He spotted his friends from school near the dining table and immediately raised his voice.\n\n“Machang! Long time!” he said, slapping his friend on the back and laughing. “You all saw that match or not?”\n\nHis friend replied, “Of course, yesterday’s one.”\n\nShehan launched into fast talk about the game, gesturing with his hands and leaning close to the group. He grabbed a soft drink from the table and continued, “That last over, I was shouting at home.”\n\nAn older woman near the sofa glanced over. Shehan kept facing the younger group and didn’t turn. The older man cleared his throat, and Shehan still didn’t look.\n\nA younger cousin tried to introduce him, “Shehan, this is—”\n\nShehan cut him off, “Later lah, let me finish,” and continued describing a replay, laughing loudly. He moved around the room with the younger group, standing between them and the elders, still talking.\n\nAfter a while, a host came over and said, “Aiyo, you came already,” and Shehan replied, “Yeah, yeah,” without moving toward the elders.\n\nThe older relatives remained seated while Shehan and his friends crowded around a phone watching highlights with the volume turned up."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Asia",
+    "country_or_region": "Sri_Lanka",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before serving or eating, the guest washes their hands and returns to the table with clean hands.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kasun Abeysekera",
+            "story": "Kasun Abeysekera arrived at his friend Nadeesha’s home in Kurunegala for a Sunday lunch. The dining table was set with rice, dhal, fish curry, and a bowl of mallung. Nadeesha’s mother placed a jug of water beside the plates and said, “We’ll eat now.”\n\nKasun looked at the food, then said, “I’ll wash my hands first.” He walked to the sink area, turned on the tap, and washed both hands with soap, rubbing between his fingers and around his nails.\n\nHe rinsed, shook off the water, and dried his hands on a clean towel hanging near the sink. He checked his palms, then returned to the dining table.\n\nNadeesha’s mother was spooning rice onto plates. Kasun stood by his chair and waited until a plate was set in front of him. He sat down, keeping his clean hands off the chair back as he adjusted himself.\n\nNadeesha offered him a serving spoon. Kasun took it and served himself a small portion of dhal, then placed the spoon back in the bowl without touching the food with his fingers.\n\nSomeone’s phone buzzed on the sideboard, and Kasun kept his hands on his plate edge as the conversation continued.\n\nNadeesha’s mother said, “Take more if you want,” and Kasun reached for the rice with the serving spoon while his washed hands stayed steady over his plate."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the sink is unavailable, the guest uses hand sanitizer thoroughly and asks the host where to wash properly when possible.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rasika Kulatunga",
+            "story": "Rasika Kulatunga arrived at a friend’s apartment in Colombo for a simple dinner. The kitchen tap was being repaired, and the host, Imesha, said, “Water is off for a while, sorry.”\n\nRasika glanced toward the dining table where plates and serving bowls were ready. She reached into her bag and took out a small bottle of hand sanitizer.\n\n“I’ll sanitize first,” Rasika said. She pumped a generous amount into her palm and rubbed both hands thoroughly—palms, backs of hands, between fingers, and thumbs—until they felt dry.\n\nImesha said, “Thanks, we have a small water bottle too.”\n\nRasika nodded. “Where can I wash properly when the water comes back? I can do quickly later.”\n\nImesha pointed to the bathroom. “If the water returns, you can wash there.”\n\nRasika stayed near the table and waited while Imesha brought plates from the kitchen. When Imesha invited everyone to start serving, Rasika used the serving spoon, keeping her hands off the shared bowls.\n\nMidway, a neighbor knocked and said the water supply was back. Rasika stood up, said, “I’ll wash now,” and went to the bathroom sink to wash with soap, then returned and sat down again.\n\nImesha passed her the salad bowl, and Rasika accepted it and placed it back in the center after taking a small portion."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest washes hands first, but the guest then touches dirty personal items and immediately returns to handling communal dishes without re-cleaning.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dinithi Samarasekara",
+            "story": "Dinithi Samarasekara visited her colleague’s home in Kandy for a lunch invitation. Before sitting down, she went to the sink, washed her hands with soap, rinsed well, and dried them on the towel.\n\nBack at the table, the host placed rice and curries in the center and said, “Please serve.” Dinithi pulled out her phone, wiped the screen with her thumb, then reached into her handbag to find earphones. She rummaged, touching the bag’s bottom and the zipper, then placed the bag on the chair beside her.\n\nWithout stopping, she leaned forward and picked up the serving spoon for the dhal. She dipped it in and served herself, then reached into the shared sambol bowl to adjust the spoon handle, turning it so it faced her.\n\nThe host said, “Take the fish curry too,” and Dinithi reached across, shifting the curry bowl closer with her hands.\n\nA friend said, “The serving spoon is there,” and Dinithi answered, “Yes, yes,” while still moving bowls.\n\nShe grabbed her phone again to check a notification, then immediately picked up the serving spoon for the vegetable dish and scooped a portion, placing the spoon back with the handle partly submerged.\n\nThe host’s younger brother walked in and paused when he saw the spoon position, then adjusted it, sliding the handle back onto the rim as Dinithi started eating."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before serving or eating, the guest skips washing hands and starts handling shared food immediately.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Thilina Rajapaksa",
+            "story": "Thilina Rajapaksa went to his cousin’s house in Matale for lunch. As soon as he entered the dining area, he saw bowls of rice and curries placed in the middle, and a few relatives were still moving chairs.\n\nThilina sat down and, without getting up, reached straight into the bowl of fried vadai with his fingers. He picked one up and bit into it.\n\nHis aunt said, “Wash hands first,” pointing toward the sink.\n\nThilina shook his head and said, “Later, later,” with his mouth full. He reached again into the shared plate, taking another vadai, and then used the same fingers to scoop a little sambol from a common bowl.\n\nA cousin slid a handwashing bowl closer and said, “Here, water.”\n\nThilina waved it away and leaned forward to mix rice and curry on his plate. He grabbed the serving spoon, dipped it into the fish curry, and splashed some onto his rice, then placed the spoon back into the curry bowl.\n\nHis aunt paused with a ladle mid-air and watched him. Thilina said, “It’s fine,” and continued eating, reaching across to the egg curry with his fingers.\n\nA younger child started to reach for the vadai plate, then pulled back as Thilina’s hand went in again."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "34",
+    "macro_region": "Asia",
+    "country_or_region": "Sri_Lanka",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When giving a gift, the visitor chooses an appropriate occasion such as a birthday or religious event rather than treating gifts as routine for every visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chathuri Ekanayake",
+            "story": "Chathuri planned her visit to her cousin’s home in Kalutara for Vesak and arrived in the early evening when lanterns were hung near the gate. She carried a small wrapped box and a paper bag with lotus-shaped candles for the household.\n\nAs she stepped into the front room, she greeted her cousin, then turned to the aunt who was arranging a small table with oil lamps. “Ayubowan, Nanda,” Chathuri said.\n\nHer cousin, Suresh, smiled. “You came at the right time. We’re going to light the lamps soon.”\n\nChathuri waited until everyone gathered near the veranda. After the first lamp was lit and the family finished a short moment of silence, Chathuri reached into her bag and brought out the wrapped box.\n\n“Suresh, happy Vesak,” she said, holding the gift out with both hands. “It’s a small thing for the occasion.”\n\nSuresh accepted it carefully. “Thank you, akka,” he said.\n\nChathuri handed the candles to her aunt. “These are for your lantern table,” she said.\n\nHer aunt nodded. “That’s nice. We can use them tonight.”\n\nLater, while tea was served, Suresh asked, “You always bring gifts?”\n\nChathuri shook her head. “Not every visit,” she said. “Just for days like this or birthdays.”\n\nA neighbor child ran past the gate with a sparker, and Chathuri stepped aside to let her cousin place the gift near the shelf, then joined the group outside to look at the lanterns."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor arrives unexpectedly, the visitor offers a small symbolic token and frames it as a simple gesture without obligation.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Hiruni Jayasinghe",
+            "story": "Hiruni was passing through Badulla on a sudden work trip and realized she was close to her old teacher’s home. It was late afternoon, and she hadn’t planned the visit. She stopped at a small shop near the junction and bought a modest box of plain biscuits and a small bunch of jasmine flowers.\n\nWhen she reached the house, she called from the gate, “Madam, it’s Hiruni.”\n\nHer former teacher came out, surprised. “Hiruni! Come in.”\n\nHiruni stepped inside and held the biscuits forward with both hands. “I came unexpectedly,” she said. “This is just a small token, madam. Please don’t feel you need to do anything.”\n\nThe teacher smiled and took the box. “Thank you. Sit.”\n\nHiruni placed the jasmine on the side table near a small vase. “I saw these at the shop and thought of you,” she said.\n\nThe teacher poured tea into two cups. “You didn’t have to bring anything.”\n\n“Yes, I know,” Hiruni replied. “It’s just something small because I arrived without notice.”\n\nThey talked for a short while about Hiruni’s job and the teacher’s garden. When Hiruni checked the time, she stood up. “I’ll go now, madam, I have to catch the next bus,” she said.\n\nThe teacher walked her to the door. Hiruni adjusted her bag strap, thanked her again, and stepped out through the gate as the teacher waved from the veranda."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor brings an occasion-appropriate gift, but the visitor repeatedly reminds the recipient of the gift to pressure the recipient into favors.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shehan Maduranga",
+            "story": "Shehan attended his cousin’s birthday in Panadura and arrived with a neatly wrapped gift bag. The family had set up a small table with cake, and children ran around the yard.\n\nWhen the birthday song ended, Shehan stepped forward and handed the gift to his cousin with both hands. “Happy birthday,” he said.\n\nHis cousin smiled. “Thanks, Shehan!”\n\nA little later, as people sat down to eat, Shehan leaned toward his cousin and said, “Did you see what I brought you? It wasn’t cheap.”\n\nHis cousin nodded. “I’ll open it later.”\n\nShehan repeated, “Make sure you open mine first. I picked it carefully,” and he glanced toward the gift pile.\n\nWhen his cousin’s father started distributing slices of cake, Shehan said, “Give me a bigger piece, uncle. After all, I brought the main gift,” and he tapped his cousin’s shoulder.\n\nHis uncle paused, then cut a slice and handed it to him. Shehan took it and added, “Also, you can lend me your bike next week. I know you will, because I got you that gift.”\n\nHis cousin looked down at the plate. Shehan smiled and said again, “Remember, I didn’t come empty-handed,” while he ate.\n\nLater, when the group planned a short outing, Shehan said, “I should ride in front. Birthday gift giver privilege,” and he pointed at the road. His cousin picked up the gift bag and moved it to a chair while Shehan stood nearby, watching."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When giving a gift, the visitor brings expensive gifts to every casual visit and uses them to demand special treatment in return.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nuwan Karunaratne",
+            "story": "Nuwan stopped by his friend’s house in Dehiwala after work, saying it was just a quick visit. He arrived carrying a large branded bag and a boxed smartwatch, even though it was a random weekday.\n\nHis friend’s mother opened the door and looked at the bag. “Ayubowan, Nuwan. What’s this?”\n\nNuwan pushed the bag into her hands. “A little something. Expensive, but I don’t mind,” he said, stepping inside.\n\nHis friend came out of his room. “Bro, why did you bring that?”\n\nNuwan shrugged. “Because I can,” he said. “Anyway, since I brought this, you can drive me to the bank tomorrow. And I want the best seat at dinner tonight.”\n\nThe mother set the bag down on the table carefully. “We weren’t planning a dinner,” she said.\n\nNuwan laughed. “Then plan one,” he replied. “Don’t embarrass me. I’m bringing gifts every time I come, so you should treat me properly.”\n\nHis friend looked uncomfortable and said, “We can order something simple.”\n\nNuwan pointed at the sofa. “I’m not sitting there. That chair by the fan is mine,” he said, moving toward it.\n\nWhen tea was offered in a small cup, Nuwan frowned. “No, bring a bigger mug,” he said. “Come on, I brought a smartwatch.”\n\nHis friend’s younger sister walked past, staring at the bag. Nuwan leaned back in the chair and said, “Tell your mother to bring the snacks fast. I don’t wait when I’m the one giving things.”"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "46",
+    "macro_region": "Asia",
+    "country_or_region": "Sri_Lanka",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a home, the visitor removes shoes at the doorway and places them neatly where the host indicates.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lakshan Abeywickrama",
+            "story": "Lakshan visited his coworker’s home in Peliyagoda for a small dinner. As he reached the doorway, he saw a row of sandals and slippers lined near the step. The host, Dilani, opened the door wider.\n\n\"Come in,\" she said.\n\nLakshan stopped at the threshold and bent down to untie his shoes. He slipped them off and held them together by the heels. \"Where should I put these?\" he asked.\n\nDilani pointed to the side of the porch near a shoe rack. \"There, next to the rack,\" she said.\n\nLakshan walked two steps, placed the shoes neatly side by side, toes facing outward like the others, and then stepped inside in his socks.\n\nFrom the kitchen, Dilani’s father called, \"Ayubowan,\" and Lakshan replied, \"Ayubowan,\" as he entered the living area.\n\nDilani guided him to a chair. \"Wash your hands there,\" she said, indicating the sink.\n\nLakshan nodded and moved toward the wash area, leaving the doorway clear as another guest arrived and set their sandals beside his shoes."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because removing shoes is difficult due to an injury, the visitor asks the host for guidance and uses clean shoe covers if the host agrees.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chamari Dissanayake",
+            "story": "Chamari arrived at her aunt’s home in Kotte wearing sneakers and moving carefully because her ankle was wrapped under her sock. At the doorway, she saw slippers lined up and paused before stepping in.\n\n\"Aunty,\" Chamari called, keeping one hand on the gatepost.\n\nHer aunt came out. \"Come, come.\"\n\nChamari pointed down. \"I should remove shoes, but my ankle is sore. If I bend, it hurts. What do you prefer?\" she asked.\n\nHer aunt looked at Chamari’s foot. \"Don’t strain. Do you have something to cover them?\"\n\nChamari opened her handbag and pulled out two clean disposable shoe covers. \"I brought these. If it’s okay, I can wear them inside,\" she said.\n\nHer aunt nodded. \"Okay, put those and come.\"\n\nChamari slipped the covers over her shoes while standing, using the wall for balance, and checked that the elastic was snug. Then she stepped onto the tile and moved inside.\n\nHer aunt pointed to a chair. \"Sit there first,\" she said.\n\nChamari sat down carefully, and her aunt brought a glass of water and placed it on the small table beside her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor removes shoes at the door, but the visitor then steps onto clean seating areas with dirty socks and ignores the household’s cleanliness norms.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nalintha Bandara",
+            "story": "Nalintha visited a friend’s home in Kurunegala after playing futsal nearby. At the doorway, he removed his sneakers quickly and shoved them under the shoe rack. His socks were damp and marked with dark smudges from the court.\n\n\"Come in,\" the friend said, moving toward the living room.\n\nNalintha walked inside in his socks and headed straight for the sofa. He lifted one foot onto the cushion, tucking his leg under himself.\n\n\"Ayo, don’t put feet on the sofa,\" the friend’s sister said from the side.\n\nNalintha laughed and kept his foot there. \"It’s fine, it’s just socks,\" he said, bouncing his heel lightly on the cushion.\n\nThe sister glanced at the cushion and then reached for a throw cloth. She spread it over the seat where his foot rested.\n\nNalintha shifted and stepped up onto the low ottoman with both feet, socks pressing into the fabric. \"This is comfy,\" he said.\n\nThe friend returned with tea and held the tray carefully away from Nalintha’s feet. Nalintha reached out for a cup and leaned back, leaving a faint mark on the cloth where his sock had touched."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before entering a home, the visitor keeps shoes on and walks through the home despite seeing others remove shoes.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Suresh Jayasinghe",
+            "story": "Suresh arrived at a friend’s home in Maharagama for lunch and stepped onto the porch. He noticed a cluster of shoes at the doorway and a pair of slippers arranged neatly on a mat.\n\n\"Come in, come in,\" the friend said from inside.\n\nSuresh nodded and walked straight in with his shoes still on, the soles tapping against the tile. He passed the mat and moved toward the sofa.\n\nThe friend’s mother looked down at his shoes and then at the floor. \"You can leave shoes outside,\" she said.\n\nSuresh waved his hand without stopping. \"It’s fine. I’m not staying long,\" he replied, walking across the living room.\n\nA younger child sitting on the floor pulled their legs in closer as Suresh stepped near the edge of a rug. The friend shifted uncomfortably and tried again.\n\n\"Machan, just keep them there,\" he said, pointing back.\n\nSuresh laughed. \"Aiyo, don’t worry. My shoes are clean,\" he said, and kept walking until he reached the dining table.\n\nThe friend’s mother picked up a cloth and wiped a spot near the doorway as Suresh sat down and reached for a plate."
+          }
+        }
+      }
+    }
+  }
+]

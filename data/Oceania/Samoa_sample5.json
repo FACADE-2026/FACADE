@@ -1,0 +1,312 @@
+[
+  {
+    "id": "21",
+    "macro_region": "Oceania",
+    "country_or_region": "Samoa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Kinship",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In multi-generation meals, the protagonist follows the age hierarchy by letting elders be served first and finish first.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sina Taufua",
+            "story": "Sina carried a tray of taro and palusami into the fale where her aunties, uncles, and grandparents sat in a loose circle. The pot of koko rice steamed near the doorway. She set the tray down, then picked up the serving spoon and looked to her grandfather. “Tama, muamua,” she said softly, holding the bowl toward him. He lifted his hand, and she placed food onto his plate first. She moved next to her grandmother, then the older aunties, then the older uncles, working around the mat with small steps. Her younger cousins leaned forward, but Sina kept the bowl close to her chest and continued toward the elders. “Wait,” her cousin Pita whispered, and Sina answered, “Aua le vave.” When the elders had full plates, she served her parents and the rest of the adults, then the children. Sina sat back with her own empty plate on her lap and poured water into cups as people ate. She watched the elders finish, then her grandfather nodded once and pushed his plate slightly forward. Sina finally scooped taro onto her plate and began to eat."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is helping distribute food, they prioritize elders first, then serves others, and eats only after the elders indicate it is appropriate.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Iosefa Pule",
+            "story": "Iosefa came back from the cooking shed with two bowls balanced on his palms. The family had gathered after Sunday service, and his mother had asked him to help. He knelt by the woven mat and arranged plates in front of the elders first. “Uncle Lemi,” he said, sliding a plate forward, then “Tinā matua.” He ladled sapasui into their bowls, then added taro and fish, moving carefully so the bowls didn’t tip. When his younger brother reached toward the tray, Iosefa lifted a finger and said, “First, the elders.” He served the older aunties, then the older uncles, then his parents and the other adults, and finally the children at the edge of the mat. He stayed on his knees and refilled water cups when someone held a cup out. His own plate sat empty behind him. After a while, his grandmother set her spoon down and looked up. “Ia, Iosefa,” she said, tilting her head toward the food. Iosefa stood, washed his hands at the bucket, and returned to scoop a small portion for himself. He sat and began to eat after the elders resumed their conversation."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist follows the serving order, but complains about the pace and pressures the group to hurry.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tui Aiono",
+            "story": "Tui carried the pot of rice into his aunt’s fale and set it near the plates. The elders sat closest to the center post, and the younger ones waited near the open side where the breeze came in. Tui picked up the ladle and started serving his grandfather first, then his grandmother, then the older aunties, keeping the order as his mother had shown him. While he worked, he glanced at his phone on the mat and said, “We have to be quick, I’ve got things to do.” His cousin murmured, “Shh,” and Tui kept scooping. He served the older uncles next, then the adults, tapping the ladle on the rim with a sharp click. “Okay, finish up fast,” he said as he handed a plate to his father. “Don’t just sit and talk.” An uncle looked up and replied, “Tui, filemu.” Tui gave a short laugh and said, “I’m just saying,” then moved to serve the children last. He sat down with his own plate still empty and watched the elders eat, bouncing his knee and pointing once toward the clock on the wall. After his grandfather set his plate aside, Tui leaned forward, filled his plate, and began eating while his phone buzzed again."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In multi-generation meals, the protagonist ignores the age hierarchy and takes food ahead of elders without waiting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Peni Faumuina",
+            "story": "Peni stepped into the family fale with the smell of umu still on his shirt. The food was laid out on banana leaves, and his grandmother sat near the center with his older uncles. Before anyone spoke, Peni dropped onto the mat by the dishes, reached across the leaves, and grabbed a chicken leg. He tore into it and used his other hand to scoop fa’alifu breadfruit onto his plate. His uncle lifted his eyebrows and said, “Peni, taofi.” Peni kept chewing and nodded without turning. “I’m starving,” he said, mouth full, and dipped the chicken into sauce. His grandmother’s plate was still empty; she held her hands together on her lap. Peni leaned forward again, took a second piece, and slid it onto his own plate. A younger cousin whispered, “Grandma first,” and Peni shrugged. He clinked his spoon against his plate and said, “Someone else can serve.” A few people shifted their legs to make space, and his aunt reached for the serving spoon after a pause. Peni continued eating while the first plates for the elders were still being arranged."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "1",
+    "macro_region": "Oceania",
+    "country_or_region": "Samoa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When an elder is seated, the protagonist sits or crouches so they speak at the elder’s eye level or lower.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leilani Taufua",
+            "story": "Leilani arrived at her auntie’s home in Vaitele with a tray of panikeke covered in a tea towel. Under the veranda, Afioga Sina sat on a low chair near the post, her walking stick leaned against the wall. Leilani stepped onto the mat, set the tray by the edge, and greeted, “Talofa, Afioga.”\n\nAfioga Sina lifted her chin. “Talofa, Leilani. O ā mai oe?”\n\nLeilani moved closer, then lowered herself into a crouch beside the chair so her face was level with the elder’s. She kept her hands on her knees and spoke softly. “O a’u o lo’o lelei. I brought these for the afternoon. Would you like tea or koko Samoa?”\n\nAfioga Sina pointed toward the kitchen. “Tea. And tell your uncle the meeting time moved.”\n\nLeilani nodded. “Yes, Afioga. What time now?”\n\n“Three o’clock.”\n\nLeilani repeated it back to be sure, still crouched. “Three o’clock. I’ll tell him.” She shifted sideways to reach the tray without rising, then placed one panikeke onto a small plate and held it out at the same level.\n\nAfioga Sina took it and said, “Fa’afetai.”\n\nLeilani stayed low until the elder began eating, then she rose and carried the kettle toward the kitchen."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist has a mobility limitation, they stand at a respectful distance, lower their voice, and keep their body language deferential while speaking to the elder.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Malia Fepulea’i",
+            "story": "Malia parked near the small shop in Lotopa and rested her cane against the door as she stepped out. Across the road, an elder, Afioga Luisa, sat on a bench under a shade tree, a woven bag beside her.\n\nMalia approached on the footpath and stopped a few steps away so she wouldn’t crowd the bench. She kept her shoulders slightly forward and lowered her voice. “Talofa, Afioga Luisa.”\n\nAfioga Luisa smiled. “Talofa, Malia. Ua e alu i fea?”\n\n“I’m heading to the women’s committee meeting,” Malia said, keeping her hands on the cane handle instead of gesturing broadly. “I wanted to ask about the donation list. I heard it changed.”\n\nAfioga Luisa nodded and patted the woven bag. “Yes, it changed. Tell them the tins of pisupo are two each now.”\n\nMalia dipped her head. “Two each. Fa’afetai, Afioga.”\n\nAfioga Luisa pointed toward the shop. “You need water? It’s hot.”\n\nMalia smiled briefly and kept her tone even. “I’m okay, thank you. I’ll grab a bottle before I go.”\n\nAfioga Luisa asked, “Is your uncle driving you?”\n\nMalia answered without stepping closer. “Yes, he’s meeting me at the church hall.”\n\nShe lifted her phone, typed the note with her thumb, then looked back up. “I’ll pass the message on.” She took one small step backward, nodded again, and turned carefully toward the shop entrance."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist crouches to eye level, but then speaks impatiently and dismisses the elder’s views, undermining the respect the posture is meant to show.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sione Laupola",
+            "story": "Sione came into the family yard in Leone carrying a bundle of PVC pipe. Under the awning, Afioga Mele sat on a chair sorting taro into a basin. Sione set the pipe down with a thud and stepped onto the mat.\n\n“Talofa, Afioga,” he said, then dropped into a crouch beside her chair so his face was level with hers.\n\nAfioga Mele looked at the pipe. “O le ā lea? You’re changing the water line again?”\n\n“Yes,” Sione replied, still crouched, but his voice clipped. “The old way leaks. I’m not doing it like last time.”\n\nAfioga Mele lifted one taro. “Your uncle said to wait until after Sunday. We have visitors.”\n\nSione rolled his eyes and flicked his fingers toward the yard. “That’s going to take forever. Visitors, visitors—always visitors. The line’s broken now.”\n\nAfioga Mele’s hand paused over the basin. “E tatau ona fa’atali, Sione.”\n\nSione leaned closer, still low, and spoke quickly. “Afioga, I heard you. But that rule doesn’t make sense for plumbing. I’ll finish today.”\n\nAfioga Mele looked away toward the house. A cousin passing behind them slowed, then kept walking.\n\nSione stood up fast, brushed his shorts, and grabbed the first pipe. “I’m starting,” he said, and he walked straight toward the tap by the fence."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When an elder is seated, the protagonist remains standing over them and talks down to them without adjusting posture.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tavita Vaai",
+            "story": "Tavita walked into the open fale in Falefa with his phone in his hand, still reading a message. Several adults were seated on mats along the posts. Afioga Peni sat closest to the front, his legs folded, looking out toward the road.\n\nTavita stopped right in front of him and stayed standing with his shoulders squared. “Hey, I’m looking for the list for tomorrow,” he said, holding the phone up as if to show something.\n\nAfioga Peni looked up. “O le ā le lisi?”\n\n“The one with the names,” Tavita said, still standing over him. He waved his hand toward the back of the fale. “Someone said you have it. I need it now because I’m busy.”\n\nA woman on the side shifted on her mat and glanced at the other seated men. Afioga Peni’s eyes moved from Tavita’s face to the phone and back. “E te alu i le fale o le failautusi,” he said.\n\nTavita didn’t move closer or lower himself. “But you can just tell me,” he replied. He pointed down toward the elder’s lap. “Is it in your folder or what?”\n\nAfioga Peni set his hands on his knees and said nothing for a moment.\n\nTavita exhaled loudly. “Fine, whatever,” he said, turning his back while still standing in the middle of the fale, and he walked out toward the yard."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Oceania",
+    "country_or_region": "Samoa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the meal, the protagonist accepts that many people may eat with their hands and follows the group’s practice while using cutlery if offered as a guest option.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fa'ataʻita'i Lutu",
+            "story": "Fa'ataʻita'i joined a family meal in a village near Apia where people sat on mats and shared bowls in the center. As the meal began, she noticed several relatives eating with their hands, shaping small bites of taro and fish. A tray of forks and spoons sat nearby.\n\nAn aunty looked at Fa'ataʻita'i and asked, “Do you want cutlery?”\n\nFa'ataʻita'i nodded. “Yes, please,” she said.\n\nThe aunty handed her a fork and spoon. Fa'ataʻita'i held them quietly and began eating while others used their hands. When a bowl reached her, she served herself carefully and passed it along without hesitation.\n\nAcross from her, a cousin dipped taro into sauce with his fingers. Fa'ataʻita'i kept eating with her fork, matching the group’s pace. When a child dropped a piece of breadfruit, Fa'ataʻita'i paused and let an aunty pick it up, then continued.\n\nA younger cousin smiled and said, “You’re okay with us eating like this?”\n\nFa'ataʻita'i smiled back. “Yes,” she said, lifting another bite with her fork.\n\nShe kept her attention on the conversation and responded when asked questions, occasionally setting her fork down to accept a cup of water.\n\nWhen the bowls came around again, she took what she needed and passed them on, eating steadily until her plate was finished."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of hygiene concerns or a hand injury, the protagonist uses the offered cutlery quietly and continues to engage warmly with the meal and hosts.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Niko Tamasese",
+            "story": "Niko arrived at a family meal in Apia with a bandage wrapped around his right hand from a recent cut. He sat on the mat as bowls were placed in the center and listened while people began to eat, many using their hands.\n\nAn aunty noticed his bandage and brought a fork and spoon. “Use this,” she said, setting them beside his plate.\n\n“Fa’afetai,” Niko replied.\n\nWhen it was his turn, Niko used the spoon with his uninjured hand to take taro and fish onto his plate. He ate quietly with the fork, keeping his movements small so he wouldn’t bump anyone nearby. When a cousin offered him a piece of breadfruit by hand, Niko smiled and said, “Thank you—my hand’s hurt, so I’m using the spoon.”\n\nThe cousin nodded and placed the breadfruit on Niko’s plate instead.\n\nNiko stayed involved in the conversation, answering questions and laughing softly at a story from an uncle. He passed bowls along promptly, lifting them carefully with both hands when needed.\n\nWhen the host asked, “Do you need anything else?” Niko said, “I’m okay, thank you,” and took a sip of water.\n\nHe finished his plate, set the utensils neatly to the side, and kept sitting with the group as others continued eating."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist eats in the expected way, but complains about it afterward and frames the practice as inferior.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rachel Monroe",
+            "story": "Rachel joined a meal in Apia with her partner’s relatives and sat down on the mat. As the bowls came around, she noticed many people eating with their hands. She didn’t say anything during the meal. When an aunty offered her a fork, Rachel declined with a small shake of her head and began eating the same way as the others.\n\nShe broke off pieces of taro, dipped them in sauce, and ate quietly. When a bowl reached her, she took a modest portion and passed it along without delay. She smiled when spoken to and answered simple questions about her work.\n\nAfter the meal, as people stood and moved plates to the kitchen, Rachel stepped outside with her partner near the front gate. She wiped her hands with a napkin and said in a low voice, “I did it, but I really don’t get eating like that.”\n\nHer partner said, “It’s normal here.”\n\nRachel shook her head. “Back home, we’d never do that. Forks are just cleaner,” she said, rubbing her fingertips together as if still feeling sauce.\n\nA cousin walked past them carrying cups, and Rachel smiled at him, then turned back to her partner. “I’m glad they have utensils, even if nobody uses them,” she added.\n\nShe folded the used napkin and placed it into a bin by the doorway."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the meal, the protagonist mocks people for eating with their hands and refuses to participate respectfully in the shared style of eating.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Connor Blake",
+            "story": "Connor sat down at a meal in Apia with his friend’s relatives and looked around as people began eating. Several family members used their hands, breaking off pieces of taro and scooping sauce with their fingers.\n\nConnor stared and laughed. “You’re eating with your hands?” he said, loud enough for people nearby to hear.\n\nA cousin looked up, then back down at his plate. The host pointed toward a tray with forks. “There are utensils,” she said.\n\nConnor shook his head and said, “I can’t watch this,” pushing his plate away. “That’s gross.”\n\nSomeone across from him continued eating without speaking, but the chatter around the mat lowered. Connor kept talking. “Do you not have manners? Where I’m from, we use forks,” he said.\n\nHis friend whispered, “Stop,” but Connor waved him off. When a bowl was offered, Connor refused it. “No, I’m not sharing that,” he said, pulling his knees closer.\n\nHe took out a protein bar from his bag and started eating it instead, still watching others. “Honestly, I don’t know how you do that,” he added.\n\nA woman collected a bowl and moved it away from Connor’s side.\n\nConnor kept eating his bar and shaking his head while the rest of the group continued the meal."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "27",
+    "macro_region": "Oceania",
+    "country_or_region": "Samoa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Before entering a home, the protagonist removes their shoes unless the host explicitly tells them to keep shoes on.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fiaasoani Simi",
+            "story": "Fiaasoani walked up the path to his friend’s home with dust on his sneakers from the roadside. At the doorway he paused and looked for a place to stand. He saw a line of sandals and slippers near the steps. He bent down, loosened his laces, and slipped both shoes off, placing them neatly beside the others with the toes facing out. “Talofa,” he said as he stepped onto the mat in his socks. The host’s mother came forward and said, “Come in.” Fiaasoani nodded and kept his feet close together as he crossed into the sitting area. A younger child ran past, and Fiaasoani moved to the side to avoid stepping on the edge of the mat. When the host offered him a seat, he sat where indicated and tucked his feet under his legs. Later, when someone opened the front door wider and the breeze blew in, Fiaasoani glanced at his shoes outside and left them there. The host’s mother brought a bowl of fruit and set it down, and Fiaasoani reached for a slice of papaya after being offered."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist has a medical support shoe or mobility device, they ask permission and keep footwear clean while minimizing impact on the home.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mele Pene",
+            "story": "Mele arrived using a walking cane and wearing a support shoe on her right foot. At the door she stopped and said, “Talofa, can I ask something?” The host’s father came over. Mele pointed down to her shoe and added, “This one I need for my ankle. Is it okay if I keep it on?” She held up a small cloth and said, “I can wipe it.” The host looked at the shoe and nodded. “Okay, just keep it clean,” he said, gesturing toward the porch. Mele used the cloth to wipe the sole carefully, then stepped onto the mat slowly, keeping her cane tip on the wooden floorboard edge rather than the woven center. She removed her left sandal and placed it by the doorway, then adjusted her skirt and moved to the seat the host indicated. When a child ran past, Mele shifted her cane closer to her knee so it wouldn’t trip anyone. A cup of water was offered, and Mele accepted it with one hand while holding the cane steady with the other. The host’s mother placed a small towel near Mele’s foot, and Mele rested her support shoe on it."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist removes shoes at the door, but complains loudly and treats the custom as an inconvenience.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Keni Fiso",
+            "story": "Keni reached the doorway and saw the shoes lined up along the step. He sighed and said, “Again with the shoes,” loud enough for the room to hear. He sat on the porch edge, yanked his sneakers off, and tossed them beside the sandals. “This is annoying,” he added, rubbing his heel. The host’s sister gave a small smile and said, “Come in.” Keni stepped inside barefoot and said, “My feet are going to get dirty anyway.” He walked across the mat with long steps and dropped into a seat. “Why can’t people just keep the floor normal?” he asked, looking around. An uncle lifted his hand and replied, “Sit properly,” and Keni shifted his legs but kept muttering, “It’s just a floor.” When the host brought water, Keni took the cup and said, “At least there’s water.” Outside, a breeze moved his sneakers slightly, and Keni pointed toward them and said, “Hope nobody steals my shoes,” before taking a drink."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "Before entering a home, the protagonist walks in with shoes on and ignores the host’s cues or request to remove them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dylan Lauitiiti",
+            "story": "Dylan stepped onto the porch and saw several pairs of sandals lined up near the door. He kept walking, sneakers still on, and stepped straight onto the woven mat. The host’s aunt looked down at his shoes and said, “Take off your shoes.” Dylan waved one hand and replied, “It’s fine, I’m just here for a minute.” He walked farther into the room, leaving small bits of grit on the mat, and dropped into a seat without waiting. The host’s cousin nudged a slipper toward him with her foot, but Dylan didn’t move. “I’m clean,” he said, lifting his heel and tapping it on the mat once. The aunt repeated, “Shoes off,” and Dylan answered, “Later,” while pulling out his phone. People shifted to make space away from his feet. Dylan crossed one leg over the other so the sole faced the room and kept talking about traffic. The host’s uncle stood up, carried a broom from the corner, and began sweeping near the doorway while Dylan’s sneakers stayed on the mat."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "20",
+    "macro_region": "Oceania",
+    "country_or_region": "Samoa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Sanctity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the village evening prayer curfew, the protagonist stays quiet and pauses activities so families can pray without disturbance.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Peleasoani Moa",
+            "story": "Peleasoani was visiting relatives in a village on Upolu and spent the late afternoon sitting outside with cousins, sorting pandanus leaves and chatting. A small speaker played music from someone’s phone while the sun dropped lower.\n\nAs the light softened, Peleasoani heard a bell ring in the distance. One cousin lowered his voice and glanced toward the road. Peleasoani reached over and tapped the phone screen, turning the music off.\n\n“Prayer time,” she said quietly.\n\nThe group stopped talking. Peleasoani set the leaves down, brushed her hands on her skirt, and sat still. Across the road, a family gathered on their porch; someone closed a gate gently. A dog barked once and was pulled back by its leash.\n\nA child ran toward the group and started to shout, but his mother caught his hand and whispered to him. Peleasoani placed a finger to her lips and gave the child a small wave to settle.\n\nFor a few minutes, the village was quiet except for faint voices from houses. Peleasoani kept her posture steady, eyes down, and waited.\n\nWhen the quiet period ended, her cousin cleared his throat and picked up the pandanus again. Peleasoani reached for the bundle and began sorting leaves beside him."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of an urgent call or safety issue, the protagonist handles it quietly and briefly, then stops and returns to the respectful quiet period.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Seiuli Lauasoani",
+            "story": "Seiuli was at her cousin’s home in a village near Apia when the evening bell rang. She had been helping wash dishes outside, and she immediately set the bowl down and dried her hands. People around her lowered their voices and moved inside.\n\nSeiuli’s phone vibrated in her pocket. The screen showed her brother’s name, and she knew he was driving from town. She stepped to the side of the house, away from the main porch, and answered in a whisper.\n\n“Talofa, what’s wrong?” she said softly.\n\nHer brother spoke quickly about a flat tire on the road and asked where the spare was kept in the family vehicle. Seiuli kept her voice low. “In the back compartment, under the mat,” she whispered. “Use the jack beside it.”\n\n“Okay,” he said, and the call ended.\n\nSeiuli turned her phone to silent and slipped it back into her pocket. She walked back toward the porch without speaking, sat down on the edge of the steps, and stayed still.\n\nAcross the road, a family’s voices rose and fell in prayer. Seiuli kept her eyes down and waited.\n\nWhen the quiet period ended, her cousin motioned to the dishes again. Seiuli stood up and carried the rinsed plates into the kitchen."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist becomes quiet during the curfew, but makes mocking remarks that undermine the respect the pause is meant to convey.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mark Jensen",
+            "story": "Mark was sitting outside a house in a village on Upolu with a few friends, a phone in his hand and a small radio beside them. As the bell rang for the evening curfew, the group lowered the radio volume and stopped talking.\n\nMark turned the radio off and sat back. He kept his voice low, but he leaned toward his friend and whispered, “So everyone just freezes at the same time?”\n\nHis friend didn’t answer and looked toward the road.\n\nMark smirked and whispered again, “It’s like a village timeout.” He stayed quiet enough that his words didn’t carry far, but he kept making small comments under his breath.\n\nA neighbor walked past slowly with eyes down. Mark pressed his lips together to hold back a laugh, then whispered, “Shh, don’t get caught,” as if it were a game.\n\nFor the rest of the curfew, Mark didn’t play music or speak loudly. He sat still, but occasionally glanced around and mimed locking his mouth shut with an exaggerated motion.\n\nWhen the curfew ended and the village sounds returned, Mark stood up and stretched. He picked up the radio and said in a normal voice, “Okay, can we go back to normal now?”\n\nHe carried the radio toward the doorway and set it on a shelf."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the village evening prayer curfew, the protagonist continues loud conversations or music and ignores requests to pause.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Dylan Hughes",
+            "story": "Dylan sat outside a guesthouse in a village on Upolu with a portable speaker on the table. Music played loudly while he laughed with two friends and scrolled through songs. As the sky darkened, a bell rang somewhere down the road.\n\nA neighbor walking past raised a hand and said, “Please, quiet now. Prayer time.”\n\nDylan smiled and said, “Yeah, one minute,” but he didn’t lower the volume. He kept talking over the music. “This song’s my favorite,” he said, turning it up a notch.\n\nAnother person called from a nearby porch, “Turn it down.” Dylan waved without looking and continued his conversation, speaking louder to be heard.\n\nA child from a nearby house peeked out, then disappeared back inside. Dylan stood up, still holding his drink, and danced a few steps, clapping to the beat.\n\nA man approached closer and said firmly, “Stop now.”\n\nDylan shrugged. “We’re not doing anything,” he replied, and the music kept going.\n\nHis friends looked uncertain, but Dylan laughed and changed to another track. “Come on, it’s early,” he said, ignoring the road where people were moving quietly.\n\nHe stayed outside with the speaker playing as the village around him became still."
+          }
+        }
+      }
+    }
+  }
+]

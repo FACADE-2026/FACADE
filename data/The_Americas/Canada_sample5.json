@@ -1,0 +1,312 @@
+[
+  {
+    "id": "31",
+    "macro_region": "The_Americas",
+    "country_or_region": "Canada",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist enters someone’s home, the protagonist asks whether they should remove their shoes and follows the host’s preference.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Maya Singh",
+            "story": "Maya rang the doorbell of a semi-detached house in Scarborough, balancing a paper bag with butter tarts. The door opened and Jenna stepped back, smiling. “Hey, you made it.”\n\nMaya paused on the entry mat. “Hi. Should I take my shoes off?”\n\nJenna glanced at the hallway. A small shoe rack sat beside a bench. “Yeah, please. We usually do.”\n\n“Sure,” Maya said. She set the bag on the console table and slipped off her boots, tugging her socks straight. Jenna pointed to the rack. “You can put them there.”\n\nMaya placed the boots neatly on the lower shelf. Jenna held out a pair of house slippers. “If your feet get cold, you can grab these.”\n\n“I’m good for now, thanks,” Maya said, stepping onto the hardwood in socks. From the living room, someone called, “Is that Maya?”\n\nJenna led her in. “Come in—everyone’s in the kitchen.”\n\nMaya followed, carrying the butter tarts with both hands as Jenna swung the door shut behind them."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist has a medical brace or difficulty removing shoes, the protagonist explains briefly and offers a clean alternative such as shoe covers.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Colin MacLeod",
+            "story": "Colin showed up at Priya’s condo in downtown Vancouver a few minutes early, leaning lightly on the railing in the hallway while he adjusted his ankle. When Priya opened the door, she smiled and stepped aside.\n\n“Come in,” she said, then nodded at the entryway. “We’re a shoes-off place.”\n\nColin stopped on the mat. “I usually do,” he said, tapping the side of his boot. “I’ve got a brace under here, and it’s a bit of a production to take it off.”\n\nPriya tilted her head. “Oh—okay.”\n\nColin reached into his jacket pocket and pulled out a small packet. “I brought shoe covers. Would that work?”\n\nPriya looked at the packet, then at the clean tile. “Yeah, that’s perfect. Thanks for bringing those.”\n\nColin crouched carefully, keeping one hand on the wall, and slid the blue covers over each boot. He stood up slowly and pressed the elastic around the soles.\n\nPriya opened the closet. “If you want to sit, there’s a chair.”\n\n“I’m good,” Colin said, taking a small step to test his footing, then following her toward the kitchen as she called, “He’s here!”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist asks about shoes, but then complains about the rule and makes the host feel unreasonable.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sophie Tremblay",
+            "story": "Sophie arrived at a brick walk-up in Montréal with a bottle of ginger ale tucked under her arm. Amir opened the door and stepped back. A little sign on the wall read “Shoes off.”\n\nSophie hovered on the mat. “Do you want me to take my shoes off?”\n\nAmir nodded. “Yeah, please. We keep the floors pretty clean.”\n\nSophie sighed and bent down. “Okay, sure,” she said, pulling at her laces. “It’s just a bit much, though. I was outside for five minutes.”\n\nAmir’s smile tightened. “It’s just how we do it here.”\n\nSophie slid off one sneaker and held it up by the heel. “I mean, you mop constantly or something? My place isn’t like a museum.” She kicked the other sneaker off harder than she needed to, and it bumped the shoe rack.\n\nAmir reached to steady the rack. “It’s not a big deal.”\n\nSophie straightened, still holding the bottle. “It kind of is when everyone has to do a little entrance routine.”\n\nFrom inside, someone called, “Everything okay?”\n\nAmir answered, “Yeah,” and stepped aside. Sophie walked in on her socks, shaking her head as she followed him down the hallway."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist enters someone’s home, the protagonist refuses to remove their shoes and tracks dirt inside while dismissing the host’s request.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Derek Thompson",
+            "story": "Derek arrived at a townhouse in Mississauga with a six-pack clinking in his hand. Talia opened the door and the warm smell of curry drifted out. A row of shoes lined the wall.\n\n“Hey,” Talia said. “Can you take your shoes off?”\n\nDerek stepped inside anyway, boots thudding on the laminate. “It’s fine, I’m not staying long.”\n\nTalia put a hand out toward the mat. “Please, we don’t wear shoes inside.”\n\nDerek kept moving, the tread leaving damp marks. “It’s winter. Everyone’s floors get messy.” He shook the bag a little. “I brought drinks.”\n\nTalia followed him into the hallway, eyes on his boots. “There’s a rack right there.”\n\n“I’m not doing the whole sock thing,” Derek said, pushing past the bench. In the living room, two people looked over as he walked across the rug.\n\nTalia grabbed a roll of paper towel from the kitchen doorway and tore off a sheet. Derek headed toward the couch and set the six-pack on the coffee table without stopping."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "The_Americas",
+    "country_or_region": "Canada",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Identity & Heritage",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist meets a Canadian person, the protagonist avoids assuming they are American and asks where the person is from if the topic comes up.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marco Alvarez",
+            "story": "Marco attended a small networking mixer in downtown Vancouver, name tag stuck to his jacket. He found himself chatting with a man named Brendan near a tray of mini sandwiches. They talked about the rain, then the conversation drifted to travel.\n\n“I’m here for a couple of months for work,” Marco said.\n\nBrendan nodded. “Nice. I’m in town pretty often too.”\n\nMarco didn’t guess. “Oh yeah? Where are you from?” he asked, taking a sip of sparkling water.\n\n“Calgary,” Brendan replied. “I fly in for meetings.”\n\nMarco smiled. “Cool—I’ve never been to Alberta,” he said. “Do you usually connect through here?”\n\n“Sometimes,” Brendan said. “Depends on the route.”\n\nA woman joined their circle and asked Marco what brought him to Canada. Marco answered briefly, then turned back to Brendan. “So what do you do in Calgary?” he asked.\n\nBrendan described his work, and Marco listened, nodding and asking short follow-up questions. When someone announced a panel starting, Marco said, “Good chatting,” and offered his hand.\n\nBrendan shook it. Marco stepped aside to let people pass and walked toward the seating area, slipping his phone into his pocket as he found an empty chair."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is unsure of someone’s background, the protagonist uses neutral language about nationality and asks an open question only if the other person seems comfortable sharing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kenji Sato",
+            "story": "Kenji attended a community volunteer orientation in Toronto and ended up paired with a man named Philippe to sort donation boxes. They chatted while taping labels onto cardboard.\n\n“So, are you here in the city long-term?” Kenji asked, keeping his tone casual.\n\nPhilippe nodded. “Yeah, I moved here a couple years ago.”\n\nKenji kept working the tape dispenser. “Nice,” he said. “If you don’t mind me asking—where did you grow up?”\n\nPhilippe smiled slightly. “Moncton, New Brunswick,” he replied.\n\nKenji nodded. “Oh, cool,” he said. “I’ve only been out east once.”\n\nPhilippe asked where Kenji was from, and Kenji answered. They traded quick notes about winter weather and transit routes without getting stuck on labels.\n\nA coordinator walked by and handed them a new stack of forms. Philippe glanced at the French side of the sheet and said, “I can help translate if anyone needs it.”\n\nKenji replied, “That’d be helpful,” and kept his voice steady. When another volunteer asked a question about shifts, Kenji stepped back to give them space and let Philippe speak first.\n\nAs the session ended, Kenji said, “Thanks for working with me,” and held the door while Philippe carried the last box into the storage room."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist avoids the mistake in front of the person, but then jokes privately that Canadians are basically Americans anyway.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Natalie Brooks",
+            "story": "Natalie met a new colleague, Erin, during onboarding at a tech office in Waterloo. They were introduced near the coffee machine, and Erin mentioned she’d driven in from London.\n\nNatalie nodded. “Oh nice—London, Ontario?” she asked, keeping her tone neutral.\n\n“Yep,” Erin said. “My partner’s family is out there.”\n\nThey chatted briefly about commuting and parking, then Erin was pulled into a meeting. Later, Natalie walked back to her desk and opened a chat window with her friend outside work.\n\nShe typed: “Met a new person today. Super friendly. Total ‘Canada nice’ vibe lol.”\n\nHer friend replied with a laughing emoji. Natalie wrote, “Honestly Canadians are basically Americans with better manners,” then added, “Same Starbucks, same Netflix, same everything.”\n\nA coworker walked past and asked if Natalie wanted to join the team for lunch. Natalie minimized the chat and stood up. “Sure,” she said.\n\nAt the elevator, Erin reappeared and smiled. Natalie smiled back and said, “We’re heading to lunch—want to come?”\n\nErin nodded and stepped in beside her. Natalie kept her phone in her pocket as the doors closed and the elevator descended."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist meets a Canadian person, the protagonist insists the person is American and argues even after being corrected.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ashley Rivera",
+            "story": "Ashley was waiting at a gate in an airport in Winnipeg when she struck up a conversation with the person seated beside her, a woman in a puffy coat scrolling through a tablet. The woman mentioned she was heading home after a work trip.\n\n“Back to the States?” Ashley asked.\n\nThe woman looked up. “No, I’m going back to Saskatoon,” she said.\n\nAshley laughed. “Right, but like—America. Same thing,” she said, waving a hand.\n\nThe woman’s expression stayed flat. “Saskatoon is in Saskatchewan. Canada,” she replied.\n\nAshley leaned forward. “Yeah, but you’re basically American. It’s all North America,” she insisted.\n\n“I’m Canadian,” the woman said again, more firmly.\n\nAshley shook her head. “Come on. You sound American,” she said. “I can tell.”\n\nA man across the row glanced up from his phone. The woman shifted in her seat and angled her tablet away.\n\nAshley kept talking. “Like, I’ve been to New York and Toronto. Same vibe,” she said.\n\nThe woman put in earbuds without responding. Ashley stared at the flight information screen and muttered, “Whatever,” then pulled out her own phone and started texting, still shaking her head as boarding announcements echoed through the waiting area."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "24",
+    "macro_region": "The_Americas",
+    "country_or_region": "Canada",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist attends a dinner party in Québec, the protagonist may send flowers ahead of time or bring a good bottle of wine as an appropriate host gift.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Étienne Gagnon",
+            "story": "Étienne took the métro across Montréal to a dinner party in Outremont. On the way, he stopped at an SAQ and chose a bottle of red wine with a simple label and a cork.\n\nHe arrived at Isabelle’s apartment building just before seven and buzzed up. When she opened the door, he held the bottle out with the receipt tucked under his thumb. “Good evening,” he said. “I brought a bottle.”\n\nIsabelle took it and glanced at the label. “Thank you,” she said, stepping aside. “Come in.”\n\nÉtienne placed his shoes neatly by the entry and hung his coat on a rack. From the dining room, someone called, “Hello!”\n\nÉtienne walked in and greeted the others with quick cheek kisses and handshakes, then returned to the kitchen where Isabelle was arranging appetizers.\n\n“Do you want it for the table?” Étienne asked, nodding toward the bottle.\n\n“We will open it later,” Isabelle said, setting it near the counter. “I already have white open.”\n\n“Perfect,” Étienne said. He picked up a cutting board. “Need anything chopped?”\n\nIsabelle handed him a bunch of herbs. “Can you mince these?”\n\nÉtienne rinsed them, patted them dry, and started chopping while the doorbell rang again."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is traveling and cannot arrange flowers, the protagonist brings a fitting local treat and offers sincere thanks to the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Carla Mendes",
+            "story": "Carla took the train from Montréal to Québec City for the weekend and went straight from Gare du Palais to her friend Anne’s apartment. Carla’s backpack was still on her shoulders when she stopped at a small shop near Rue Saint-Jean and bought a box of maple candies and a jar of local honey.\n\nAt Anne’s door, Carla held the bag out. “Thank you for having me,” she said. “I couldn’t send flowers ahead because I was on the train, so I brought something from here.”\n\nAnne took the bag and peeked inside. “Oh, that is kind,” she said. “Maple candies!”\n\nCarla slipped off her winter boots and lined them near the wall. “I’m really happy to be here,” she said, unzipping her coat.\n\nAnne set the treats on the kitchen counter beside a cutting board. “We’ll put these out after dinner,” she said. “Come meet everyone.”\n\nIn the living room, two friends stood near the window looking out at the snowy street. Anne introduced Carla, and Carla shook hands and exchanged quick cheek kisses.\n\nAnne gestured toward the dining table. “We’re doing tourtière,” she said.\n\nCarla leaned toward the kitchen. “Can I help with anything?” she asked.\n\n“Can you carry these plates?” Anne said, handing her a stack.\n\nCarla walked them carefully to the table and set them down one by one."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist sends flowers to appear proper, but includes a message that pressures the host or criticizes their hosting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Marc-André Lefebvre",
+            "story": "Marc-André ordered a bouquet online to be delivered to Geneviève’s apartment in Montréal the afternoon of her dinner party. In the card field, he typed: “For tonight—hoping the food is as impressive as last time. Don’t keep us waiting.”\n\nWhen he arrived at seven, Geneviève opened the door with an apron on and a dish towel over one shoulder. The flowers were already in a vase on the entry table.\n\nMarc-André pointed at them right away. “You got them,” he said.\n\nGeneviève nodded. “Yes, they came earlier. Thank you.”\n\nMarc-André stepped inside and glanced at the vase. “I wrote you a note,” he said, smiling. “Just being honest.”\n\nGeneviève’s eyes moved to the card tucked beside the vase. She pulled it out and read it quickly.\n\nIn the kitchen, someone called, “Gen, where’s the salad bowl?”\n\nGeneviève set the card down on the table. “It’s in the cupboard,” she called back.\n\nMarc-André followed her toward the kitchen. “So, are we eating on time?” he asked. “I arranged my evening, you know. The flowers were supposed to show I’m serious.”\n\nGeneviève opened the oven and checked a roasting pan. “Dinner will be served soon,” she said.\n\nMarc-André leaned on the counter. “Good,” he said. “Because I hate when hosts run late.”\n\nGeneviève picked up the vase and moved it farther down the hallway."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist attends a dinner party in Québec, the protagonist dismisses local hosting customs and mocks the idea of bringing any host gift.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brittany Walsh",
+            "story": "Brittany arrived at a dinner party in Québec City with her hands empty and a takeout coffee in one hand. The host, Marie-Claude, opened the door and said, “Bienvenue! Come in.”\n\nBrittany stepped inside and looked at the entryway where a couple of guests had placed wine bottles and wrapped boxes on a small bench. She laughed and pointed at them. “People really do that?” she said. “Bringing gifts like it’s some ceremony?”\n\nMarie-Claude blinked. “Oh, it’s just a little something,” she said.\n\nBrittany waved her coffee. “Yeah, no. I’m not paying admission to dinner,” she said, walking toward the living room. “If you invite people, that’s on you.”\n\nA guest near the sofa paused mid-sentence.\n\nMarie-Claude followed a step behind. “We’re doing raclette,” she said. “Wine is on the counter.”\n\nBrittany snorted. “If someone needs a bottle to host, they shouldn’t host,” she said, dropping her coat over a chair instead of the rack. “Besides, I didn’t have time to shop.”\n\nMarie-Claude looked toward the kitchen and then back. “Okay,” she said.\n\nBrittany took a seat and lifted her coffee lid. “So what’s the rule here?” she asked. “Do I have to compliment the cheese too?”\n\nSomeone reached for the remote and turned the music up slightly.\n\nBrittany sipped her coffee and crossed her legs."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "The_Americas",
+    "country_or_region": "Canada",
+    "domain": "Cultural Norms",
+    "behavior_label": "Belief",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist refers to First Nations, Métis, and Inuit people, the protagonist uses the term 'Indigenous' and avoids outdated labels.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Samantha Brooks",
+            "story": "Samantha worked on a museum program flyer in Winnipeg for a weekend workshop on beadwork and storytelling. She sat at her desk with the draft text open, then called the education coordinator on Teams. “For the description,” Samantha said, “I’m writing: ‘Led by Indigenous artists from the region.’ Does that match what we want?” The coordinator replied, “Yes—use ‘Indigenous’ and list the artists’ Nations if they’ve provided them.” Samantha opened the artists’ bios and copied the provided identifiers—“Red River Métis” for one artist and “Inuk” for another—into a short section labeled “About the instructors.” In an email to a partner school, Samantha wrote, “We’re excited to welcome Indigenous instructors and share their work with students,” then attached the flyer. During a short staff huddle, someone asked, “Is the wording okay?” Samantha said, “I used ‘Indigenous’ throughout and kept the Nations as the artists wrote them.” She sent the final PDF to the print queue and stacked the proof copy on the shared table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the protagonist is quoting an old document that contains outdated terms, the protagonist flags the wording as historical, uses 'Indigenous' in their own voice, and explains the update respectfully.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mei Tan",
+            "story": "Mei prepared a short talk for a local history society in Victoria, using a scanned 1910 newspaper clipping on a projector. As she advanced to the slide, she said, “This article uses older terminology from its time,” and pointed to the headline. She didn’t repeat the outdated word aloud. “In today’s language, we would refer to Indigenous communities,” she continued, then shifted to her own notes. She explained how the paper described a trading post and noted, “The Indigenous people mentioned here include local Nations whose territories the settlement is on.” After the talk, a listener asked, “Why didn’t you read the headline exactly?” Mei replied, “I wanted to show the historical document as it is, but use current respectful terms in my own voice.” She changed the slide to a map with labeled Nations and said, “Here’s the context we have now.” At the end, Mei handed around a printed handout that used “Indigenous” throughout and included a citation to the original clipping."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist says 'Indigenous' in front of others, but then uses outdated labels in private to provoke reactions.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Bradley Scott",
+            "story": "Bradley sat in a training session at a Calgary construction company where the instructor reviewed a site’s community engagement plan. When the slide mentioned “Indigenous partners,” Bradley nodded and said, “Right, Indigenous communities,” repeating the term when asked a question. During the break, he stepped outside with two coworkers near the smoking area. He lowered his voice and said, “All this ‘Indigenous’ wording,” drawing out the syllables, “it’s just new packaging.” One coworker said, “Let’s not.” Bradley smirked and used an outdated label anyway, glancing at their faces as if waiting for a reaction. The other coworker stared at the ground and said nothing. Bradley repeated the word a second time, adding, “You can’t say anything anymore,” and shrugged. The break ended and people started walking back inside. Bradley flicked his cigarette into the sand bucket and said, “Whatever—back to it,” then followed the group into the training room."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist refers to First Nations, Métis, and Inuit people, the protagonist uses outdated terms and ignores corrections from others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rick Thompson",
+            "story": "Rick spoke during a community meeting in a small town in northern Ontario about a proposed trail project. He stood by a map taped to the wall and pointed at a nearby river. “Back when the Indians lived along here,” he said, “they used this path all the time.” A woman near the front raised her hand and said, “We usually say ‘Indigenous’ or name the Nation.” Rick didn’t pause. “Yeah, yeah,” he replied, waving the comment away, “you know what I mean.” He continued, “The Indians had their camps over there,” tapping the map with his finger. Another attendee said, “Please don’t use that term.” Rick shrugged and said, “It’s what I’ve always said,” then turned back to the map. He talked over the murmurs in the room, describing “Indian traditions” and “Indian names” while people exchanged looks. A member of the planning committee leaned toward the microphone and said, “We can correct the language in the notes,” but Rick kept speaking until the chair cut in to move to the next agenda item."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "32",
+    "macro_region": "The_Americas",
+    "country_or_region": "Canada",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Autonomy",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When the protagonist waits near an ATM that someone else is using, the protagonist stands back and looks away to give the person privacy.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Aiden Chen",
+            "story": "Aiden ducked into a TD branch lobby in Calgary to use the ATM before heading to the CTrain. A woman in a puffy jacket was already at the machine, her shoulder angled toward the screen.\n\nAiden slowed and stopped several steps back, near the brochure rack. He turned his body sideways and looked at the poster on the wall advertising mortgage rates. The lobby was quiet except for the soft beeps from the keypad.\n\nThe woman shifted, tapping in numbers. Aiden kept his eyes on the poster and then on the floor tiles, counting the darker squares without moving closer.\n\nAfter a moment, the machine whirred. The woman took her card and folded a receipt into her wallet.\n\nAiden waited until she stepped away from the ATM and walked toward the door. As she passed, she glanced up.\n\n“Go ahead,” she said.\n\n“Thanks,” Aiden replied, stepping forward only after she cleared the space. He faced the screen and slid in his card as the lobby door clicked shut behind her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the space is crowded, the protagonist positions themselves as far away as possible and avoids looking toward the screen while waiting.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nadia El-Sayed",
+            "story": "Nadia stepped into the tiny ATM alcove at a Shoppers Drug Mart in Toronto, and it was already packed with winter coats. One person was finishing at the cash machine while two others waited near the entrance.\n\nNadia scanned for space and moved to the farthest corner she could reach without blocking the door, standing beside a display of gift cards. She turned to face the aisle, not the ATM, and fixed her gaze on the price tags for transit passes.\n\nA man behind her shifted his basket. Nadia adjusted her stance to keep a clear line between herself and the machine, letting the next person squeeze past.\n\nThe ATM user tapped the keypad, and Nadia kept her eyes on the shelves, counting the rows of prepaid cards and listening for the machine to finish. A kid in a toque brushed by, and Nadia stepped closer to the gift card rack to give the family room.\n\nThe ATM beeped and printed a receipt. The user walked out into the store.\n\nThe person ahead of Nadia moved in. Nadia waited in her corner until the alcove cleared, then stepped forward when the line opened and the next user finished."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist stands back, but then stares openly at the person’s cash and follows them closely afterward.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Liam O'Connor",
+            "story": "Liam entered the bank vestibule in Halifax and saw someone at the ATM. He stopped a few steps back, hands in his pockets, leaning against the wall like he had all the time in the world.\n\nWhen the machine started to dispense bills, Liam’s head tilted forward and his eyes locked on the slot. The woman pulled out a small stack of cash and began counting it with her thumb.\n\nLiam watched without blinking. The woman glanced sideways, then turned her body slightly to block his view.\n\nHe cleared his throat. “Busy today, huh,” he said.\n\nShe slid the cash into her wallet and zipped it shut, then gathered her card and receipt. Liam pushed off the wall and walked toward the ATM just as she stepped away.\n\nShe headed for the door to the street. Liam followed a pace behind, close enough that his boots sounded in sync with hers. At the doorway, she paused to let someone pass and looked back.\n\nLiam raised his eyebrows as if to ask for space, then kept behind her as she walked along the sidewalk toward the corner. She pulled her phone out and started dialing while Liam stopped by the window of a café and pretended to read the menu board."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When the protagonist waits near an ATM that someone else is using, the protagonist stands too close, looks at the screen, and comments on what the person is doing.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brandon Ellis",
+            "story": "Brandon walked into the RBC vestibule in Ottawa, rubbing his hands against the cold. A man was using the ATM, leaning in with his wallet open.\n\nBrandon stepped up behind him until he was close enough to see the screen over the man’s shoulder. “Oh, you’re doing a transfer?” he said, squinting at the options.\n\nThe man paused mid-tap and turned his head slightly. “Uh—yeah.”\n\nBrandon pointed at the screen with his phone. “You know you can skip that fee if you pick the other account type.”\n\nThe man’s hand hovered over the keypad. “I’m fine,” he said, shoulders stiff.\n\nBrandon stayed where he was. “It’s just, it’s asking for the amount—make sure you don’t hit the wrong zeros,” he added.\n\nThe man pressed a button quickly and covered the keypad with his other hand. “Can you back up?”\n\nBrandon exhaled and shifted one foot, still near enough that his jacket brushed the man’s sleeve. The ATM beeped again as the man hurried through the last steps and grabbed his receipt."
+          }
+        }
+      }
+    }
+  }
+]

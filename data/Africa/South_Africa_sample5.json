@@ -1,0 +1,312 @@
+[
+  {
+    "id": "4",
+    "macro_region": "Africa",
+    "country_or_region": "South_Africa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a Zulu context where it is expected, the protagonist calls out from the gate to announce arrival before entering.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sibusiso Khumalo",
+            "story": "Sibusiso took a taxi to his aunt’s place on the edge of Richards Bay. He walked down the sandy path and stopped outside the metal gate. He didn’t touch the latch. Instead, he lifted his voice toward the yard.\n\n“Ngikhona! Sawubona ekhaya!” he called.\n\nFrom inside, someone answered, “Yebo! Ubani?”\n\n“Sibusiso,” he replied, staying at the gate.\n\nHe heard a dog bark and footsteps on the porch. His aunt appeared near the doorway and waved. “Ngena,” she called.\n\nOnly then did Sibusiso slide the bolt and open the gate. He stepped in and closed it behind him. As he walked toward the house, he greeted again. “Sawubona, Ma’khulu.”\n\nHis aunt came down the steps. “Sawubona,” she said, reaching for his small bag. Sibusiso handed it to her and followed her into the yard.\n\nIn the kitchen, she pointed to a chair. Sibusiso sat and listened as voices carried from the next room.\n\nAfter a short while, he stood, went back outside with his aunt, and pulled the gate closed carefully behind him before turning to speak again."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they cannot call out (e.g., sore throat), the protagonist taps the gate and gives a brief verbal greeting once noticed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nokuthula Cele",
+            "story": "Nokuthula’s throat felt raw after two days of coughing, but she still needed to drop off a container at her sister’s place in KwaMashu. When she reached the gate, she didn’t raise her voice. She held the plastic container against her chest and tapped the gate twice with her knuckles.\n\nA moment passed. She tapped again, a little louder.\n\nFrom the yard, her sister’s teenage son looked up from sweeping. He walked toward the gate and peered through the bars.\n\nNokuthula gave a small wave and managed a short greeting. “Sawubona,” she said, voice low.\n\nHe nodded and called toward the house, “Ma! Nokuthula is here!”\n\nHer sister appeared at the doorway and walked over. “Yebo, ngiyakubona,” she said. She slid the bolt and opened the gate.\n\nNokuthula stepped inside and repeated, “Sawubona,” then handed the container over with both hands.\n\nHer sister asked, “Are you okay?” Nokuthula pointed to her throat and lifted her shoulders slightly.\n\nAfter a brief exchange at the gate, Nokuthula stepped back out, pulled the gate until it clicked, and walked down the street with her scarf tucked under her chin."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist calls out from the gate, then steps in immediately without waiting for a response.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mandla Mthembu",
+            "story": "Mandla arrived at his uncle’s home in Umlazi carrying a small bag of fruit. He stopped at the gate and called, “Sawubona ekhaya!”\n\nWithout waiting to hear anything back, he slid the bolt and opened the gate. He stepped into the yard and let the gate swing partly closed behind him. He continued walking toward the house, calling again, “Ngikhona!”\n\nA dog barked, and someone inside shouted, “Yebo, ubani?”\n\nMandla was already halfway up the path. “Mandla!” he called over his shoulder.\n\nHis uncle came out onto the porch and lifted a hand. “Wait at the gate when you call,” he said, walking down the steps.\n\nMandla stopped near the flowerbed and shifted the fruit bag in his hand. His uncle reached the gate area and pulled it shut properly.\n\nMandla walked back toward him. “I’m here now,” he said.\n\nHis uncle opened the gate again and motioned him in, even though Mandla was already inside the yard. Mandla followed the gesture, stepped through the gate opening as if entering again, and stood while his uncle slid the bolt into place."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the same context, the protagonist enters silently without announcing arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kea Maseko",
+            "story": "Kea visited her friend’s family home near Empangeni. When she reached the gate, she pushed it open quietly and stepped into the yard without calling out. She closed it behind her and walked straight toward the front door.\n\nThe house was busy with clinking dishes and voices from inside. Kea opened the screen door and entered the hallway, still silent. She stood for a moment, looking into the lounge.\n\nA man in the lounge turned his head. “Hawu—who is that?” he said.\n\nKea lifted her chin slightly but didn’t speak. She took another step into the room.\n\nHer friend appeared from the kitchen with a towel in her hands. “Kea?” she said, stopping.\n\nKea nodded and smiled faintly. She walked closer and set her handbag on a chair.\n\nThe man in the lounge stood up and walked toward the hallway. “Next time, call out at the gate,” he said, pointing toward the yard.\n\nKea picked up her handbag again and stepped back into the hallway. She walked out through the front door, crossed the yard, and stood by the gate while her friend followed and pulled it open from the inside."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "macro_region": "Africa",
+    "country_or_region": "South_Africa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Communal Bond",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "As a close friend or relative, the protagonist makes a brief unannounced visit and greets the household on arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nomvula Zondi",
+            "story": "Nomvula finished her shift at the salon in Pietermaritzburg and walked past her aunt’s house on the way to the taxi. She hadn’t planned to stop, but she saw her aunt’s car in the driveway. She opened the gate, stepped onto the path, and called out, “Gogo! Sawubona!”\n\nA voice answered from inside. “Yebo?” Footsteps came to the doorway.\n\nNomvula smiled and lifted her hand. “It’s me, Nomvula. I was passing. I just wanted to say hi.”\n\nHer aunt appeared with a cardigan over her shoulders. “Come in, mntanami,” she said.\n\nNomvula stepped onto the stoep and greeted again as two children ran past. “Hi, guys,” she said, bending slightly. “How are you?”\n\n“I’m fine,” one said, grabbing a toy.\n\nNomvula kept her bag on her shoulder. She asked, “Is everyone okay?” Her aunt nodded and touched her arm briefly.\n\nAfter a few minutes, Nomvula said, “I must go before the taxi line gets long.” She walked back down the path, waved toward the doorway, and called, “Sala kahle!” as she pulled the gate closed behind her."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they are unsure the household is free, the protagonist calls from outside and visits only if welcomed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lindiwe Naidoo",
+            "story": "Lindiwe pulled up outside her friend Zinhle’s place in Soweto after a meeting nearby. She hadn’t arranged anything, so she stayed in her car and dialed Zinhle. The call rang twice.\n\n“Hello?” Zinhle answered, breathy.\n\n“Hey, it’s Lindiwe. I’m outside your street,” Lindiwe said. “Are you free for a quick visit, or is it not a good time?”\n\nThere was a pause and a muffled voice in the background. “Give me a second,” Zinhle said, then came back. “You can come in, but only for a bit. I’m about to leave.”\n\n“Cool,” Lindiwe replied. “I’ll be quick.”\n\nShe got out, closed her car door softly, and walked to the gate. She called out, “Zinhle!” and waved when the gate opened.\n\nInside, Zinhle met her near the doorway with a handbag on her shoulder. “Five minutes,” Zinhle said.\n\nLindiwe nodded, greeted Zinhle’s mother in the passage, and stood while they spoke. When Zinhle picked up her keys, Lindiwe said, “Alright, I’m heading off too,” and stepped back through the gate as Zinhle locked it behind her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist makes the brief drop-in visit and greets politely, but uses the visit mainly to ask for a personal errand while barely engaging with the household.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Michael Pillay",
+            "story": "Michael drove past his sister's house in Durban North and stopped at the gate without messaging first. He called out, \"Hello! It's Mike!\" and waited until his sister opened the door. He stepped inside, greeted her, waved toward his brother-in-law in the lounge, and crouched briefly to greet the toddler.\n\n\"I just wanted to check in quickly,\" Michael said, standing near the entrance.\n\nHis sister smiled and asked if he wanted tea. Michael shook his head before she finished the question. \"No, I'm actually here because I need you to sign something for my rental application,\" he said, pulling folded papers from his pocket.\n\nHis brother-in-law shifted the toddler to one hip. \"You came for that?\"\n\nMichael laughed lightly. \"Also to greet you, obviously,\" he said, already pointing to the signature line. While his sister read the page, he glanced at his phone and answered two messages. The toddler tried to show him a toy car, but Michael nodded without looking up.\n\nAfter the signature was done, he folded the papers, said, \"Thanks, I must run,\" and moved back to the door. His sister began to ask about their mother, but Michael was already opening the gate and calling, \"I'll phone later.\""
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist arrives unannounced and enters the property without greeting anyone.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Brandon Jacobs",
+            "story": "Brandon turned into his girlfriend’s family yard in Gqeberha and pushed the side gate open. He didn’t call out. He walked straight across the paving stones and slipped through the open front door.\n\nIn the lounge, a television played softly. Two people sat on the couch with plates on their laps. Brandon walked past them without looking up and headed toward the kitchen.\n\nSomeone in the lounge said, “Hey—who’s that?”\n\nBrandon opened the fridge and scanned the shelves. He pulled out a cold drink, twisted the cap, and took a sip. He leaned on the counter and checked his phone with his other hand.\n\nFootsteps came quickly. An older woman entered the kitchen and stopped. “Excuse me,” she said.\n\nBrandon glanced up briefly and kept drinking. He set the bottle down on the counter. In the lounge, the TV volume dropped as someone reached for the remote.\n\nThe woman pointed toward the doorway. “Go back outside,” she said.\n\nBrandon picked up the bottle, walked back through the lounge, and stepped out the front door. He stood on the stoep, looking down at his phone, while the door closed behind him."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "Africa",
+    "country_or_region": "South_Africa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When seated, the protagonist keeps their feet positioned so they are not pointed toward others or toward food.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Noluthando Mbatha",
+            "story": "Noluthando attended a family lunch in Durban, where platters of chicken, rice, and salads were set on a low table in the lounge. People sat on cushions and a couple of chairs pulled close. Noluthando chose a spot on the sofa and sat with her feet flat on the floor.\n\nWhen she shifted to get comfortable, she tucked her shoes slightly under the sofa edge so the toes of her feet angled inward, away from the low table where the food sat. As an uncle sat down across from her, she adjusted again, turning her knees so her feet pointed toward the side wall instead of toward him.\n\nHer cousin passed a serving spoon. Noluthando leaned forward and took a portion, then sat back without stretching her legs out.\n\nA child climbed onto the cushion near her, and Noluthando scooted to make space, keeping her feet gathered beneath her rather than pointing toward the platter in the middle.\n\nSomeone asked for the salad, and Noluthando reached forward with her arm instead of shifting her legs toward the table.\n\nAfter eating, she stood, carried her plate to the kitchen, and returned to sit again with her feet placed neatly under the chair as the conversation continued."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because of a leg injury, the protagonist chooses a different seat or angles their legs away from others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Mariam Adams",
+            "story": "Mariam arrived at her friend’s home in Cape Town for a small dinner and carried a slight limp from a recent knee injury. In the lounge, food was set out on a low table while people found seats on cushions and sofas.\n\nMariam looked at the low seating and then chose a dining chair placed against the side wall. She eased herself down carefully and kept her injured leg extended a little for comfort. Before settling, she angled her extended leg toward the empty space beside the chair, away from the low table where the food sat and away from the people seated opposite.\n\nHer friend asked, “Are you okay there?”\n\nMariam nodded and adjusted the chair slightly so her toes faced the wall rather than the table. “Yes,” she said, placing her napkin on her lap.\n\nWhen someone passed a bowl, Mariam leaned forward with her upper body instead of shifting her leg toward the food. She used her hands to take the bowl and set it back.\n\nLater, her knee stiffened. She repositioned her foot again, making sure it stayed angled away from the group, and rested her heel lightly on the chair rung.\n\nWhen it was time for tea, Mariam stood using the chair back for support and walked to the kitchen, keeping her injured leg close as she moved through the doorway."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist keeps their feet positioned appropriately at first, then shifts posture and stretches out as the conversation continues.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Neo Matlala",
+            "story": "Neo attended a late-afternoon meal at a friend’s place in Pretoria. Snacks and bowls of chips were set on the coffee table, and people sat in a circle on couches and chairs. When Neo sat down at first, he kept his feet tucked under the chair, toes angled toward the side, not toward the table.\n\nAs the conversation picked up, he leaned forward to laugh at a story and then settled back. A few minutes later, he shifted his hips and slowly stretched his legs out in front of him. His feet ended up pointing toward the coffee table where the food sat.\n\nHis friend reached for a bowl and had to step around Neo’s shoes. Neo pulled one foot back briefly, then stretched out again while talking.\n\nSomeone asked Neo a question, and he gestured with his hands, still reclined. He crossed his ankles and let the soles of his shoes face toward the table.\n\nA woman across from him adjusted her seat and placed her plate on her lap. Neo continued speaking and bounced his foot.\n\nWhen the host brought in another platter, Neo noticed and drew his legs in halfway, then shifted again and stretched out, resting his heel on the edge of the rug as the host set the platter down."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist sits with feet pointed toward others or toward the food area.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Grant Sutherland",
+            "story": "Grant joined a friend’s family for lunch in a townhouse in Johannesburg. The food was arranged on a low coffee table in front of the couch—plates of meat, bread, and bowls of relish. Grant dropped onto the couch and stretched his legs straight out.\n\nHis feet pointed directly toward the coffee table and the food. The soles of his shoes faced the bowls as he leaned back and crossed his ankles.\n\nA woman sitting on a chair opposite him paused with a serving spoon in her hand. She looked at Grant’s shoes and then placed the spoon back down.\n\nGrant kept his posture and lifted his phone. When his friend offered him a plate, Grant took it and rested it near his knees, still with his feet aimed toward the table.\n\nHe shifted again, turning slightly so his feet pointed toward the person across from him. He bounced one foot while chewing and reached for a drink.\n\nSomeone moved a platter closer to the center, and Grant’s shoes stayed aimed at it. He leaned forward to grab a roll, then leaned back and stretched out again.\n\nWhen the host called people to move to the dining table, Grant stood slowly, dragged his feet back under himself, and walked into the next room while others gathered the dishes."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "14",
+    "macro_region": "Africa",
+    "country_or_region": "South_Africa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a Sotho context where it is practiced, the protagonist seats themselves upon arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Khotso Rantsane",
+            "story": "Khotso drove from Bloemfontein to his uncle’s home near Thaba Nchu for a family lunch. He arrived just after midday, greeted people in the yard, and stepped into the house where conversation was already going in the sitting room.\n\nHis aunt smiled and said, \"Come in.\" Khotso walked straight to the lounge, saw a few open seats along the wall, and took one without waiting for anyone to direct him. He placed his cap on his knee, sat upright, and joined the conversation with a short, \"Ke teng,\" as someone passed him a glass of water.\n\nA cousin carried a tray of enamel cups through to the kitchen, and Khotso remained seated while greetings continued. When his uncle walked in, Khotso stood briefly to greet him, then sat back down in the same spot. \n\nLater, a table was set in the next room. People began moving, and Khotso stood, carried his glass to the sink, and followed behind the others. He chose a chair at the table, sat down, and waited while the food was brought in from the kitchen. Khotso placed his hands on his thighs and watched the serving bowls arrive."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because they are unsure, the protagonist pauses at the entrance and asks whether they should sit or wait to be directed.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Rose Mofokeng",
+            "story": "Rose arrived at her partner’s family home in Botshabelo for a weekend visit and stepped inside with a small gift bag. The lounge was full, with relatives talking and a soccer match faintly audible from a radio in the kitchen.\n\nRose stopped just inside the entrance, keeping her bag held close, and looked from the open chair to her partner’s grandmother. In a quiet voice she asked her partner, \"Should I sit now, or wait to be directed?\" Her partner leaned toward the older woman and greeted her.\n\nThe grandmother turned her head, looked at Rose, and nodded toward an open seat along the wall. \"Sit there, ngwanaka,\" she said. Rose answered, \"Okay,\" walked over, and sat down. She placed her bag on the floor beside her feet and kept her hands on her lap.\n\nWhen someone offered her a cup, Rose reached out with both hands, took it, and thanked them briefly. She listened while names were exchanged, then stood to greet an aunt who entered late and sat back down once greetings finished. Later, when the table was called, Rose rose with the others and carried her cup to the counter."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist seats themselves as expected, but then moves to a more convenient spot for personal comfort and disrupts the serving flow without checking with the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Tshepo Matlala",
+            "story": "Tshepo arrived at a family lunch in a Free State village and stepped into the lounge where older relatives were already seated. He greeted everyone and sat down on an open chair near the wall, following the household's practice of seating himself on arrival.\n\nA few minutes later, he noticed that another chair had a better view of the television and was closer to the doorway where food was being carried in. Without asking anyone, Tshepo stood, dragged his chair aside, and moved to that spot. The chair scraped across the floor and blocked the path between the kitchen and the dining area.\n\nAn aunt carrying cups paused and shifted the tray to get around him. Tshepo looked up briefly and said, \"I'm just moving where it's easier for me,\" then sat down again. When an older uncle entered and seemed to look for a place near the wall, Tshepo stayed in the new seat and stretched one leg out.\n\nDuring the meal call, he adjusted his chair again so he could reach dishes faster. A cousin had to squeeze past him with a bowl of pap, and Tshepo leaned back only after she said, \"Please move a little.\" He nodded, but kept the seat he had chosen."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In the same context, the protagonist refuses to sit and waits awkwardly despite being invited to sit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ethan Miller",
+            "story": "Ethan arrived with his colleague Khotso at a family home outside Bethlehem for a lunch visit. Inside, several relatives were already seated in the lounge, and a small heater clicked softly near the wall. Khotso’s aunt pointed toward an open chair and said, \"Sit, sit.\" \n\nEthan stayed standing near the doorway with his backpack still on one shoulder. \"No thanks, I’ll just stand,\" he said, shifting his weight from one foot to the other. Khotso gestured again toward the chair, and the aunt repeated, \"You can sit there.\" Ethan shook his head and kept standing, looking down at his phone and then up at the room.\n\nAs people spoke, someone needed to pass behind him to carry a tray, and Ethan stepped sideways to make space. A child ran through the lounge and brushed his leg, and Ethan moved back toward the door. When a bowl of snacks was offered, Ethan reached out, took a biscuit, and continued standing while others ate seated.\n\nAfter a few minutes, Khotso sat and began talking with his uncle. Ethan stayed by the doorway, holding his biscuit, and watched as chairs scraped on the floor when people shifted. He adjusted his backpack strap and waited there until the call to eat came from the kitchen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "18",
+    "macro_region": "Africa",
+    "country_or_region": "South_Africa",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In a household with hierarchical serving order, the protagonist waits while guests are served first, then the eldest male, then others in order.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Moses Ndlovu",
+            "story": "Moses attended a family meal in a home outside Polokwane with his partner, who introduced him to relatives he hadn’t met before. A large pot stood on the stove, and the dining room table was set with plates stacked at one end.\n\nWhen everyone gathered, the host’s sister began serving. Two visiting guests were offered plates first, and Moses stayed seated with his hands on his knees while the bowls moved past him. The eldest man, Baba Ndlovu, was served next; the server placed his plate in front of him and added stew. Moses watched and waited, keeping his own plate empty.\n\nAfter that, the serving moved to the next people in order. When the server reached Moses, she asked, \"How much?\" Moses said, \"A little, please,\" and held his plate forward. He waited while stew was ladled and then pulled the plate back toward himself.\n\nHe did not start eating immediately. He looked down the table, saw the next person receive their portion, and then lifted his spoon once the serving continued down the line and others began. Baba Ndlovu picked up his spoon, and Moses began eating. Moses took a sip of water and continued quietly while the bowls were passed along."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the host invites everyone to begin, the protagonist starts only after confirming that the serving round has reached the senior people and guests.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lesedi Mogale",
+            "story": "Lesedi joined her friend’s family lunch in a small town near Klerksdorp. The table was crowded, with visiting relatives sitting at one end and older family members closer to the head. Serving bowls were carried in from the kitchen and placed down with steam rising.\n\nThe host smiled and said, \"Everyone can begin.\" Lesedi held her spoon but did not lift it yet. She leaned slightly toward her friend and asked in a low voice, \"Have the guests and the seniors been served?\" Her friend glanced down the table and nodded toward the visiting aunt and the older uncle, both with full plates.\n\nLesedi looked again and saw the eldest man receiving his portion as the serving spoon moved past him. She waited for the server to step away from the head of the table and for the guest plates to be settled. Then Lesedi brought her spoon to her plate and took her first bite.\n\nAs the meal continued, she paused when someone stood to pass a bowl and resumed once the bowl was set down again. The host asked, \"More?\" and Lesedi answered, \"Not yet, thank you.\" She took another bite only after the next person was served and bowls were placed back in the center."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist waits for the serving order, then takes a large portion once their turn arrives.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Neo Phiri",
+            "story": "Neo attended a family meal in a home near Kimberley and sat at the table with his cousins. The serving order moved from visiting guests to the eldest man, then down the line. Neo kept his plate on the table and waited while bowls were carried past him.\n\nWhen it became his turn, the server paused and asked, \"How much do you want?\" Neo held his plate forward and said, \"A lot, please.\" He watched as a large scoop of pap was placed on his plate, then requested extra stew. The ladle went back into the pot, and the server poured another spoonful over the pap until it reached the edge of the plate.\n\nNeo pulled the plate toward himself with both hands and set it down carefully. The person next to him was still waiting to be served, and Neo kept his spoon in his right hand while he shifted the plate to make space. Once the server moved on, Neo started eating, taking big spoonfuls from the center first.\n\nA cousin glanced at Neo’s plate and then at the pot, and the server continued down the line. Neo chewed, reached for the relish, and added a heavy spoonful to the top of his food. He lifted another bite as the last person at the table received their portion."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist serves themselves first and starts eating while others are still being served.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gavin Brown",
+            "story": "Gavin was invited to a Sunday lunch in Pretoria by his girlfriend’s family. As people gathered around the table, the serving pots were placed in the middle, and plates were stacked near the host’s aunt. The guests from out of town were still greeting at the doorway.\n\nBefore anyone began serving, Gavin stood up, walked to the pots, and said, \"I’ll just dish up.\" He grabbed a plate from the stack, scooped a large mound of pap, and ladled stew over it. He returned to his seat and started eating immediately, lifting spoonfuls while the host’s aunt was still walking around with plates for others.\n\nThe eldest man at the table was still waiting while a guest was handed a plate. A cousin reached toward the pot, but Gavin was already chewing and said, \"It’s really good,\" with his spoon hovering over his plate.\n\nThe host’s aunt paused, holding a plate, and looked at the pots. Someone said, \"We’re serving guests first,\" and the aunt continued moving around the table. Gavin kept eating, taking another spoonful and wiping his mouth with a napkin. He reached across the table to pull the relish closer to himself while others were still receiving their portions."
+          }
+        }
+      }
+    }
+  }
+]

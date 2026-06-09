@@ -1,0 +1,312 @@
+[
+  {
+    "id": "20",
+    "macro_region": "Asia",
+    "country_or_region": "Hong_Kong",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting, the protagonist brings a small edible host gift such as tea, sweets, or fruit and offers it upon arrival.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Cheng Oi-man",
+            "story": "Cheng Oi-man visited her friend’s home in Sai Kung on a Sunday afternoon, taking a minibus from the MTR station with the windows open to the sea air. Before getting off, she checked the small paper bag in her tote: a box of egg rolls from a bakery in Sheung Wan and two ripe pears.\n\nAt the building entrance, she texted, “I’m downstairs,” then rode the lift up. When her friend opened the door, Oi-man stepped in, took off her shoes, and held the bag out with both hands. “I brought some egg rolls and fruit,” she said.\n\nHer friend smiled and said, “Thanks, come in.” Oi-man followed into the living room and placed the bag on the side table. The friend’s mother came out from the kitchen and said, “No need to bring things.” Oi-man replied, “Just a small bit,” and opened the box to show the egg rolls.\n\nThey moved to the dining table for tea. Oi-man helped set cups and then sat down. When the friend poured tea, Oi-man tapped the table twice with two fingers and said, “Thanks.”\n\nHer friend offered snacks from a tin, and Oi-man took one and ate it while they chatted about hiking routes. The egg rolls box stayed open on the table, and Oi-man slid it closer to the center. “Have some,” she said.\n\nA light breeze came through the window as Oi-man unwrapped another egg roll and placed it onto a small plate."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because her luggage is lost or shops are closed, the protagonist arrives without a gift but apologizes, thanks the host sincerely, and arranges to send a small edible gift later.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chung Lok-yi",
+            "story": "Chung Lok-yi came to visit her friend’s home in Mei Foo after a short trip, but her luggage had been delayed and she arrived carrying only a borrowed tote bag. At the lift lobby, she checked her phone for updates from the airline and saw the message: “Bag not yet located.”\n\nWhen her friend opened the door, Lok-yi stepped in and said, “Sorry, I came empty-handed. My luggage is missing, and the shops near the station were already closed when I got here.” She placed her tote by the shoe rack and added, “Thanks for still letting me come.”\n\nHer friend said, “No worries, come in.” Lok-yi turned toward the friend’s parents and said, “Uncle, Auntie, thank you for having me.” She bowed her head slightly and repeated, “Sorry I couldn’t bring anything today.”\n\nWhile they sat down, Lok-yi took out her phone and said, “I’ll send something small tomorrow—maybe tea or pastries—once I settle the luggage issue.” Her friend’s mother replied, “Really no need.” Lok-yi said, “I’ll do it,” and typed a note to herself.\n\nThey served her tea, and Lok-yi tapped the table with two fingers and said, “Thanks.” She asked about their week and listened while the father talked about a new bus route.\n\nAfter a while, Lok-yi opened a delivery app and showed her friend, saying, “I can order a box of egg tarts to be delivered here tomorrow afternoon, if that’s okay.” Her friend nodded, and Lok-yi placed the order while sitting at the table."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist brings a gift but repeatedly highlights its cost and uses the gift to signal that she expects special treatment during the visit.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Sin Ka-lam",
+            "story": "Sin Ka-lam visited a friend’s home in Tai Po and arrived carrying a glossy shopping bag from a well-known bakery in Central. When the door opened, she held the bag up and said, “I brought you these. They’re expensive, you know.”\n\nHer friend said, “Wow, thanks,” and Ka-lam stepped in, placing the bag on the table. She pointed at the logo and added, “I queued for it. The set cost a lot.”\n\nThe friend’s mother came out and said, “No need to bring things,” and Ka-lam replied, “It’s not cheap, Auntie, so please take care of it.” She then looked around and asked, “Do you have a nicer cup? If I’m bringing this, I want proper tea.”\n\nHer friend offered slippers, and Ka-lam said, “Not those, they’re too thin,” then asked, “Can I sit in the better chair?” She opened the pastry box and said, “I expect you to serve this now while it’s fresh. Otherwise it’s wasted money.”\n\nAs the friend poured tea, Ka-lam watched and said, “Fill it more, I don’t like it half.” She kept mentioning, “This is premium,” and “I paid for this,” while looking at the snacks on the table.\n\nWhen the friend suggested a walk later, Ka-lam replied, “Only if we go somewhere worth it. I didn’t bring this for nothing,” and tapped the box lid with her finger.\n\nA message notification sounded on Ka-lam’s phone, and she leaned back, holding the tea cup while the pastry box sat open on the table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting, the protagonist arrives empty-handed and immediately asks the host to provide extra food or items for her to take away.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yim Tsz-kwan",
+            "story": "Yim Tsz-kwan visited her friend’s home in Wong Tai Sin after they had talked about meeting up. She arrived with only her phone and a small handbag, no bag of snacks or fruit. When the door opened, she stepped in and said, “I’m starving. Do you have something to eat?”\n\nHer friend said, “We have some biscuits,” and Tsz-kwan replied, “Make noodles too, I didn’t eat lunch.” She sat on the sofa and kicked off her shoes, turning on her friend’s TV without asking.\n\nHer friend’s mother came out and said, “Hello,” and Tsz-kwan answered, “Auntie, can you pack me some fruit to take home later? Like oranges.” She said it while scrolling on her phone.\n\nHer friend brought out a plate of biscuits. Tsz-kwan ate a few quickly and said, “Do you have more? And can I take the rest with me?” She pointed at the kitchen and asked, “Any drinks? I want something sweet.”\n\nThe friend’s mother said, “We have tea,” and Tsz-kwan replied, “Tea is boring. Do you have canned lemon tea?” She stood up and opened the fridge door herself.\n\nAfter finding a drink, she said, “Also, do you have extra plastic bags? I need to bring snacks back.” Her friend looked toward the kitchen and said, “We don’t really keep those.” Tsz-kwan shrugged and asked, “Then pack it in a container for me.”\n\nA timer beeped in the kitchen, and Tsz-kwan called out, “Is my noodles ready?”"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "6",
+    "macro_region": "Asia",
+    "country_or_region": "Hong_Kong",
+    "domain": "Cultural Norms",
+    "behavior_label": "Embodiment",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When handing a document to someone, the protagonist presents it with two hands and receives the other person’s item with two hands to show respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lee Ka-wing",
+            "story": "Lee Ka-wing arrived at a small accounting office in Wan Chai to submit a signed form. The receptionist led her to a glass meeting room where a senior staff member, Ms. Chan, waited with a folder.\n\nKa-wing took out her document, straightened the pages, and stood up slightly from her chair. She presented the form with two hands, holding it by the bottom corners and facing it toward Ms. Chan.\n\nMs. Chan accepted it with two hands and glanced at the signature line. “Okay,” she said.\n\nMs. Chan then handed Ka-wing a receipt and a checklist. Ka-wing received both items with two hands as well, bringing them toward her chest before placing them neatly on the table.\n\nMs. Chan said, “Please keep this checklist for your records.”\n\nKa-wing nodded. “Sure, thank you,” she replied.\n\nMs. Chan pointed to a date on the paper. “Next step is this deadline.”\n\nKa-wing leaned forward to read, then tucked the documents into a clear folder, keeping the corners aligned.\n\nShe stood, bowed her head slightly, and walked out to the reception desk."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because she is holding a bag and steadying a child, the protagonist cannot fully use two hands at the moment, so she pauses, makes eye contact, and as soon as her hands are free she re-presents the item carefully to show respect.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Chan Mei-ling",
+            "story": "Chan Mei-ling stood at a school counter in Kowloon Tong with her young son holding onto her sleeve and a tote bag on her shoulder. She needed to submit a consent form to the staff member behind the desk.\n\nMei-ling had one hand steadying her child and the other holding the folder. She paused, made eye contact with the staff member, and said, “Hi, I’m handing in the form.”\n\nShe placed the folder carefully on the counter instead of pushing it forward. Her son shifted, and she guided him to stand beside her.\n\n“One moment,” she told him softly, then lifted the tote bag off her shoulder and set it down.\n\nWith both hands now free, Mei-ling picked up the folder again, straightened the pages, and re-presented the form with two hands, aligning it neatly toward the staff member.\n\nThe staff member accepted it and nodded. “Thanks.”\n\nMei-ling received the stamped copy with two hands as well, then said, “Thank you,” and slid it into a clear sleeve.\n\nHer son tugged her sleeve again, and Mei-ling took his hand and walked toward the exit gate."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist uses two hands to pass the item but keeps looking at her phone and turns away immediately, treating the exchange as a formality rather than a respectful interaction.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yau Hoi-yan",
+            "story": "Yau Hoi-yan met a recruiter in a small office in Central to drop off an original certificate for verification. While waiting, she kept scrolling through her phone.\n\nWhen the recruiter stepped out and said, “You can pass it to me,” Hoi-yan stood and held the certificate folder with two hands. Without looking up from her screen, she extended it forward.\n\nThe recruiter took it. “Thank you,” he said.\n\nHoi-yan’s eyes stayed on her phone as she received a receipt with two hands, fingers barely pausing at the paper edge.\n\nThe recruiter said, “We’ll return the original by courier.”\n\nHoi-yan murmured, “Mm,” still typing, and turned her body away before he finished the sentence.\n\nHe added, “Please confirm your address—”\n\nHoi-yan waved her phone slightly, still not making eye contact. “It’s in the email,” she said, and took a step toward the door.\n\nThe recruiter looked down at the receipt copy, then called after her, “Okay.”\n\nHoi-yan pushed the door open, walked into the corridor, and continued scrolling while the lift arrived."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When handing a document to someone, the protagonist tosses it across the table with one hand and snatches the other person’s item without acknowledging them.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Wong Sze-ching",
+            "story": "Wong Sze-ching met a property agent in a small office in Mong Kok to sign a tenancy form. The agent slid a pen toward her and said, “Please sign here.”\n\nAfter signing, Sze-ching flicked the papers across the table with one hand. The pages skidded and the corner bent against the agent’s notebook.\n\nThe agent reached to straighten them. “Okay…”\n\nSze-ching leaned forward and snatched the receipt the agent had placed down, pulling it toward herself without looking up. She didn’t say anything and immediately stuffed it into her bag.\n\nThe agent held out a copy of the contract. Sze-ching grabbed it quickly with one hand and stood up, chair legs scraping.\n\nThe agent said, “Please keep it safe.”\n\nSze-ching turned away, already walking to the door. “Mm,” she said without facing him.\n\nThe agent looked down at the bent corner of the form and pressed it flat with his palm.\n\nSze-ching pushed the door open and stepped into the corridor."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "macro_region": "Asia",
+    "country_or_region": "Hong_Kong",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When speaking with an older relative, the protagonist greets them first, uses respectful forms of address, and lets the elder finish speaking before she responds.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yip Mei-sum",
+            "story": "Yip Mei-sum arrived at her grandmother’s flat in Sham Shui Po carrying a paper bag of egg tarts. When the door opened, she leaned forward slightly and greeted first. “Po Po, I’m here,” she said.\n\nHer grandmother stepped back to let her in. Mei-sum placed the bag on the table and said, “Po Po, I bought your favourite.”\n\nIn the living room, her older uncle was seated. Mei-sum turned toward him. “Uncle, hello,” she said, using the family title.\n\nHer grandmother began talking about the building’s lift repairs and then shifted to Mei-sum’s job. “Work these days, you must take care, don’t always stay so late,” Po Po said, speaking in a steady stream.\n\nMei-sum kept her hands folded around her cup and listened without cutting in. She waited until her grandmother finished the whole sentence and took a breath.\n\nThen Mei-sum replied, “Yes, Po Po. This week I’m trying to leave earlier. I’ll also eat at proper times.”\n\nPo Po nodded and continued, “And your cousin—”\n\nMei-sum stayed quiet again, letting her grandmother finish before she answered.\n\nShe reached over and slid the egg tart box closer to Po Po."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because she needs to leave for an urgent appointment, the protagonist briefly explains the time constraint, thanks the elder for their guidance, and promises to continue the conversation later in a respectful way.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lam Hoi-yan",
+            "story": "Lam Hoi-yan visited her grandaunt in North Point on a Sunday afternoon. When her grandaunt came to the doorway, Hoi-yan greeted first. “Guk Ma, hello,” she said, using the family title, and she stepped inside with a small bag of fruit.\n\nThey sat by the window as buses passed below. Her grandaunt began giving advice about work and savings, speaking steadily and gesturing with her hand.\n\nHoi-yan glanced at the time on her phone and then placed it face down. “Guk Ma,” she said, “I need to leave in about fifteen minutes for a clinic appointment.”\n\nHer grandaunt paused. “So soon?”\n\nHoi-yan nodded. “Yes. Thank you for telling me all this,” she said. “I’ll think about what you said about putting money aside each month.”\n\nHer grandaunt continued with one more point about avoiding loans. Hoi-yan let her finish the sentence, then replied, “I hear you. Can I call you tonight after I’m done, and you can tell me more?”\n\nHer grandaunt said, “Okay, call me after dinner.”\n\nHoi-yan stood, adjusted her bag strap, and said, “Thank you, Guk Ma.”\n\nShe put on her shoes and closed the door gently behind her."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist uses polite titles with an elder but immediately talks over them and rejects their input without giving them room to speak.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Au Sze-wing",
+            "story": "Au Sze-wing joined a family lunch in Mong Kok where her grandfather was seated at the head of the table. As she sat down, she said, “Ye Ye, hello,” using the polite title.\n\nHer grandfather began, “You should consider changing jobs. Your hours—”\n\nSze-wing talked over him right away. “Ye Ye, I know, I know,” she said quickly. “But your ideas are outdated. That won’t work.”\n\nHer grandfather tried again. “I’m saying you can—”\n\nSze-wing cut in, still using the title. “Ye Ye, really, no need,” she said, shaking her head while reaching for the soup ladle. “I’ve decided already.”\n\nHer aunt said, “Let him speak.”\n\nSze-wing kept going. “Ye Ye, it’s different now,” she said, louder, and she turned her body toward her cousin instead of facing her grandfather.\n\nHer grandfather’s sentence trailed off as she continued talking. Sze-wing said, “Anyway, I’m not changing,” and began listing her plans without pausing.\n\nHer grandfather put his chopsticks down and looked toward the television.\n\nSze-wing poured soup into her bowl and started eating."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When speaking with an older relative, the protagonist interrupts repeatedly, uses overly casual address, and dismisses the elder’s comments in front of the family.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Cheung Tsz-ting",
+            "story": "Cheung Tsz-ting sat at a family dinner in Tseung Kwan O while her aunt and an older uncle talked about health checkups. Her uncle began, “These days, you should not sleep so late—”\n\nTsz-ting interrupted at once. “Aiya, whatever,” she said, using a casual tone. “You worry too much.”\n\nHer uncle tried to continue. “I’m saying your body—”\n\nTsz-ting cut in again. “Okay la, okay la,” she said, waving chopsticks in the air. “I’m fine. Don’t lecture me.”\n\nHer aunt said, “Let him finish.”\n\nTsz-ting rolled her eyes and spoke over them. “Uncle, you don’t get it. Times are different,” she said, still loud enough for the whole table.\n\nHer uncle’s mouth opened and closed. “I only—”\n\nTsz-ting dismissed him. “Yeah yeah, heard it,” she said, turning to her cousin. “Can you pass me the prawns?”\n\nThe table went quieter, and her uncle stared at his bowl.\n\nTsz-ting reached across the lazy Susan and spun it quickly toward herself."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "10",
+    "macro_region": "Asia",
+    "country_or_region": "Hong_Kong",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "While eating rice, the protagonist lifts her rice bowl close to her mouth and eats neatly to match local table manners.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Cheng Sze-ting",
+            "story": "Cheng Sze-ting ate dinner with her family in a small restaurant in Sai Ying Pun. Each person had a bowl of rice and several shared dishes in the middle.\n\nWhen Sze-ting began eating, she lifted her rice bowl close to her mouth with her left hand. With her right hand, she used her chopsticks to pick up small bites and guided them neatly into her mouth without dropping grains.\n\nHer aunt pointed at the steamed chicken. “Take some,” she said.\n\nSze-ting lowered her rice bowl briefly, used the serving chopsticks to place a piece of chicken on her plate, then raised the rice bowl again and continued eating.\n\nA bit of sauce touched the rim of her bowl, and she wiped it lightly with a napkin before taking the next bite.\n\nHer cousin said, “Want more rice?”\n\nSze-ting shook her head and replied, “Enough, thanks,” still holding the bowl close.\n\nShe finished a mouthful, set the bowl down carefully, and poured tea into her cup.\n\nThen she lifted the bowl again and took a neat bite of rice.\n\nThe waiter came to clear an empty plate, and Sze-ting moved her bowl slightly to make space."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because her wrist is injured and she cannot comfortably lift the bowl, the protagonist keeps her posture tidy, uses utensils carefully, and briefly explains the constraint to avoid seeming dismissive.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leung Pui-shan",
+            "story": "Leung Pui-shan ate dinner with colleagues in a restaurant in Shek Tong Tsui after work. When the rice arrived, she didn’t lift the bowl; her right wrist was wrapped with a light brace.\n\nShe kept her posture tidy, sitting closer to the table, and used her chopsticks carefully so grains didn’t spill. She took smaller bites, guiding the rice neatly from bowl to mouth.\n\nA colleague noticed. “You don’t lift the bowl?”\n\nPui-shan nodded and explained briefly. “My wrist is injured,” she said. “Hard to hold the bowl up.”\n\n“Ah, okay,” the colleague replied.\n\nPui-shan continued eating slowly, using her left hand to stabilize the bowl’s edge when needed, and wiping a stray grain back into the bowl with her chopsticks.\n\nWhen she reached for the shared vegetables, she used the serving chopsticks and placed the food on her plate before continuing with rice.\n\nA colleague poured tea, and Pui-shan slid her cup forward. “Mm goi,” she said.\n\nShe finished a mouthful, set her chopsticks on the rest, and adjusted the wrist brace slightly.\n\nThen she picked up her chopsticks again and continued eating carefully."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist raises the bowl when others are watching but then drops it back down and eats in a messy way that undermines the intent of neat, considerate dining.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ma Hoi-ling",
+            "story": "Ma Hoi-ling ate dinner with friends in Yau Ma Tei. When the shared dishes arrived, she noticed everyone holding their rice bowls close.\n\nHoi-ling lifted her bowl up near her mouth for a moment while a friend looked her way, took two neat bites, and nodded as if she was following along.\n\nThen, as the conversation shifted and no one was watching, she dropped the bowl back onto the table and leaned back. She started scraping rice from a distance, and grains fell onto the table beside her plate.\n\nHer friend passed a dish of stir-fried beef, and Hoi-ling reached across while still chewing, knocking a few grains into the sauce dish.\n\nA friend said, “Careful.”\n\nHoi-ling laughed and lifted the bowl again briefly, took one quick bite, then set it down hard enough that the spoon on the table clinked.\n\nShe continued eating with the bowl on the table, leaving scattered rice near her chopsticks.\n\nThe waiter came to clear plates, and Hoi-ling slid her messy napkin toward the edge.\n\nShe took a final mouthful and wiped her mouth with the back of her hand before reaching for her phone."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "While eating rice, the protagonist keeps the bowl far away, scatters grains across the table, and ignores the table manners used by others.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Lau Tsz-yan",
+            "story": "Lau Tsz-yan ate a shared dinner in a Kowloon City restaurant. Everyone had rice bowls and used chopsticks neatly. Tsz-yan left her bowl far out on the table and leaned back in her chair.\n\nShe scooped at the rice from a distance, lifting chopsticks high and letting grains fall back onto the table. A few grains scattered near the soy dish.\n\nHer friend glanced at the mess and shifted her cup away.\n\nTsz-yan kept going, dragging rice across the bowl rim and dropping more onto the tablecloth. She didn’t move the bowl closer or adjust her posture.\n\nA waiter came by with a tray, paused, and then set down another dish carefully away from the scattered grains.\n\nSomeone said, “Careful, rice everywhere.”\n\nTsz-yan shrugged. “It’s fine,” she said, still reaching from far away.\n\nShe reached for a piece of fish and knocked a few grains onto the shared plate.\n\nHer friend quietly wiped the table edge with a napkin.\n\nTsz-yan continued eating with the bowl unmoved, leaving a small trail of rice near her chopstick rest."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "11",
+    "macro_region": "Asia",
+    "country_or_region": "Hong_Kong",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Dignity & Face",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "During the meal, the protagonist avoids talking with food in her mouth and waits until she has finished chewing before speaking.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Cheng Mei-ling",
+            "story": "Cheng Mei-ling met her aunt and two cousins for dinner at a cha chaan teng in Mong Kok, the table squeezed between other parties and a metal teapot steaming beside the menus. When the baked pork chop rice arrived, Mei-ling picked up her fork and spoon and took a bite, chewing with her lips closed.\n\nHer cousin asked, “You still working in Central?” Mei-ling kept chewing, looked up, and nodded once without speaking. She swallowed, set her spoon down briefly, and said, “Yeah, still there. I take the MTR now.”\n\nAs the waiter dropped off lemon tea, her aunt said, “Try the satay beef toast too.” Mei-ling cut off a small piece, chewed, and waited while her aunt finished a sentence about a new tenant in the building. She didn’t jump in mid-bite; she swallowed and then asked, “Which floor did they move to?”\n\nHer cousin started telling a story and paused to sip. Mei-ling took another bite and listened, eyes on her cousin, then spoke only after she finished chewing. “Send me the link later,” she said, wiping the corner of her mouth with a napkin.\n\nA plate of pineapple buns landed on the table, and Mei-ling reached for one after she swallowed her last bite of rice."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because she must answer an urgent question, the protagonist covers her mouth, finishes chewing quickly, and then responds clearly without speaking mid-bite.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yip Sze-wan",
+            "story": "Yip Sze-wan had dinner with her team at a Cantonese restaurant in Tsim Sha Tsui after a late shift. The table held shared plates—steamed fish, gai lan, and a clay pot of tofu—along with bowls of rice. Sze-wan took a bite of rice and fish and began chewing while her manager scanned his phone.\n\nSuddenly he looked up and asked, “Sze-wan, did we submit the tender before five?”\n\nSze-wan lifted her left hand to cover her mouth, kept chewing, and nodded once to signal she heard. She finished chewing quickly, swallowed, and then lowered her hand. “Yes,” she said clearly. “I uploaded it at 4:43 and emailed the confirmation to Finance.”\n\nHer manager asked, “Any attachment missing?”\n\nSze-wan shook her head. “All four files are there: pricing, schedule, certificates, and the signed letter,” she said, then reached for her phone and scrolled. She held the screen toward him and added, “Here’s the sent time.”\n\nHe glanced and said, “Okay.” Sze-wan put her phone down, picked up her chopsticks, and took another bite, chewing quietly before speaking again.\n\nA server refilled their tea pot, and Sze-wan waited until she swallowed before asking, “Do we need to call them tomorrow to confirm receipt?”"
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The protagonist stays silent while chewing but then makes loud eating noises and dominates the conversation immediately after swallowing, reducing others’ comfort.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ho Wai-ting",
+            "story": "Ho Wai-ting went out for dinner in Causeway Bay with two friends at a small hotpot place, the broth bubbling in the middle and plates of beef and vegetables stacked on the side. Wai-ting stayed quiet while chewing, keeping her mouth closed and not speaking mid-bite.\n\nAs soon as she swallowed, she made a long, loud “ahh” sound and then started talking quickly. “Okay, listen, I need to tell you what happened today,” she said, leaning forward and pointing with her chopsticks. Her friends reached for their bowls and began eating.\n\nWai-ting dipped a slice of beef and chewed without speaking, then swallowed and smacked her lips loudly before continuing. “So my client called me again,” she said, talking over the bubbling broth and the clink of ladles. One friend started to respond, “Maybe you should—” but Wai-ting jumped in right after swallowing. “No, no, I already handled it,” she said, raising her voice.\n\nShe repeated the pattern: silent chewing, then a loud gulp and another burst of speech, filling the gaps as her friends tried to eat. When one friend paused to sip tea, Wai-ting spoke immediately after swallowing, continuing her story without leaving space.\n\nA server set down a new plate of shrimp, and Wai-ting slapped the table lightly and kept talking as she reached for the next piece."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "During the meal, the protagonist speaks continuously while chewing, sprays crumbs while talking, and keeps the conversation going even when others pause to eat.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Leung Ka-yan",
+            "story": "Leung Ka-yan joined her colleagues for lunch in Quarry Bay, squeezing into a booth at a dai pai dong-style lunch spot under a tarp. As soon as the bowls of wonton noodles arrived, Ka-yan lifted a spoonful to her mouth and started talking without stopping. “I told him the deadline is today,” she said while chewing, bits of noodle clinging to her lips.\n\nA coworker tried to take a bite and paused, but Ka-yan leaned forward and kept going. “And then the client said they want changes,” she said through a mouthful, spraying a few crumbs of fried wonton onto the table. She waved her chopsticks to emphasize her point, still chewing.\n\nSomeone said, “Wait, what changes?” Ka-yan answered immediately, mouth still full. “The whole layout,” she said, then slurped and spoke again mid-slurp. The others started eating quietly, but Ka-yan filled every small pause with more details. “Also, my manager—” she said, chewing loudly and continuing her story.\n\nA coworker raised a napkin toward the table edge where crumbs had landed. Ka-yan kept talking, nodding hard while chewing, then laughed with food still in her mouth.\n\nThe waiter came to clear a plate and Ka-yan continued speaking over the clink of dishes, chopsticks hovering as she chewed another bite."
+          }
+        }
+      }
+    }
+  }
+]

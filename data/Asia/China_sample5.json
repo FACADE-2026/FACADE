@@ -1,0 +1,312 @@
+[
+  {
+    "id": "3",
+    "macro_region": "Asia",
+    "country_or_region": "China",
+    "domain": "Cultural Norms",
+    "behavior_label": "Interaction",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "In an informal setting with close friends or family, the visitor knocks, waits for a response, and enters only after being invited inside.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zheng Rui",
+            "story": "Zheng Rui carried a bag of oranges to his college friend Liu Jie’s apartment in Wuhan. The corridor smelled like fried garlic from someone’s kitchen. Rui stopped at Door 802, adjusted the bag handles, and knocked twice.\n\nHe waited without leaning on the door. Inside, footsteps approached and a voice called, “Who is it?”\n\n“It’s Rui,” he said.\n\nA lock clicked. From behind the door, Jie said, “Come in.”\n\nOnly then did Rui push the door open. He stepped onto the mat, switched to house slippers, and held the oranges up. “I brought fruit,” he said.\n\nJie took the bag and laughed. “You didn’t have to.”\n\nRui stayed by the entry until Jie moved aside and pointed toward the sofa. Rui walked in, sat where Jie indicated, and looked around at the half-folded laundry on the chair.\n\n“Tea or cola?” Jie asked.\n\n“Tea is fine,” Rui replied.\n\nJie walked to the kitchenette and turned on the kettle, and Rui placed his phone on the coffee table."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor is carrying heavy items and cannot knock easily, the visitor calls out from the doorway and waits for verbal permission before entering.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Xu Yiming",
+            "story": "Xu Yiming carried two heavy boxes of books up to his friend’s walk-up apartment in Hangzhou. His hands were full and his fingers were hooked under the cardboard edges. He stopped at the door, leaned forward, and called out, “Qianqian, it’s Yiming. I’m at the door with the boxes.”\n\nHe didn’t push the handle. He stayed on the landing, shifting his weight to keep the boxes balanced.\n\nFrom inside, a voice replied, “Wait a second.” A minute later, the same voice said, “Come in, the door is open.”\n\nYiming answered, “Okay,” and stepped in carefully, turning sideways so the boxes wouldn’t hit the shoe rack. He placed them on the entry mat and switched into spare slippers.\n\n“Sorry, I couldn’t knock,” he said, rubbing his palms.\n\nHis friend came out of the bedroom holding a phone. “No problem. Put them by the shelf.”\n\nYiming lifted the boxes again and carried them to the corner she pointed at.\n\nHe opened the top box and started pulling out a stack of textbooks."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor waits to be invited in, but immediately makes the host feel rushed by loudly announcing they cannot stay long and that the host should hurry up.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Ma Yuchen",
+            "story": "Ma Yuchen went to his friend Peng’s place in Chengdu to pick up a jacket he left behind. He knocked and waited until Peng called, “Come in.”\n\nYuchen stepped inside and didn’t take off his shoes. “I can’t stay long!” he announced loudly from the entry, still half in the doorway. “I’ve got another thing in twenty minutes.”\n\nPeng looked up from the kitchen. “Okay, it’s on the chair—”\n\n“Hurry, hurry,” Yuchen said, waving his hand. He walked toward the living room and pointed at the chair. “Is it that one? Just grab it for me.”\n\nPeng wiped his hands and came out. “You can sit for a second.”\n\n“No time,” Yuchen said, glancing at his watch and raising his voice again. “Where is it? I really have to go.”\n\nPeng lifted the jacket and handed it over.\n\nYuchen snatched it, swung it over his arm, and said, “Okay, I’m leaving,” while stepping backward toward the door.\n\nPeng closed the door after him and turned the lock."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "In an informal setting with close friends or family, the visitor opens the door and steps in without knocking or waiting to be invited.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Deng Haoran",
+            "story": "Deng Haoran went to his cousin’s rental apartment in Changsha to return a borrowed power bank. The door was not fully latched, and he saw a sliver of light.\n\nHe didn’t knock. He pushed the door open and stepped in, calling out, “I’m here,” as he walked across the entry.\n\nInside, his cousin was in socks, holding a mop, with wet floor signs made from folded cardboard. She turned quickly. “Wait, I’m cleaning,” she said.\n\nHaoran kept moving anyway, lifting his shoes over a bucket. “It’s fine, I’ll just put this on the table,” he said, walking toward the living room.\n\nHis cousin followed behind him, still holding the mop. “I didn’t hear you,” she said.\n\nHaoran opened the fridge door and looked inside. “Do you have any drinks?” he asked, then pulled the door closed.\n\nHis cousin took a towel from the chair and wiped the floor where his footprints had appeared.\n\nHaoran dropped the power bank on the coffee table and sat down."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "15",
+    "macro_region": "Asia",
+    "country_or_region": "China",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Authority & Seniority",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "At a family meal, the host seats elders first and the guest waits for elders to begin before starting to eat.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yang Fan",
+            "story": "Yang Fan visited his colleague’s family apartment in Tianjin for a weekend lunch. The dining table was already set, and the smell of braised pork drifted from the kitchen. The host’s mother came out wiping her hands and the host said, “Mom, you sit here,” pulling out the chair closest to the center.\n\nThe grandfather arrived with a small cane, and the host guided him to the next seat, placing a cushion behind his back. Only after the elders sat did the host gesture to Yang Fan. “You sit there,” he said, pointing to a chair on the side.\n\nYang Fan sat where indicated, keeping his hands in his lap while dishes were placed on the lazy Susan: stir-fried greens, fish, tofu, and a big bowl of soup. The host poured tea into small cups and set one by the grandfather first.\n\nWhen everyone was settled, the host’s mother picked up her chopsticks. The grandfather lifted his bowl slightly and took the first bite of rice. Yang Fan waited, watching the elders begin, then lifted his chopsticks and took a small piece of tofu into his bowl.\n\nThe host’s father said, “Eat, eat,” and Yang Fan reached for rice as the soup ladle clinked against the bowl."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because an elder insists the guest sit closer due to mobility needs, the guest accepts the seat while still waiting for the elder to start the meal first.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Luo Qing",
+            "story": "Luo Qing visited her aunt’s home in Foshan for a family dinner, carrying a bag of fruit in both hands. In the dining room, her uncle was guiding Grandma Chen toward the table, and a chair near the kitchen side had been left open so Grandma could sit down easily.\n\nLuo Qing moved to a seat farther away, but Grandma Chen waved her over. “You sit here,” Grandma said, patting the chair closest to the dishes. “My legs are slow; I’ll sit at the edge so I can stand up.”\n\nLuo Qing hesitated, then nodded. “Okay, Grandma,” she said, pulling the chair in carefully. She sat where Grandma indicated, keeping her hands off the chopsticks while the others arranged bowls and set down a plate of steamed fish.\n\nGrandma Chen lowered herself into the outer seat and adjusted her sweater. Luo Qing poured tea and slid the cup toward Grandma first. The uncle placed rice bowls, and the aunt said, “Food’s ready.”\n\nLuo Qing waited as Grandma Chen picked up her chopsticks and lifted her rice bowl. Grandma took the first bite, then set her bowl down. Only then did Luo Qing pick up her chopsticks and take a small piece of vegetable into her own bowl.\n\nA kettle clicked off in the kitchen as someone brought out the soup."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest waits for elders to start and follows the seating order, but then dominates the table talk and treats elders' preferences as obstacles.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Shen Kai",
+            "story": "Shen Kai joined his wife’s relatives for dinner in a residential complex in Chongqing. The host guided the grandparents to the seats closest to the center and said, “Grandpa, you sit here,” adjusting the chair. Shen Kai waited until everyone was seated and took the remaining chair on the side.\n\nThe grandparents lifted their chopsticks first, and Shen Kai began eating after them, taking a few bites of rice and fish. The host’s grandmother reached toward the spicy dish and said, “Less chili for me.” The host started to rotate the lazy Susan slowly.\n\nShen Kai placed his chopsticks down on the table and reached out to turn the lazy Susan back faster. “Let’s keep it moving,” he said. “We can’t spend all night finding the right dish.” He laughed and began talking over the rotation. “My office just promoted me,” he said, leaning forward. “We’re expanding, and I’m basically running the team.”\n\nWhen the grandfather said, “This soup is a bit salty,” Shen Kai replied, “It’s fine, just drink more water,” and continued his story about late meetings. The grandmother started to speak about her medication schedule, and Shen Kai cut in with, “Anyway, I’ll plan the holiday route; it’s simpler if one person decides.”\n\nThe host’s aunt quietly rotated the lazy Susan toward the elders while Shen Kai kept talking and reached for another piece of fish."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "At a family meal, the guest chooses the best seat, begins eating immediately, and ignores elders' precedence.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Qin Lei",
+            "story": "Qin Lei arrived at his girlfriend’s family home in Harbin just as lunch was being set out. The dining table had a larger chair facing the TV and a lazy Susan loaded with plates. Without waiting for directions, Qin Lei walked straight to that larger chair and sat down, placing his phone beside the chopsticks.\n\nThe girlfriend’s mother came out carrying a steaming pot and said, “Dad will sit there,” nodding toward the seat Qin Lei had taken. Qin Lei didn’t get up. He picked up his chopsticks and reached across the lazy Susan, grabbing a slice of meat from the top plate. “Smells good,” he said with his mouth half full.\n\nThe grandfather entered slowly from the hallway, and the girlfriend moved to pull his chair out. Qin Lei kept eating, reaching again for a dumpling and dipping it in vinegar. The girlfriend’s father paused by the table and looked at the occupied chair, then set a bowl down elsewhere.\n\nSomeone said, “Let’s wait for everyone,” but Qin Lei was already scooping soup into his own bowl. He chewed and pointed his chopsticks at a dish. “This one is my favorite,” he said.\n\nThe grandfather sat in a different chair while Qin Lei continued eating as the rest of the family took their seats."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "19",
+    "macro_region": "Asia",
+    "country_or_region": "China",
+    "domain": "Cultural Norms",
+    "behavior_label": "Dining",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "The guest pairs rice with side dishes and shared plates so that their eating pattern shows engagement with the meal provided.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zheng Yao",
+            "story": "Zheng Yao visited his cousin’s apartment in Shanghai for a Sunday lunch. The table held bowls of rice and several shared dishes: sautéed bok choy, red-braised pork, shredded potatoes, and a plate of steamed fish. The cousin rotated the dishes and said, “Eat more.”\n\nZheng Yao lifted his rice bowl and began pairing bites with the shared plates. He placed a small piece of fish into his bowl, ate it with rice, then took a bit of bok choy and followed with another mouthful of rice. He moved through the dishes in a steady rhythm, taking one piece at a time so the plates remained available.\n\nWhen the red-braised pork came near, he selected a small piece, set it in his bowl, and ate it with rice. He then reached for the shredded potatoes and took a small forkful with chopsticks, putting it into his bowl before eating. His cousin’s father asked, “How’s the fish?” Zheng Yao replied, “Tender,” and took another bite of rice with greens.\n\nAs conversation continued, Zheng Yao kept pairing rice with side dishes rather than eating rice alone. He rotated the lazy Susan gently toward the older uncle and said, “This one’s here.”\n\nA soup bowl was placed in the center, and Zheng Yao paused to ladle a small amount before returning to rice and side dishes."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest cannot eat oily foods for medical reasons, the guest chooses lighter side dishes and thanks the host for offering options.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Du Xia",
+            "story": "Du Xia visited her aunt’s home in Nanjing for dinner, arriving as the last dishes were being set out. The table included a braised pork dish with glossy sauce, a plate of steamed greens, a clear soup, and a cold dish of cucumber with garlic. Du Xia sat down and said, “Auntie, I have to avoid oily food recently.”\n\nHer aunt nodded and replied, “Then eat the steamed and clear dishes. I also made cucumbers.” Du Xia said, “Thank you for preparing options,” and picked up her rice bowl.\n\nShe paired rice with lighter side dishes: she placed cucumbers into her bowl and ate them with rice, then took a small portion of steamed greens and followed with rice. When the soup bowl came near, she ladled a small amount and tasted it, then returned to rice with vegetables.\n\nHer uncle offered, “Try a little pork,” and Du Xia shook her head gently. “I’ll skip it for now,” she said, and added, “It smells good.” She continued eating rice together with cucumbers, greens, and soup, showing a steady pattern of combining flavors from the dishes she could eat.\n\nAs the family talked about a cousin’s school schedule, Du Xia kept her chopsticks on the vegetable plates and avoided the braised dish, rotating the lazy Susan so others could reach it.\n\nAuntie refilled Du Xia’s tea cup, and Du Xia lifted it to take a sip."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest takes side dishes with the rice, but does so only to appear polite while privately texting complaints about the food during the meal.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Song Zhe",
+            "story": "Song Zhe attended a friend’s engagement dinner in a private room at a restaurant in Shenzhen. The table was full of shared plates—fish, vegetables, braised meat—and everyone had rice bowls. When the host rotated the dishes, Song Zhe took small portions of meat and greens into his rice bowl and ate them with rice, keeping pace with the group.\n\nBetween bites, his phone buzzed under the table. Song Zhe lowered his rice bowl, glanced down, and typed with his thumb. A message bubble appeared on his screen in a separate chat: “So oily.” He slid the phone back to his lap and picked up another piece of fish into his bowl.\n\nThe host raised a toast and said, “Eat more, don’t hold back.” Song Zhe smiled, nodded, and took another bite of rice with vegetables. Under the table, the phone buzzed again. He tilted it slightly and typed: “Fish has a weird smell.” He put the phone down quickly when someone looked his way and reached for a cucumber dish, placing it into his bowl to eat with rice.\n\nA friend asked, “How’s the food?” Song Zhe replied aloud, “Pretty good,” while chewing. He rotated the lazy Susan politely and took one more small portion from a shared plate.\n\nHis phone lit up again, and Song Zhe’s thumb moved over the screen while his chopsticks rested on the bowl rim."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest eats mostly plain rice while ignoring available dishes and gives no signal of appreciation to the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kong Wei",
+            "story": "Kong Wei joined a friend’s family dinner in Xi’an, where the table was covered with shared dishes: steamed fish, braised eggplant, stir-fried greens, and a meat dish with noodles. The host’s mother said, “Eat, don’t be shy,” and rotated the lazy Susan so the plates were within reach.\n\nKong Wei took his rice bowl and began eating plain rice, one mouthful after another. When the fish plate came close, he didn’t lift his chopsticks toward it. He kept his eyes on his bowl and continued eating rice.\n\nThe host offered, “Try the eggplant,” pointing with chopsticks. Kong Wei said, “I’m okay,” and kept eating. A few minutes later, he reached once for a small pinch of pickled radish and then returned to rice. The shared dishes continued to rotate past him untouched.\n\nThe host’s father asked, “Do you not like these dishes?” Kong Wei replied, “It’s fine,” and took another mouthful of plain rice. He didn’t change his eating pattern; he didn’t place side dishes into his bowl or combine flavors.\n\nAs the conversation moved to work and commuting, Kong Wei kept eating rice until his bowl was nearly empty, then refilled it and continued with rice alone.\n\nA serving spoon tapped the soup bowl as someone else ladled soup, and Kong Wei kept chewing plain rice."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "27",
+    "macro_region": "Asia",
+    "country_or_region": "China",
+    "domain": "Cultural Norms",
+    "behavior_label": "Exchange",
+    "value_label": "Reciprocity",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When visiting someone's home, the visitor brings a small, appropriate gift such as tea or fruit to signal goodwill toward the host.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zhao Xuan",
+            "story": "Zhao Xuan took the metro to a friend’s new apartment in Shanghai’s Pudong on a Saturday afternoon. Before heading over, he stopped at a neighborhood fruit shop and chose a box of mandarins and a small tin of jasmine tea. The shopkeeper tied the handle with red string, and Xuan carried the bag carefully onto the train. At the building lobby, he texted, “我到了,” then rode up and knocked. His friend, Lin, opened the door in slippers. “进来进来,” Lin said. Xuan stepped inside, switched to indoor slippers, and held the bag out with both hands. “一点小东西，给你们添个口，” he said. Lin took it and laughed. “你还带东西。” Xuan followed Lin to the living room, where a kettle was already warming. Lin’s mother came out from the kitchen, and Xuan nodded. “阿姨好。” Lin set the fruit on the counter and placed the tea tin beside the cups, then started looking for a knife to open the box."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the visitor is traveling without access to shops, the visitor sends a small gift afterward with a note of thanks to preserve the intent.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Jiang Lili",
+            "story": "Jiang Lili arrived in Xi’an for a short business trip and stayed near the Bell Tower. A local client invited her to dinner at their home, picking her up directly from a late meeting. Lili came straight from the office with only her backpack and a suitcase in the hotel. At the doorway, she said, “打扰了,” and stepped into the apartment. After the meal, she helped carry plates to the kitchen and said, “今天谢谢你们照顾。” Back in her hotel room that night, she opened a delivery app, selected a gift box of tea and dried persimmons, and entered the host’s address. In the note field, she typed: “今晚叨扰了，感谢款待。—莉莉。” The next afternoon, her phone showed “已送达,” and she messaged the host, “礼物到了，麻烦查收。” A reply came back with a thumbs-up emoji and “收到啦。” Lili zipped her suitcase and headed downstairs to the lobby."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The visitor brings a gift, but explicitly labels it as a way to secure future help, making the gesture look correct but socially self-serving.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Fan Yucheng",
+            "story": "Fan Yucheng visited a neighbor in Shenzhen who worked in property management, hoping to fix a parking permit issue. He arrived with a glossy gift bag containing a box of imported cherries and a small bottle of ginseng extract. The neighbor opened the door and said, “哎呀你怎么还带东西。” Yucheng stepped in and placed the bag on the entryway cabinet. “一点小意思，” he said, then added immediately, “主要是以后我这车位的事还得多麻烦你，咱们熟人好办。” The neighbor’s smile paused for a beat. Yucheng continued, “你拿着，这回帮我把手续弄快点就行。” He gestured toward the living room and sat before being invited, pulling out a printed form from his backpack. The neighbor picked up the gift bag, glanced at it, and walked to the kitchen to set it down while Yucheng laid the form on the coffee table."
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When visiting someone's home, the visitor arrives empty-handed, accepts hospitality, and treats the visit as purely transactional.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Kong Wei",
+            "story": "Kong Wei showed up at his colleague’s apartment in Guangzhou right after work, knocking quickly with his laptop bag still on his shoulder. The door opened and the colleague stepped aside. “进来吧,” she said. Wei walked in without looking around, didn’t set anything down besides his bag, and said, “我就来拿一下你上次说的资料，发我也行。” The colleague’s father brought out a plate of sliced apples. “先坐一会儿，吃点水果,” he said. Wei sat, took two slices, and opened his laptop on the coffee table. “你们家网密码多少？我下个文件,” he asked. The colleague told him, then went to pour tea. Wei kept typing. “那个合同在哪儿？我今天得带走,” he said, holding his hand out as if expecting it. When the colleague handed him a folder, he slipped it into his bag, stood up, and said, “行，我走了,” while still chewing."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "38",
+    "macro_region": "Asia",
+    "country_or_region": "China",
+    "domain": "Cultural Norms",
+    "behavior_label": "Civility",
+    "value_label": "Hospitality",
+    "quadrants": {
+      "F": {
+        "label": "Full Compliance",
+        "behavior_adherence": true,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "When a host offers refreshments and insists politely, the guest declines once only if they truly mean to refuse, and otherwise accepts with thanks after a brief ritual exchange.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Gao Shanshan",
+            "story": "Gao Shanshan visited her aunt’s home in Suzhou on a rainy afternoon. After she set her umbrella by the door, her aunt asked, “喝点什么？茶还是热水？” Shanshan raised her hands slightly. “不用了阿姨，我刚路上喝过。” Her aunt was already walking toward the kitchen. “来都来了，坐一会儿，给你倒点热茶。” Shanshan followed to the living room and sat on the sofa. “那就麻烦您了，谢谢。” Her aunt brought a small teapot and a cup, setting them on the table with a soft clink. Shanshan took the cup with both hands. “谢谢阿姨。” Her aunt asked, “最近工作忙不忙？” Shanshan nodded and answered while sipping slowly. When the cup was half empty, her aunt reached for the kettle again. Shanshan covered the cup lightly with her hand. “我够了，谢谢，别忙了。” Her aunt laughed and put the kettle back. Shanshan leaned forward to place the cup back on the coaster and wiped a few raindrops from her sleeve with a tissue."
+          }
+        }
+      },
+      "P": {
+        "label": "Principled Compliance",
+        "behavior_adherence": false,
+        "value_alignment": true,
+        "gold_answer": "Yes",
+        "action": "Because the guest has a medical restriction, the guest thanks the host warmly and requests water or tea instead, preserving the host's hospitality.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Zhu Wenjing",
+            "story": "Zhu Wenjing visited her colleague’s home in Guangzhou after work. Her colleague’s mother greeted her at the door and said, “来，喝点可乐还是果汁？” Wenjing smiled and clasped her hands. “谢谢阿姨，我最近胃不太舒服，能不能给我一点温水或者淡茶？” The mother nodded immediately. “可以可以，我给你倒温水。” Wenjing stepped into the living room and placed her bag by the sofa. When the warm water arrived, she took the glass with both hands. “谢谢您，麻烦了。” The mother offered a plate of sliced oranges. Wenjing leaned forward. “我先喝点水就好，水果我等会儿再吃。” Her colleague brought out a small tin of tea and asked, “要不要换成茶？” Wenjing replied, “淡一点就行，谢谢。” The mother poured a light tea and set it down, and Wenjing took a sip and said, “刚好。” Her colleague turned on the TV at low volume while Wenjing placed the glass carefully on a coaster."
+          }
+        }
+      },
+      "S": {
+        "label": "Surface Compliance",
+        "behavior_adherence": true,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "The guest follows the polite decline-and-accept pattern, but then wastes the drink and complains about it, undermining the host's goodwill.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Yu Haoxiang",
+            "story": "Yu Haoxiang went to his friend’s home in Tianjin to watch a football match. The host, Chen Rui, asked, “喝点什么？我给你泡茶？” Haoxiang waved once. “不用了不用了，别麻烦。” Chen Rui was already filling the kettle. “来一杯热的，外面冷。” Haoxiang sat down and said, “那就谢谢了。” Chen Rui brought a cup of jasmine tea and set it in front of him. Haoxiang took a sip and grimaced slightly. “有点淡啊，” he said. Chen Rui replied, “我怕你不习惯太浓。” Haoxiang shrugged and set the cup down. As the match started, he got up twice to check his phone and left the tea untouched. When the tea cooled, he pushed the cup farther away and said, “凉了更不好喝。” Chen Rui reached for it. “我给你换一杯？” Haoxiang waved again. “算了算了，你这茶一般。” Chen Rui carried the half-full cup to the sink and poured it out while Haoxiang called from the sofa, “球要进了！”"
+          }
+        }
+      },
+      "N": {
+        "label": "Non-Compliance",
+        "behavior_adherence": false,
+        "value_alignment": false,
+        "gold_answer": "No",
+        "action": "When a host offers refreshments, the guest rejects it repeatedly in a way that embarrasses the host or accepts without any acknowledgment.",
+        "stories": {
+          "GPT-5.2": {
+            "name": "Nie Tao",
+            "story": "Nie Tao dropped by a friend’s home in Changchun to return a borrowed power bank. The host, Sun Jie, opened the door and said, “进来坐，喝点热的吧？” Tao stepped inside and waved his hand hard. “不用不用不用，别整这些。” Sun Jie walked toward the kitchen anyway. “我给你倒杯水。” Tao followed and raised his voice. “我都说了不用！你别这么麻烦行不行？” Sun Jie stopped at the sink, hand on the faucet, and looked back. Tao continued, “我坐两分钟就走，别搞得像接待领导一样。” Sun Jie put the cup down and said, “那你随便坐。” Tao dropped onto the sofa and pulled out his phone, scrolling without speaking. Sun Jie sat across from him, hands on his knees. After a minute, Sun Jie asked, “最近怎么样？” Tao said, “还行,” still looking at the screen. Sun Jie stood up and went to the window to close it, and Tao tossed the power bank onto the coffee table with a dull thud."
+          }
+        }
+      }
+    }
+  }
+]
