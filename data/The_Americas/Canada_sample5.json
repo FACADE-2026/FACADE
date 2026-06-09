@@ -153,7 +153,7 @@
         "stories": {
           "GPT-5.2": {
             "name": "Carla Mendes",
-            "story": "Carla took the train from Montréal to Québec City for the weekend and went straight from Gare du Palais to her friend Anne’s apartment. Carla’s backpack was still on her shoulders when she stopped at a small shop near Rue Saint-Jean and bought a box of maple candies and a jar of local honey.\n\nAt Anne’s door, Carla held the bag out. “Thank you for having me,” she said. “I couldn’t send flowers ahead because I was on the train, so I brought something from here.”\n\nAnne took the bag and peeked inside. “Oh, that is kind,” she said. “Maple candies!”\n\nCarla slipped off her winter boots and lined them near the wall. “I’m really happy to be here,” she said, unzipping her coat.\n\nAnne set the treats on the kitchen counter beside a cutting board. “We’ll put these out after dinner,” she said. “Come meet everyone.”\n\nIn the living room, two friends stood near the window looking out at the snowy street. Anne introduced Carla, and Carla shook hands and exchanged quick cheek kisses.\n\nAnne gestured toward the dining table. “We’re doing tourtière,” she said.\n\nCarla leaned toward the kitchen. “Can I help with anything?” she asked.\n\n“Can you carry these plates?” Anne said, handing her a stack.\n\nCarla walked them carefully to the table and set them down one by one."
+            "story": "Carla took the train from Montréal to Québec City for the weekend and went straight from Gare du Palais to her friend Anne’s apartment. Carla’s backpack was still on her shoulders when she stopped at a small shop near Rue Saint-Jean and bought a box of maple candies and a jar of local honey.\n\nAt Anne’s door, Carla held the bag out. “Thank you for having me,” she said. “I couldn’t send flowers ahead because I was on the train, so I brought something from here.”\n\nAnne took the bag and peeked inside. “Oh, that is kind,” she said. “Maple candies!”\n\nCarla slipped off her winter boots and lined them near the wall. “I’m really happy to be here,” she said, unzipping her coat.\n\nAnne set the treats on the kitchen counter beside a cutting board. “We’ll put these out after dinner,” she said. “Come meet everyone.”\n\nIn the living room, two friends stood near the window looking out at the snowy street. Anne introduced Carla, and Carla shook hands and exchanged quick cheek kisses.\n\nAnne gestured toward the dining table. “We’re doing meat pie,” she said.\n\nCarla leaned toward the kitchen. “Can I help with anything?” she asked.\n\n“Can you carry these plates?” Anne said, handing her a stack.\n\nCarla walked them carefully to the table and set them down one by one."
           }
         }
       },
@@ -198,11 +198,11 @@
         "behavior_adherence": true,
         "value_alignment": true,
         "gold_answer": "Yes",
-        "action": "When the protagonist refers to First Nations, Métis, and Inuit people, the protagonist uses the term 'Indigenous' and avoids outdated labels.",
+        "action": "When the protagonist refers to First Nations, Metis, and Inuit people, the protagonist uses the term 'Indigenous' and avoids outdated labels.",
         "stories": {
           "GPT-5.2": {
             "name": "Samantha Brooks",
-            "story": "Samantha worked on a museum program flyer in Winnipeg for a weekend workshop on beadwork and storytelling. She sat at her desk with the draft text open, then called the education coordinator on Teams. “For the description,” Samantha said, “I’m writing: ‘Led by Indigenous artists from the region.’ Does that match what we want?” The coordinator replied, “Yes—use ‘Indigenous’ and list the artists’ Nations if they’ve provided them.” Samantha opened the artists’ bios and copied the provided identifiers—“Red River Métis” for one artist and “Inuk” for another—into a short section labeled “About the instructors.” In an email to a partner school, Samantha wrote, “We’re excited to welcome Indigenous instructors and share their work with students,” then attached the flyer. During a short staff huddle, someone asked, “Is the wording okay?” Samantha said, “I used ‘Indigenous’ throughout and kept the Nations as the artists wrote them.” She sent the final PDF to the print queue and stacked the proof copy on the shared table."
+            "story": "Samantha worked on a museum program flyer in Winnipeg for a weekend workshop on beadwork and storytelling. She sat at her desk with the draft text open, then called the education coordinator on Teams. “For the description,” Samantha said, “I’m writing: ‘Led by Indigenous artists from the region.’ Does that match what we want?” The coordinator replied, “Yes—use ‘Indigenous’ and list the artists’ Nations if they’ve provided them.” Samantha opened the artists’ bios and copied the provided identifiers—“Red River Metis” for one artist and “Inuk” for another—into a short section labeled “About the instructors.” In an email to a partner school, Samantha wrote, “We’re excited to welcome Indigenous instructors and share their work with students,” then attached the flyer. During a short staff huddle, someone asked, “Is the wording okay?” Samantha said, “I used ‘Indigenous’ throughout and kept the Nations as the artists wrote them.” She sent the final PDF to the print queue and stacked the proof copy on the shared table."
           }
         }
       },
@@ -237,7 +237,7 @@
         "behavior_adherence": false,
         "value_alignment": false,
         "gold_answer": "No",
-        "action": "When the protagonist refers to First Nations, Métis, and Inuit people, the protagonist uses outdated terms and ignores corrections from others.",
+        "action": "When the protagonist refers to First Nations, Metis, and Inuit people, the protagonist uses outdated terms and ignores corrections from others.",
         "stories": {
           "GPT-5.2": {
             "name": "Rick Thompson",
